@@ -1,0 +1,10 @@
+<view class="source">
+  <button class="link" bindtap="toggle" aria-expanded="{{open}}">{{open ? '收起来源 −' : '查看资料来源 ＋'}}</button>
+  <view wx:if="{{open}}" class="source-body">
+    <view wx:for="{{sources}}" wx:key="locator" class="entry">
+      <view class="source-title">{{item.title}}</view><view>{{item.edition}}</view><view>定位：{{item.locator}}</view>
+      <text selectable class="url">{{item.url}}</text><view>{{item.rightsNote}}</view>
+    </view>
+    <view>原文保留电子底本字形，标点按阅读分句整理。白话由本项目辅助整理，仅供文本学习；影印本逐字复核与人工释义复审待完成。</view>
+  </view>
+</view>

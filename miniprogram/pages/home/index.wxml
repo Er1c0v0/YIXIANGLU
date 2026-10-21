@@ -1,0 +1,8 @@
+<view class="page home">
+  <view class="eyebrow">易象录 · 学习原型</view>
+  <view class="hero"><view class="hero-copy"><view class="hero-title"><view>从一卦，</view><view>读懂变化。</view></view><view class="muted"><view>观其象，读其辞。</view><view>让六爻的变化清楚可见。</view></view></view><view class="hero-figure"><hexagram-shape lines="{{heroLines}}" /><text>离 · 明两作</text></view></view>
+  <view class="guide"><text class="guide-number">01 生成</text><text>—</text><text class="guide-number">02 阅读</text><text>—</text><text class="guide-number">03 观变</text></view>
+  <button class="entry" data-page="compose" bindtap="begin" disabled="{{busy}}"><view class="entry-top"><text class="entry-index">一 /</text><text class="arrow">↗</text></view><view class="entry-title">手动组合</view><view class="entry-copy">选择上下卦，亲手组合六爻卦象</view></button>
+  <button class="entry alternate" data-page="numbers" bindtap="begin" disabled="{{busy}}"><view class="entry-top"><text class="entry-index">二 /</text><text class="arrow">↗</text></view><view class="entry-title">数字起卦</view><view class="entry-copy">三个正整数，观察各自取余的结果</view></button>
+  <view class="footer"><view>先读本卦，再观察爻变与变卦。</view><view>当前收录乾、坤、离、夬、兑五卦样例。</view></view>
+</view>

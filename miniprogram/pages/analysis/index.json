@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "变卦分析",
+  "usingComponents": {
+    "hexagram-shape": "/components/hexagram-shape/index",
+    "reading": "/components/reading/index",
+    "source-panel": "/components/source-panel/index"
+  }
+}

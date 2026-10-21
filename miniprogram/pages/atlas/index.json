@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "六十四卦",
+  "usingComponents": {
+    "hexagram-shape": "/components/hexagram-shape/index"
+  }
+}

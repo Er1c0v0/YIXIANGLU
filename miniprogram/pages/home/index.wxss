@@ -1,0 +1,11 @@
+.home { padding-top: 48rpx; } .hero { display: flex; align-items: center; justify-content: space-between; padding: 32rpx 0 42rpx; }
+.hero-title { font-size: 58rpx; font-weight: 600; line-height: 1.45; letter-spacing: 2rpx; margin-bottom: 24rpx; }
+.hero-figure { width: 210rpx; height: 270rpx; border: 1rpx solid #C3AE8C; border-radius: 110rpx 110rpx 12rpx 12rpx; display: flex; flex-direction: column; justify-content: center; background: #EFE8DB; }
+.hero-figure text { text-align: center; color: #765535; font-size: 24rpx; margin-bottom: 18rpx; }
+.guide { border-top: 1rpx solid #DDD6C9; border-bottom: 1rpx solid #DDD6C9; display: flex; justify-content: space-between; padding: 20rpx 0; color: #765535; font-size: 25rpx; margin-bottom: 30rpx; }
+.entry { background: #FFFDFA; border: 1rpx solid #DDD6C9; border-radius: 20rpx; padding: 26rpx 30rpx; text-align: left; line-height: 1.5; margin: 20rpx 0; }
+.entry-top { display: flex; justify-content: space-between; color: #765535; font-size: 26rpx; }.arrow { font-size: 38rpx; }
+.entry-title { font-size: 38rpx; font-weight: 600; margin: 4rpx 0 10rpx; }.entry-copy { font-size: 27rpx; color: #625D55; font-weight: 400; }
+.alternate { background: #EFE9DE; }.footer { font-size: 25rpx; color: #625D55; text-align: center; padding-top: 24rpx; }
+
+.hero-copy { flex: 1; min-width: 0; }.hero-figure { flex-shrink: 0; }.hero-title { font-size: 52rpx; }.hero-copy .muted { font-size: 27rpx; }

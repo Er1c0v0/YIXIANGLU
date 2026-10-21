@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "选择变爻",
+  "usingComponents": {
+    "hexagram-shape": "/components/hexagram-shape/index"
+  }
+}

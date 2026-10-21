@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "styleIsolation": "apply-shared",
+  "usingComponents": {
+    "hexagram-shape": "/components/hexagram-shape/index",
+    "source-panel": "/components/source-panel/index"
+  }
+}

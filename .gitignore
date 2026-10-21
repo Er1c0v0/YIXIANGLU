@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+project.private.config.json
+*.log
+.validation/
+.cache/
+miniprogram/**/*.js
+miniprogram/**/*.js.map

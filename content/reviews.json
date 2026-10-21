@@ -1,0 +1,2407 @@
+[
+  {
+    "id": "review-h1-statement",
+    "subjectId": "h1-statement",
+    "subjectHash": "c95ba72adb6c9f5db799440e68f4e1121e3925706362337c77d022f29636b514",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 卦辞"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 卦辞"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-tuan",
+    "subjectId": "h1-tuan",
+    "subjectHash": "e525200717c395e70926158c74b133fb966b16de9f6f38e15d4b1e37b2475b8c",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-great-image",
+    "subjectId": "h1-great-image",
+    "subjectHash": "66ff00e1e1fd299dde62aca258bd25b91e92c1f1cd0fee9f867841e9b2255ab1",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 整卦大象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 整卦大象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yao-1",
+    "subjectId": "h1-yao-1",
+    "subjectHash": "76bc2c41cf8c9400197bcb5f2f81b08856599cddab489ccceca3c9ddb026f2cd",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 初九"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 初九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-image-1",
+    "subjectId": "h1-image-1",
+    "subjectHash": "0fd2c32269cf7be77d190c5ea971e2cfaf4ac6bb485983e4333c5b808e94059d",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 初九小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 初九小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yao-2",
+    "subjectId": "h1-yao-2",
+    "subjectHash": "060b7c1bb6c6fc948bb846d9b37fffef4d5f879bba302714f7c30e2060d6a899",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九二"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九二"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-image-2",
+    "subjectId": "h1-image-2",
+    "subjectHash": "4b202a6d573c817a17a40da467d5b021883e7601468c1fc89617cb474ba74ff4",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九二小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九二小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yao-3",
+    "subjectId": "h1-yao-3",
+    "subjectHash": "b03ec6a9c2fe2f49253c417311ce9efe3ce5fda5b823a652770af8e11f717e18",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九三"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九三"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-image-3",
+    "subjectId": "h1-image-3",
+    "subjectHash": "85e099858b9f30b7050d9fd6d7723a637934a9b2185f17ed27e1a4cffbdb16a1",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九三小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九三小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yao-4",
+    "subjectId": "h1-yao-4",
+    "subjectHash": "db5b1467da437113af5f7401d70484b309af20520dfd66b0c2165ab5b842e8c7",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九四"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九四"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-image-4",
+    "subjectId": "h1-image-4",
+    "subjectHash": "ba04b7da7246d4c66d3695754b6bf867c54fd7f71a2a1aab876d05397d84cdd5",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九四小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九四小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yao-5",
+    "subjectId": "h1-yao-5",
+    "subjectHash": "646d81d785d2d78141ac44eff32c8c0faeaab6f364d2d68f40bbe7fdb76f1df0",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九五"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 九五"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-image-5",
+    "subjectId": "h1-image-5",
+    "subjectHash": "82766f589d1f34b7717aa78e3039cbf02b8fa184e9a4abf365ab74065ae48213",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九五小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九五小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yao-6",
+    "subjectId": "h1-yao-6",
+    "subjectHash": "84b376f20f3834580f2a1f96e7229b28e53270d7949d72544e59f027c0b3a419",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 上九"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 上九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-image-6",
+    "subjectId": "h1-image-6",
+    "subjectHash": "6b962b7a1f8dca01edd0325ce82e4272dc143a4d25246d58903fd3cab9b80d3f",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 上九小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 上九小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yong-jiu",
+    "subjectId": "h1-yong-jiu",
+    "subjectHash": "83684b72cbb37d0934bcce388e5328fa28ea06893498932f171601065b755bf0",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 用九"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 用九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-yong-jiu-image",
+    "subjectId": "h1-yong-jiu-image",
+    "subjectHash": "54a4dee48dc711816f329f2f011d37749af55ca0deadb93421e289f606bfccfe",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 用九相关象传"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 用九相关象传"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-overview",
+    "subjectId": "h1-overview",
+    "subjectHash": "b3a7448bf4b34bd44febf170a2479291f162de7f720b5c52b4e9247294ffb403",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-position-1",
+    "subjectId": "h1-position-1",
+    "subjectHash": "57141dd7aa0a7fabbd59342ff1ff22719059c9d41424094404b824bd268e97da",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-position-2",
+    "subjectId": "h1-position-2",
+    "subjectHash": "c0130b6bbad465e190d62ed64501f1e7a93699493398781bd7e302262f29abf0",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-position-3",
+    "subjectId": "h1-position-3",
+    "subjectHash": "d83a62268ee4ca03c9d80aa1f97237599f391a142aec98fab8d7b7ed94b98d93",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-position-4",
+    "subjectId": "h1-position-4",
+    "subjectHash": "3cd37e4507105a169747cf0247aea0f6cf0fbf7bf40b71c2599dd637420a0c98",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-position-5",
+    "subjectId": "h1-position-5",
+    "subjectHash": "9f0f953f3a1f172f9545c1a0a1894527ba2b442bcb9345e52b69e34f54a5ab57",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-position-6",
+    "subjectId": "h1-position-6",
+    "subjectHash": "2f8a8d0bd46ba92c0fa5758be0fd0e25bbaba4c04519ab5c76bd737088b46d2f",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h1-special-note",
+    "subjectId": "h1-special-note",
+    "subjectHash": "858c9bcdf2f791838648dd0da5cc4e5d0609d8be05ea30ecfa7132ebeaf400fc",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 用九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-statement",
+    "subjectId": "h2-statement",
+    "subjectHash": "725b0c1e3510d03850e5ccd473a0a02de14350902da9b812bd022509a9af98d0",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 卦辞"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 卦辞"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-tuan",
+    "subjectId": "h2-tuan",
+    "subjectHash": "c52fdaee83c4eb474aaf5ebb951c0bd2d847cfc37d7f9cd4cdf8e49d1a1960ec",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰 / 全段"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-great-image",
+    "subjectId": "h2-great-image",
+    "subjectHash": "91ba85ea5a562e2c2c2861d4004924c47412765288bc2f7bd506151b296a4a9f",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 整卦大象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 整卦大象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yao-1",
+    "subjectId": "h2-yao-1",
+    "subjectHash": "009a1888554c8dc4e238a8b82bac23096b6e807e88900e13970677dcec898a6e",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 初六"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 初六"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-image-1",
+    "subjectId": "h2-image-1",
+    "subjectHash": "2f82dccbd813c42dd768b64963b35aa41e389271e2653ad90381b1204c6f9ef5",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 初六小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 初六小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yao-2",
+    "subjectId": "h2-yao-2",
+    "subjectHash": "777e6779dc1efa8029228ee08baa868ab7896ae121f8822645ed41da00968abc",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六二"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六二"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-image-2",
+    "subjectId": "h2-image-2",
+    "subjectHash": "820a6eceb20cbc90fd1991fe894f6a369b368ac97e68f3b12c4f9b62f5bd1d4e",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六二小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六二小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yao-3",
+    "subjectId": "h2-yao-3",
+    "subjectHash": "5109e5170cf579ea1cea1c7d700fc0cebede3c0424f7cdb9b19eb0386c6a5d3c",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六三"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六三"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-image-3",
+    "subjectId": "h2-image-3",
+    "subjectHash": "1a687899b1e5bf8b54a2815798dbc32d80bf3c19e6d473ffb561ad61904b2125",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六三小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六三小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yao-4",
+    "subjectId": "h2-yao-4",
+    "subjectHash": "24dc3bda213024965a906b695a290eb2725a04b57695d1c40d2df02273d904b9",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六四"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六四"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-image-4",
+    "subjectId": "h2-image-4",
+    "subjectHash": "6a4e76cbc866abe5c238b1d0aac7762d994ae6460206fdbbe2cd5f00d5636fc3",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六四小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六四小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yao-5",
+    "subjectId": "h2-yao-5",
+    "subjectHash": "1e68ac0fdc3622e91221bb868419a1021bb791a70a2788a8fd65e5c341c5fdf4",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六五"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 六五"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-image-5",
+    "subjectId": "h2-image-5",
+    "subjectHash": "fade8f630c33019d23caa65989293e51403371a658d3dca6b7337c456b2dcb83",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六五小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六五小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yao-6",
+    "subjectId": "h2-yao-6",
+    "subjectHash": "ca745d328b35d0b78017a6060798b8ffce81cad14be297b23f54dfa99a8f6192",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 上六"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 上六"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-image-6",
+    "subjectId": "h2-image-6",
+    "subjectHash": "b92f87c2412d901e9fd7133d001203753c232194169c655ee893d813a7964a79",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 上六小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 上六小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yong-liu",
+    "subjectId": "h2-yong-liu",
+    "subjectHash": "370eb9c20172c83231b54fd49450d9f6b47f42f6375c84b7ec66e67974462aae",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 用六"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 用六"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-yong-liu-image",
+    "subjectId": "h2-yong-liu-image",
+    "subjectHash": "3a5968fd1705c421254a06e6b5b23351714500b6bd7e26b575fcb5ba092b4637",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 用六相关象传"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 用六相关象传"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-overview",
+    "subjectId": "h2-overview",
+    "subjectHash": "67abba56da74ebe763a0bde298f19444ac7abee87c0b4965e75c933265a66663",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-position-1",
+    "subjectId": "h2-position-1",
+    "subjectHash": "6f994d2e0b5406cc8706831f23bb60c19bdf4cd3c0741a9f7ff418f8205e8993",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-position-2",
+    "subjectId": "h2-position-2",
+    "subjectHash": "638264aad60a13e16e90046285a104e432a77d6a813a89d326c08bf5d1eb1de9",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-position-3",
+    "subjectId": "h2-position-3",
+    "subjectHash": "388c53d3070946afb8d4b02f3694f42d8d0da0dab972ad42cd99a15bc99bd71b",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-position-4",
+    "subjectId": "h2-position-4",
+    "subjectHash": "e7d2d8c142323420507672cabb11e595a93d5fba078f2d3695fef25542eaaa9c",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-position-5",
+    "subjectId": "h2-position-5",
+    "subjectHash": "802b8492f8c8a2ec7d41cf74473c5935674e4e18a2c8090605e733b52a671315",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-position-6",
+    "subjectId": "h2-position-6",
+    "subjectHash": "e3fe896c7555f3e38e3c6cef2f289a8eaed9ae9f75b515b566d0f5f87dbb3b96",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h2-special-note",
+    "subjectId": "h2-special-note",
+    "subjectHash": "e7467874bde79894aa910e682ba53db3fe690a111e86848779a04a1cb1c71df7",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易經 / 用六"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-statement",
+    "subjectId": "h30-statement",
+    "subjectHash": "c17dbe04c444403d403b4791946e097a4cc7f61d46b0fdca0b1c29bf6852107f",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 卦辞"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 卦辞"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-tuan",
+    "subjectId": "h30-tuan",
+    "subjectHash": "b2ce7a5627ba5ccefc59f3e83bcb4b131066277477a80d2cca305ab768c3d20f",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰 / 全段"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-great-image",
+    "subjectId": "h30-great-image",
+    "subjectHash": "22aaeca68a2e0ec757818f06f53846fa15ef97d6161ca2fc0971322482dd6e44",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 整卦大象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 整卦大象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-yao-1",
+    "subjectId": "h30-yao-1",
+    "subjectHash": "f62c8cbb2a38b297599e744ea017d3fb35df62db2e09eeeabb6bc249491d7128",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 初九"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 初九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-image-1",
+    "subjectId": "h30-image-1",
+    "subjectHash": "8512036dea6204f2709a7ea99a52244746ea06d4d4f11c0d5f6402ad963db354",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 初九小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 初九小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-yao-2",
+    "subjectId": "h30-yao-2",
+    "subjectHash": "b985a7acd8bca1a6d57ec0d60995655eb32c7e045aecb2e2bbaa76b6ad770801",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 六二"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 六二"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-image-2",
+    "subjectId": "h30-image-2",
+    "subjectHash": "6e1ce3ffc3d05e9a39d991d80ae7367dc1c2e1f371645b3a0acb1b59acb70721",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 六二小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 六二小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-yao-3",
+    "subjectId": "h30-yao-3",
+    "subjectHash": "f71c82f73c95bb0ad3df3a375fdc57d5dbed6050b60835ea3e61b48980e2b052",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 九三"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 九三"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-image-3",
+    "subjectId": "h30-image-3",
+    "subjectHash": "26600bbeefa967ab3777ea1cfed5c20918d7b4942cb03ad3e6ab73efa77a874d",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 九三小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 九三小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-yao-4",
+    "subjectId": "h30-yao-4",
+    "subjectHash": "caf24bf77a70b3e702fed2a40a60bf2769d56d31adcdd900625b32bf397b82ad",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 九四"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 九四"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-image-4",
+    "subjectId": "h30-image-4",
+    "subjectHash": "a702814fbe33d11478d95a5fca8168353ca3f840861761b7882f3e2e13af6606",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 九四小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 九四小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-yao-5",
+    "subjectId": "h30-yao-5",
+    "subjectHash": "ca2f1c0df3891279325c34a35bd70f38b0a701a06abaab06f7e0c4f0adbcc136",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 六五"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 六五"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-image-5",
+    "subjectId": "h30-image-5",
+    "subjectHash": "af8e9b2464a7dcf42d6595b7da31b2749ee6be48842187b7370dae8cd4478302",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 六五小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 六五小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-yao-6",
+    "subjectId": "h30-yao-6",
+    "subjectHash": "7ed828c830d805ef9e28944a456ab97750bfb787ed84406b02e7833ad37d86a2",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 上九"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 上九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-image-6",
+    "subjectId": "h30-image-6",
+    "subjectHash": "d604789b3014dcd6fe0da129d78627923d023759365180394d1f9be86fa6fb2a",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 上九小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 上九小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-overview",
+    "subjectId": "h30-overview",
+    "subjectHash": "d026903c5ae4d640131be684976e3537721ac65a11cf320fca844a015d14f973",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-position-1",
+    "subjectId": "h30-position-1",
+    "subjectHash": "13a435da3fd42712ae3dfd6f305c0512ad71f169c369e63508d522c83066a087",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-position-2",
+    "subjectId": "h30-position-2",
+    "subjectHash": "0c05fbe9651dea9c78e6abcc20ec26cbd2170f606636d3706bdac1efc0994c64",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-position-3",
+    "subjectId": "h30-position-3",
+    "subjectHash": "c85e8fee5d4a808b9c022be01a897c0f689176628af2fcefb658c9bfbfaf4f1d",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-position-4",
+    "subjectId": "h30-position-4",
+    "subjectHash": "7d1e7c6e7d3ca5d0561e31c871c58bd1327177a648f7fed95a91fe5b8d5ed8a0",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-position-5",
+    "subjectId": "h30-position-5",
+    "subjectHash": "dc891a0d7f755de11ce131a8414e67accb982c7291cd39282f80075aa2fcea76",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h30-position-6",
+    "subjectId": "h30-position-6",
+    "subjectHash": "afcb05c36f8837dc0b83b491dec3587d062561ceb66f3dfa1d3817a175713bc5",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-statement",
+    "subjectId": "h43-statement",
+    "subjectHash": "712e62f90b7d560247b296ee638cc99b1e2c019682045192a658aa846ad6b337",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 卦辞"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 卦辞"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-tuan",
+    "subjectId": "h43-tuan",
+    "subjectHash": "57048bab07a37d31923ac2dcc4b6bcb3d816419564bcbe4a7c9fc371cfac9169",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰 / 全段"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-great-image",
+    "subjectId": "h43-great-image",
+    "subjectHash": "5d172e66be74e5a0851eb36f8467bce0cde3491e306aa1614e93adb591e626a9",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 整卦大象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 整卦大象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-yao-1",
+    "subjectId": "h43-yao-1",
+    "subjectHash": "b93716e51e8f24815d9145e4303fffe06d0c160333d3ee4d273a262881e5ef56",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 初九"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 初九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-image-1",
+    "subjectId": "h43-image-1",
+    "subjectHash": "5c3f09d12bc7158421c4d07e679e1816a3f11b9b4f50b0bdc0fde4537b82c084",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 初九小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 初九小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-yao-2",
+    "subjectId": "h43-yao-2",
+    "subjectHash": "ad6340d69ef3adaad2de0e1e6c54a4ea062d60f83d61fe98b9b94718a92c4c0c",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九二"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九二"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-image-2",
+    "subjectId": "h43-image-2",
+    "subjectHash": "e426017786a6e081e54d3c949f73b234312413172807cea02a490be11dee0fcc",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九二小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九二小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-yao-3",
+    "subjectId": "h43-yao-3",
+    "subjectHash": "4a34e0558492266a8006978dcf36c4e6df4016a05a5678ff9fb2ce17dacce3d6",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九三"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九三"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-image-3",
+    "subjectId": "h43-image-3",
+    "subjectHash": "ad4396e4f530370d798c474b2b29483929a3c30015f0f188b21df6b912d032fc",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九三小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九三小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-yao-4",
+    "subjectId": "h43-yao-4",
+    "subjectHash": "6fddeb370ef940712dc0f0103c7266c68da2dc0e3d4186432d8f31e71ed9b14c",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九四"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九四"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-image-4",
+    "subjectId": "h43-image-4",
+    "subjectHash": "bf97715676c2fcaea6d688f207d7604eaff58440217047b37ee9235154872ac9",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九四小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九四小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-yao-5",
+    "subjectId": "h43-yao-5",
+    "subjectHash": "006ac817dc3e62dc3b3ff0e85f2268056a26c81dcb4daef2b3f7759d82e3b758",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九五"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 九五"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成",
+      "莧陸植物取象有分歧，需专门复核"
+    ]
+  },
+  {
+    "id": "review-h43-image-5",
+    "subjectId": "h43-image-5",
+    "subjectHash": "ba42c0f00f20b688eddbdc2bd78c13e25529d97c0ee43cc4397fbb5cdc3b2fe0",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九五小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 九五小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-yao-6",
+    "subjectId": "h43-yao-6",
+    "subjectHash": "8c5644486cd555d1d4504cdabcee717509072f16036fa274c70f3833a60fab30",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 上六"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 上六"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-image-6",
+    "subjectId": "h43-image-6",
+    "subjectHash": "edde338cf66e66739ac4e6af32929e6315a4a358a0ceafc6abda9e2335ecf247",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 上六小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 上六小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-overview",
+    "subjectId": "h43-overview",
+    "subjectHash": "2f9139f0cb04422fa3fde502ff19255a6fb1bb57e4d92b075e49ddc926e5159e",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-position-1",
+    "subjectId": "h43-position-1",
+    "subjectHash": "775aa3519d38095e3274037d6352d084c99edb7569f8be390dcdaa648b698693",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-position-2",
+    "subjectId": "h43-position-2",
+    "subjectHash": "8d5e8153ecf6b1e64eb450fb0bb993f486a296b7f47444ae3655e6f354060cb3",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-position-3",
+    "subjectId": "h43-position-3",
+    "subjectHash": "e9eab9579bd8159f178c728827ec427076aff0ce7c341bb474822cd91acea80d",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-position-4",
+    "subjectId": "h43-position-4",
+    "subjectHash": "c1306386834929efc8b827243f6224d08146d145486a72c1642dfc99af6008de",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-position-5",
+    "subjectId": "h43-position-5",
+    "subjectHash": "eafdf3597a56124d602155f7c8619620e087ccbe62a4fb7977cf4d02cd06585f",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h43-position-6",
+    "subjectId": "h43-position-6",
+    "subjectHash": "67e4e6df83205a9bd762b44eb3c184fa6b9953af20deb8646c0dfce9575de1ea",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-statement",
+    "subjectId": "h58-statement",
+    "subjectHash": "48d70a7fba8fa8ce8851047b081d062349b1c142c25683db5fb441358e6eb4b6",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 卦辞"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 卦辞"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-tuan",
+    "subjectId": "h58-tuan",
+    "subjectHash": "e466c4053b44fe676ee86bc1eb9bd459248b5571ddf8a9ab564d9fc99deeb485",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰 / 全段"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-great-image",
+    "subjectId": "h58-great-image",
+    "subjectHash": "98650867c75e865513f305ca3dd4dc3c0014482b6c04759ecdc366827816f345",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 整卦大象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 整卦大象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-yao-1",
+    "subjectId": "h58-yao-1",
+    "subjectHash": "4a7457012a6ef3030cfeae5a322dd504d7820df6571924de80ee8720737c5a74",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 初九"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 初九"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-image-1",
+    "subjectId": "h58-image-1",
+    "subjectHash": "3cc687d1ae11603261dff9eb7f9e87ff2a289097918d6e4ef9ca1d9950fba44c",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 初九小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 初九小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-yao-2",
+    "subjectId": "h58-yao-2",
+    "subjectHash": "856b8a64285bac9ce569602fbb5465e9b479a23f700ab89c36d6feeb3cabeed6",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 九二"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 九二"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-image-2",
+    "subjectId": "h58-image-2",
+    "subjectHash": "c5a7a6807ea29e40bf67f60e2b451036d0d7d9e3bb8a8fdb8a2adb198c41fcf5",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 九二小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 九二小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-yao-3",
+    "subjectId": "h58-yao-3",
+    "subjectHash": "7513d90008219c7fe865604a64b480ff2407d5af7d4185474398ddee68cc901c",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 六三"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 六三"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-image-3",
+    "subjectId": "h58-image-3",
+    "subjectHash": "415652c1c11f57ed55865505313a0d79d50a0d78f627569b1c4e4a5fddee6505",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 六三小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 六三小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-yao-4",
+    "subjectId": "h58-yao-4",
+    "subjectHash": "af740efab3817e1a8c61918e99141c6ec567790a07277f1ba3849c1417475994",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 九四"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 九四"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-image-4",
+    "subjectId": "h58-image-4",
+    "subjectHash": "c538bba79e6b2f4d4b4b032008b449ccd0fd2e3a3ee532a5fe0da6ca59fa32ee",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 九四小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 九四小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-yao-5",
+    "subjectId": "h58-yao-5",
+    "subjectHash": "adfd82d65111ccce08f9a4e47d0f4118c113716f5bdd27c0500820582360651b",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 九五"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 九五"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-image-5",
+    "subjectId": "h58-image-5",
+    "subjectHash": "efb853593ddbdc34270b598666b94d8c32785d4dee3c0dd23c2f228425746bf4",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 九五小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 九五小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-yao-6",
+    "subjectId": "h58-yao-6",
+    "subjectHash": "21ed5d7a16fed269e39aed601cde024455cb463c8fa7995116e81aedc243658e",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 上六"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 上六"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-image-6",
+    "subjectId": "h58-image-6",
+    "subjectHash": "6d13b8ada9186db8fccda226080f8e349a14e0302a09a387d25c0aa8cc55466b",
+    "originalStatus": "passed",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 上六小象"
+      },
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 上六小象"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-overview",
+    "subjectId": "h58-overview",
+    "subjectHash": "da1685cd0cdf3a69b1be3b6c26e2b5305713dfc497660359b243299a7aa11cb8",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-position-1",
+    "subjectId": "h58-position-1",
+    "subjectHash": "4b3545b1f5f581fe55efd8e5c92e9855883768955dab8843922c030d3edd056d",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-position-2",
+    "subjectId": "h58-position-2",
+    "subjectHash": "38173c658222412b9ab1a9a66d18ec31e12dd70a9cc03e649addaa59218b5f7b",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-position-3",
+    "subjectId": "h58-position-3",
+    "subjectHash": "21fc85264842d3b6e423c8e5730e0c46a8dca4ea2430925f4d61a5af7787c60a",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-position-4",
+    "subjectId": "h58-position-4",
+    "subjectHash": "5332a445996872b57b6979ac05d7d5d1219e7992044de96242d62a8f10d7291f",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-position-5",
+    "subjectId": "h58-position-5",
+    "subjectHash": "e2f5592cac269b679642f4da1f2e539e2176a7eec4bb20be4de0f4e73c251682",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  },
+  {
+    "id": "review-h58-position-6",
+    "subjectId": "h58-position-6",
+    "subjectHash": "ed5b87f4ef960035ea1ef050ca420f8d8693586f2bb224b1b447d1e3e4464168",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "passed",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：逐段电子录文核对与辅助释义自审（非人工独立复审）",
+    "checkedAt": "2026-10-21",
+    "issues": [
+      "影印底本逐字核对和人工独立释义复审未完成"
+    ]
+  }
+]

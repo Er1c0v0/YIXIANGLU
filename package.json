@@ -1,0 +1,21 @@
+{
+  "name": "yixianglu",
+  "version": "0.1.0",
+  "private": true,
+  "description": "易象录：微信原生易经学习原型",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build:content": "tsx scripts/content.mjs build",
+    "check:content": "tsx scripts/content.mjs check",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "check": "npm run check:content && npm run typecheck && npm test"
+  },
+  "devDependencies": {
+    "miniprogram-api-typings": "5.2.3",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "本卦阅读",
+  "usingComponents": {
+    "reading": "/components/reading/index"
+  }
+}

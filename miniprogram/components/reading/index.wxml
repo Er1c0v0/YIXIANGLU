@@ -1,0 +1,15 @@
+<block wx:if="{{meta}}">
+  <view class="card heading">
+    <view class="row between"><view><view class="eyebrow">第 {{meta.id}} 卦</view><view class="title">{{meta.fullName}}</view><view class="muted">上卦 · {{upperName}}　下卦 · {{lowerName}}</view></view><hexagram-shape lines="{{meta.lines}}" /></view>
+    <view wx:if="{{content}}" class="summary">{{content.summary}}</view>
+  </view>
+  <view wx:if="{{!content}}" class="card empty"><view class="section-title">资料整理中</view><view class="muted">卦名与计算已就绪，本卦正文尚未录入。你仍可观察爻变。</view></view>
+  <block wx:else>
+    <view class="card"><view class="section-title">卦辞</view><text class="label">原文</text><view class="original" selectable>{{content.statement.original}}</view><text class="label">白话 · 本项目整理</text><view class="explanation">{{content.statement.explanation}}</view><view wx:for="{{content.statement.notes}}" wx:key="*this" class="notes">{{item}}</view><source-panel refs="{{content.statement.originalRefs}}" /></view>
+    <view class="card"><button class="disclosure" bindtap="toggleTuan" aria-expanded="{{tuanOpen}}">彖传 <text>{{tuanOpen ? '−' : '＋'}}</text></button><view wx:if="{{tuanOpen}}"><text class="label">原文</text><view class="original" selectable>{{content.tuan.original}}</view><text class="label">白话 · 本项目整理</text><view class="explanation">{{content.tuan.explanation}}</view><source-panel refs="{{content.tuan.originalRefs}}" /></view></view>
+    <view class="card"><button class="disclosure" bindtap="toggleImage" aria-expanded="{{imageOpen}}">大象传 <text>{{imageOpen ? '−' : '＋'}}</text></button><view wx:if="{{imageOpen}}"><text class="label">原文</text><view class="original" selectable>{{content.greatImage.original}}</view><text class="label">白话 · 本项目整理</text><view class="explanation">{{content.greatImage.explanation}}</view><source-panel refs="{{content.greatImage.originalRefs}}" /></view></view>
+    <view class="card"><view class="section-title">意象与整体含义</view><view wx:for="{{content.imagery}}" wx:key="*this" class="notes">{{item}}</view><view class="explanation overall">{{content.overallMeaning}}</view><source-panel refs="{{content.overviewRefs}}" /></view>
+    <view wx:if="{{content.specialEntries.length}}" class="card"><button class="disclosure" bindtap="toggleSpecial" aria-expanded="{{specialOpen}}">特殊知识 · {{meta.id === 1 ? '用九' : '用六'}} <text>{{specialOpen ? '−' : '＋'}}</text></button><view wx:if="{{specialOpen}}" wx:for="{{content.specialEntries}}" wx:key="kind"><text class="label">原文</text><view class="original" selectable>{{item.text.original}}</view><text class="label">白话</text><view>{{item.text.explanation}}</view><text class="label space">相关象传</text><view class="original" selectable>{{item.smallImage.original}}</view><view>{{item.smallImage.explanation}}</view><view class="notes">{{item.learningNote}}</view><source-panel refs="{{item.text.originalRefs}}" /></view></view>
+    <view class="notice">五卦学习样例 · 原文已与固定电子录文核对，白话经辅助自审；影印本及人工复审待完成。</view>
+  </block>
+</block>

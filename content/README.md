@@ -1,0 +1,7 @@
+# 内容源
+
+samples.json 为原型单一内容源；sources.json 登记电子版本，reviews.json 记录实际核对和范围。不要手改 miniprogram/data/content.ts。
+
+修改原文、白话、注释或引用版本后，先重新核对，更新对应审核对象的 SHA-256 和真实状态，再运行 `npm run build:content`。构建器不会自动批准内容或刷新旧审核。缺少的新卦正文暂不放入 samples.json，应用显示“资料整理中”。本轮未提供全量发布检查器。
+
+采用维基文库贡献者的固定版本录文；相关文本和本项目整理释义按 CC BY-SA 4.0 共享，修改包括分句标点和注释。来源、署名、具体链接、核对范围与未决问题见 docs/content-review.md 及 sources.json。代码许可尚未指定。

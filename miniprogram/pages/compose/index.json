@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "手动组合",
+  "usingComponents": {
+    "hexagram-shape": "/components/hexagram-shape/index"
+  }
+}

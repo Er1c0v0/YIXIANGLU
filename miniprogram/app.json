@@ -1,0 +1,7 @@
+{
+  "pages": ["pages/home/index", "pages/atlas/index", "pages/trigrams/index", "pages/compose/index", "pages/numbers/index", "pages/hexagram/index", "pages/changes/index", "pages/analysis/index"],
+  "window": { "navigationBarTextStyle": "black", "navigationBarTitleText": "易象录", "navigationBarBackgroundColor": "#F7F4ED", "backgroundColor": "#F7F4ED" },
+  "tabBar": { "color": "#625D55", "selectedColor": "#765535", "backgroundColor": "#FFFDFA", "borderStyle": "white", "list": [ { "pagePath": "pages/home/index", "text": "首页" }, { "pagePath": "pages/atlas/index", "text": "六十四卦" }, { "pagePath": "pages/trigrams/index", "text": "八卦速查" } ] },
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents"
+}

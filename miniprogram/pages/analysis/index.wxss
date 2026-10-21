@@ -1,0 +1,1 @@
+.comparison { flex: 1; text-align: center; }.comparison .label { font-size: 24rpx; }.yao-card { margin-top: 24rpx; }
