@@ -8,6 +8,6 @@
       <hexagram-shape lines="{{item.lines}}" compact /><text>{{item.name}}</text>
     </movable-view>
   </movable-area>
-  <view class="actions"><button bindtap="swap" disabled="{{!upper && !lower}}">交换上下卦</button><button bindtap="clear" disabled="{{!upper && !lower}}">清空组合</button></view>
-  <button class="primary" bindtap="generate" disabled="{{!preview || busy}}">查看本卦解释</button>
+  <view class="actions"><button bindtap="swap" disabled="{{!upper && !lower}}" hover-class="button-pressed" hover-stay-time="80">交换上下卦</button><button bindtap="clear" disabled="{{!upper && !lower}}" hover-class="button-pressed" hover-stay-time="80">清空组合</button></view>
+  <button class="primary" bindtap="generate" disabled="{{!preview}}" hover-class="button-pressed" hover-stay-time="80">查看本卦</button>
 </view>

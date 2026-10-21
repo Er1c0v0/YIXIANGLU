@@ -2,19 +2,18 @@
   <block wx:if="{{valid}}">
     <view class="eyebrow">第四步 · 阅读变化</view><view class="title">{{original.name}} → {{changed.name}}</view>
     <view class="card row between"><view class="comparison"><text class="label">本卦 · {{original.fullName}}</text><hexagram-shape lines="{{original.lines}}" /></view><text class="muted">→</text><view class="comparison"><text class="label">{{zero ? '结果相同' : '变卦'}} · {{changed.fullName}}</text><hexagram-shape lines="{{changed.lines}}" /></view></view>
-    <view wx:if="{{zero}}" class="notice">本卦未发生变化。没有所选爻辞，以下合并展示本卦整体资料。</view>
-    <block wx:else><view class="section-title">本卦所选爻 · {{selectedNames}}</view><view class="notes">以下爻辞与小象均取自本卦，不判断主爻或个人吉凶。</view>
-      <view wx:for="{{rows}}" wx:key="position" class="card yao-card"><view class="section-title">{{item.label}}</view><block wx:if="{{item.entry}}"><text class="label">本卦爻辞 · 原文</text><view class="original" selectable>{{item.entry.text.original}}</view><text class="label">白话 · 本项目整理</text><view>{{item.entry.text.explanation}}</view><view wx:for="{{item.entry.text.notes}}" wx:key="*this" wx:for-item="note" class="notes">{{note}}</view><view class="rule"></view><text class="label">小象传 · 原文</text><view class="original" selectable>{{item.entry.smallImage.original}}</view><text class="label">白话</text><view>{{item.entry.smallImage.explanation}}</view><view class="notes">{{item.entry.positionExplanation}}</view><source-panel refs="{{item.entry.text.originalRefs}}" /></block><view wx:else class="muted">资料整理中。本卦这一爻的正文尚未录入。</view></view>
+    <view wx:if="{{zero}}" class="notice">未选择变爻，本卦不变。</view>
+    <block wx:else><view class="section-title">本卦所选爻 · {{selectedNames}}</view>
+      <view wx:for="{{rows}}" wx:key="position" class="card yao-card"><view class="section-title">{{item.label}}</view><block wx:if="{{item.entry}}"><text class="label">本卦爻辞</text><view class="original" selectable>{{item.entry.text.original}}</view><view class="rule"></view><text class="label">小象传</text><view class="original" selectable>{{item.entry.smallImage.original}}</view><source-panel refs="{{item.entry.text.originalRefs}}" /></block><view wx:else class="muted">资料整理中</view></view>
     </block>
     <view wx:for="{{originalSpecials}}" wx:key="kind" class="card">
       <view class="section-title">本卦特殊知识 · {{item.kind === 'yong-jiu' ? '用九' : '用六'}}</view>
-      <text class="label">原文</text><view class="original" selectable>{{item.text.original}}</view>
-      <text class="label">白话</text><view>{{item.text.explanation}}</view>
-      <view class="rule"></view><text class="label">相关象传</text><view class="original" selectable>{{item.smallImage.original}}</view><view>{{item.smallImage.explanation}}</view>
-      <view class="notes">{{item.learningNote}}</view><source-panel refs="{{item.text.originalRefs}}" />
+      <view class="original" selectable>{{item.text.original}}</view>
+      <view class="rule"></view><text class="label">相关象传</text><view class="original" selectable>{{item.smallImage.original}}</view>
+      <source-panel refs="{{item.text.originalRefs}}" />
     </view>
     <view class="section-title">{{zero ? '本卦整体资料' : '变卦整体资料'}}</view><reading hexagram-id="{{changed.id}}" />
-    <button bindtap="back">返回调整变爻</button>
+    <button bindtap="back" hover-class="button-pressed" hover-stay-time="80">返回调整变爻</button>
   </block>
-  <view wx:else class="card empty"><view class="section-title">无法读取本次结果，请重新生成</view><button class="primary" bindtap="home">返回首页</button></view>
+  <view wx:else class="card empty"><view class="section-title">无法读取本次结果，请重新生成</view><button class="primary" bindtap="home" hover-class="button-pressed" hover-stay-time="80">返回首页</button></view>
 </view>

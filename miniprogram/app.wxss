@@ -9,10 +9,10 @@ view, button, input { box-sizing: border-box; }
 .section-title { font-size: 34rpx; font-weight: 600; margin-bottom: 16rpx; }
 .label { display: block; font-size: 25rpx; color: #765535; margin-bottom: 10rpx; }
 .original { font-size: 34rpx; line-height: 1.85; margin-bottom: 22rpx; white-space: pre-wrap; }
-.explanation { line-height: 1.8; white-space: pre-wrap; }
 .notes { font-size: 26rpx; color: #625D55; margin-top: 16rpx; }
 button { display: block; width: 100%; font-size: 30rpx; font-weight: 500; border-radius: 14rpx; margin: 16rpx 0 0; min-height: 48px; line-height: 48px; padding: 0 20rpx; background: #EDE7DA; color: #292824; }
 button::after { border: none; }
+.button-pressed { opacity: 0.65; }
 button.primary { background: #765535; color: #FFFDFA; }
 button[disabled] { background: #E8E2D7; color: #81796D; }
 button.link { background: transparent; color: #765535; }
