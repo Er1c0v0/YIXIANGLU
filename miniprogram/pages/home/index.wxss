@@ -4,9 +4,9 @@
 .hero-symbol { width: 100%; }
 .hero-caption { position: absolute; left: 0; right: 0; bottom: 14rpx; text-align: center; color: #765535; font-size: 24rpx; line-height: 1.4; }
 .guide { border-top: 1rpx solid #DDD6C9; border-bottom: 1rpx solid #DDD6C9; display: flex; justify-content: space-between; padding: 20rpx 0; color: #765535; font-size: 25rpx; margin-bottom: 30rpx; }
-.entry { background: #FFFDFA; border: 1rpx solid #DDD6C9; border-radius: 20rpx; padding: 26rpx 30rpx; text-align: left; line-height: 1.5; margin: 20rpx 0; }
-.entry-top { display: flex; justify-content: flex-end; color: #765535; font-size: 26rpx; }.arrow { font-size: 38rpx; }
-.entry-title { font-size: 38rpx; font-weight: 600; margin: 4rpx 0 10rpx; }.entry-copy { font-size: 27rpx; color: #625D55; font-weight: 400; }
+.entry { position: relative; display: flex; flex-direction: column; justify-content: center; align-items: flex-start; min-height: 216rpx; background: #FFFDFA; border: 1rpx solid #DDD6C9; border-radius: 20rpx; padding: 26rpx 30rpx; text-align: left; line-height: 1.5; margin: 20rpx 0; }
+.entry-top { position: absolute; top: 26rpx; right: 30rpx; color: #765535; font-size: 26rpx; }.arrow { font-size: 38rpx; }
+.entry-title { font-size: 38rpx; font-weight: 600; margin: 0 0 10rpx; }.entry-copy { font-size: 27rpx; color: #625D55; font-weight: 400; }
 .footer { font-size: 25rpx; color: #625D55; text-align: center; padding-top: 24rpx; }
 
 .hero-copy { flex: 1; min-width: 0; }.hero-figure { flex-shrink: 0; }.hero-title { font-size: 52rpx; }.hero-copy .muted { font-size: 27rpx; }
