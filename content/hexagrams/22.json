@@ -1,0 +1,235 @@
+{
+  "id": 22,
+  "statement": {
+    "id": "h22-statement",
+    "original": "賁：亨，小利有攸徃。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch4",
+        "locator": "卷4 / 賁 / 卦辞 / 0007冊.djvu/395"
+      }
+    ],
+    "reviewId": "review-h22-statement"
+  },
+  "tuan": {
+    "id": "h22-tuan",
+    "original": "賁亨，柔來而文剛，故亨。分剛上而文柔，故小利有攸徃。天文也。文明以止，人文也。觀乎天文，以察時變；觀乎人文，以化成天下。",
+    "notes": [
+      "四库本电子主文在此仅作“天文也”；“剛柔交錯而成文焉”见其注文，普通电子对校页主文有“剛柔交錯”。本条按采用录文分离主文与注，待影印复核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch4",
+        "locator": "卷4 / 賁 / 彖曰 / 0007冊.djvu/395"
+      }
+    ],
+    "reviewId": "review-h22-tuan"
+  },
+  "greatImage": {
+    "id": "h22-great-image",
+    "original": "山下有火，賁；君子以明庶政，无敢折獄。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch4",
+        "locator": "卷4 / 賁 / 整卦大象 / 0007冊.djvu/396"
+      }
+    ],
+    "reviewId": "review-h22-great-image"
+  },
+  "summary": "山下有火，文饰有度。",
+  "overallMeaning": "贲讨论形式与实质的配合。以文明使事物明晰，装饰不宜过度，更不能只凭外表作重要判断。",
+  "imagery": [
+    "离下艮上，文明以止。",
+    "山下有火，明庶政。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch4",
+      "locator": "卷4 / 賁 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/395–396"
+    }
+  ],
+  "overviewReviewId": "review-h22-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h22-yao-1",
+        "original": "賁其趾，舎車而徒。",
+        "notes": [
+          "电子页“舎”为图形字，按其替代文字转写；小象主文作“舍”，保留差别，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 初九 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-yao-1"
+      },
+      "smallImage": {
+        "id": "h22-image-1",
+        "original": "舍車而徒，義弗乘也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 初九小象 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h22-yao-2",
+        "original": "賁其須。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 六二 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-yao-2"
+      },
+      "smallImage": {
+        "id": "h22-image-2",
+        "original": "賁其須，與上興也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 六二小象 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h22-yao-3",
+        "original": "賁如濡如，永貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 九三 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-yao-3"
+      },
+      "smallImage": {
+        "id": "h22-image-3",
+        "original": "永貞之吉，終莫之陵也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 九三小象 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h22-yao-4",
+        "original": "賁如皤如，白馬翰如，匪宼婚媾。",
+        "notes": [
+          "采用电子录文爻辞“宼”、小象“寇”的字形差别。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 六四 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-yao-4"
+      },
+      "smallImage": {
+        "id": "h22-image-4",
+        "original": "六四當位疑也。匪寇婚媾，終无尤也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 六四小象 / 0007冊.djvu/396"
+          }
+        ],
+        "reviewId": "review-h22-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h22-yao-5",
+        "original": "賁于丘園，束帛戔戔，吝，終吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 六五 / 0007冊.djvu/397"
+          }
+        ],
+        "reviewId": "review-h22-yao-5"
+      },
+      "smallImage": {
+        "id": "h22-image-5",
+        "original": "六五之吉，有喜也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 六五小象 / 0007冊.djvu/397"
+          }
+        ],
+        "reviewId": "review-h22-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h22-yao-6",
+        "original": "白賁，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 上九 / 0007冊.djvu/397"
+          }
+        ],
+        "reviewId": "review-h22-yao-6"
+      },
+      "smallImage": {
+        "id": "h22-image-6",
+        "original": "白賁无咎，上得志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch4",
+            "locator": "卷4 / 賁 / 上九小象 / 0007冊.djvu/397"
+          }
+        ],
+        "reviewId": "review-h22-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

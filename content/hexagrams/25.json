@@ -1,0 +1,233 @@
+{
+  "id": 25,
+  "statement": {
+    "id": "h25-statement",
+    "original": "无妄：元亨，利貞。其匪正有眚，不利有攸往。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 无妄 / 卦辞 / 0007冊.djvu/406"
+      }
+    ],
+    "reviewId": "review-h25-statement"
+  },
+  "tuan": {
+    "id": "h25-tuan",
+    "original": "无妄，剛自外來而為主于内，動而健，剛中而應，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣。天命不祐，行矣哉。",
+    "notes": [
+      "保留采用电子录文“于内”“祐”，普通电子对校页相应作“於內”“佑”。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 无妄 / 彖曰 / 0007冊.djvu/406"
+      }
+    ],
+    "reviewId": "review-h25-tuan"
+  },
+  "greatImage": {
+    "id": "h25-great-image",
+    "original": "天下雷行，物與无妄；先王以茂對時育萬物。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 无妄 / 整卦大象 / 0007冊.djvu/407"
+      }
+    ],
+    "reviewId": "review-h25-great-image"
+  },
+  "summary": "天下雷行，守正无妄。",
+  "overallMeaning": "无妄强调诚实守正，不以私意妄动。面对计划之外的变化，先辨明缘由与时机，再决定如何行动。",
+  "imagery": [
+    "震下乾上，动而健。",
+    "天下雷行，对时育物。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-5-batch4",
+      "locator": "卷5 / 无妄 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/406–407"
+    }
+  ],
+  "overviewReviewId": "review-h25-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h25-yao-1",
+        "original": "无妄，往吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 初九 / 0007冊.djvu/407"
+          }
+        ],
+        "reviewId": "review-h25-yao-1"
+      },
+      "smallImage": {
+        "id": "h25-image-1",
+        "original": "无妄之往，得志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 初九小象 / 0007冊.djvu/407"
+          }
+        ],
+        "reviewId": "review-h25-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h25-yao-2",
+        "original": "不耕穫，不菑畬，則利有攸往。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 六二 / 0007冊.djvu/407"
+          }
+        ],
+        "reviewId": "review-h25-yao-2"
+      },
+      "smallImage": {
+        "id": "h25-image-2",
+        "original": "不耕穫，未富也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 六二小象 / 0007冊.djvu/407"
+          }
+        ],
+        "reviewId": "review-h25-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h25-yao-3",
+        "original": "无妄之災，或繋之牛，行人之得，邑人之災。",
+        "notes": [
+          "采用四库本电子录文“繋”，普通电子对校页作“繫”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 六三 / 0007冊.djvu/407"
+          }
+        ],
+        "reviewId": "review-h25-yao-3"
+      },
+      "smallImage": {
+        "id": "h25-image-3",
+        "original": "行人得牛，邑人災也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 六三小象 / 0007冊.djvu/407"
+          }
+        ],
+        "reviewId": "review-h25-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h25-yao-4",
+        "original": "可貞，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 九四 / 0007冊.djvu/408"
+          }
+        ],
+        "reviewId": "review-h25-yao-4"
+      },
+      "smallImage": {
+        "id": "h25-image-4",
+        "original": "可貞无咎，固有之也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 九四小象 / 0007冊.djvu/408"
+          }
+        ],
+        "reviewId": "review-h25-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h25-yao-5",
+        "original": "无妄之疾，勿藥有喜。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 九五 / 0007冊.djvu/408"
+          }
+        ],
+        "reviewId": "review-h25-yao-5"
+      },
+      "smallImage": {
+        "id": "h25-image-5",
+        "original": "无妄之藥，不可試也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 九五小象 / 0007冊.djvu/408"
+          }
+        ],
+        "reviewId": "review-h25-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h25-yao-6",
+        "original": "无妄，行有眚，无攸利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 上九 / 0007冊.djvu/408"
+          }
+        ],
+        "reviewId": "review-h25-yao-6"
+      },
+      "smallImage": {
+        "id": "h25-image-6",
+        "original": "无妄之行，窮之災也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 无妄 / 上九小象 / 0007冊.djvu/408"
+          }
+        ],
+        "reviewId": "review-h25-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

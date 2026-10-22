@@ -1,0 +1,229 @@
+{
+  "id": 31,
+  "statement": {
+    "id": "h31-statement",
+    "original": "咸：亨，利貞，取女吉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 咸 / 卦辞 / 0007冊.djvu/426"
+      }
+    ],
+    "reviewId": "review-h31-statement"
+  },
+  "tuan": {
+    "id": "h31-tuan",
+    "original": "咸，感也。柔上而剛下，二氣感應以相與，止而說，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平。觀其所感而天地萬物之情可見矣。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 咸 / 彖曰 / 0007冊.djvu/427"
+      }
+    ],
+    "reviewId": "review-h31-tuan"
+  },
+  "greatImage": {
+    "id": "h31-great-image",
+    "original": "山上有澤，咸；君子以虛受人。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 咸 / 整卦大象 / 0007冊.djvu/427"
+      }
+    ],
+    "reviewId": "review-h31-great-image"
+  },
+  "summary": "山上有泽，虚心相感。",
+  "overallMeaning": "咸讨论彼此感应与相互影响。以虚心接纳他人，守正而不躁进，避免只用言语追求回应。",
+  "imagery": [
+    "艮下兑上，止而悦。",
+    "山上有泽，以虚受人。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-6-batch4",
+      "locator": "卷6 / 咸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/426–427"
+    }
+  ],
+  "overviewReviewId": "review-h31-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h31-yao-1",
+        "original": "咸其拇。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 初六 / 0007冊.djvu/427"
+          }
+        ],
+        "reviewId": "review-h31-yao-1"
+      },
+      "smallImage": {
+        "id": "h31-image-1",
+        "original": "咸其拇，志在外也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 初六小象 / 0007冊.djvu/427"
+          }
+        ],
+        "reviewId": "review-h31-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h31-yao-2",
+        "original": "咸其腓，凶，居吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 六二 / 0007冊.djvu/427"
+          }
+        ],
+        "reviewId": "review-h31-yao-2"
+      },
+      "smallImage": {
+        "id": "h31-image-2",
+        "original": "雖凶居吉，順不害也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 六二小象 / 0007冊.djvu/427"
+          }
+        ],
+        "reviewId": "review-h31-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h31-yao-3",
+        "original": "咸其股，執其隨，往吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 九三 / 0007冊.djvu/428"
+          }
+        ],
+        "reviewId": "review-h31-yao-3"
+      },
+      "smallImage": {
+        "id": "h31-image-3",
+        "original": "咸其股，亦不處也。志在隨人，所執下也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 九三小象 / 0007冊.djvu/428"
+          }
+        ],
+        "reviewId": "review-h31-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h31-yao-4",
+        "original": "貞吉悔亡，憧憧往來，朋從爾思。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 九四 / 0007冊.djvu/428"
+          }
+        ],
+        "reviewId": "review-h31-yao-4"
+      },
+      "smallImage": {
+        "id": "h31-image-4",
+        "original": "貞吉悔亡，未感害也。憧憧往來，未光大也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 九四小象 / 0007冊.djvu/428"
+          }
+        ],
+        "reviewId": "review-h31-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h31-yao-5",
+        "original": "咸其脢，无悔。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 九五 / 0007冊.djvu/428"
+          }
+        ],
+        "reviewId": "review-h31-yao-5"
+      },
+      "smallImage": {
+        "id": "h31-image-5",
+        "original": "咸其脢，志末也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 九五小象 / 0007冊.djvu/428"
+          }
+        ],
+        "reviewId": "review-h31-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h31-yao-6",
+        "original": "咸其輔頰舌。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 上六 / 0007冊.djvu/429"
+          }
+        ],
+        "reviewId": "review-h31-yao-6"
+      },
+      "smallImage": {
+        "id": "h31-image-6",
+        "original": "咸其輔頰舌，滕口說也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 咸 / 上六小象 / 0007冊.djvu/429"
+          }
+        ],
+        "reviewId": "review-h31-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

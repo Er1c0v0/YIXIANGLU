@@ -2,7 +2,48 @@
 
 2026-10-22蒙卦显示修正：用户反馈蒙卦卦辞左侧出现类似坤卦的图形。正文首字原为生僻字“𫎇”，阅读模板未插入额外卦形；现将该首字明确通写为“蒙”，与普通《周易》固定电子页一致，原字留在正文notes中，不称为四库影印核字结论。其余正文不改，仅重新核对并更新review-h4-statement；前版原文及审核可追溯至提交0a2ead8，旧哈希另留在审核issues。影印和独立复审仍pending。下文第二批摘录说明保留原始录入事实。
 
-## 阶段三第三批（2026-10-22）与当前累计进度
+## 阶段三第四批（2026-10-22）与当前累计进度
+
+本批录入贲、复、无妄、颐、大过、坎、咸、恒各15块经传及8条卦级展示说明，累计35卦、529必需原文块、596条审核记录；还缺29卦、435块。原27卦文件、468条审核及35条来源与第三批提交66d8ae7一致，未重新批准旧审核。
+
+| 口径 | 累计录入 | 已完成核对 | 尚未完成 |
+| --- | --- | --- | --- |
+| 必需原文块 | 529 | 529已对照各自采用的电子录文 | 435块未录入 |
+| 影印逐字复核 | 529 | 0 | 529块待影印核对 |
+| 原文独立人工复审 | 529 | 0 | 529块待独立复审 |
+| 展示说明（卦级与特殊知识） | 37条 | 7条原型辅助自审记录 | 30条待审，含本批8条；全部37条未有独立复审 |
+| 经传白话留档 | 79 | 78条辅助自审记录 | 夬九五1条pending；前四批新增450块无白话，白话审核不适用 |
+| 爻位说明留档 | 30 | 30条原型辅助自审记录 | 本批未新增该非展示档案 |
+
+529原文+35卦级说明+30爻位留档+2特殊说明=596条审核记录。新120条原文originalStatus=passed仅表示电子核对，explanationStatus=not-applicable；新8条说明originalStatus=not-applicable、explanationStatus=pending。新增128条的影印、独立字段均pending。最新统计见 [manifest.json](../content/manifest.json)。本次工具确认蒙卦首字显示正常，只是显示验证，不增加文献审核结论。
+
+### 第四批版本与定位
+
+实际读取[卷四 oldid=9685961](https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷04&oldid=9685961)、[卷五 oldid=9685962](https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷05&oldid=9685962)、[卷六 oldid=9685963](https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷06&oldid=9685963)所嵌电子录文，并与下表普通电子版本对校。页序为0007册DjVu文件页序，各原文块分别记录定位；不是已核准的影印叶码。卷页oldid只固定编排，不冻结嵌入的Page录文版本；所嵌页面尚未校对，实际采用内容以2026-10-22访问记录、正文存档及审核主体哈希记录。
+
+| 卦 | 卷次 | 对应文件页序 | 普通电子对校版本 |
+| --- | --- | --- | --- |
+| 贲 | 卷四 | [395](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/395)～397 | [2405035](https://zh.wikisource.org/w/index.php?title=周易/賁&oldid=2405035) |
+| 复 | 卷五 | [403](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/403)～406 | [10643037](https://zh.wikisource.org/w/index.php?title=周易/復&oldid=10643037) |
+| 无妄 | 卷五 | [406](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/406)～408 | [10645038](https://zh.wikisource.org/w/index.php?title=周易/无妄&oldid=10645038) |
+| 颐 | 卷五 | [411](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/411)～413 | [10643091](https://zh.wikisource.org/w/index.php?title=周易/頤&oldid=10643091) |
+| 大过 | 卷五 | [413](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/413)～416 | [10645184](https://zh.wikisource.org/w/index.php?title=周易/大過&oldid=10645184) |
+| 坎 | 卷五 | [416](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/416)～419 | [10646381](https://zh.wikisource.org/w/index.php?title=周易/坎&oldid=10646381) |
+| 咸 | 卷六 | [426](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/426)～429 | [10646450](https://zh.wikisource.org/w/index.php?title=周易/咸&oldid=10646450) |
+| 恒 | 卷六 | [429](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/429)～431 | [10646486](https://zh.wikisource.org/w/index.php?title=周易/恒&oldid=10646486) |
+
+新增skqs-zhouyi-4-batch4、skqs-zhouyi-5-batch4、skqs-zhouyi-6-batch4及8条普通电子对校来源，累计46条；旧来源的版本、访问日和审核哈希不变。新原文不强制写白话；简短意象与整体含义为本项目整理，仍待展示说明审核。
+
+### 第四批摘录边界与异文
+
+- 贲彖采用电子主文“天文也”，未把注文“剛柔交錯而成文焉”补为普通页中的“剛柔交錯”。初九“舎”按图形字替代文字转写，小象仍为“舍”；爻辞“宼”和小象“寇”、六五“于丘園”等按采用录文保留。
+- 复初九采用“无祗悔”“以脩身也”，普通页作“无祇悔”“以修身也”。无妄保留“于内”“祐”“繋”，普通页相应为“於內”“佑”“繫”。
+- 颐保留“朶”、六二“顚”与六四“顛”的区别；六二小象“行失𩔖也”不改成普通页的“行失類也”。“拂經于丘，頤征凶”的标点按本篇注疏区分整理，未改主文字序。
+- 大过卦辞“音相過之過”等随文音注不混入正文，摘录为“大過：棟橈，利有攸往，亨。”；保留上六“渉”。
+- 坎卦辞分离中间注文，摘录为“習坎：有孚，維心亨。行有尚。”；彖采用“險之時用”，普通页为“坎之時用”。六四“樽酒簋貳，用缶，納約自牖”与普通页“尊酒簋，貳用缶。内約自牖”不同，小象为“剛柔際也”，普通页为“剛柔济也”；九五“祗既平”、上六“三嵗”按采用版本保留。
+- 咸上六小象为“滕口說也”。恒六五采用字形“𢘆”，普通页为“恆”；彖“不巳”“久於”及上六“振恒”按采用录文保留，普通页分别为“不已”“久于”及爻辞“震恆”。这些字形与异文均留待影印核定，不视为已通过影印或独立复审。
+
+## 阶段三第三批历史（2026-10-22）与当时累计进度
 
 本批录入大有、谦、豫、随、蛊、临、观、噬嗑各15块，共120块经传及8条卦级展示说明，累计27卦、409必需原文块、468条审核记录；还缺37卦、555块。同时完成上文蒙卦首字的明确通写与单条电子复核；除此之外，原18卦文件、其余339条审核及25条来源与第二批提交0a2ead8一致。
 
@@ -15,7 +56,7 @@
 | 经传白话留档 | 79 | 78条辅助自审记录 | 夬九五1条pending；前三批新增330块无白话，白话审核不适用 |
 | 爻位说明留档 | 30 | 30条原型辅助自审记录 | 本批未新增该非展示档案 |
 
-409原文+27卦级说明+30爻位留档+2特殊说明=468条审核记录。新增120条原文originalStatus=passed、explanationStatus=not-applicable，仅表示电子核对；影印及独立字段pending。8条新展示说明originalStatus=not-applicable、explanationStatus=pending。最新统计见 [manifest.json](../content/manifest.json)。
+409原文+27卦级说明+30爻位留档+2特殊说明=468条审核记录。新增120条原文originalStatus=passed、explanationStatus=not-applicable，仅表示电子核对；影印及独立字段pending。8条新展示说明originalStatus=not-applicable、explanationStatus=pending。当时数据随第三批提交66d8ae7归档，当前统计见 [manifest.json](../content/manifest.json)。
 
 ### 第三批版本与定位
 

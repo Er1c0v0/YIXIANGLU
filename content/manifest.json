@@ -1,25 +1,17 @@
 {
   "schemaVersion": 2,
-  "dataVersion": "2.ca693c8cde85",
-  "buildHash": "ca693c8cde85daac339dff5052fd316135bd7bc89df4a0dfa96b458cc7af4b24",
+  "dataVersion": "2.ab839769c6f7",
+  "buildHash": "ab839769c6f77baaeef62d545f42837bcdf986106ed399a970d736fe6d056b3e",
   "counts": {
-    "hexagrams": 27,
-    "originalBlocks": 409,
-    "reviewRecords": 468
+    "hexagrams": 35,
+    "originalBlocks": 529,
+    "reviewRecords": 596
   },
   "target": {
     "hexagrams": 64,
     "originalBlocks": 964
   },
   "missingHexagramIds": [
-    22,
-    24,
-    25,
-    27,
-    28,
-    29,
-    31,
-    32,
     33,
     34,
     35,
@@ -52,28 +44,28 @@
   ],
   "reviews": {
     "electronicOriginal": {
-      "passed": 409,
+      "passed": 529,
       "outstanding": 0,
       "notApplicable": 0
     },
     "facsimileOriginal": {
       "passed": 0,
-      "outstanding": 409,
+      "outstanding": 529,
       "notApplicable": 0
     },
     "independentOriginal": {
       "passed": 0,
-      "outstanding": 409,
+      "outstanding": 529,
       "notApplicable": 0
     },
     "displayExplanation": {
       "passed": 7,
-      "outstanding": 22,
+      "outstanding": 30,
       "notApplicable": 0
     },
     "independentDisplay": {
       "passed": 0,
-      "outstanding": 29,
+      "outstanding": 37,
       "notApplicable": 0
     },
     "archivedExplanation": {
@@ -81,6 +73,6 @@
       "outstanding": 1,
       "notApplicable": 0
     },
-    "noExplanation": 330
+    "noExplanation": 450
   }
 }

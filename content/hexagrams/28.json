@@ -1,0 +1,233 @@
+{
+  "id": 28,
+  "statement": {
+    "id": "h28-statement",
+    "original": "大過：棟橈，利有攸往，亨。",
+    "notes": [
+      "卦名后的“音相過之過”是音义注文，未并入卦辞。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 大過 / 卦辞 / 0007冊.djvu/413"
+      }
+    ],
+    "reviewId": "review-h28-statement"
+  },
+  "tuan": {
+    "id": "h28-tuan",
+    "original": "大過，大者過也。棟橈，本末弱也。剛過而中，巽而說行，利有攸往，乃亨。大過之時大矣哉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 大過 / 彖曰 / 0007冊.djvu/414"
+      }
+    ],
+    "reviewId": "review-h28-tuan"
+  },
+  "greatImage": {
+    "id": "h28-great-image",
+    "original": "澤滅木，大過；君子以獨立不懼，遯世无悶。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 大過 / 整卦大象 / 0007冊.djvu/414"
+      }
+    ],
+    "reviewId": "review-h28-great-image"
+  },
+  "summary": "泽水没木，担重济难。",
+  "overallMeaning": "大过表现负担超过常度的局面。需要审慎辨明承受能力，在困难中保持独立，也为解决问题作必要调整。",
+  "imagery": [
+    "巽下兑上，本末皆弱。",
+    "泽灭木，独立不惧。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-5-batch4",
+      "locator": "卷5 / 大過 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/413–414"
+    }
+  ],
+  "overviewReviewId": "review-h28-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h28-yao-1",
+        "original": "藉用白茅，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 初六 / 0007冊.djvu/414"
+          }
+        ],
+        "reviewId": "review-h28-yao-1"
+      },
+      "smallImage": {
+        "id": "h28-image-1",
+        "original": "藉用白茅，柔在下也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 初六小象 / 0007冊.djvu/414"
+          }
+        ],
+        "reviewId": "review-h28-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h28-yao-2",
+        "original": "枯楊生稊，老夫得其女妻，无不利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九二 / 0007冊.djvu/414"
+          }
+        ],
+        "reviewId": "review-h28-yao-2"
+      },
+      "smallImage": {
+        "id": "h28-image-2",
+        "original": "老夫女妻，過以相與也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九二小象 / 0007冊.djvu/414"
+          }
+        ],
+        "reviewId": "review-h28-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h28-yao-3",
+        "original": "棟橈，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九三 / 0007冊.djvu/415"
+          }
+        ],
+        "reviewId": "review-h28-yao-3"
+      },
+      "smallImage": {
+        "id": "h28-image-3",
+        "original": "棟橈之凶，不可以有輔也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九三小象 / 0007冊.djvu/415"
+          }
+        ],
+        "reviewId": "review-h28-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h28-yao-4",
+        "original": "棟隆，吉。有它吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九四 / 0007冊.djvu/415"
+          }
+        ],
+        "reviewId": "review-h28-yao-4"
+      },
+      "smallImage": {
+        "id": "h28-image-4",
+        "original": "棟隆之吉，不橈乎下也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九四小象 / 0007冊.djvu/415"
+          }
+        ],
+        "reviewId": "review-h28-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h28-yao-5",
+        "original": "枯楊生華，老婦得其士夫，无咎无譽。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九五 / 0007冊.djvu/415"
+          }
+        ],
+        "reviewId": "review-h28-yao-5"
+      },
+      "smallImage": {
+        "id": "h28-image-5",
+        "original": "枯楊生華，何可久也。老婦士夫，亦可醜也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 九五小象 / 0007冊.djvu/415"
+          }
+        ],
+        "reviewId": "review-h28-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h28-yao-6",
+        "original": "過渉滅頂，凶，无咎。",
+        "notes": [
+          "保留采用电子录文“渉”字，普通电子对校页作“涉”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 上六 / 0007冊.djvu/416"
+          }
+        ],
+        "reviewId": "review-h28-yao-6"
+      },
+      "smallImage": {
+        "id": "h28-image-6",
+        "original": "過渉之凶，不可咎也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 大過 / 上六小象 / 0007冊.djvu/416"
+          }
+        ],
+        "reviewId": "review-h28-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

@@ -1,0 +1,237 @@
+{
+  "id": 29,
+  "statement": {
+    "id": "h29-statement",
+    "original": "習坎：有孚，維心亨。行有尚。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 坎 / 卦辞 / 0007冊.djvu/416"
+      }
+    ],
+    "reviewId": "review-h29-statement"
+  },
+  "tuan": {
+    "id": "h29-tuan",
+    "original": "習坎，重險也。水流而不盈，行險而不失其信。維心亨，乃以剛中也。行有尚，往有功也。天險不可升也，地險山川丘陵也。王公設險以守其國。險之時用大矣哉。",
+    "notes": [
+      "采用四库本电子录文“險之時用”，普通电子对校页作“坎之時用”，待影印复核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 坎 / 彖曰 / 0007冊.djvu/416–417"
+      }
+    ],
+    "reviewId": "review-h29-tuan"
+  },
+  "greatImage": {
+    "id": "h29-great-image",
+    "original": "水洊至，習坎；君子以常德行，習教事。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 坎 / 整卦大象 / 0007冊.djvu/417"
+      }
+    ],
+    "reviewId": "review-h29-great-image"
+  },
+  "summary": "水洊而至，守信习险。",
+  "overallMeaning": "坎表现接连遇险的处境。保持内心的诚信与稳定，在反复实践中熟悉事务，逐步寻求出路。",
+  "imagery": [
+    "坎下坎上，重险相继。",
+    "水洊至，常德习教。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-5-batch4",
+      "locator": "卷5 / 坎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/416–417"
+    }
+  ],
+  "overviewReviewId": "review-h29-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h29-yao-1",
+        "original": "習坎，入于坎窞，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 初六 / 0007冊.djvu/417"
+          }
+        ],
+        "reviewId": "review-h29-yao-1"
+      },
+      "smallImage": {
+        "id": "h29-image-1",
+        "original": "習坎入坎，失道凶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 初六小象 / 0007冊.djvu/417"
+          }
+        ],
+        "reviewId": "review-h29-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h29-yao-2",
+        "original": "坎有險，求小得。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 九二 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-yao-2"
+      },
+      "smallImage": {
+        "id": "h29-image-2",
+        "original": "求小得，未出中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 九二小象 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h29-yao-3",
+        "original": "來之坎坎，險且枕，入于坎窞，勿用。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 六三 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-yao-3"
+      },
+      "smallImage": {
+        "id": "h29-image-3",
+        "original": "來之坎坎，終无功也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 六三小象 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h29-yao-4",
+        "original": "樽酒簋貳，用缶，納約自牖，終无咎。",
+        "notes": [
+          "采用录文“樽酒簋貳”“納約自牖”，普通电子页爻辞为“尊酒簋”“内約自牖”；标点依本篇音义分句，未添加经文字。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 六四 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-yao-4"
+      },
+      "smallImage": {
+        "id": "h29-image-4",
+        "original": "樽酒簋貳，剛柔際也。",
+        "notes": [
+          "采用四库本电子录文“剛柔際也”，普通电子对校页作“剛柔济也”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 六四小象 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h29-yao-5",
+        "original": "坎不盈，祗既平，无咎。",
+        "notes": [
+          "采用四库本电子录文“祗”，普通电子对校页作“禔”，待影印核字。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 九五 / 0007冊.djvu/418"
+          }
+        ],
+        "reviewId": "review-h29-yao-5"
+      },
+      "smallImage": {
+        "id": "h29-image-5",
+        "original": "坎不盈，中未大也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 九五小象 / 0007冊.djvu/419"
+          }
+        ],
+        "reviewId": "review-h29-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h29-yao-6",
+        "original": "係用徽纆，寘于叢棘，三嵗不得，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 上六 / 0007冊.djvu/419"
+          }
+        ],
+        "reviewId": "review-h29-yao-6"
+      },
+      "smallImage": {
+        "id": "h29-image-6",
+        "original": "上六失道，凶三嵗也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 坎 / 上六小象 / 0007冊.djvu/419"
+          }
+        ],
+        "reviewId": "review-h29-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

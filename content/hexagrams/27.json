@@ -1,0 +1,235 @@
+{
+  "id": 27,
+  "statement": {
+    "id": "h27-statement",
+    "original": "頤：貞吉。觀頤，自求口實。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 頤 / 卦辞 / 0007冊.djvu/411"
+      }
+    ],
+    "reviewId": "review-h27-statement"
+  },
+  "tuan": {
+    "id": "h27-tuan",
+    "original": "頤貞吉，養正則吉也。觀頤，觀其所養也。自求口實，觀其自養也。天地養萬物，聖人養賢以及萬民。頤之時大矣哉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 頤 / 彖曰 / 0007冊.djvu/411"
+      }
+    ],
+    "reviewId": "review-h27-tuan"
+  },
+  "greatImage": {
+    "id": "h27-great-image",
+    "original": "山下有雷，頤；君子以慎言語，節飲食。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5-batch4",
+        "locator": "卷5 / 頤 / 整卦大象 / 0007冊.djvu/411"
+      }
+    ],
+    "reviewId": "review-h27-great-image"
+  },
+  "summary": "山下有雷，养正有节。",
+  "overallMeaning": "颐讨论如何养育自己与他人。观察所求与所养是否正当，谨慎言语，节制饮食，并善用资源养贤育人。",
+  "imagery": [
+    "震下艮上，下动上止。",
+    "山下有雷，慎言节食。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-5-batch4",
+      "locator": "卷5 / 頤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/411"
+    }
+  ],
+  "overviewReviewId": "review-h27-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h27-yao-1",
+        "original": "舍爾靈龜，觀我朶頤，凶。",
+        "notes": [
+          "采用四库本电子录文“朶”，普通电子对校页作“朵”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 初九 / 0007冊.djvu/411"
+          }
+        ],
+        "reviewId": "review-h27-yao-1"
+      },
+      "smallImage": {
+        "id": "h27-image-1",
+        "original": "觀我朶頤，亦不足貴也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 初九小象 / 0007冊.djvu/412"
+          }
+        ],
+        "reviewId": "review-h27-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h27-yao-2",
+        "original": "顚頤，拂經于丘，頤征凶。",
+        "notes": [
+          "采用录文作“顚”、六四作“顛”；标点按本篇注文“拂經于丘也”“頤征凶”整理，未改经文字序，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六二 / 0007冊.djvu/412"
+          }
+        ],
+        "reviewId": "review-h27-yao-2"
+      },
+      "smallImage": {
+        "id": "h27-image-2",
+        "original": "六二征凶，行失𩔖也。",
+        "notes": [
+          "保留采用电子录文“𩔖”，普通电子对校页作“類”，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六二小象 / 0007冊.djvu/412"
+          }
+        ],
+        "reviewId": "review-h27-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h27-yao-3",
+        "original": "拂頤，貞凶，十年勿用，无攸利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六三 / 0007冊.djvu/412"
+          }
+        ],
+        "reviewId": "review-h27-yao-3"
+      },
+      "smallImage": {
+        "id": "h27-image-3",
+        "original": "十年勿用，道大悖也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六三小象 / 0007冊.djvu/412"
+          }
+        ],
+        "reviewId": "review-h27-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h27-yao-4",
+        "original": "顛頤，吉。虎視眈眈，其欲逐逐，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六四 / 0007冊.djvu/412"
+          }
+        ],
+        "reviewId": "review-h27-yao-4"
+      },
+      "smallImage": {
+        "id": "h27-image-4",
+        "original": "顛頤之吉，上施光也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六四小象 / 0007冊.djvu/413"
+          }
+        ],
+        "reviewId": "review-h27-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h27-yao-5",
+        "original": "拂經，居貞吉，不可渉大川。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六五 / 0007冊.djvu/413"
+          }
+        ],
+        "reviewId": "review-h27-yao-5"
+      },
+      "smallImage": {
+        "id": "h27-image-5",
+        "original": "居貞之吉，順以從上也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 六五小象 / 0007冊.djvu/413"
+          }
+        ],
+        "reviewId": "review-h27-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h27-yao-6",
+        "original": "由頤，厲吉，利渉大川。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 上九 / 0007冊.djvu/413"
+          }
+        ],
+        "reviewId": "review-h27-yao-6"
+      },
+      "smallImage": {
+        "id": "h27-image-6",
+        "original": "由頤厲吉，大有慶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5-batch4",
+            "locator": "卷5 / 頤 / 上九小象 / 0007冊.djvu/413"
+          }
+        ],
+        "reviewId": "review-h27-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

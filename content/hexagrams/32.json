@@ -1,0 +1,235 @@
+{
+  "id": 32,
+  "statement": {
+    "id": "h32-statement",
+    "original": "恒：亨，无咎，利貞。利有攸往。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 恒 / 卦辞 / 0007冊.djvu/429"
+      }
+    ],
+    "reviewId": "review-h32-statement"
+  },
+  "tuan": {
+    "id": "h32-tuan",
+    "original": "恒，久也。剛上而柔下，雷風相與，巽而動，剛柔皆應，恒。恒亨无咎利貞，久於其道也。天地之道恒久而不巳也。利有攸往，終則有始也。日月得天而能久照，四時變化而能久成，聖人久於其道而天下化成。觀其所恒而天地萬物之情可見矣。",
+    "notes": [
+      "采用电子录文“久於”“不巳”，普通电子对校页相应为“久于”“不已”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 恒 / 彖曰 / 0007冊.djvu/429"
+      }
+    ],
+    "reviewId": "review-h32-tuan"
+  },
+  "greatImage": {
+    "id": "h32-great-image",
+    "original": "雷風，恒；君子以立不易方。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 恒 / 整卦大象 / 0007冊.djvu/430"
+      }
+    ],
+    "reviewId": "review-h32-great-image"
+  },
+  "summary": "雷风相与，守道能久。",
+  "overallMeaning": "恒强调在变化中保持方向。以稳定的原则和持续的行动相互成就，既不反复无常，也不固守不合时宜的做法。",
+  "imagery": [
+    "巽下震上，巽而动。",
+    "雷风相与，立不易方。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-6-batch4",
+      "locator": "卷6 / 恒 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/429–430"
+    }
+  ],
+  "overviewReviewId": "review-h32-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h32-yao-1",
+        "original": "浚恒，貞凶，无攸利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 初六 / 0007冊.djvu/430"
+          }
+        ],
+        "reviewId": "review-h32-yao-1"
+      },
+      "smallImage": {
+        "id": "h32-image-1",
+        "original": "浚恒之凶，始求深也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 初六小象 / 0007冊.djvu/430"
+          }
+        ],
+        "reviewId": "review-h32-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h32-yao-2",
+        "original": "悔亡。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 九二 / 0007冊.djvu/430"
+          }
+        ],
+        "reviewId": "review-h32-yao-2"
+      },
+      "smallImage": {
+        "id": "h32-image-2",
+        "original": "九二悔亡，能久中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 九二小象 / 0007冊.djvu/430"
+          }
+        ],
+        "reviewId": "review-h32-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h32-yao-3",
+        "original": "不恒其德，或承之羞，貞吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 九三 / 0007冊.djvu/430"
+          }
+        ],
+        "reviewId": "review-h32-yao-3"
+      },
+      "smallImage": {
+        "id": "h32-image-3",
+        "original": "不恒其德，无所容也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 九三小象 / 0007冊.djvu/430"
+          }
+        ],
+        "reviewId": "review-h32-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h32-yao-4",
+        "original": "田无禽。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 九四 / 0007冊.djvu/431"
+          }
+        ],
+        "reviewId": "review-h32-yao-4"
+      },
+      "smallImage": {
+        "id": "h32-image-4",
+        "original": "久非其位，安得禽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 九四小象 / 0007冊.djvu/431"
+          }
+        ],
+        "reviewId": "review-h32-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h32-yao-5",
+        "original": "𢘆其德貞，婦人吉，夫子凶。",
+        "notes": [
+          "电子录文六五首字作“𢘆”，其他多作“恒”；普通电子对校页作“恆”，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 六五 / 0007冊.djvu/431"
+          }
+        ],
+        "reviewId": "review-h32-yao-5"
+      },
+      "smallImage": {
+        "id": "h32-image-5",
+        "original": "婦人貞吉，從一而終也。夫子制義，從婦凶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 六五小象 / 0007冊.djvu/431"
+          }
+        ],
+        "reviewId": "review-h32-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h32-yao-6",
+        "original": "振恒，凶。",
+        "notes": [
+          "采用四库本电子录文“振恒”，普通电子对校页爻辞作“震恆”、小象作“振恆”，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 上六 / 0007冊.djvu/431"
+          }
+        ],
+        "reviewId": "review-h32-yao-6"
+      },
+      "smallImage": {
+        "id": "h32-image-6",
+        "original": "振恒在上，大无功也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch4",
+            "locator": "卷6 / 恒 / 上六小象 / 0007冊.djvu/431"
+          }
+        ],
+        "reviewId": "review-h32-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}
