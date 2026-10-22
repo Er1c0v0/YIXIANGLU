@@ -13,6 +13,25 @@ const required = (value, label) => assert.ok(typeof value === 'string' && value.
 const status = value => ['pending','passed','needs-fix','not-applicable'].includes(value)
 const subjectOf = (value, keys) => Object.fromEntries(keys.map(key => [key,value[key]]))
 
+// 只复用核对流程和共同问题；审核状态始终在每条记录中明确保存。
+export function expandReviews({ methods, records }) {
+  for (const method of Object.values(methods)) {
+    assert.deepEqual(Object.keys(method).sort(), ['checkedAt','checkedBy','issues'], '核对流程只允许日期、流程说明及共同问题')
+    required(method.checkedBy, '实际核对流程'); required(method.checkedAt, '核对日期')
+    assert.ok(Array.isArray(method.issues), '缺少共同问题列表')
+  }
+  const used = new Set()
+  const reviews = records.map(({ method, ...record }) => {
+    assert.ok(Object.hasOwn(methods, method), `核对流程悬空 ${method}`)
+    assert.ok(!Object.hasOwn(record, 'checkedBy') && !Object.hasOwn(record, 'checkedAt'), '核对流程字段不得重复声明')
+    assert.ok(Array.isArray(record.issues), `缺少审核问题列表 ${record.id}`)
+    used.add(method)
+    return { ...record, checkedBy: methods[method].checkedBy, checkedAt: methods[method].checkedAt, issues: [...methods[method].issues, ...record.issues] }
+  })
+  assert.equal(used.size, Object.keys(methods).length, '存在无关联核对流程')
+  return reviews
+}
+
 export function validateContent({ contents, sources, reviews }, { release = false } = {}) {
   const sourceMap = new Map(sources.map(source => [source.id,source]))
   const reviewMap = new Map(reviews.map(record => [record.id,record]))

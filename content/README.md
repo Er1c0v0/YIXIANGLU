@@ -1,14 +1,18 @@
 # 内容源与增量构建
 
-每卦保存在 hexagrams/NN.json，卦ID、正文ID及审核ID保持稳定。sources.json登记采用版本和对校版本；reviews.json记录实际核对范围。manifest.json和 miniprogram/data/content.ts由构建器生成，不手改。
+每卦保存在 hexagrams/NN.json，卦ID、正文ID及审核ID保持稳定。sources.json登记采用版本和对校版本；reviews.json记录实际核对范围（methods为共用流程，records为逐条记录）。manifest.json和 miniprogram/data/content.ts由构建器生成，不手改。
+
+审核记录的`method`必须指向已登记流程；流程只含`checkedBy`、`checkedAt`及共同`issues`，不提供审核状态默认值。每条记录明确保存ID、主体哈希、各项状态、去重后的`checkedRefs`及独有`issues`；展开时共同问题与独有问题合并。通过`scripts/content-lib.mjs`的`expandReviews`读取，构建及测试使用同一入口。独立复核应新建对应流程并更新受影响记录，不批改共享流程来冒充整批重审。
 
 界面仅展示经传、爻辞与特殊条文原文，保留简短意象和整体含义。既有白话、爻位说明与审核记录原样留档；新原文无需另写白话，省略 explanation、explanationRefs，其审核 explanationStatus必须为 not-applicable。留档爻位说明及审核ID如有则成对提供。
 
 新增资料的顺序：登记版本与段落定位 → 录入每卦卦辞、彖、大象、下至上六爻及小象 → 实际核对 → 记录审核对象哈希与真实状态 → 运行 `npm run build:content` 和 `npm run check`。新增条目可以待审，但不能伪造通过。修改已核对对象或来源版本会使旧 subjectHash失效，必须重新核对受影响条目；构建器不会刷新审核或批准资料。哈希算法见 scripts/content-lib.mjs。
 
+已确认显示异常而需通写的字形，应逐条对照来源，记录原字、替换字、依据及实际核对范围；保留正文notes和审核issues中的旧记录，仅更新受影响条目的哈希。显示修正不能提高影印或独立复审状态。2026-10-22的蒙及另外四种异常字形处理见资料核对，后续不要对全库自动做繁简或异体字替换。
+
 `npm run check:content`允许全库尚未齐全，报告缺卦和待审数量；已经录入的每卦必须具备15个必需原文块，乾坤各另有2个特殊原文块。`npm run check:content:release`另行要求64卦、964块及必需影印、独立复核和展示说明审核通过；不能以开发检查通过冒充发布通过。发布命令仅是正文资料门槛，其他PRD发布要求另验。
 
-版本格式为 schemaVersion.内容哈希前12位，完整SHA-256覆盖按卦序整理的内容、来源和审核记录。相同源重复构建应得到完全相同产物。
+版本格式为 schemaVersion.内容哈希前12位，完整SHA-256覆盖按卦序整理的内容、来源和展开后的审核记录。相同源重复构建应得到完全相同产物。
 
 当前六批已录入64卦、964块，后续审核与资料整理见 [开发计划](../docs/development-plan.md)。来源采用四库本电子录文及普通《周易》电子对校版本，旧五卦采用版本保留；具体异文、版本与审核进度见 [资料核对](../docs/content-review.md)。卷页oldid只固定编排，不冻结嵌页；访问日、摘录文本和主体哈希共同记录实际采用范围，不能将电子对校称为影印核准。
 

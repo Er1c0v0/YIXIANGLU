@@ -1,12 +1,13 @@
 import { readFile, writeFile, readdir } from 'node:fs/promises'
 import assert from 'node:assert/strict'
-import { validateContent } from './content-lib.mjs'
+import { expandReviews, validateContent } from './content-lib.mjs'
 
 const root = new URL('../',import.meta.url)
 const load = async file => JSON.parse(await readFile(new URL(file,root),'utf8'))
 const files = (await readdir(new URL('content/hexagrams/',root))).filter(file=>file.endsWith('.json')).sort()
 const contents = (await Promise.all(files.map(file=>load(`content/hexagrams/${file}`)))).sort((a,b)=>a.id-b.id)
-const [sources,reviews] = await Promise.all(['content/sources.json','content/reviews.json'].map(load))
+const [sources,reviewFile] = await Promise.all(['content/sources.json','content/reviews.json'].map(load))
+const reviews = expandReviews(reviewFile)
 const command = process.argv[2]
 assert.ok(['build','check','release'].includes(command),'用法：tsx scripts/content.mjs build|check|release')
 const manifest = validateContent({contents,sources,reviews},{release:command==='release'})

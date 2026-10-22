@@ -1,7 +1,7 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import { readFileSync, readdirSync } from 'node:fs'
-import { hash, validateContent } from '../scripts/content-lib.mjs'
+import { expandReviews, hash, validateContent } from '../scripts/content-lib.mjs'
 import { getContent, getCollectedHexagrams } from '../miniprogram/data/repository'
 import { SOURCES } from '../miniprogram/data/content'
 import { combine } from '../miniprogram/domain/hexagrams'
@@ -11,7 +11,8 @@ import type { CastSession } from '../miniprogram/domain/types'
 
 const load = (file: string) => JSON.parse(readFileSync(file,'utf8'))
 const files = readdirSync('content/hexagrams/').filter(file=>file.endsWith('.json')).sort()
-const dataset = { contents:files.map(file=>load(`content/hexagrams/${file}`)), sources:load('content/sources.json'), reviews:load('content/reviews.json') }
+const reviewFile = load('content/reviews.json')
+const dataset = { contents:files.map(file=>load(`content/hexagrams/${file}`)), sources:load('content/sources.json'), reviews:expandReviews(reviewFile) }
 
 test('增量资料：无白话正常构建、现有资料读取及全库门槛隔离', () => {
   const manifest = validateContent(dataset)
@@ -27,6 +28,12 @@ test('增量资料：无白话正常构建、现有资料读取及全库门槛�
 })
 
 test('构建器拒绝重复卦、空原文、坏引用、错序和过期哈希', () => {
+  const invalidMethod = structuredClone(reviewFile)
+  invalidMethod.records[0].method = 'missing'
+  assert.throws(() => expandReviews(invalidMethod), /核对流程悬空/)
+  const invalidStatus = structuredClone(reviewFile)
+  invalidStatus.methods[invalidStatus.records[0].method].originalStatus = 'passed'
+  assert.throws(() => expandReviews(invalidStatus), /核对流程只允许/)
   const cases = [
     [(d:typeof dataset)=>d.contents.push(structuredClone(d.contents[0])),/卦 ID 重复/],
     [(d:typeof dataset)=>d.contents[0].statement.original='',/缺少 original/],
@@ -69,6 +76,9 @@ test('资料关键流程：上下卦方向、变卦读取及正文来源归属',
   // 每次录入自动覆盖全部随包正文；具体异文与审核结论保存在内容档案。
   for (const content of dataset.contents) {
     assert.deepEqual(getContent(content.id), content)
+    const blocks = [content.statement, content.tuan, content.greatImage, ...content.yao.flatMap(yao => [yao.text, yao.smallImage]), ...content.specialEntries.flatMap(entry => [entry.text, entry.smallImage])]
+    // 这些录文字形已在模拟器中复现为卦形；通写正文，原字留在 notes。
+    for (const block of blocks) assert.doesNotMatch(block.original, /[𩔖𤼵𫉬𢘆]/u, `${block.id} 含已确认显示异常的字形`)
     for (const yao of content.yao) {
       assert.equal(yao.text.id, `h${content.id}-yao-${yao.position}`)
       assert.equal(yao.smallImage.id, `h${content.id}-image-${yao.position}`)
