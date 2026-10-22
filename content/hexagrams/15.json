@@ -1,0 +1,231 @@
+{
+  "id": 15,
+  "statement": {
+    "id": "h15-statement",
+    "original": "謙：亨，君子有終。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 謙 / 卦辞 / 0007冊.djvu/378"
+      }
+    ],
+    "reviewId": "review-h15-statement"
+  },
+  "tuan": {
+    "id": "h15-tuan",
+    "original": "謙亨，天道下濟而光明，地道卑而上行。天道虧盈而益謙，地道變盈而流謙，鬼神害盈而福謙，人道惡盈而好謙。謙尊而光，卑而不可踰，君子之終也。",
+    "notes": [
+      "电子页“鬼”为图形字，按图像替代文字转写，未遗漏为“神害盈”；保留录文“踰”，普通电子对校页作“逾”。影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 謙 / 彖曰 / 0007冊.djvu/379"
+      }
+    ],
+    "reviewId": "review-h15-tuan"
+  },
+  "greatImage": {
+    "id": "h15-great-image",
+    "original": "地中有山，謙；君子以裒多益寡，稱物平施。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 謙 / 整卦大象 / 0007冊.djvu/379"
+      }
+    ],
+    "reviewId": "review-h15-great-image"
+  },
+  "summary": "地中有山，谦下有终。",
+  "overallMeaning": "谦重在有能力而不自满。保持谦下，衡量事物、调平施予，使行动能够持久。",
+  "imagery": [
+    "艮下坤上，地中有山。",
+    "裒多益寡，称物平施。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch3",
+      "locator": "卷4 / 謙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/378–379"
+    }
+  ],
+  "overviewReviewId": "review-h15-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h15-yao-1",
+        "original": "謙謙君子，用渉大川，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 初六 / 0007冊.djvu/379"
+          }
+        ],
+        "reviewId": "review-h15-yao-1"
+      },
+      "smallImage": {
+        "id": "h15-image-1",
+        "original": "謙謙君子，卑以自牧也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 初六小象 / 0007冊.djvu/379"
+          }
+        ],
+        "reviewId": "review-h15-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h15-yao-2",
+        "original": "鳴謙，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 六二 / 0007冊.djvu/379"
+          }
+        ],
+        "reviewId": "review-h15-yao-2"
+      },
+      "smallImage": {
+        "id": "h15-image-2",
+        "original": "鳴謙貞吉，中心得也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 六二小象 / 0007冊.djvu/379"
+          }
+        ],
+        "reviewId": "review-h15-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h15-yao-3",
+        "original": "勞謙君子，有終，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 九三 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-yao-3"
+      },
+      "smallImage": {
+        "id": "h15-image-3",
+        "original": "勞謙君子，萬民服也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 九三小象 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h15-yao-4",
+        "original": "无不利，撝謙。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 六四 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-yao-4"
+      },
+      "smallImage": {
+        "id": "h15-image-4",
+        "original": "无不利撝謙，不違則也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 六四小象 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h15-yao-5",
+        "original": "不富以其鄰，利用侵伐，无不利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 六五 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-yao-5"
+      },
+      "smallImage": {
+        "id": "h15-image-5",
+        "original": "利用侵伐，征不服也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 六五小象 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h15-yao-6",
+        "original": "鳴謙，利用行師，征邑國。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 上六 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-yao-6"
+      },
+      "smallImage": {
+        "id": "h15-image-6",
+        "original": "鳴謙，志未得也。可用行師，征邑國也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 謙 / 上六小象 / 0007冊.djvu/380"
+          }
+        ],
+        "reviewId": "review-h15-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

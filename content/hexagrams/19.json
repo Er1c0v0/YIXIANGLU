@@ -1,0 +1,231 @@
+{
+  "id": 19,
+  "statement": {
+    "id": "h19-statement",
+    "original": "臨：元亨，利貞。至于八月有凶。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 臨 / 卦辞 / 0007冊.djvu/388"
+      }
+    ],
+    "reviewId": "review-h19-statement"
+  },
+  "tuan": {
+    "id": "h19-tuan",
+    "original": "臨，剛浸而長，説而順，剛中而應，大亨以正，天之道也。至于八月有凶，消不久也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 臨 / 彖曰 / 0007冊.djvu/388"
+      }
+    ],
+    "reviewId": "review-h19-tuan"
+  },
+  "greatImage": {
+    "id": "h19-great-image",
+    "original": "澤上有地，臨；君子以敎思无窮，容保民无疆。",
+    "notes": [
+      "保留采用电子录文“敎”字，普通电子对校页作“教”。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 臨 / 整卦大象 / 0007冊.djvu/388"
+      }
+    ],
+    "reviewId": "review-h19-great-image"
+  },
+  "summary": "泽上有地，临下育民。",
+  "overallMeaning": "临表现力量渐长、亲近并引导他人。以持续的教导和包容对待众人，也要在顺境中预见盛衰变化。",
+  "imagery": [
+    "兑下坤上，悦而顺。",
+    "泽上有地，容保民无疆。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch3",
+      "locator": "卷4 / 臨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/388"
+    }
+  ],
+  "overviewReviewId": "review-h19-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h19-yao-1",
+        "original": "咸臨，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 初九 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-yao-1"
+      },
+      "smallImage": {
+        "id": "h19-image-1",
+        "original": "咸臨貞吉，志行正也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 初九小象 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h19-yao-2",
+        "original": "咸臨，吉无不利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 九二 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-yao-2"
+      },
+      "smallImage": {
+        "id": "h19-image-2",
+        "original": "咸臨吉无不利，未順命也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 九二小象 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h19-yao-3",
+        "original": "甘臨，无攸利。既憂之，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 六三 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-yao-3"
+      },
+      "smallImage": {
+        "id": "h19-image-3",
+        "original": "甘臨，位不當也。既憂之，咎不長也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 六三小象 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h19-yao-4",
+        "original": "至臨，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 六四 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-yao-4"
+      },
+      "smallImage": {
+        "id": "h19-image-4",
+        "original": "至臨无咎，位當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 六四小象 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h19-yao-5",
+        "original": "知臨，大君之宜，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 六五 / 0007冊.djvu/389"
+          }
+        ],
+        "reviewId": "review-h19-yao-5"
+      },
+      "smallImage": {
+        "id": "h19-image-5",
+        "original": "大君之宜，行中之謂也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 六五小象 / 0007冊.djvu/390"
+          }
+        ],
+        "reviewId": "review-h19-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h19-yao-6",
+        "original": "敦臨，吉无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 上六 / 0007冊.djvu/390"
+          }
+        ],
+        "reviewId": "review-h19-yao-6"
+      },
+      "smallImage": {
+        "id": "h19-image-6",
+        "original": "敦臨之吉，志在内也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 臨 / 上六小象 / 0007冊.djvu/390"
+          }
+        ],
+        "reviewId": "review-h19-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

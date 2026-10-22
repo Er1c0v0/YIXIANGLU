@@ -1,0 +1,233 @@
+{
+  "id": 16,
+  "statement": {
+    "id": "h16-statement",
+    "original": "豫：利建侯行師。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 豫 / 卦辞 / 0007冊.djvu/381"
+      }
+    ],
+    "reviewId": "review-h16-statement"
+  },
+  "tuan": {
+    "id": "h16-tuan",
+    "original": "豫，剛應而志行，順以動，豫。豫順以動，故天地如之，而况建侯行師乎。天地以順動，故日月不過而四時不忒；聖人以順動，則刑罰清而民服。豫之時義大矣哉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 豫 / 彖曰 / 0007冊.djvu/381"
+      }
+    ],
+    "reviewId": "review-h16-tuan"
+  },
+  "greatImage": {
+    "id": "h16-great-image",
+    "original": "雷出地奮，豫；先王以作樂崇徳，殷薦之上帝，以配祖考。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 豫 / 整卦大象 / 0007冊.djvu/382"
+      }
+    ],
+    "reviewId": "review-h16-great-image"
+  },
+  "summary": "雷出地奋，顺动而豫。",
+  "overallMeaning": "豫表现顺势行动带来的和悦。使众人协同有序，同时警惕沉溺安乐，见到过失及时改变。",
+  "imagery": [
+    "坤下震上，顺以动。",
+    "雷出地奋，作乐崇德。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch3",
+      "locator": "卷4 / 豫 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/381–382"
+    }
+  ],
+  "overviewReviewId": "review-h16-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h16-yao-1",
+        "original": "鳴豫，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 初六 / 0007冊.djvu/382"
+          }
+        ],
+        "reviewId": "review-h16-yao-1"
+      },
+      "smallImage": {
+        "id": "h16-image-1",
+        "original": "初六鳴豫，志窮凶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 初六小象 / 0007冊.djvu/382"
+          }
+        ],
+        "reviewId": "review-h16-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h16-yao-2",
+        "original": "介于石，不終日，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 六二 / 0007冊.djvu/382"
+          }
+        ],
+        "reviewId": "review-h16-yao-2"
+      },
+      "smallImage": {
+        "id": "h16-image-2",
+        "original": "不終日貞吉，以中正也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 六二小象 / 0007冊.djvu/382"
+          }
+        ],
+        "reviewId": "review-h16-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h16-yao-3",
+        "original": "盱豫，悔。遲有悔。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 六三 / 0007冊.djvu/382"
+          }
+        ],
+        "reviewId": "review-h16-yao-3"
+      },
+      "smallImage": {
+        "id": "h16-image-3",
+        "original": "盱豫有悔，位不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 六三小象 / 0007冊.djvu/382"
+          }
+        ],
+        "reviewId": "review-h16-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h16-yao-4",
+        "original": "由豫，大有得。勿疑，朋盍簪。",
+        "notes": [
+          "采用四库本电子录文“朋盍簪”，普通电子对校页作“朋盍戠”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 九四 / 0007冊.djvu/383"
+          }
+        ],
+        "reviewId": "review-h16-yao-4"
+      },
+      "smallImage": {
+        "id": "h16-image-4",
+        "original": "由豫大有得，志大行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 九四小象 / 0007冊.djvu/383"
+          }
+        ],
+        "reviewId": "review-h16-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h16-yao-5",
+        "original": "貞疾，恒不死。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 六五 / 0007冊.djvu/383"
+          }
+        ],
+        "reviewId": "review-h16-yao-5"
+      },
+      "smallImage": {
+        "id": "h16-image-5",
+        "original": "六五貞疾，乘剛也。恒不死，中未亡也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 六五小象 / 0007冊.djvu/383"
+          }
+        ],
+        "reviewId": "review-h16-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h16-yao-6",
+        "original": "㝠豫，成有渝，无咎。",
+        "notes": [
+          "采用四库本电子录文爻辞“㝠”、小象“冥”的不同字形，普通电子对校页爻辞亦作“冥”；影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 上六 / 0007冊.djvu/383"
+          }
+        ],
+        "reviewId": "review-h16-yao-6"
+      },
+      "smallImage": {
+        "id": "h16-image-6",
+        "original": "冥豫在上，何可長也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 豫 / 上六小象 / 0007冊.djvu/383"
+          }
+        ],
+        "reviewId": "review-h16-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

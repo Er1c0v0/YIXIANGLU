@@ -1,0 +1,233 @@
+{
+  "id": 20,
+  "statement": {
+    "id": "h20-statement",
+    "original": "觀：盥而不薦，有孚顒若。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 觀 / 卦辞 / 0007冊.djvu/390"
+      }
+    ],
+    "reviewId": "review-h20-statement"
+  },
+  "tuan": {
+    "id": "h20-tuan",
+    "original": "大觀在上，順而巽，中正以觀天下。觀盥而不薦，有孚顒若，下觀而化也。觀天之神道而四時不忒，聖人以神道設敎而天下服矣。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 觀 / 彖曰 / 0007冊.djvu/390"
+      }
+    ],
+    "reviewId": "review-h20-tuan"
+  },
+  "greatImage": {
+    "id": "h20-great-image",
+    "original": "風行地上，觀；先王以省方觀民設敎。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 觀 / 整卦大象 / 0007冊.djvu/391"
+      }
+    ],
+    "reviewId": "review-h20-great-image"
+  },
+  "summary": "风行地上，观民设教。",
+  "overallMeaning": "观强调观察与示范。既审视自身的行为，也了解众人的处境，以诚信和合宜的教导形成影响。",
+  "imagery": [
+    "坤下巽上，顺而巽。",
+    "风行地上，省方观民。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch3",
+      "locator": "卷4 / 觀 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/390–391"
+    }
+  ],
+  "overviewReviewId": "review-h20-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h20-yao-1",
+        "original": "童觀，小人无咎，君子吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 初六 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-yao-1"
+      },
+      "smallImage": {
+        "id": "h20-image-1",
+        "original": "初六童觀，小人道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 初六小象 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h20-yao-2",
+        "original": "闚觀，利女貞。",
+        "notes": [
+          "采用四库本电子录文“闚”，普通电子对校页作“窺”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 六二 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-yao-2"
+      },
+      "smallImage": {
+        "id": "h20-image-2",
+        "original": "闚觀女貞，亦可醜也。",
+        "notes": [
+          "采用四库本电子录文“闚觀女貞”，此处无“利”字，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 六二小象 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h20-yao-3",
+        "original": "觀我生，進退。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 六三 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-yao-3"
+      },
+      "smallImage": {
+        "id": "h20-image-3",
+        "original": "觀我生進退，未失道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 六三小象 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h20-yao-4",
+        "original": "觀國之光，利用賓于王。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 六四 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-yao-4"
+      },
+      "smallImage": {
+        "id": "h20-image-4",
+        "original": "觀國之光，尚賓也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 六四小象 / 0007冊.djvu/391"
+          }
+        ],
+        "reviewId": "review-h20-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h20-yao-5",
+        "original": "觀我生，君子无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 九五 / 0007冊.djvu/392"
+          }
+        ],
+        "reviewId": "review-h20-yao-5"
+      },
+      "smallImage": {
+        "id": "h20-image-5",
+        "original": "觀我生，觀民也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 九五小象 / 0007冊.djvu/392"
+          }
+        ],
+        "reviewId": "review-h20-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h20-yao-6",
+        "original": "觀其生，君子无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 上九 / 0007冊.djvu/392"
+          }
+        ],
+        "reviewId": "review-h20-yao-6"
+      },
+      "smallImage": {
+        "id": "h20-image-6",
+        "original": "觀其生，志未平也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 觀 / 上九小象 / 0007冊.djvu/392"
+          }
+        ],
+        "reviewId": "review-h20-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

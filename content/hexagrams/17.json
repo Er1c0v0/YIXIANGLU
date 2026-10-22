@@ -1,0 +1,235 @@
+{
+  "id": 17,
+  "statement": {
+    "id": "h17-statement",
+    "original": "隨：元亨，利貞，无咎。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 隨 / 卦辞 / 0007冊.djvu/383"
+      }
+    ],
+    "reviewId": "review-h17-statement"
+  },
+  "tuan": {
+    "id": "h17-tuan",
+    "original": "隨，剛來而下柔，動而説，隨。大亨貞，无咎，而天下隨時。隨時之義大矣哉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 隨 / 彖曰 / 0007冊.djvu/384"
+      }
+    ],
+    "reviewId": "review-h17-tuan"
+  },
+  "greatImage": {
+    "id": "h17-great-image",
+    "original": "澤中有雷，隨；君子以嚮晦入宴息。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 隨 / 整卦大象 / 0007冊.djvu/384"
+      }
+    ],
+    "reviewId": "review-h17-great-image"
+  },
+  "summary": "泽中有雷，随时守正。",
+  "overallMeaning": "随讨论如何顺应时势与他人。随从须以正当原则为依据，避免私意牵系，也要懂得适时休息。",
+  "imagery": [
+    "震下兑上，动而悦。",
+    "泽中有雷，向晦宴息。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch3",
+      "locator": "卷4 / 隨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/383–384"
+    }
+  ],
+  "overviewReviewId": "review-h17-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h17-yao-1",
+        "original": "官有渝，貞吉。出門交有功。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 初九 / 0007冊.djvu/384"
+          }
+        ],
+        "reviewId": "review-h17-yao-1"
+      },
+      "smallImage": {
+        "id": "h17-image-1",
+        "original": "官有渝，從正吉也。出門交有功，不失也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 初九小象 / 0007冊.djvu/384"
+          }
+        ],
+        "reviewId": "review-h17-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h17-yao-2",
+        "original": "係小子，失丈夫。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 六二 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-yao-2"
+      },
+      "smallImage": {
+        "id": "h17-image-2",
+        "original": "係小子，弗兼與也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 六二小象 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h17-yao-3",
+        "original": "係丈夫，失小子。隨有求得，利居貞。",
+        "notes": [
+          "标点依采用录文注文“隨有求得也”“故利居貞也”整理，未改动经文字序。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 六三 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-yao-3"
+      },
+      "smallImage": {
+        "id": "h17-image-3",
+        "original": "係丈夫，志舎下也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 六三小象 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h17-yao-4",
+        "original": "隨有𫉬，貞凶。有孚在道，以明何咎。",
+        "notes": [
+          "采用四库本电子录文“𫉬”，普通电子对校页作“獲”；影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 九四 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-yao-4"
+      },
+      "smallImage": {
+        "id": "h17-image-4",
+        "original": "隨有𫉬，其義凶也。有孚在道，明功也。",
+        "notes": [
+          "保留采用电子录文“𫉬”字，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 九四小象 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h17-yao-5",
+        "original": "孚于嘉，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 九五 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-yao-5"
+      },
+      "smallImage": {
+        "id": "h17-image-5",
+        "original": "孚于嘉吉，位正中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 九五小象 / 0007冊.djvu/385"
+          }
+        ],
+        "reviewId": "review-h17-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h17-yao-6",
+        "original": "拘係之，乃從維之。王用亨于西山。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 上六 / 0007冊.djvu/386"
+          }
+        ],
+        "reviewId": "review-h17-yao-6"
+      },
+      "smallImage": {
+        "id": "h17-image-6",
+        "original": "拘係之，上窮也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 隨 / 上六小象 / 0007冊.djvu/386"
+          }
+        ],
+        "reviewId": "review-h17-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

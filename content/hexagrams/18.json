@@ -1,0 +1,231 @@
+{
+  "id": 18,
+  "statement": {
+    "id": "h18-statement",
+    "original": "蠱：元亨，利涉大川。先甲三日，後甲三日。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 蠱 / 卦辞 / 0007冊.djvu/386"
+      }
+    ],
+    "reviewId": "review-h18-statement"
+  },
+  "tuan": {
+    "id": "h18-tuan",
+    "original": "蠱，剛上而柔下，巽而止，蠱。蠱元亨，而天下治也。利涉大川，徃有事也。先甲三日，後甲三日，終則有始，天行也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 蠱 / 彖曰 / 0007冊.djvu/386"
+      }
+    ],
+    "reviewId": "review-h18-tuan"
+  },
+  "greatImage": {
+    "id": "h18-great-image",
+    "original": "山下有風，蠱；君子以振民育徳。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 蠱 / 整卦大象 / 0007冊.djvu/387"
+      }
+    ],
+    "reviewId": "review-h18-great-image"
+  },
+  "summary": "山下有风，整治积弊。",
+  "overallMeaning": "蛊面对长期积累的弊病。承担整治责任，辨明旧事的得失，在改变前后充分告知、审慎推进。",
+  "imagery": [
+    "巽下艮上，巽而止。",
+    "山下有风，振民育德。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-4-batch3",
+      "locator": "卷4 / 蠱 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/386–387"
+    }
+  ],
+  "overviewReviewId": "review-h18-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h18-yao-1",
+        "original": "幹父之蠱，有子，考无咎，厲終吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 初六 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-yao-1"
+      },
+      "smallImage": {
+        "id": "h18-image-1",
+        "original": "幹父之蠱，意承考也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 初六小象 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h18-yao-2",
+        "original": "幹母之蠱，不可貞。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 九二 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-yao-2"
+      },
+      "smallImage": {
+        "id": "h18-image-2",
+        "original": "幹母之蠱，得中道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 九二小象 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h18-yao-3",
+        "original": "幹父之蠱，小有悔，无大咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 九三 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-yao-3"
+      },
+      "smallImage": {
+        "id": "h18-image-3",
+        "original": "幹父之蠱，終无咎也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 九三小象 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h18-yao-4",
+        "original": "裕父之蠱，徃見吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 六四 / 0007冊.djvu/387"
+          }
+        ],
+        "reviewId": "review-h18-yao-4"
+      },
+      "smallImage": {
+        "id": "h18-image-4",
+        "original": "裕父之蠱，徃未得也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 六四小象 / 0007冊.djvu/388"
+          }
+        ],
+        "reviewId": "review-h18-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h18-yao-5",
+        "original": "幹父之蠱，用譽。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 六五 / 0007冊.djvu/388"
+          }
+        ],
+        "reviewId": "review-h18-yao-5"
+      },
+      "smallImage": {
+        "id": "h18-image-5",
+        "original": "幹父用譽，承以徳也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 六五小象 / 0007冊.djvu/388"
+          }
+        ],
+        "reviewId": "review-h18-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h18-yao-6",
+        "original": "不事王侯，髙尚其事。",
+        "notes": [
+          "保留采用电子录文“髙”字，普通电子对校页作“高”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 上九 / 0007冊.djvu/388"
+          }
+        ],
+        "reviewId": "review-h18-yao-6"
+      },
+      "smallImage": {
+        "id": "h18-image-6",
+        "original": "不事王侯，志可則也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-4-batch3",
+            "locator": "卷4 / 蠱 / 上九小象 / 0007冊.djvu/388"
+          }
+        ],
+        "reviewId": "review-h18-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

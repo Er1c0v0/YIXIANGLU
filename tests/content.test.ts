@@ -15,14 +15,14 @@ const dataset = { contents:files.map(file=>load(`content/hexagrams/${file}`)), s
 
 test('增量资料：无白话正常构建、现有资料读取及全库门槛隔离', () => {
   const manifest = validateContent(dataset)
-  assert.deepEqual(manifest.counts,{hexagrams:19,originalBlocks:289,reviewRecords:340})
-  assert.equal(manifest.reviews.noExplanation,210)
+  assert.deepEqual(manifest.counts,{hexagrams:27,originalBlocks:409,reviewRecords:468})
+  assert.equal(manifest.reviews.noExplanation,330)
   assert.equal(manifest.reviews.archivedExplanation.outstanding,1)
-  assert.equal(manifest.missingHexagramIds.length,45)
-  assert.deepEqual(getCollectedHexagrams().map(item=>item.id),[1,2,3,4,5,6,7,8,9,10,11,12,13,23,26,30,43,44,58])
-  assert.equal(getContent(14),undefined)
-  assert.equal(manifest.reviews.facsimileOriginal.outstanding,289)
-  assert.equal(manifest.reviews.displayExplanation.outstanding,14)
+  assert.equal(manifest.missingHexagramIds.length,37)
+  assert.deepEqual(getCollectedHexagrams().map(item=>item.id),[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,26,30,43,44,58])
+  assert.equal(getContent(22),undefined)
+  assert.equal(manifest.reviews.facsimileOriginal.outstanding,409)
+  assert.equal(manifest.reviews.displayExplanation.outstanding,22)
   assert.throws(()=>validateContent(dataset,{release:true}),/64 卦/)
 })
 
@@ -66,18 +66,26 @@ test('资料关键流程：上下卦方向、变卦读取及正文来源归属',
     assert.equal(getContent(session.hexagramId)?.yao[position-1].text.id,`h${session.hexagramId}-yao-${position}`)
   }
   assert.equal(getContent(23)?.yao[5].text.original,'碩果不食，君子得輿，小人剝廬。')
-  // 独立列出第二批上下卦、数字及单爻变化；不从内容清单反推期望值。
-  const batch2 = [
-    [4,'gen','kan','6','7',7,6],
-    [5,'kan','qian','1','6',11,5],
-    [6,'qian','kan','6','1',12,2],
-    [7,'kun','kan','6','8',2,2],
-    [8,'kan','kun','8','6',2,5],
-    [9,'xun','qian','1','5',1,4],
-    [10,'qian','dui','2','1',1,3],
-    [13,'qian','li','3','1',1,2],
+  // 独立列出后续批次上下卦、数字及单爻变化；不从内容清单反推期望值。
+  const increments = [
+    [4,'gen','kan','6','7',7,6,'9685959'],
+    [5,'kan','qian','1','6',11,5,'9685959'],
+    [6,'qian','kan','6','1',12,2,'9685959'],
+    [7,'kun','kan','6','8',2,2,'9685960'],
+    [8,'kan','kun','8','6',2,5,'9685960'],
+    [9,'xun','qian','1','5',1,4,'9685960'],
+    [10,'qian','dui','2','1',1,3,'9685960'],
+    [13,'qian','li','3','1',1,2,'9685960'],
+    [14,'li','qian','1','3',1,5,'9685960'],
+    [15,'kun','gen','7','8',2,3,'9685961'],
+    [16,'zhen','kun','8','4',2,4,'9685961'],
+    [17,'dui','zhen','4','2',3,4,'9685961'],
+    [18,'gen','xun','5','7',4,3,'9685961'],
+    [19,'kun','dui','2','8',11,3,'9685961'],
+    [20,'xun','kun','8','5',12,4,'9685961'],
+    [21,'li','zhen','4','3',30,3,'9685961'],
   ] as const
-  for (const [id,upper,lower,lowerNumber,upperNumber,from,position] of batch2) {
+  for (const [id,upper,lower,lowerNumber,upperNumber,from,position,revision] of increments) {
     assert.equal(combine(upper,lower).id,id)
     const number=castNumbers(lowerNumber,upperNumber,'6')
     assert.equal(number.hexagram.id,id)
@@ -91,15 +99,23 @@ test('资料关键流程：上下卦方向、变卦读取及正文来源归属',
     assert.ok(!content.statement.explanation)
     const source=SOURCES.find(s=>s.id===content.statement.originalRefs[0].sourceId)!
     assert.equal(source.accessedAt,'2026-10-22')
-    assert.equal(source.revisionOrSnapshot,id<=6?'9685959':'9685960')
+    assert.equal(source.revisionOrSnapshot,revision)
   }
+  assert.ok(getContent(4)?.statement.original.startsWith('蒙：'))
   assert.equal(getContent(4)?.yao[5].smallImage.original,'利用禦宼，上下順也。')
   assert.equal(getContent(7)?.statement.original,'師：貞，丈人吉，无咎。')
   assert.equal(getContent(9)?.yao[2].text.original,'輿說輻，夫妻反目。')
   assert.ok(getContent(9)?.yao[5].text.original.includes('尚德載'))
   assert.ok(!getContent(10)?.tuan.original.includes('利貞'))
   assert.equal(getContent(13)?.yao[3].text.original,'乘其墉，弗克攻，吉。')
-  for (const id of [3,4,5,6,7,8,9,10,11,12,13,23,26,44]) {
+  assert.equal(getContent(14)?.yao[3].text.original,'匪其彭，无咎。')
+  assert.ok(getContent(15)?.tuan.original.includes('鬼神害盈而福謙'))
+  assert.ok(getContent(16)?.yao[3].text.original.includes('朋盍簪'))
+  assert.ok(getContent(17)?.yao[3].text.original.includes('𫉬'))
+  assert.equal(getContent(18)?.yao[0].text.original,'幹父之蠱，有子，考无咎，厲終吉。')
+  assert.equal(getContent(20)?.yao[1].smallImage.original,'闚觀女貞，亦可醜也。')
+  assert.equal(getContent(21)?.yao[2].text.original,'噬腊肉，遇毒，小吝，无咎。')
+  for (const id of [3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,23,26,44]) {
     const c=getContent(id)!
     for (const block of [c.statement,c.tuan,c.greatImage,...c.yao.flatMap(yao=>[yao.text,yao.smallImage])]) {
       assert.ok(block.id.startsWith(`h${id}-`))

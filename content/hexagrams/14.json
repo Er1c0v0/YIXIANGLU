@@ -1,0 +1,237 @@
+{
+  "id": 14,
+  "statement": {
+    "id": "h14-statement",
+    "original": "大有：元亨。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch3",
+        "locator": "卷3 / 大有 / 卦辞 / 0007冊.djvu/372"
+      }
+    ],
+    "reviewId": "review-h14-statement"
+  },
+  "tuan": {
+    "id": "h14-tuan",
+    "original": "大有，柔得尊位，大中而上下應之，曰大有。其徳剛健而文明，應乎天而時行，是以元亨。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch3",
+        "locator": "卷3 / 大有 / 彖曰 / 0007冊.djvu/372"
+      }
+    ],
+    "reviewId": "review-h14-tuan"
+  },
+  "greatImage": {
+    "id": "h14-great-image",
+    "original": "火在天上，大有；君子以遏惡揚善，順天休命。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch3",
+        "locator": "卷3 / 大有 / 整卦大象 / 0007冊.djvu/373"
+      }
+    ],
+    "reviewId": "review-h14-great-image"
+  },
+  "summary": "火在天上，富有而明。",
+  "overallMeaning": "大有表现资源与力量充足。以诚信和明察善用所有，抑制恶行、鼓励善行，富有时仍保持谦逊。",
+  "imagery": [
+    "乾下离上，刚健而文明。",
+    "火在天上，遏恶扬善。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3-batch3",
+      "locator": "卷3 / 大有 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/372–373"
+    }
+  ],
+  "overviewReviewId": "review-h14-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h14-yao-1",
+        "original": "无交害，匪咎，艱則无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 初九 / 0007冊.djvu/373"
+          }
+        ],
+        "reviewId": "review-h14-yao-1"
+      },
+      "smallImage": {
+        "id": "h14-image-1",
+        "original": "大有初九，无交害也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 初九小象 / 0007冊.djvu/373"
+          }
+        ],
+        "reviewId": "review-h14-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h14-yao-2",
+        "original": "大車以載，有攸往，无咎。",
+        "notes": [
+          "采用四库本电子录文“大車”，普通电子对校页作“大轝”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 九二 / 0007冊.djvu/373"
+          }
+        ],
+        "reviewId": "review-h14-yao-2"
+      },
+      "smallImage": {
+        "id": "h14-image-2",
+        "original": "大車以載，積中不敗也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 九二小象 / 0007冊.djvu/373"
+          }
+        ],
+        "reviewId": "review-h14-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h14-yao-3",
+        "original": "公用亨于天子，小人弗克。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 九三 / 0007冊.djvu/373"
+          }
+        ],
+        "reviewId": "review-h14-yao-3"
+      },
+      "smallImage": {
+        "id": "h14-image-3",
+        "original": "公用亨于天子，小人害也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 九三小象 / 0007冊.djvu/373"
+          }
+        ],
+        "reviewId": "review-h14-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h14-yao-4",
+        "original": "匪其彭，无咎。",
+        "notes": [
+          "采用四库本电子录文“彭”，普通电子对校页爻辞作“尫”、小象仍作“彭”，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 九四 / 0007冊.djvu/374"
+          }
+        ],
+        "reviewId": "review-h14-yao-4"
+      },
+      "smallImage": {
+        "id": "h14-image-4",
+        "original": "匪其彭无咎，明辯晢也。",
+        "notes": [
+          "采用四库本电子录文“明辯晢也”，普通电子对校页作“明辨晰也”。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 九四小象 / 0007冊.djvu/374"
+          }
+        ],
+        "reviewId": "review-h14-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h14-yao-5",
+        "original": "厥孚交如，威如，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 六五 / 0007冊.djvu/374"
+          }
+        ],
+        "reviewId": "review-h14-yao-5"
+      },
+      "smallImage": {
+        "id": "h14-image-5",
+        "original": "厥孚交如，信以𤼵志也。威如之吉，易而无備也。",
+        "notes": [
+          "保留采用电子录文“𤼵”字，普通电子对校页作“發”，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 六五小象 / 0007冊.djvu/374"
+          }
+        ],
+        "reviewId": "review-h14-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h14-yao-6",
+        "original": "自天祐之，吉无不利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 上九 / 0007冊.djvu/374"
+          }
+        ],
+        "reviewId": "review-h14-yao-6"
+      },
+      "smallImage": {
+        "id": "h14-image-6",
+        "original": "大有上吉，自天祐也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch3",
+            "locator": "卷3 / 大有 / 上九小象 / 0007冊.djvu/374"
+          }
+        ],
+        "reviewId": "review-h14-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}
