@@ -3,22 +3,23 @@
     <view class="row between"><view><view class="eyebrow">第 {{meta.id}} 卦</view><view class="title">{{meta.fullName}}</view><view class="muted">上卦 · {{upperName}}　下卦 · {{lowerName}}</view></view><hexagram-shape lines="{{meta.lines}}" /></view>
     <view wx:if="{{content}}" class="summary">{{content.summary}}</view>
   </view>
+  <slot name="directory"></slot>
   <view wx:if="{{!content}}" class="card empty"><view class="section-title">资料整理中</view></view>
   <block wx:else>
     <view class="card">
-      <button class="disclosure" bindtap="toggleStatement" aria-expanded="{{statementOpen}}" hover-class="button-pressed" hover-stay-time="80">卦辞 <text>{{statementOpen ? '−' : '＋'}}</text></button>
+      <button id="section-statement" class="disclosure" bindtap="toggleStatement" aria-expanded="{{statementOpen}}" hover-class="button-pressed" hover-stay-time="80">卦辞 <text>{{statementOpen ? '−' : '＋'}}</text></button>
       <view wx:if="{{statementOpen}}"><text class="original" user-select="{{true}}">{{content.statement.original}}</text><source-panel refs="{{content.statement.originalRefs}}" /></view>
     </view>
     <view class="card">
-      <button class="disclosure" bindtap="toggleOverview" aria-expanded="{{overviewOpen}}" hover-class="button-pressed" hover-stay-time="80">意象与整体含义 <text>{{overviewOpen ? '−' : '＋'}}</text></button>
+      <button id="section-overview" class="disclosure" bindtap="toggleOverview" aria-expanded="{{overviewOpen}}" hover-class="button-pressed" hover-stay-time="80">意象与整体含义 <text>{{overviewOpen ? '−' : '＋'}}</text></button>
       <view wx:if="{{overviewOpen}}"><view wx:for="{{content.imagery}}" wx:key="*this" class="imagery">{{item}}</view><view class="overall">{{content.overallMeaning}}</view><source-panel refs="{{content.overviewRefs}}" /></view>
     </view>
-    <view class="card"><button class="disclosure" bindtap="toggleTuan" aria-expanded="{{tuanOpen}}" hover-class="button-pressed" hover-stay-time="80">彖传 <text>{{tuanOpen ? '−' : '＋'}}</text></button><view wx:if="{{tuanOpen}}"><text class="original" user-select="{{true}}">{{content.tuan.original}}</text><source-panel refs="{{content.tuan.originalRefs}}" /></view></view>
-    <view class="card"><button class="disclosure" bindtap="toggleImage" aria-expanded="{{imageOpen}}" hover-class="button-pressed" hover-stay-time="80">大象传 <text>{{imageOpen ? '−' : '＋'}}</text></button><view wx:if="{{imageOpen}}"><text class="original" user-select="{{true}}">{{content.greatImage.original}}</text><source-panel refs="{{content.greatImage.originalRefs}}" /></view></view>
+    <view class="card"><button id="section-tuan" class="disclosure" bindtap="toggleTuan" aria-expanded="{{tuanOpen}}" hover-class="button-pressed" hover-stay-time="80">彖传 <text>{{tuanOpen ? '−' : '＋'}}</text></button><view wx:if="{{tuanOpen}}"><text class="original" user-select="{{true}}">{{content.tuan.original}}</text><source-panel refs="{{content.tuan.originalRefs}}" /></view></view>
+    <view class="card"><button id="section-image" class="disclosure" bindtap="toggleImage" aria-expanded="{{imageOpen}}" hover-class="button-pressed" hover-stay-time="80">大象传 <text>{{imageOpen ? '−' : '＋'}}</text></button><view wx:if="{{imageOpen}}"><text class="original" user-select="{{true}}">{{content.greatImage.original}}</text><source-panel refs="{{content.greatImage.originalRefs}}" /></view></view>
     <block wx:if="{{showYao}}">
-      <view class="section-title">六爻</view>
+      <view id="section-yao" class="section-title">六爻</view>
       <view wx:for="{{content.yao}}" wx:key="position" class="card">
-        <button class="disclosure" bindtap="toggleYao" data-index="{{index}}" aria-expanded="{{yaoOpen[index]}}" hover-class="button-pressed" hover-stay-time="80">{{item.label}} <text>{{yaoOpen[index] ? '−' : '＋'}}</text></button>
+        <button id="section-yao-{{item.position}}" class="disclosure" bindtap="toggleYao" data-index="{{index}}" aria-expanded="{{yaoOpen[index]}}" hover-class="button-pressed" hover-stay-time="80">{{item.label}} <text>{{yaoOpen[index] ? '−' : '＋'}}</text></button>
         <view wx:if="{{yaoOpen[index]}}">
           <text class="label">爻辞原文</text><text class="original" user-select="{{true}}">{{item.text.original}}</text>
           <text class="label">小象传</text><text class="original" user-select="{{true}}">{{item.smallImage.original}}</text>
@@ -26,6 +27,6 @@
         </view>
       </view>
     </block>
-    <view wx:if="{{content.specialEntries.length}}" class="card"><button class="disclosure" bindtap="toggleSpecial" aria-expanded="{{specialOpen}}" hover-class="button-pressed" hover-stay-time="80">{{meta.id === 1 ? '用九' : '用六'}} <text>{{specialOpen ? '−' : '＋'}}</text></button><view wx:if="{{specialOpen}}" wx:for="{{content.specialEntries}}" wx:key="kind"><text class="original" user-select="{{true}}">{{item.text.original}}</text><text class="label space">相关象传</text><text class="original" user-select="{{true}}">{{item.smallImage.original}}</text><source-panel refs="{{item.text.originalRefs}}" related-refs="{{item.smallImage.originalRefs}}" /></view></view>
+    <view wx:if="{{content.specialEntries.length}}" class="card"><button id="section-special" class="disclosure" bindtap="toggleSpecial" aria-expanded="{{specialOpen}}" hover-class="button-pressed" hover-stay-time="80">{{meta.id === 1 ? '用九' : '用六'}} <text>{{specialOpen ? '−' : '＋'}}</text></button><view wx:if="{{specialOpen}}" wx:for="{{content.specialEntries}}" wx:key="kind"><text class="original" user-select="{{true}}">{{item.text.original}}</text><text class="label space">相关象传</text><text class="original" user-select="{{true}}">{{item.smallImage.original}}</text><source-panel refs="{{item.text.originalRefs}}" related-refs="{{item.smallImage.originalRefs}}" /></view></view>
   </block>
 </block>

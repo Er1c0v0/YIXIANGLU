@@ -2,6 +2,7 @@ import { HEXAGRAMS, getHexagram } from '../../domain/hexagrams'
 import { TRIGRAMS, getTrigram } from '../../domain/trigrams'
 import { searchHexagrams, normalizeSearch } from '../../domain/search'
 import { SEARCH_ENTRIES } from '../../data/search'
+import { endReading, startReading } from '../../state/reading'
 
 const options = [{ id: '', name: '不限' }, ...TRIGRAMS]
 const card = (id: number) => {
@@ -56,7 +57,11 @@ Page({
     if (this.timer !== 0) this.refresh()
     const id = Number(e.currentTarget.dataset.id)
     if (!this.data.samples.some(item => item.id === id)) return
+    const context = startReading(this.data.samples.map(item => item.id), this.data.active)
     this.setData({ busy: true })
-    wx.navigateTo({ url: `/pages/detail/index?id=${id}`, fail: () => this.setData({ busy: false }) })
+    wx.navigateTo({
+      url: `/pages/detail/index?id=${id}&reading=${context.key}`,
+      fail: () => { endReading(context); this.setData({ busy: false }) },
+    })
   },
 })

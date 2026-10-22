@@ -24,7 +24,7 @@ const component = (name: string) => ({
   },
 })
 
-test('六爻默认折叠、各自开合，换卦恢复章节和六爻初始状态', async () => {
+test('六爻独立开合，目录仅展开目标并在渲染后测量，换卦恢复初始状态', async () => {
   await loaded
   const reading = component('reading')
   const observe = (id: number) => definitions.reading.observers.hexagramId.call(reading, id)
@@ -43,6 +43,43 @@ test('六爻默认折叠、各自开合，换卦恢复章节和六爻初始状�
   reading.toggleTuan()
   reading.toggleImage()
   reading.toggleSpecial()
+
+  const content = reading.data.content
+  const update = reading.setData
+  let rendered: (() => void) | undefined, measure: ((rect: { top: number }) => void) | undefined
+  const selectors: string[] = []
+  reading.setData = (patch: Record<string, unknown>, done?: () => void) => {
+    update.call(reading, patch)
+    rendered = done
+  }
+  reading.createSelectorQuery = () => ({
+    select(selector: string) { selectors.push(selector); return this },
+    boundingClientRect(done: (rect: { top: number }) => void) { measure = done; return this },
+    exec() { measure!({ top: 123 }) },
+  })
+  const reveal = (target: string) => {
+    const count = selectors.length
+    let top: number | undefined
+    reading.reveal(target, (value: number) => { top = value })
+    assert.equal(selectors.length, count)
+    assert.equal(top, undefined)
+    assert.ok(rendered)
+    rendered()
+    assert.equal(selectors.at(-1), `#section-${target}`)
+    assert.equal(top, 123)
+    assert.equal(reading.data.content, content)
+  }
+  reveal('yao-5')
+  const expanded = { ...reading.data, yaoOpen: [...reading.data.yaoOpen] }
+  assert.deepEqual(expanded.yaoOpen, [true, false, false, false, true, true])
+  reveal('yao-5')
+  assert.deepEqual(reading.data, expanded)
+  reveal('yao')
+  assert.deepEqual(reading.data, expanded)
+  reveal('statement')
+  assert.deepEqual(reading.data, { ...expanded, statementOpen: true })
+  reading.setData = update
+
   observe(2)
   assert.equal(reading.data.meta.id, 2)
   assert.equal(reading.data.content, getContent(2))

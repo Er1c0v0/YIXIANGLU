@@ -1,11 +1,33 @@
+<page-meta page-style="{{directoryOpen || directoryClosing ? 'overflow: hidden;' : ''}}" />
 <view class="page">
   <block wx:if="{{valid}}">
-    <reading hexagram-id="{{id}}" show-yao="{{true}}" />
+    <reading id="reading" hexagram-id="{{id}}" show-yao="{{true}}">
+      <view slot="directory" id="directory-bar" class="directory-bar">
+        <button class="directory-trigger" bindtap="openDirectory" aria-expanded="{{directoryOpen}}" hover-class="button-pressed" hover-stay-time="80">阅读目录 <text>＋</text></button>
+      </view>
+    </reading>
+    <view class="reading-navigation">
+      <button data-direction="-1" bindtap="switchHexagram" disabled="{{!previous || busy}}" hover-class="button-pressed" hover-stay-time="80">{{filtered ? '上一结果' : '上一卦'}}<text wx:if="{{previous}}">{{previous.fullName}}</text></button>
+      <button data-direction="1" bindtap="switchHexagram" disabled="{{!next || busy}}" hover-class="button-pressed" hover-stay-time="80">{{filtered ? '下一结果' : '下一卦'}}<text wx:if="{{next}}">{{next.fullName}}</text></button>
+    </view>
     <button class="primary" bindtap="observe" hover-class="button-pressed" hover-stay-time="80">观察变化</button>
     <button wx:if="{{showAtlasLink}}" class="link" bindtap="atlas" hover-class="button-pressed" hover-stay-time="80">返回图鉴</button>
   </block>
   <view wx:else class="card empty">
-    <view class="section-title">未找到该卦</view>
+    <view class="section-title">{{error}}</view>
     <button class="primary" bindtap="atlas" hover-class="button-pressed" hover-stay-time="80">返回图鉴</button>
   </view>
 </view>
+<page-container show="{{directoryOpen}}" position="bottom" round bind:beforeleave="directoryLeaving" bind:afterleave="directoryLeft" bind:clickoverlay="closeDirectory">
+  <view class="directory-sheet" aria-role="dialog" aria-label="阅读目录" aria-modal="{{true}}">
+    <view class="directory-header"><view class="section-title">阅读目录</view><button class="link" bindtap="closeDirectory" aria-label="关闭阅读目录" hover-class="button-pressed" hover-stay-time="80">关闭</button></view>
+    <scroll-view class="directory-items" scroll-y>
+      <button wx:for="{{sections}}" wx:key="id" class="directory-item" data-section="{{item.id}}" bindtap="chooseSection" hover-class="button-pressed" hover-stay-time="80">{{item.label}}</button>
+      <button class="directory-item" data-section="yao" bindtap="chooseSection" hover-class="button-pressed" hover-stay-time="80">六爻</button>
+      <view class="directory-yao">
+        <button wx:for="{{yaoItems}}" wx:key="id" class="link" data-section="{{item.id}}" bindtap="chooseSection" hover-class="button-pressed" hover-stay-time="80">{{item.label}}</button>
+      </view>
+      <button wx:if="{{specialLabel}}" class="directory-item" data-section="special" bindtap="chooseSection" hover-class="button-pressed" hover-stay-time="80">{{specialLabel}}</button>
+    </scroll-view>
+  </view>
+</page-container>
