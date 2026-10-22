@@ -16,10 +16,8 @@ button::after { border: none; }
 button.primary { background: #765535; color: #FFFDFA; }
 button[disabled] { background: #E8E2D7; color: #81796D; }
 button.link { background: transparent; color: #765535; }
-button.small { display: inline-block; font-size: 27rpx; margin-right: 12rpx; }
 .row { display: flex; align-items: center; gap: 24rpx; }
 .between { justify-content: space-between; }
-.tag { font-size: 24rpx; padding: 4rpx 16rpx; border: 1rpx solid #DDD6C9; border-radius: 30rpx; color: #625D55; display: inline-block; }
 .notice { padding: 22rpx 26rpx; background: #EFE9DE; color: #625D55; border-radius: 14rpx; font-size: 27rpx; margin: 20rpx 0; }
 .error { color: #A83B32; font-size: 26rpx; margin-top: 8rpx; }
 .empty { padding: 64rpx 28rpx; text-align: center; }

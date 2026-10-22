@@ -1,0 +1,233 @@
+{
+  "id": 37,
+  "statement": {
+    "id": "h37-statement",
+    "original": "家人：利女貞。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 家人 / 卦辞 / 0007冊.djvu/440"
+      }
+    ],
+    "reviewId": "review-h37-statement"
+  },
+  "tuan": {
+    "id": "h37-tuan",
+    "original": "家人，女正位乎内，男正位乎外，男女正，天地之大義也。家人有嚴君焉，父母之謂也。父父子子，兄兄弟弟，夫夫婦婦，而家道正；正家而天下定矣。",
+    "notes": [
+      "采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 家人 / 彖曰 / 0007冊.djvu/440"
+      }
+    ],
+    "reviewId": "review-h37-tuan"
+  },
+  "greatImage": {
+    "id": "h37-great-image",
+    "original": "風自火出，家人；君子以言有物而行有恒。",
+    "notes": [
+      "采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 家人 / 整卦大象 / 0007冊.djvu/440"
+      }
+    ],
+    "reviewId": "review-h37-great-image"
+  },
+  "summary": "风自火出，言行有常。",
+  "overallMeaning": "家人从日常共同生活讲秩序与责任。成员各尽其责、彼此关爱，先使自身言行可信且持久，再将良好影响扩展到家庭之外。",
+  "imagery": [
+    "离下巽上，风自火出。",
+    "言有物，行有恒。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-6-batch5",
+      "locator": "卷6 / 家人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/440"
+    }
+  ],
+  "overviewReviewId": "review-h37-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h37-yao-1",
+        "original": "閑有家，悔亡。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 初九 / 0007冊.djvu/440"
+          }
+        ],
+        "reviewId": "review-h37-yao-1"
+      },
+      "smallImage": {
+        "id": "h37-image-1",
+        "original": "閑有家，志未變也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 初九小象 / 0007冊.djvu/440"
+          }
+        ],
+        "reviewId": "review-h37-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h37-yao-2",
+        "original": "无攸遂，在中饋，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 六二 / 0007冊.djvu/440"
+          }
+        ],
+        "reviewId": "review-h37-yao-2"
+      },
+      "smallImage": {
+        "id": "h37-image-2",
+        "original": "六二之吉，順以巽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 六二小象 / 0007冊.djvu/440"
+          }
+        ],
+        "reviewId": "review-h37-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h37-yao-3",
+        "original": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 九三 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-yao-3"
+      },
+      "smallImage": {
+        "id": "h37-image-3",
+        "original": "家人嗃嗃，未失也；婦子嘻嘻，失家節也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 九三小象 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h37-yao-4",
+        "original": "富家，大吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 六四 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-yao-4"
+      },
+      "smallImage": {
+        "id": "h37-image-4",
+        "original": "富家大吉，順在位也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 六四小象 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h37-yao-5",
+        "original": "王假有家，勿恤，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 九五 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-yao-5"
+      },
+      "smallImage": {
+        "id": "h37-image-5",
+        "original": "王假有家，交相愛也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 九五小象 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h37-yao-6",
+        "original": "有孚威如，終吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 上九 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-yao-6"
+      },
+      "smallImage": {
+        "id": "h37-image-6",
+        "original": "威如之吉，反身之謂也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 家人 / 上九小象 / 0007冊.djvu/441"
+          }
+        ],
+        "reviewId": "review-h37-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

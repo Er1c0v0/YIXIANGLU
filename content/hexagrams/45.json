@@ -1,0 +1,235 @@
+{
+  "id": 45,
+  "statement": {
+    "id": "h45-statement",
+    "original": "萃：亨。王假有廟，利見大人，亨，利貞。用大牲吉，利有攸往。",
+    "notes": [
+      "采用电子主文“萃亨”后接注文“聚乃通也”，再接“王假有廟”；普通电子对校页卦辞开头无此“亨”字。保留主文，排除中间注文，影印待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 萃 / 卦辞 / 0007冊.djvu/466"
+      }
+    ],
+    "reviewId": "review-h45-statement"
+  },
+  "tuan": {
+    "id": "h45-tuan",
+    "original": "萃，聚也。順以說，剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚而天地萬物之情可見矣。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 萃 / 彖曰 / 0007冊.djvu/466"
+      }
+    ],
+    "reviewId": "review-h45-tuan"
+  },
+  "greatImage": {
+    "id": "h45-great-image",
+    "original": "澤上於地，萃；君子以除戎器，戒不虞。",
+    "notes": [
+      "采用电子录文“於”，普通电子对校页相应为“于”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 萃 / 整卦大象 / 0007冊.djvu/466"
+      }
+    ],
+    "reviewId": "review-h45-great-image"
+  },
+  "summary": "泽上于地，聚而有备。",
+  "overallMeaning": "萃讲聚集人与力量。以共同的方向和诚意建立联系，聚合之后也要安排责任、预备意外，才能使群体长久安定。",
+  "imagery": [
+    "坤下兑上，顺而悦。",
+    "泽上于地，戒备不虞。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-8-batch5",
+      "locator": "卷8 / 萃 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/466"
+    }
+  ],
+  "overviewReviewId": "review-h45-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h45-yao-1",
+        "original": "有孚不終，乃亂乃萃，若號一握為笑，勿恤，往无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 初六 / 0007冊.djvu/467"
+          }
+        ],
+        "reviewId": "review-h45-yao-1"
+      },
+      "smallImage": {
+        "id": "h45-image-1",
+        "original": "乃亂乃萃，其志亂也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 初六小象 / 0007冊.djvu/467"
+          }
+        ],
+        "reviewId": "review-h45-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h45-yao-2",
+        "original": "引吉，无咎，孚乃利用禴。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 六二 / 0007冊.djvu/467"
+          }
+        ],
+        "reviewId": "review-h45-yao-2"
+      },
+      "smallImage": {
+        "id": "h45-image-2",
+        "original": "引吉无咎，中未變也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 六二小象 / 0007冊.djvu/467"
+          }
+        ],
+        "reviewId": "review-h45-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h45-yao-3",
+        "original": "萃如嗟如，无攸利，往无咎，小吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 六三 / 0007冊.djvu/467"
+          }
+        ],
+        "reviewId": "review-h45-yao-3"
+      },
+      "smallImage": {
+        "id": "h45-image-3",
+        "original": "往无咎，上巽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 六三小象 / 0007冊.djvu/467"
+          }
+        ],
+        "reviewId": "review-h45-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h45-yao-4",
+        "original": "大吉，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 九四 / 0007冊.djvu/468"
+          }
+        ],
+        "reviewId": "review-h45-yao-4"
+      },
+      "smallImage": {
+        "id": "h45-image-4",
+        "original": "大吉无咎，位不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 九四小象 / 0007冊.djvu/468"
+          }
+        ],
+        "reviewId": "review-h45-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h45-yao-5",
+        "original": "萃有位，无咎。匪孚，元永貞，悔亡。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 九五 / 0007冊.djvu/468"
+          }
+        ],
+        "reviewId": "review-h45-yao-5"
+      },
+      "smallImage": {
+        "id": "h45-image-5",
+        "original": "萃有位，志未光也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 九五小象 / 0007冊.djvu/468"
+          }
+        ],
+        "reviewId": "review-h45-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h45-yao-6",
+        "original": "齎咨涕洟，无咎。",
+        "notes": [
+          "采用电子录文“咨”，普通电子对校页相应为“資”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 上六 / 0007冊.djvu/468"
+          }
+        ],
+        "reviewId": "review-h45-yao-6"
+      },
+      "smallImage": {
+        "id": "h45-image-6",
+        "original": "齎咨涕洟，未安上也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 萃 / 上六小象 / 0007冊.djvu/468"
+          }
+        ],
+        "reviewId": "review-h45-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

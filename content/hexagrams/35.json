@@ -1,0 +1,241 @@
+{
+  "id": 35,
+  "statement": {
+    "id": "h35-statement",
+    "original": "晉：康侯用錫馬蕃庶，晝日三接。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 晉 / 卦辞 / 0007冊.djvu/435"
+      }
+    ],
+    "reviewId": "review-h35-statement"
+  },
+  "tuan": {
+    "id": "h35-tuan",
+    "original": "晉，進也。明出地上，順而麗乎大明，柔進而上行。是以康侯用錫馬蕃庻，晝日三接也。",
+    "notes": [
+      "采用电子录文“庻”，普通电子对校页相应为“庶”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 晉 / 彖曰 / 0007冊.djvu/435"
+      }
+    ],
+    "reviewId": "review-h35-tuan"
+  },
+  "greatImage": {
+    "id": "h35-great-image",
+    "original": "明出地上，晉；君子以自昭明德。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 晉 / 整卦大象 / 0007冊.djvu/436"
+      }
+    ],
+    "reviewId": "review-h35-great-image"
+  },
+  "summary": "明出地上，进而明德。",
+  "overallMeaning": "晋以光明升出地面表现前进。顺势进取，同时修明自身德行；受到信任时尽责，尚未得到信任时保持宽裕和耐心。",
+  "imagery": [
+    "坤下离上，顺而丽明。",
+    "明出地上，自昭明德。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-6-batch5",
+      "locator": "卷6 / 晉 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/435–436"
+    }
+  ],
+  "overviewReviewId": "review-h35-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h35-yao-1",
+        "original": "晉如摧如，貞吉。罔孚，裕无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 初六 / 0007冊.djvu/436"
+          }
+        ],
+        "reviewId": "review-h35-yao-1"
+      },
+      "smallImage": {
+        "id": "h35-image-1",
+        "original": "晉如摧如，獨行正也。裕无咎，未受命也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 初六小象 / 0007冊.djvu/436"
+          }
+        ],
+        "reviewId": "review-h35-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h35-yao-2",
+        "original": "晉如愁如，貞吉。受兹介福，于其王母。",
+        "notes": [
+          "采用电子录文“兹”，普通电子对校页相应为“茲”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 六二 / 0007冊.djvu/436"
+          }
+        ],
+        "reviewId": "review-h35-yao-2"
+      },
+      "smallImage": {
+        "id": "h35-image-2",
+        "original": "受兹介福，以中正也。",
+        "notes": [
+          "采用电子录文“兹”，普通电子对校页相应为“茲”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 六二小象 / 0007冊.djvu/436"
+          }
+        ],
+        "reviewId": "review-h35-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h35-yao-3",
+        "original": "衆允，悔亡。",
+        "notes": [
+          "采用电子录文“衆”，普通电子对校页相应为“眾”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 六三 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-yao-3"
+      },
+      "smallImage": {
+        "id": "h35-image-3",
+        "original": "衆允之志，上行也。",
+        "notes": [
+          "采用电子录文“衆”，普通电子对校页相应为“眾”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 六三小象 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h35-yao-4",
+        "original": "晉如鼫鼠，貞厲。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 九四 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-yao-4"
+      },
+      "smallImage": {
+        "id": "h35-image-4",
+        "original": "鼫鼠貞厲，位不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 九四小象 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h35-yao-5",
+        "original": "悔亡，失得勿恤，往吉，无不利。",
+        "notes": [
+          "采用电子录文“失得勿恤”，普通电子对校页爻辞作“矢得勿恤”、小象仍作“失得勿恤”；保留采用录文，影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 六五 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-yao-5"
+      },
+      "smallImage": {
+        "id": "h35-image-5",
+        "original": "失得勿恤，往有慶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 六五小象 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h35-yao-6",
+        "original": "晉其角，維用伐邑，厲吉无咎，貞吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 上九 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-yao-6"
+      },
+      "smallImage": {
+        "id": "h35-image-6",
+        "original": "維用伐邑，道未光也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 晉 / 上九小象 / 0007冊.djvu/437"
+          }
+        ],
+        "reviewId": "review-h35-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

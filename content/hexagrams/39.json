@@ -1,0 +1,235 @@
+{
+  "id": 39,
+  "statement": {
+    "id": "h39-statement",
+    "original": "蹇：利西南，不利東北；利見大人，貞吉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 蹇 / 卦辞 / 0007冊.djvu/446"
+      }
+    ],
+    "reviewId": "review-h39-statement"
+  },
+  "tuan": {
+    "id": "h39-tuan",
+    "original": "蹇，難也，險在前也。見險而能止，知矣哉！蹇利西南，往得中也；不利東北，其道窮也。利見大人，往有功也。當位貞吉，以正邦也。蹇之時用大矣哉！",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 蹇 / 彖曰 / 0007冊.djvu/447"
+      }
+    ],
+    "reviewId": "review-h39-tuan"
+  },
+  "greatImage": {
+    "id": "h39-great-image",
+    "original": "山上有水，蹇；君子以反身脩德。",
+    "notes": [
+      "采用电子录文“脩”，普通电子对校页相应为“修”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 蹇 / 整卦大象 / 0007冊.djvu/447"
+      }
+    ],
+    "reviewId": "review-h39-great-image"
+  },
+  "summary": "山上有水，遇险知止。",
+  "overallMeaning": "蹇讲前路受阻时的应对。见险能止，反省自身并修养德行，也借助有能力者和同伴的力量，共同寻找通路。",
+  "imagery": [
+    "艮下坎上，止而遇险。",
+    "山上有水，反身修德。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-7-batch5",
+      "locator": "卷7 / 蹇 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/446–447"
+    }
+  ],
+  "overviewReviewId": "review-h39-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h39-yao-1",
+        "original": "往蹇，來譽。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 初六 / 0007冊.djvu/447"
+          }
+        ],
+        "reviewId": "review-h39-yao-1"
+      },
+      "smallImage": {
+        "id": "h39-image-1",
+        "original": "往蹇來譽，宜待也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 初六小象 / 0007冊.djvu/447"
+          }
+        ],
+        "reviewId": "review-h39-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h39-yao-2",
+        "original": "王臣蹇蹇，匪躬之故。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 六二 / 0007冊.djvu/447"
+          }
+        ],
+        "reviewId": "review-h39-yao-2"
+      },
+      "smallImage": {
+        "id": "h39-image-2",
+        "original": "王臣蹇蹇，終无尤也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 六二小象 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h39-yao-3",
+        "original": "往蹇，來反。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 九三 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-yao-3"
+      },
+      "smallImage": {
+        "id": "h39-image-3",
+        "original": "往蹇來反，内喜之也。",
+        "notes": [
+          "采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 九三小象 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h39-yao-4",
+        "original": "往蹇，來連。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 六四 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-yao-4"
+      },
+      "smallImage": {
+        "id": "h39-image-4",
+        "original": "往蹇來連，當位實也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 六四小象 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h39-yao-5",
+        "original": "大蹇，朋來。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 九五 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-yao-5"
+      },
+      "smallImage": {
+        "id": "h39-image-5",
+        "original": "大蹇朋來，以中節也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 九五小象 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h39-yao-6",
+        "original": "往蹇，來碩，吉；利見大人。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 上六 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-yao-6"
+      },
+      "smallImage": {
+        "id": "h39-image-6",
+        "original": "往蹇來碩，志在内也。利見大人，以從貴也。",
+        "notes": [
+          "采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 蹇 / 上六小象 / 0007冊.djvu/448"
+          }
+        ],
+        "reviewId": "review-h39-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

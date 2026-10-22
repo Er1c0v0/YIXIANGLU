@@ -1,0 +1,231 @@
+{
+  "id": 46,
+  "statement": {
+    "id": "h46-statement",
+    "original": "升：元亨，用見大人，勿恤，南征吉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 升 / 卦辞 / 0007冊.djvu/468"
+      }
+    ],
+    "reviewId": "review-h46-statement"
+  },
+  "tuan": {
+    "id": "h46-tuan",
+    "original": "柔以時升。巽而順，剛中而應，是以大亨。用見大人勿恤，有慶也。南征吉，志行也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 升 / 彖曰 / 0007冊.djvu/468–469"
+      }
+    ],
+    "reviewId": "review-h46-tuan"
+  },
+  "greatImage": {
+    "id": "h46-great-image",
+    "original": "地中生木，升；君子以順德，積小以高大。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 升 / 整卦大象 / 0007冊.djvu/469"
+      }
+    ],
+    "reviewId": "review-h46-great-image"
+  },
+  "summary": "地中生木，积小成大。",
+  "overallMeaning": "升以树木生长表现逐步上进。顺时而行，借助合宜的支持，以日常细小的积累成就进步，也警惕只知向上而不知止。",
+  "imagery": [
+    "巽下坤上，巽而顺。",
+    "地中生木，积小以高大。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-8-batch5",
+      "locator": "卷8 / 升 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/468–469"
+    }
+  ],
+  "overviewReviewId": "review-h46-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h46-yao-1",
+        "original": "允升，大吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 初六 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-yao-1"
+      },
+      "smallImage": {
+        "id": "h46-image-1",
+        "original": "允升大吉，上合志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 初六小象 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h46-yao-2",
+        "original": "孚乃利用禴，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 九二 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-yao-2"
+      },
+      "smallImage": {
+        "id": "h46-image-2",
+        "original": "九二之孚，有喜也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 九二小象 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h46-yao-3",
+        "original": "升虛邑。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 九三 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-yao-3"
+      },
+      "smallImage": {
+        "id": "h46-image-3",
+        "original": "升虛邑，无所疑也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 九三小象 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h46-yao-4",
+        "original": "王用亨于岐山，吉，无咎。",
+        "notes": [
+          "采用电子录文“亨”，普通电子对校页相应为“享”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 六四 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-yao-4"
+      },
+      "smallImage": {
+        "id": "h46-image-4",
+        "original": "王用亨于岐山，順事也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 六四小象 / 0007冊.djvu/469"
+          }
+        ],
+        "reviewId": "review-h46-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h46-yao-5",
+        "original": "貞吉，升階。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 六五 / 0007冊.djvu/470"
+          }
+        ],
+        "reviewId": "review-h46-yao-5"
+      },
+      "smallImage": {
+        "id": "h46-image-5",
+        "original": "貞吉升階，大得志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 六五小象 / 0007冊.djvu/470"
+          }
+        ],
+        "reviewId": "review-h46-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h46-yao-6",
+        "original": "冥升，利于不息之貞。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 上六 / 0007冊.djvu/470"
+          }
+        ],
+        "reviewId": "review-h46-yao-6"
+      },
+      "smallImage": {
+        "id": "h46-image-6",
+        "original": "冥升在上，消不富也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8-batch5",
+            "locator": "卷8 / 升 / 上六小象 / 0007冊.djvu/470"
+          }
+        ],
+        "reviewId": "review-h46-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

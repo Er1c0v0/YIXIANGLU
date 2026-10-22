@@ -1,0 +1,231 @@
+{
+  "id": 33,
+  "statement": {
+    "id": "h33-statement",
+    "original": "遯：亨，小利貞。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 遯 / 卦辞 / 0007冊.djvu/431"
+      }
+    ],
+    "reviewId": "review-h33-statement"
+  },
+  "tuan": {
+    "id": "h33-tuan",
+    "original": "遯亨，遯而亨也。剛當位而應，與時行也。小利貞，浸而長也。遯之時義大矣哉！",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 遯 / 彖曰 / 0007冊.djvu/431"
+      }
+    ],
+    "reviewId": "review-h33-tuan"
+  },
+  "greatImage": {
+    "id": "h33-great-image",
+    "original": "天下有山，遯；君子以逺小人，不惡而嚴。",
+    "notes": [
+      "采用电子录文“逺”，普通电子对校页相应为“遠”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 遯 / 整卦大象 / 0007冊.djvu/432"
+      }
+    ],
+    "reviewId": "review-h33-great-image"
+  },
+  "summary": "天下有山，知时而退。",
+  "overallMeaning": "遁讲顺应时势的退处。保持原则与界限，及时远离不宜久留的处境；退与进都需要判断时机。",
+  "imagery": [
+    "艮下乾上，山在天下。",
+    "远小人，不恶而严。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-6-batch5",
+      "locator": "卷6 / 遯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/431–432"
+    }
+  ],
+  "overviewReviewId": "review-h33-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h33-yao-1",
+        "original": "遯尾，厲，勿用有攸往。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 初六 / 0007冊.djvu/432"
+          }
+        ],
+        "reviewId": "review-h33-yao-1"
+      },
+      "smallImage": {
+        "id": "h33-image-1",
+        "original": "遯尾之厲，不往何災也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 初六小象 / 0007冊.djvu/432"
+          }
+        ],
+        "reviewId": "review-h33-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h33-yao-2",
+        "original": "執之用黃牛之革，莫之勝說。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 六二 / 0007冊.djvu/432"
+          }
+        ],
+        "reviewId": "review-h33-yao-2"
+      },
+      "smallImage": {
+        "id": "h33-image-2",
+        "original": "執用黃牛，固志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 六二小象 / 0007冊.djvu/432"
+          }
+        ],
+        "reviewId": "review-h33-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h33-yao-3",
+        "original": "係遯，有疾厲，畜臣妾吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 九三 / 0007冊.djvu/432"
+          }
+        ],
+        "reviewId": "review-h33-yao-3"
+      },
+      "smallImage": {
+        "id": "h33-image-3",
+        "original": "係遯之厲，有疾憊也。畜臣妾吉，不可大事也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 九三小象 / 0007冊.djvu/432"
+          }
+        ],
+        "reviewId": "review-h33-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h33-yao-4",
+        "original": "好遯，君子吉，小人否。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 九四 / 0007冊.djvu/433"
+          }
+        ],
+        "reviewId": "review-h33-yao-4"
+      },
+      "smallImage": {
+        "id": "h33-image-4",
+        "original": "君子好遯，小人否也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 九四小象 / 0007冊.djvu/433"
+          }
+        ],
+        "reviewId": "review-h33-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h33-yao-5",
+        "original": "嘉遯，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 九五 / 0007冊.djvu/433"
+          }
+        ],
+        "reviewId": "review-h33-yao-5"
+      },
+      "smallImage": {
+        "id": "h33-image-5",
+        "original": "嘉遯貞吉，以正志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 九五小象 / 0007冊.djvu/433"
+          }
+        ],
+        "reviewId": "review-h33-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h33-yao-6",
+        "original": "肥遯，无不利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 上九 / 0007冊.djvu/433"
+          }
+        ],
+        "reviewId": "review-h33-yao-6"
+      },
+      "smallImage": {
+        "id": "h33-image-6",
+        "original": "肥遯无不利，无所疑也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-6-batch5",
+            "locator": "卷6 / 遯 / 上九小象 / 0007冊.djvu/433"
+          }
+        ],
+        "reviewId": "review-h33-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

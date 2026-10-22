@@ -1,0 +1,239 @@
+{
+  "id": 38,
+  "statement": {
+    "id": "h38-statement",
+    "original": "睽：小事吉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 睽 / 卦辞 / 0007冊.djvu/444"
+      }
+    ],
+    "reviewId": "review-h38-statement"
+  },
+  "tuan": {
+    "id": "h38-tuan",
+    "original": "睽，火動而上，澤動而下；二女同居，其志不同行。說而麗乎明，柔進而上行，得中而應乎剛，是以小事吉。天地睽而其事同也，男女睽而其志通也，萬物睽而其事𩔖也。睽之時用大矣哉！",
+    "notes": [
+      "采用电子录文“𩔖”，普通电子对校页相应为“類”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 睽 / 彖曰 / 0007冊.djvu/444"
+      }
+    ],
+    "reviewId": "review-h38-tuan"
+  },
+  "greatImage": {
+    "id": "h38-great-image",
+    "original": "上火下澤，睽；君子以同而異。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 睽 / 整卦大象 / 0007冊.djvu/444"
+      }
+    ],
+    "reviewId": "review-h38-great-image"
+  },
+  "summary": "上火下泽，同中存异。",
+  "overallMeaning": "睽讲方向和心志相异时如何相处。先从可以合作的小事入手，在承认差别的同时寻找相通之处，逐步消除疑隔。",
+  "imagery": [
+    "兑下离上，火上泽下。",
+    "同而异，求通而不强同。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-7-batch5",
+      "locator": "卷7 / 睽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/444"
+    }
+  ],
+  "overviewReviewId": "review-h38-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h38-yao-1",
+        "original": "悔亡，喪馬勿逐，自復；見惡人无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 初九 / 0007冊.djvu/444"
+          }
+        ],
+        "reviewId": "review-h38-yao-1"
+      },
+      "smallImage": {
+        "id": "h38-image-1",
+        "original": "見惡人，以辟咎也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 初九小象 / 0007冊.djvu/444"
+          }
+        ],
+        "reviewId": "review-h38-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h38-yao-2",
+        "original": "遇主于巷，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 九二 / 0007冊.djvu/445"
+          }
+        ],
+        "reviewId": "review-h38-yao-2"
+      },
+      "smallImage": {
+        "id": "h38-image-2",
+        "original": "遇主于巷，未失道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 九二小象 / 0007冊.djvu/445"
+          }
+        ],
+        "reviewId": "review-h38-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h38-yao-3",
+        "original": "見輿曵，其牛掣，其人天且劓，无初有終。",
+        "notes": [
+          "采用电子录文“見輿曵，其牛掣”，普通电子对校页作“見輿曳，其牛𧤊”；不以对校页替换采用录文，影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 六三 / 0007冊.djvu/445"
+          }
+        ],
+        "reviewId": "review-h38-yao-3"
+      },
+      "smallImage": {
+        "id": "h38-image-3",
+        "original": "見輿曵，位不當也。无初有終，遇剛也。",
+        "notes": [
+          "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 六三小象 / 0007冊.djvu/445"
+          }
+        ],
+        "reviewId": "review-h38-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h38-yao-4",
+        "original": "睽孤，遇元夫，交孚，厲无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 九四 / 0007冊.djvu/445"
+          }
+        ],
+        "reviewId": "review-h38-yao-4"
+      },
+      "smallImage": {
+        "id": "h38-image-4",
+        "original": "交孚无咎，志行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 九四小象 / 0007冊.djvu/445"
+          }
+        ],
+        "reviewId": "review-h38-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h38-yao-5",
+        "original": "悔亡，厥宗噬膚，往何咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 六五 / 0007冊.djvu/446"
+          }
+        ],
+        "reviewId": "review-h38-yao-5"
+      },
+      "smallImage": {
+        "id": "h38-image-5",
+        "original": "厥宗噬膚，往有慶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 六五小象 / 0007冊.djvu/446"
+          }
+        ],
+        "reviewId": "review-h38-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h38-yao-6",
+        "original": "睽孤，見豕負塗，載鬼一車，先張之弧，後說之弧，匪宼㛰媾，往遇雨則吉。",
+        "notes": [
+          "采用电子录文“塗”、“宼㛰”，普通电子对校页相应为“涂”、“寇婚”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 上九 / 0007冊.djvu/446"
+          }
+        ],
+        "reviewId": "review-h38-yao-6"
+      },
+      "smallImage": {
+        "id": "h38-image-6",
+        "original": "遇雨之吉，羣疑亡也。",
+        "notes": [
+          "采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 睽 / 上九小象 / 0007冊.djvu/446"
+          }
+        ],
+        "reviewId": "review-h38-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

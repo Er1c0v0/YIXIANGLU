@@ -2,20 +2,58 @@
 
 2026-10-22蒙卦显示修正：用户反馈蒙卦卦辞左侧出现类似坤卦的图形。正文首字原为生僻字“𫎇”，阅读模板未插入额外卦形；现将该首字明确通写为“蒙”，与普通《周易》固定电子页一致，原字留在正文notes中，不称为四库影印核字结论。其余正文不改，仅重新核对并更新review-h4-statement；前版原文及审核可追溯至提交0a2ead8，旧哈希另留在审核issues。影印和独立复审仍pending。下文第二批摘录说明保留原始录入事实。
 
-## 阶段三第四批（2026-10-22）与当前累计进度
+## 当前累计进度（2026-10-22）
 
-本批录入贲、复、无妄、颐、大过、坎、咸、恒各15块经传及8条卦级展示说明，累计35卦、529必需原文块、596条审核记录；还缺29卦、435块。原27卦文件、468条审核及35条来源与第三批提交66d8ae7一致，未重新批准旧审核。
+第五批为用户重新划分的剩余两批中的第一批，新增遁、大壮、晋、明夷、家人、睽、蹇、解、损、益、萃、升、困、井、革各15块经传及15条卦级展示说明。累计50卦、754必需原文块、836条审核记录；还缺14卦、210块。原35卦文件、596条审核及46条来源与第四批提交6a89f74一致，没有重新批准旧审核。
 
 | 口径 | 累计录入 | 已完成核对 | 尚未完成 |
 | --- | --- | --- | --- |
-| 必需原文块 | 529 | 529已对照各自采用的电子录文 | 435块未录入 |
-| 影印逐字复核 | 529 | 0 | 529块待影印核对 |
-| 原文独立人工复审 | 529 | 0 | 529块待独立复审 |
-| 展示说明（卦级与特殊知识） | 37条 | 7条原型辅助自审记录 | 30条待审，含本批8条；全部37条未有独立复审 |
-| 经传白话留档 | 79 | 78条辅助自审记录 | 夬九五1条pending；前四批新增450块无白话，白话审核不适用 |
+| 必需原文块 | 754 | 754已对照各自采用的电子录文 | 210块未录入 |
+| 影印逐字复核 | 754 | 0 | 754块待影印核对 |
+| 原文独立人工复审 | 754 | 0 | 754块待独立复审 |
+| 展示说明（卦级与特殊知识） | 52条 | 7条原型辅助自审记录 | 45条待审，含本批15条；全部52条未有独立复审 |
+| 经传白话留档 | 79 | 78条辅助自审记录 | 夬九五1条pending；累计新增675块无白话，白话审核不适用 |
 | 爻位说明留档 | 30 | 30条原型辅助自审记录 | 本批未新增该非展示档案 |
 
-529原文+35卦级说明+30爻位留档+2特殊说明=596条审核记录。新120条原文originalStatus=passed仅表示电子核对，explanationStatus=not-applicable；新8条说明originalStatus=not-applicable、explanationStatus=pending。新增128条的影印、独立字段均pending。最新统计见 [manifest.json](../content/manifest.json)。本次工具确认蒙卦首字显示正常，只是显示验证，不增加文献审核结论。
+754原文+50卦级说明+30爻位留档+2特殊说明=836条审核记录。新225条原文originalStatus=passed仅表示电子核对，explanationStatus=not-applicable；新15条说明originalStatus=not-applicable、explanationStatus=pending。新增240条的影印、独立字段均pending。最新统计见 [manifest.json](../content/manifest.json)。界面抽查只确认显示，不增加文献审核结论。
+
+## 第五批版本、定位与异文
+
+实际读取[卷六 oldid=9685963](https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷06&oldid=9685963)、[卷七 oldid=9685964](https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷07&oldid=9685964)、[卷八 oldid=9685965](https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷08&oldid=9685965)所嵌电子录文，与下列15个普通电子页对校。页序为0007册DjVu文件页序；各块另记爻名、经传名称及跨页范围，不冒称已核准的影印叶码。卷页oldid仅固定编排、不冻结嵌入Page录文；所嵌页仍未校对，以2026-10-22访问日、实际摘录、备注及主体哈希记录本次采用范围。
+
+| 卦 | 卷次 | 对应文件页序 | 普通电子对校版本 |
+| --- | --- | --- | --- |
+| 遯 | 卷6 | [431](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/431)～433 | [10645108](https://zh.wikisource.org/w/index.php?title=周易/遯&oldid=10645108) |
+| 大壯 | 卷6 | [433](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/433)～435 | [10646529](https://zh.wikisource.org/w/index.php?title=周易/大壯&oldid=10646529) |
+| 晉 | 卷6 | [435](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/435)～437 | [10646579](https://zh.wikisource.org/w/index.php?title=周易/晉&oldid=10646579) |
+| 明夷 | 卷6 | [437](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/437)～439 | [10644507](https://zh.wikisource.org/w/index.php?title=周易/明夷&oldid=10644507) |
+| 家人 | 卷6 | [440](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/440)～441 | [2405005](https://zh.wikisource.org/w/index.php?title=周易/家人&oldid=2405005) |
+| 睽 | 卷7 | [444](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/444)～446 | [10646622](https://zh.wikisource.org/w/index.php?title=周易/睽&oldid=10646622) |
+| 蹇 | 卷7 | [446](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/446)～448 | [2405036](https://zh.wikisource.org/w/index.php?title=周易/蹇&oldid=2405036) |
+| 解 | 卷7 | [448](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/448)～451 | [10646666](https://zh.wikisource.org/w/index.php?title=周易/解&oldid=10646666) |
+| 損 | 卷7 | [451](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/451)～454 | [10646704](https://zh.wikisource.org/w/index.php?title=周易/損&oldid=10646704) |
+| 益 | 卷7 | [454](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/454)～457 | [10646726](https://zh.wikisource.org/w/index.php?title=周易/益&oldid=10646726) |
+| 萃 | 卷8 | [466](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/466)～468 | [10647546](https://zh.wikisource.org/w/index.php?title=周易/萃&oldid=10647546) |
+| 升 | 卷8 | [468](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/468)～470 | [10646879](https://zh.wikisource.org/w/index.php?title=周易/升&oldid=10646879) |
+| 困 | 卷8 | [470](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/470)～473 | [10647032](https://zh.wikisource.org/w/index.php?title=周易/困&oldid=10647032) |
+| 井 | 卷8 | [473](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/473)～476 | [10645240](https://zh.wikisource.org/w/index.php?title=周易/井&oldid=10645240) |
+| 革 | 卷8 | [476](https://zh.wikisource.org/wiki/Page:文淵閣四庫全書_0007冊.djvu/476)～478 | [10643173](https://zh.wikisource.org/w/index.php?title=周易/革&oldid=10643173) |
+
+新增skqs-zhouyi-6-batch5、skqs-zhouyi-7-batch5、skqs-zhouyi-8-batch5及15条普通电子对校来源，共18条，累计64条。即使卷六已有旧来源，也另记本次读取范围，不修改旧来源和旧审核哈希。225块正文中58块与普通页存在文字差异，逐块notes已留档；标点为项目整理，王注、音义、孔疏及卷末考证不混入经传。
+
+- 遁正文采用“遯”，卦目仍用元数据中的“遁”；大象“逺”依电子录文保留。大壮九四为“大輿之輹”，普通页为“大轝之腹”。
+- 晋彖“蕃庻”与卦辞“蕃庶”分别保留；六五采用“失得勿恤”，普通页爻辞作“矢得勿恤”。明夷保留“莅衆”“𫉬”，家人保留“内”“恒”。
+- 睽六三采用“見輿曵，其牛掣”，普通页为“見輿曳，其牛𧤊”；上九“塗”“宼㛰”和彖“𩔖”保留。蹇大象采用“反身脩德”，上六小象分离中间注文后接“利見大人，以從貴也”。
+- 解彖末为“解之時大矣哉”，未从普通页补入“義”；六五“維”、上六“髙”“𫉬”等另留notes。损初九为“已事遄往”，普通页爻辞作“祀事遄往”；六五小象采用“祐”。益保留“渉”“爲”“恒”。
+- 萃卦辞开头为“萃亨”，普通页无此“亨”字；“聚乃通也”为王注，已分离。上六采用“齎咨”而普通页爻辞作“齎資”。升六四采用“王用亨于岐山”，普通页爻辞作“享”、小象仍作“亨”。
+- 困九二采用“利用享祀”，普通页作“利用亨祀”；九四采用“來徐徐，困于金車”，普通页爻辞作“來荼荼，困于金轝”。九四、上六小象中间注文已分离；“揜”“惟”“歳”“眀”“蒺蔾”等依电子录文保留。
+- 井卦辞作“甁”、彖作“瓶”；九三“王眀，竝受其福”、九五“井洌”与普通页“王明，並受其福”“井冽”分别留档。革彖采用“革而信之”“革之時大矣哉”，普通页作“革而信也”“革之時義大矣哉”；保留“文眀以説”“治厯眀時”等字形，上六爻辞分离中间注文。
+
+上述异文和生僻字仍待影印核定。简短意象、整体含义均为项目辅助整理，未完成展示说明审核或独立复审；未新增经传白话。
+
+## 第四批来源与摘录历史（2026-10-22）
+
+第四批新增贲、复、无妄、颐、大过、坎、咸、恒，交付时累计35卦、529块、596条审核、46条来源；当时的完整验证记录随6a89f74归档。以下保留来源与异文，以便后续复核。
 
 ### 第四批版本与定位
 

@@ -1,0 +1,239 @@
+{
+  "id": 42,
+  "statement": {
+    "id": "h42-statement",
+    "original": "益：利有攸往，利渉大川。",
+    "notes": [
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 益 / 卦辞 / 0007冊.djvu/454"
+      }
+    ],
+    "reviewId": "review-h42-statement"
+  },
+  "tuan": {
+    "id": "h42-tuan",
+    "original": "益，損上益下，民說无疆。自上下下，其道大光。利有攸往，中正有慶。利渉大川，木道乃行。益動而巽，日進无疆。天施地生，其益无方。凡益之道，與時偕行。",
+    "notes": [
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 益 / 彖曰 / 0007冊.djvu/454"
+      }
+    ],
+    "reviewId": "review-h42-tuan"
+  },
+  "greatImage": {
+    "id": "h42-great-image",
+    "original": "風雷，益；君子以見善則遷，有過則改。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 益 / 整卦大象 / 0007冊.djvu/455"
+      }
+    ],
+    "reviewId": "review-h42-great-image"
+  },
+  "summary": "风雷相助，迁善改过。",
+  "overallMeaning": "益讲增益如何真正有利于人。使帮助向下落实，并随时宜而行；对自身则见善学习、有过改正，持续积累有益的改变。",
+  "imagery": [
+    "震下巽上，动而巽。",
+    "风雷相助，见善则迁。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-7-batch5",
+      "locator": "卷7 / 益 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/454–455"
+    }
+  ],
+  "overviewReviewId": "review-h42-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h42-yao-1",
+        "original": "利用爲大作，元吉，无咎。",
+        "notes": [
+          "采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 初九 / 0007冊.djvu/455"
+          }
+        ],
+        "reviewId": "review-h42-yao-1"
+      },
+      "smallImage": {
+        "id": "h42-image-1",
+        "original": "元吉无咎，下不厚事也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 初九小象 / 0007冊.djvu/455"
+          }
+        ],
+        "reviewId": "review-h42-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h42-yao-2",
+        "original": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 六二 / 0007冊.djvu/455"
+          }
+        ],
+        "reviewId": "review-h42-yao-2"
+      },
+      "smallImage": {
+        "id": "h42-image-2",
+        "original": "或益之，自外來也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 六二小象 / 0007冊.djvu/455"
+          }
+        ],
+        "reviewId": "review-h42-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h42-yao-3",
+        "original": "益之用凶事，无咎。有孚中行，告公用圭。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 六三 / 0007冊.djvu/455"
+          }
+        ],
+        "reviewId": "review-h42-yao-3"
+      },
+      "smallImage": {
+        "id": "h42-image-3",
+        "original": "益用凶事，固有之也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 六三小象 / 0007冊.djvu/456"
+          }
+        ],
+        "reviewId": "review-h42-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h42-yao-4",
+        "original": "中行，告公從，利用爲依遷國。",
+        "notes": [
+          "采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 六四 / 0007冊.djvu/456"
+          }
+        ],
+        "reviewId": "review-h42-yao-4"
+      },
+      "smallImage": {
+        "id": "h42-image-4",
+        "original": "告公從，以益志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 六四小象 / 0007冊.djvu/456"
+          }
+        ],
+        "reviewId": "review-h42-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h42-yao-5",
+        "original": "有孚惠心，勿問元吉。有孚惠我德。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 九五 / 0007冊.djvu/456"
+          }
+        ],
+        "reviewId": "review-h42-yao-5"
+      },
+      "smallImage": {
+        "id": "h42-image-5",
+        "original": "有孚惠心，勿問之矣。惠我德，大得志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 九五小象 / 0007冊.djvu/456"
+          }
+        ],
+        "reviewId": "review-h42-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h42-yao-6",
+        "original": "莫益之，或擊之，立心勿恒，凶。",
+        "notes": [
+          "采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 上九 / 0007冊.djvu/457"
+          }
+        ],
+        "reviewId": "review-h42-yao-6"
+      },
+      "smallImage": {
+        "id": "h42-image-6",
+        "original": "莫益之，偏辭也。或擊之，自外來也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-7-batch5",
+            "locator": "卷7 / 益 / 上九小象 / 0007冊.djvu/457"
+          }
+        ],
+        "reviewId": "review-h42-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}
