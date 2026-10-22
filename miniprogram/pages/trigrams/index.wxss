@@ -1,11 +1,11 @@
 .trigram-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16rpx; }
 .trigram { margin: 0; padding: 20rpx 6rpx 8rpx; border: 2rpx solid #DDD6C9; background: #FFFDFA; line-height: 1.6; }
 .trigram.selected { border-color: #765535; background: #EFE5D5; }
-.selected-label { height: 34rpx; font-size: 21rpx; color: #765535; }
+.selected-label { min-height: 1.6em; font-size: 0.65625rem; color: #765535; }
 .category { margin: 28rpx 0; }
 .category-label { margin: 0; line-height: 1.7; font-weight: 400; display: flex; align-items: center; justify-content: space-between; min-height: 48px; padding: 18rpx 24rpx; border: 1rpx solid #DDD6C9; border-radius: 12rpx; background: #FFFDFA; }
 .category-label text { color: #765535; }
-.value { font-size: 36rpx; line-height: 1.6; }
+.value { font-size: 1.125rem; line-height: 1.6; }
 .relation-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .relation-column + .relation-column { border-left: 1rpx solid #DDD6C9; padding-left: 24rpx; }
-.relation-title { font-size: 30rpx; font-weight: 500; margin-bottom: 12rpx; }
+.relation-title { font-size: 0.9375rem; font-weight: 500; margin-bottom: 12rpx; }

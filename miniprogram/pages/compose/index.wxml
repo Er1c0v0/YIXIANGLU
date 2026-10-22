@@ -1,9 +1,12 @@
+<page-meta root-font-size="system" />
 <view class="page">
   <view class="eyebrow">第一步 · 组合</view><view class="title">两卦相重，六爻成象</view><view class="subtitle">拖入放置区，或点击八卦卡片选择位置。</view>
-  <movable-area class="board">
-    <view class="drop-slot upper {{dragging ? 'receiving' : ''}}"><view><text class="label">上卦 · 第四至第六爻</text><text>{{upperName || '请选择上卦'}}</text></view><hexagram-shape wx:if="{{upper}}" lines="{{upperLines}}" compact /></view>
-    <view class="drop-slot lower {{dragging ? 'receiving' : ''}}"><view><text class="label">下卦 · 初爻至第三爻</text><text>{{lowerName || '请选择下卦'}}</text></view><hexagram-shape wx:if="{{lower}}" lines="{{lowerLines}}" compact /></view>
-    <view class="preview"><block wx:if="{{preview}}"><hexagram-shape lines="{{preview.lines}}" compact /><view><view class="section-title">{{preview.fullName}}</view><view class="muted">第 {{preview.id}} 卦 · 先读本卦</view></view></block><text wx:else class="muted">{{upper ? '再选下卦，完成组合' : (lower ? '再选上卦，完成组合' : '从下方八卦开始')}}</text></view>
+  <movable-area class="board" style="height: {{boardHeight}}px">
+    <view class="board-content">
+      <view class="drop-slot {{dragging ? 'receiving' : ''}}"><view><text class="label">上卦 · 第四至第六爻</text><text>{{upperName || '请选择上卦'}}</text></view><hexagram-shape wx:if="{{upper}}" lines="{{upperLines}}" compact /></view>
+      <view class="drop-slot {{dragging ? 'receiving' : ''}}"><view><text class="label">下卦 · 初爻至第三爻</text><text>{{lowerName || '请选择下卦'}}</text></view><hexagram-shape wx:if="{{lower}}" lines="{{lowerLines}}" compact /></view>
+      <view class="preview"><block wx:if="{{preview}}"><hexagram-shape lines="{{preview.lines}}" compact /><view><view class="section-title">{{preview.fullName}}</view><view class="muted">第 {{preview.id}} 卦 · 先读本卦</view></view></block><text wx:else class="muted">{{upper ? '再选下卦，完成组合' : (lower ? '再选上卦，完成组合' : '从下方八卦开始')}}</text></view>
+    </view>
     <movable-view wx:for="{{cards}}" wx:key="key" class="trigram-card" style="width: {{cardWidth}}px; height: {{cardHeight}}px" x="{{item.x}}" y="{{item.y}}" direction="all" inertia="{{false}}" animation="{{false}}" data-id="{{item.id}}" bindtap="pick" bindtouchstart="touchStart" bindtouchend="touchEnd" bindtouchcancel="touchCancel" bindchange="moveCard">
       <hexagram-shape lines="{{item.lines}}" compact /><text>{{item.name}}</text>
     </movable-view>

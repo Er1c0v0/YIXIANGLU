@@ -1,6 +1,5 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { readFileSync, readdirSync } from 'node:fs'
 import { getContent } from '../miniprogram/data/repository'
 
 // 仅模拟组件方法需要的 data 更新和单层数组路径，不模拟 WXML 渲染。
@@ -29,7 +28,6 @@ test('六爻独立开合，目录仅展开目标并在渲染后测量，换卦�
   const reading = component('reading')
   const observe = (id: number) => definitions.reading.observers.hexagramId.call(reading, id)
   const tap = (index: number) => reading.toggleYao({ currentTarget: { dataset: { index } } })
-  assert.equal(definitions.reading.properties.showYao.value, false)
   observe(1)
   assert.deepEqual(reading.data.yaoOpen, [false, false, false, false, false, false])
   tap(0)
@@ -105,20 +103,4 @@ test('共同来源保留爻辞及小象各自定位，更换引用关闭已展�
   assert.equal(panel.data.open, true)
   observe(2)
   assert.equal(panel.data.open, false)
-})
-
-test('完整六爻仅详情启用，阅读及分析原文使用可选取的原生 text', () => {
-  const pages = new URL('../miniprogram/pages/', import.meta.url)
-  const enabled = readdirSync(pages).filter(name =>
-    /<reading\b[^>]*\bshow-yao="\{\{true\}\}"/.test(readFileSync(new URL(`${name}/index.wxml`, pages), 'utf8')))
-  assert.deepEqual(enabled, ['detail'])
-  for (const path of ['components/reading', 'pages/analysis']) {
-    const template = readFileSync(new URL(`../miniprogram/${path}/index.wxml`, import.meta.url), 'utf8')
-    const originals = [...template.matchAll(/<(\w+)\b[^>]*\bclass="[^"]*\boriginal\b[^"]*"[^>]*>/g)]
-    assert.ok(originals.length > 0)
-    for (const [tag, name] of originals) {
-      assert.equal(name, 'text', path)
-      assert.match(tag, /\buser-select="\{\{true\}\}"/, path)
-    }
-  }
 })

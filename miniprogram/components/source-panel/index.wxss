@@ -1,4 +1,4 @@
-.source-body { font-size: 26rpx; line-height: 1.8; color: #625D55; padding-top: 10rpx; }
+.source-body { font-size: 0.8125rem; line-height: 1.8; color: #625D55; padding-top: 10rpx; word-break: break-all; }
 .entry { padding-top: 18rpx; border-top: 1rpx solid #DDD6C9; }
 .source-title { font-weight: 600; color: #292824; }
-.copy-link { margin-top: 0; padding: 0; text-align: left; font-size: 26rpx; }
+.copy-link { margin-top: 0; padding: 0; text-align: left; font-size: 0.8125rem; }

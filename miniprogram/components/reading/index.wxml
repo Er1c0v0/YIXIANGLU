@@ -1,5 +1,5 @@
 <block wx:if="{{meta}}">
-  <view class="card heading">
+  <view class="card">
     <view class="row between"><view><view class="eyebrow">第 {{meta.id}} 卦</view><view class="title">{{meta.fullName}}</view><view class="muted">上卦 · {{upperName}}　下卦 · {{lowerName}}</view></view><hexagram-shape lines="{{meta.lines}}" /></view>
     <view wx:if="{{content}}" class="summary">{{content.summary}}</view>
   </view>

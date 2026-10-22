@@ -1,3 +1,4 @@
+<page-meta root-font-size="system" />
 <view class="page">
   <block wx:if="{{valid}}"><view class="eyebrow">第二步 · 先读本卦</view><reading hexagram-id="{{id}}" /><button class="primary" bindtap="next" hover-class="button-pressed" hover-stay-time="80">{{numberMode ? '查看固定变爻' : '选择变爻'}}</button></block>
   <view wx:else class="card empty"><view class="section-title">无法读取本次结果，请重新生成</view><button class="primary" bindtap="home" hover-class="button-pressed" hover-stay-time="80">返回首页</button></view>

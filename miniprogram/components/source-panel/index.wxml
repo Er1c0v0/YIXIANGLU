@@ -1,4 +1,4 @@
-<view class="source">
+<view>
   <button class="link" bindtap="toggle" aria-expanded="{{open}}" hover-class="button-pressed" hover-stay-time="80">来源 <text>{{open ? '−' : '＋'}}</text></button>
   <view wx:if="{{open}}" class="source-body">
     <view wx:for="{{sources}}" wx:key="key" class="entry">

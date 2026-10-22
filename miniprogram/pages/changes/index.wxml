@@ -1,3 +1,4 @@
+<page-meta root-font-size="system" />
 <view class="page">
   <block wx:if="{{valid}}">
     <view class="eyebrow">{{atlasMode ? '观察爻变' : '第三步 · 观察爻变'}}</view><view class="title">{{numberMode ? '这一爻，由数字确定' : '选择想要观察的爻'}}</view>

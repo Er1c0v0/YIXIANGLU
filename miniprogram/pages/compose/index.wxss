@@ -1,6 +1,6 @@
-.board { width: 100%; height: 828rpx; }
-.drop-slot { position: absolute; left: 0; width: 100%; height: 128rpx; padding: 18rpx 28rpx; background: #FFFDFA; border: 2rpx dashed #C8B69A; border-radius: 16rpx; display: flex; align-items: center; justify-content: space-between; }
-.upper { top: 0; }.lower { top: 148rpx; }.receiving { background: #EDE3D3; border-color: #765535; }
-.preview { position: absolute; top: 302rpx; height: 176rpx; width: 100%; display: flex; justify-content: center; align-items: center; gap: 30rpx; }
+.board { width: 100%; }
+.drop-slot { width: 100%; min-height: 128rpx; padding: 18rpx 28rpx; margin-bottom: 20rpx; background: #FFFDFA; border: 2rpx dashed #C8B69A; border-radius: 16rpx; display: flex; align-items: center; justify-content: space-between; }
+.receiving { background: #EDE3D3; border-color: #765535; }
+.preview { min-height: 176rpx; width: 100%; display: flex; justify-content: center; align-items: center; gap: 30rpx; }
 .preview .section-title { margin: 0; }.trigram-card { background: #FFFDFA; border: 1rpx solid #DDD6C9; border-radius: 14rpx; display: flex; flex-direction: column; justify-content: center; align-items: center; z-index: 2; }
-.trigram-card text { font-size: 28rpx; }.actions { display: flex; gap: 16rpx; }.actions button { flex: 1; margin-top: 0; }
+.trigram-card text { font-size: 0.875rem; }.actions { display: flex; gap: 16rpx; }.actions button { flex: 1; margin-top: 0; }

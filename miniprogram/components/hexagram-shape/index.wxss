@@ -5,8 +5,8 @@
 .yang .segment { width: 100%; } .yin .segment { width: 42%; }
 .labeled { width: 100%; }
 .labeled .line-row { min-height: 48px; gap: 28rpx; border-radius: 10rpx; }
-.line-label { width: 70rpx; font-size: 28rpx; color: #625D55; }
-.selected-label { font-size: 26rpx; width: 90rpx; color: #625D55; }
+.line-label { width: 2em; flex-shrink: 0; font-size: 0.875rem; color: #625D55; }
+.selected-label { font-size: 0.8125rem; width: 3.5em; flex-shrink: 0; color: #625D55; }
 .active { background: #F1E8D9; } .active .stroke .segment { background: #765535; }
 .active .selected-label { color: #765535; font-weight: 600; }
 .compact { width: 76rpx; } .compact .stroke { width: 76rpx; } .compact .stroke .segment { height: 7rpx; } .compact .line-row { padding: 4rpx 0; }

@@ -1,4 +1,4 @@
-<page-meta page-style="{{directoryOpen || directoryClosing ? 'overflow: hidden;' : ''}}" />
+<page-meta root-font-size="system" page-style="{{directoryOpen || directoryClosing ? 'overflow: hidden;' : ''}}" />
 <view class="page">
   <block wx:if="{{valid}}">
     <reading id="reading" hexagram-id="{{id}}" show-yao="{{true}}">

@@ -1,3 +1,4 @@
+<page-meta root-font-size="system" />
 <view class="page">
   <block wx:if="{{valid}}">
     <view class="eyebrow">{{atlasMode ? '阅读变化' : '第四步 · 阅读变化'}}</view><view class="title">{{original.name}} → {{changed.name}}</view>

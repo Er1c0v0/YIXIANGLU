@@ -1,3 +1,4 @@
+<page-meta root-font-size="system" />
 <view class="page">
   <view class="title">六十四卦</view>
   <view class="search-row">

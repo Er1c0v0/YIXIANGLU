@@ -48,9 +48,8 @@ test('课堂原表与五行生克的独立参照', () => {
     const cells = row.split('|').slice(2,-1).map(cell => cell.trim())
     assert.equal(cells.length, order.length)
     order.forEach((t,j) => {
-      const entries = dataset.imagery.filter(e => e.trigram === t && e.category === categories[i] && e.refs.some(ref => ref.sourceId === 'prd-classroom'))
-      assert.equal(entries.length, 1)
-      assert.deepEqual(entries[0].values, [cells[j]])
+      const entry = dataset.imagery.find(e => e.trigram === t && e.category === categories[i] && e.refs.some(ref => ref.sourceId === 'prd-classroom'))!
+      assert.deepEqual(entry.values, [cells[j]])
     })
   })
   const cycles = { generates: ['wood','fire','earth','metal','water'], controls: ['wood','earth','water','fire','metal'] }

@@ -1,5 +1,5 @@
 <view class="shape {{compact ? 'compact' : ''}} {{showLabels ? 'labeled' : ''}}">
-  <view wx:for="{{rows}}" wx:key="position" class="line-row {{item.active ? 'active' : ''}} {{interactive ? 'clickable' : ''}}" data-position="{{item.position}}" bindtap="choose" aria-role="{{interactive ? 'button' : 'text'}}" aria-label="{{item.label}} {{item.yang ? '阳爻' : '阴爻'}} {{item.active ? '已选' : ''}}">
+  <view wx:for="{{rows}}" wx:key="position" class="line-row {{item.active ? 'active' : ''}}" data-position="{{item.position}}" bindtap="choose" aria-role="{{interactive ? 'button' : 'text'}}" aria-label="{{item.label}} {{item.yang ? '阳爻' : '阴爻'}} {{item.active ? '已选' : ''}}">
     <text wx:if="{{showLabels}}" class="line-label">{{item.label}}</text>
     <view class="stroke {{item.yang ? 'yang' : 'yin'}}"><view class="segment"></view><view wx:if="{{!item.yang}}" class="segment"></view></view>
     <text wx:if="{{showLabels}}" class="selected-label">{{item.active ? '✓ 已选' : (interactive ? '选择' : '只读')}}</text>

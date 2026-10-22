@@ -51,7 +51,7 @@ export interface ReviewedText {
   id: string; original: string; originalRefs: SourceRef[]
 }
 export interface YaoEntry {
-  position: LinePosition; polarity: YinYang; label: string
+  position: LinePosition; label: string
   text: ReviewedText; smallImage: ReviewedText
 }
 export interface SpecialEntry {

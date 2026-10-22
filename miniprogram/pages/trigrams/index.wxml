@@ -1,3 +1,4 @@
+<page-meta root-font-size="system" />
 <view class="page">
   <view class="title">八卦速查</view>
   <view class="trigram-grid">

@@ -1,8 +1,6 @@
 // 由 scripts/content.mjs 构建。请编辑 content/ 源文件，再重新核对和构建。
 import { HexagramContent } from '../domain/types'
 
-export const DATA_VERSION = '3.95889098355d'
-export const BUILD_HASH = '95889098355d591ccaeaa67fca96c986a2bbd1ecbeed43d005274511d9e5f406'
 export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 1,
@@ -51,7 +49,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h1-yao-1",
@@ -76,7 +73,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h1-yao-2",
@@ -101,7 +97,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h1-yao-3",
@@ -126,7 +121,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h1-yao-4",
@@ -151,7 +145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h1-yao-5",
@@ -176,7 +169,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h1-yao-6",
@@ -273,7 +265,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h2-yao-1",
@@ -298,7 +289,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h2-yao-2",
@@ -323,7 +313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h2-yao-3",
@@ -348,7 +337,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h2-yao-4",
@@ -373,7 +361,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h2-yao-5",
@@ -398,7 +385,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h2-yao-6",
@@ -495,7 +481,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h3-yao-1",
@@ -520,7 +505,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h3-yao-2",
@@ -545,7 +529,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h3-yao-3",
@@ -570,7 +553,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h3-yao-4",
@@ -595,7 +577,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h3-yao-5",
@@ -620,7 +601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h3-yao-6",
@@ -693,7 +673,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h4-yao-1",
@@ -718,7 +697,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h4-yao-2",
@@ -743,7 +721,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h4-yao-3",
@@ -768,7 +745,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h4-yao-4",
@@ -793,7 +769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h4-yao-5",
@@ -818,7 +793,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h4-yao-6",
@@ -891,7 +865,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h5-yao-1",
@@ -916,7 +889,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h5-yao-2",
@@ -941,7 +913,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h5-yao-3",
@@ -966,7 +937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h5-yao-4",
@@ -991,7 +961,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h5-yao-5",
@@ -1016,7 +985,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h5-yao-6",
@@ -1089,7 +1057,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h6-yao-1",
@@ -1114,7 +1081,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h6-yao-2",
@@ -1139,7 +1105,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h6-yao-3",
@@ -1164,7 +1129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h6-yao-4",
@@ -1189,7 +1153,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h6-yao-5",
@@ -1214,7 +1177,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h6-yao-6",
@@ -1287,7 +1249,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h7-yao-1",
@@ -1312,7 +1273,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h7-yao-2",
@@ -1337,7 +1297,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h7-yao-3",
@@ -1362,7 +1321,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h7-yao-4",
@@ -1387,7 +1345,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h7-yao-5",
@@ -1412,7 +1369,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h7-yao-6",
@@ -1485,7 +1441,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h8-yao-1",
@@ -1510,7 +1465,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h8-yao-2",
@@ -1535,7 +1489,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h8-yao-3",
@@ -1560,7 +1513,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h8-yao-4",
@@ -1585,7 +1537,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h8-yao-5",
@@ -1610,7 +1561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h8-yao-6",
@@ -1683,7 +1633,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h9-yao-1",
@@ -1708,7 +1657,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h9-yao-2",
@@ -1733,7 +1681,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h9-yao-3",
@@ -1758,7 +1705,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h9-yao-4",
@@ -1783,7 +1729,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h9-yao-5",
@@ -1808,7 +1753,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h9-yao-6",
@@ -1881,7 +1825,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h10-yao-1",
@@ -1906,7 +1849,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h10-yao-2",
@@ -1931,7 +1873,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h10-yao-3",
@@ -1956,7 +1897,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h10-yao-4",
@@ -1981,7 +1921,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h10-yao-5",
@@ -2006,7 +1945,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h10-yao-6",
@@ -2079,7 +2017,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h11-yao-1",
@@ -2104,7 +2041,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h11-yao-2",
@@ -2129,7 +2065,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h11-yao-3",
@@ -2154,7 +2089,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h11-yao-4",
@@ -2179,7 +2113,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h11-yao-5",
@@ -2204,7 +2137,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h11-yao-6",
@@ -2277,7 +2209,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h12-yao-1",
@@ -2302,7 +2233,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h12-yao-2",
@@ -2327,7 +2257,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h12-yao-3",
@@ -2352,7 +2281,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h12-yao-4",
@@ -2377,7 +2305,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h12-yao-5",
@@ -2402,7 +2329,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h12-yao-6",
@@ -2475,7 +2401,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h13-yao-1",
@@ -2500,7 +2425,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h13-yao-2",
@@ -2525,7 +2449,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h13-yao-3",
@@ -2550,7 +2473,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h13-yao-4",
@@ -2575,7 +2497,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h13-yao-5",
@@ -2600,7 +2521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h13-yao-6",
@@ -2673,7 +2593,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h14-yao-1",
@@ -2698,7 +2617,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h14-yao-2",
@@ -2723,7 +2641,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h14-yao-3",
@@ -2748,7 +2665,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h14-yao-4",
@@ -2773,7 +2689,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h14-yao-5",
@@ -2798,7 +2713,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h14-yao-6",
@@ -2871,7 +2785,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h15-yao-1",
@@ -2896,7 +2809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h15-yao-2",
@@ -2921,7 +2833,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h15-yao-3",
@@ -2946,7 +2857,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h15-yao-4",
@@ -2971,7 +2881,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h15-yao-5",
@@ -2996,7 +2905,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h15-yao-6",
@@ -3069,7 +2977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h16-yao-1",
@@ -3094,7 +3001,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h16-yao-2",
@@ -3119,7 +3025,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h16-yao-3",
@@ -3144,7 +3049,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h16-yao-4",
@@ -3169,7 +3073,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h16-yao-5",
@@ -3194,7 +3097,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h16-yao-6",
@@ -3267,7 +3169,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h17-yao-1",
@@ -3292,7 +3193,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h17-yao-2",
@@ -3317,7 +3217,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h17-yao-3",
@@ -3342,7 +3241,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h17-yao-4",
@@ -3367,7 +3265,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h17-yao-5",
@@ -3392,7 +3289,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h17-yao-6",
@@ -3465,7 +3361,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h18-yao-1",
@@ -3490,7 +3385,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h18-yao-2",
@@ -3515,7 +3409,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h18-yao-3",
@@ -3540,7 +3433,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h18-yao-4",
@@ -3565,7 +3457,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h18-yao-5",
@@ -3590,7 +3481,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h18-yao-6",
@@ -3663,7 +3553,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h19-yao-1",
@@ -3688,7 +3577,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h19-yao-2",
@@ -3713,7 +3601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h19-yao-3",
@@ -3738,7 +3625,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h19-yao-4",
@@ -3763,7 +3649,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h19-yao-5",
@@ -3788,7 +3673,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h19-yao-6",
@@ -3861,7 +3745,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h20-yao-1",
@@ -3886,7 +3769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h20-yao-2",
@@ -3911,7 +3793,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h20-yao-3",
@@ -3936,7 +3817,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h20-yao-4",
@@ -3961,7 +3841,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h20-yao-5",
@@ -3986,7 +3865,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h20-yao-6",
@@ -4059,7 +3937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h21-yao-1",
@@ -4084,7 +3961,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h21-yao-2",
@@ -4109,7 +3985,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h21-yao-3",
@@ -4134,7 +4009,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h21-yao-4",
@@ -4159,7 +4033,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h21-yao-5",
@@ -4184,7 +4057,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h21-yao-6",
@@ -4257,7 +4129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h22-yao-1",
@@ -4282,7 +4153,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h22-yao-2",
@@ -4307,7 +4177,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h22-yao-3",
@@ -4332,7 +4201,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h22-yao-4",
@@ -4357,7 +4225,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h22-yao-5",
@@ -4382,7 +4249,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h22-yao-6",
@@ -4455,7 +4321,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h23-yao-1",
@@ -4480,7 +4345,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h23-yao-2",
@@ -4505,7 +4369,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h23-yao-3",
@@ -4530,7 +4393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h23-yao-4",
@@ -4555,7 +4417,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h23-yao-5",
@@ -4580,7 +4441,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h23-yao-6",
@@ -4653,7 +4513,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h24-yao-1",
@@ -4678,7 +4537,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h24-yao-2",
@@ -4703,7 +4561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h24-yao-3",
@@ -4728,7 +4585,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h24-yao-4",
@@ -4753,7 +4609,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h24-yao-5",
@@ -4778,7 +4633,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h24-yao-6",
@@ -4851,7 +4705,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h25-yao-1",
@@ -4876,7 +4729,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h25-yao-2",
@@ -4901,7 +4753,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h25-yao-3",
@@ -4926,7 +4777,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h25-yao-4",
@@ -4951,7 +4801,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h25-yao-5",
@@ -4976,7 +4825,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h25-yao-6",
@@ -5049,7 +4897,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h26-yao-1",
@@ -5074,7 +4921,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h26-yao-2",
@@ -5099,7 +4945,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h26-yao-3",
@@ -5124,7 +4969,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h26-yao-4",
@@ -5149,7 +4993,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h26-yao-5",
@@ -5174,7 +5017,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h26-yao-6",
@@ -5247,7 +5089,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h27-yao-1",
@@ -5272,7 +5113,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h27-yao-2",
@@ -5297,7 +5137,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h27-yao-3",
@@ -5322,7 +5161,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h27-yao-4",
@@ -5347,7 +5185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h27-yao-5",
@@ -5372,7 +5209,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h27-yao-6",
@@ -5445,7 +5281,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h28-yao-1",
@@ -5470,7 +5305,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h28-yao-2",
@@ -5495,7 +5329,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h28-yao-3",
@@ -5520,7 +5353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h28-yao-4",
@@ -5545,7 +5377,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h28-yao-5",
@@ -5570,7 +5401,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h28-yao-6",
@@ -5643,7 +5473,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h29-yao-1",
@@ -5668,7 +5497,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h29-yao-2",
@@ -5693,7 +5521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h29-yao-3",
@@ -5718,7 +5545,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h29-yao-4",
@@ -5743,7 +5569,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h29-yao-5",
@@ -5768,7 +5593,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h29-yao-6",
@@ -5841,7 +5665,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h30-yao-1",
@@ -5866,7 +5689,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h30-yao-2",
@@ -5891,7 +5713,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h30-yao-3",
@@ -5916,7 +5737,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h30-yao-4",
@@ -5941,7 +5761,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h30-yao-5",
@@ -5966,7 +5785,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h30-yao-6",
@@ -6039,7 +5857,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h31-yao-1",
@@ -6064,7 +5881,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h31-yao-2",
@@ -6089,7 +5905,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h31-yao-3",
@@ -6114,7 +5929,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h31-yao-4",
@@ -6139,7 +5953,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h31-yao-5",
@@ -6164,7 +5977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h31-yao-6",
@@ -6237,7 +6049,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h32-yao-1",
@@ -6262,7 +6073,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h32-yao-2",
@@ -6287,7 +6097,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h32-yao-3",
@@ -6312,7 +6121,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h32-yao-4",
@@ -6337,7 +6145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h32-yao-5",
@@ -6362,7 +6169,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h32-yao-6",
@@ -6435,7 +6241,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h33-yao-1",
@@ -6460,7 +6265,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h33-yao-2",
@@ -6485,7 +6289,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h33-yao-3",
@@ -6510,7 +6313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h33-yao-4",
@@ -6535,7 +6337,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h33-yao-5",
@@ -6560,7 +6361,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h33-yao-6",
@@ -6633,7 +6433,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h34-yao-1",
@@ -6658,7 +6457,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h34-yao-2",
@@ -6683,7 +6481,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h34-yao-3",
@@ -6708,7 +6505,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h34-yao-4",
@@ -6733,7 +6529,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h34-yao-5",
@@ -6758,7 +6553,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h34-yao-6",
@@ -6831,7 +6625,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h35-yao-1",
@@ -6856,7 +6649,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h35-yao-2",
@@ -6881,7 +6673,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h35-yao-3",
@@ -6906,7 +6697,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h35-yao-4",
@@ -6931,7 +6721,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h35-yao-5",
@@ -6956,7 +6745,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h35-yao-6",
@@ -7029,7 +6817,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h36-yao-1",
@@ -7054,7 +6841,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h36-yao-2",
@@ -7079,7 +6865,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h36-yao-3",
@@ -7104,7 +6889,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h36-yao-4",
@@ -7129,7 +6913,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h36-yao-5",
@@ -7154,7 +6937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h36-yao-6",
@@ -7227,7 +7009,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h37-yao-1",
@@ -7252,7 +7033,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h37-yao-2",
@@ -7277,7 +7057,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h37-yao-3",
@@ -7302,7 +7081,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h37-yao-4",
@@ -7327,7 +7105,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h37-yao-5",
@@ -7352,7 +7129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h37-yao-6",
@@ -7425,7 +7201,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h38-yao-1",
@@ -7450,7 +7225,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h38-yao-2",
@@ -7475,7 +7249,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h38-yao-3",
@@ -7500,7 +7273,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h38-yao-4",
@@ -7525,7 +7297,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h38-yao-5",
@@ -7550,7 +7321,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h38-yao-6",
@@ -7623,7 +7393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h39-yao-1",
@@ -7648,7 +7417,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h39-yao-2",
@@ -7673,7 +7441,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h39-yao-3",
@@ -7698,7 +7465,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h39-yao-4",
@@ -7723,7 +7489,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h39-yao-5",
@@ -7748,7 +7513,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h39-yao-6",
@@ -7821,7 +7585,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h40-yao-1",
@@ -7846,7 +7609,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h40-yao-2",
@@ -7871,7 +7633,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h40-yao-3",
@@ -7896,7 +7657,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h40-yao-4",
@@ -7921,7 +7681,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h40-yao-5",
@@ -7946,7 +7705,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h40-yao-6",
@@ -8019,7 +7777,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h41-yao-1",
@@ -8044,7 +7801,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h41-yao-2",
@@ -8069,7 +7825,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h41-yao-3",
@@ -8094,7 +7849,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h41-yao-4",
@@ -8119,7 +7873,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h41-yao-5",
@@ -8144,7 +7897,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h41-yao-6",
@@ -8217,7 +7969,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h42-yao-1",
@@ -8242,7 +7993,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h42-yao-2",
@@ -8267,7 +8017,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h42-yao-3",
@@ -8292,7 +8041,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h42-yao-4",
@@ -8317,7 +8065,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h42-yao-5",
@@ -8342,7 +8089,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h42-yao-6",
@@ -8415,7 +8161,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h43-yao-1",
@@ -8440,7 +8185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h43-yao-2",
@@ -8465,7 +8209,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h43-yao-3",
@@ -8490,7 +8233,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h43-yao-4",
@@ -8515,7 +8257,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h43-yao-5",
@@ -8540,7 +8281,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h43-yao-6",
@@ -8613,7 +8353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h44-yao-1",
@@ -8638,7 +8377,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h44-yao-2",
@@ -8663,7 +8401,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h44-yao-3",
@@ -8688,7 +8425,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h44-yao-4",
@@ -8713,7 +8449,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h44-yao-5",
@@ -8738,7 +8473,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h44-yao-6",
@@ -8811,7 +8545,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h45-yao-1",
@@ -8836,7 +8569,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h45-yao-2",
@@ -8861,7 +8593,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h45-yao-3",
@@ -8886,7 +8617,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h45-yao-4",
@@ -8911,7 +8641,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h45-yao-5",
@@ -8936,7 +8665,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h45-yao-6",
@@ -9009,7 +8737,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h46-yao-1",
@@ -9034,7 +8761,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h46-yao-2",
@@ -9059,7 +8785,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h46-yao-3",
@@ -9084,7 +8809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h46-yao-4",
@@ -9109,7 +8833,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h46-yao-5",
@@ -9134,7 +8857,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h46-yao-6",
@@ -9207,7 +8929,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h47-yao-1",
@@ -9232,7 +8953,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h47-yao-2",
@@ -9257,7 +8977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h47-yao-3",
@@ -9282,7 +9001,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h47-yao-4",
@@ -9307,7 +9025,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h47-yao-5",
@@ -9332,7 +9049,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h47-yao-6",
@@ -9405,7 +9121,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h48-yao-1",
@@ -9430,7 +9145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h48-yao-2",
@@ -9455,7 +9169,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h48-yao-3",
@@ -9480,7 +9193,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h48-yao-4",
@@ -9505,7 +9217,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h48-yao-5",
@@ -9530,7 +9241,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h48-yao-6",
@@ -9603,7 +9313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h49-yao-1",
@@ -9628,7 +9337,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h49-yao-2",
@@ -9653,7 +9361,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h49-yao-3",
@@ -9678,7 +9385,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h49-yao-4",
@@ -9703,7 +9409,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h49-yao-5",
@@ -9728,7 +9433,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h49-yao-6",
@@ -9801,7 +9505,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h50-yao-1",
@@ -9826,7 +9529,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h50-yao-2",
@@ -9851,7 +9553,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h50-yao-3",
@@ -9876,7 +9577,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h50-yao-4",
@@ -9901,7 +9601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h50-yao-5",
@@ -9926,7 +9625,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h50-yao-6",
@@ -9999,7 +9697,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h51-yao-1",
@@ -10024,7 +9721,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h51-yao-2",
@@ -10049,7 +9745,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h51-yao-3",
@@ -10074,7 +9769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h51-yao-4",
@@ -10099,7 +9793,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h51-yao-5",
@@ -10124,7 +9817,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h51-yao-6",
@@ -10197,7 +9889,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h52-yao-1",
@@ -10222,7 +9913,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h52-yao-2",
@@ -10247,7 +9937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h52-yao-3",
@@ -10272,7 +9961,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h52-yao-4",
@@ -10297,7 +9985,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h52-yao-5",
@@ -10322,7 +10009,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h52-yao-6",
@@ -10395,7 +10081,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h53-yao-1",
@@ -10420,7 +10105,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h53-yao-2",
@@ -10445,7 +10129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h53-yao-3",
@@ -10470,7 +10153,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h53-yao-4",
@@ -10495,7 +10177,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h53-yao-5",
@@ -10520,7 +10201,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h53-yao-6",
@@ -10593,7 +10273,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h54-yao-1",
@@ -10618,7 +10297,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h54-yao-2",
@@ -10643,7 +10321,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h54-yao-3",
@@ -10668,7 +10345,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h54-yao-4",
@@ -10693,7 +10369,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h54-yao-5",
@@ -10718,7 +10393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h54-yao-6",
@@ -10791,7 +10465,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h55-yao-1",
@@ -10816,7 +10489,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h55-yao-2",
@@ -10841,7 +10513,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h55-yao-3",
@@ -10866,7 +10537,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h55-yao-4",
@@ -10891,7 +10561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h55-yao-5",
@@ -10916,7 +10585,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h55-yao-6",
@@ -10989,7 +10657,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h56-yao-1",
@@ -11014,7 +10681,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h56-yao-2",
@@ -11039,7 +10705,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h56-yao-3",
@@ -11064,7 +10729,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h56-yao-4",
@@ -11089,7 +10753,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h56-yao-5",
@@ -11114,7 +10777,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h56-yao-6",
@@ -11187,7 +10849,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h57-yao-1",
@@ -11212,7 +10873,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h57-yao-2",
@@ -11237,7 +10897,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h57-yao-3",
@@ -11262,7 +10921,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h57-yao-4",
@@ -11287,7 +10945,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h57-yao-5",
@@ -11312,7 +10969,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h57-yao-6",
@@ -11385,7 +11041,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h58-yao-1",
@@ -11410,7 +11065,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h58-yao-2",
@@ -11435,7 +11089,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h58-yao-3",
@@ -11460,7 +11113,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h58-yao-4",
@@ -11485,7 +11137,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h58-yao-5",
@@ -11510,7 +11161,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h58-yao-6",
@@ -11583,7 +11233,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h59-yao-1",
@@ -11608,7 +11257,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h59-yao-2",
@@ -11633,7 +11281,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h59-yao-3",
@@ -11658,7 +11305,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h59-yao-4",
@@ -11683,7 +11329,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h59-yao-5",
@@ -11708,7 +11353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h59-yao-6",
@@ -11781,7 +11425,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h60-yao-1",
@@ -11806,7 +11449,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h60-yao-2",
@@ -11831,7 +11473,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h60-yao-3",
@@ -11856,7 +11497,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h60-yao-4",
@@ -11881,7 +11521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h60-yao-5",
@@ -11906,7 +11545,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h60-yao-6",
@@ -11979,7 +11617,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h61-yao-1",
@@ -12004,7 +11641,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h61-yao-2",
@@ -12029,7 +11665,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h61-yao-3",
@@ -12054,7 +11689,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h61-yao-4",
@@ -12079,7 +11713,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h61-yao-5",
@@ -12104,7 +11737,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h61-yao-6",
@@ -12177,7 +11809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h62-yao-1",
@@ -12202,7 +11833,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h62-yao-2",
@@ -12227,7 +11857,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h62-yao-3",
@@ -12252,7 +11881,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h62-yao-4",
@@ -12277,7 +11905,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h62-yao-5",
@@ -12302,7 +11929,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h62-yao-6",
@@ -12375,7 +12001,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 1,
         "label": "初九",
         "text": {
           "id": "h63-yao-1",
@@ -12400,7 +12025,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 0,
         "label": "六二",
         "text": {
           "id": "h63-yao-2",
@@ -12425,7 +12049,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 1,
         "label": "九三",
         "text": {
           "id": "h63-yao-3",
@@ -12450,7 +12073,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 0,
         "label": "六四",
         "text": {
           "id": "h63-yao-4",
@@ -12475,7 +12097,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 1,
         "label": "九五",
         "text": {
           "id": "h63-yao-5",
@@ -12500,7 +12121,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 0,
         "label": "上六",
         "text": {
           "id": "h63-yao-6",
@@ -12573,7 +12193,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "yao": [
       {
         "position": 1,
-        "polarity": 0,
         "label": "初六",
         "text": {
           "id": "h64-yao-1",
@@ -12598,7 +12217,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 2,
-        "polarity": 1,
         "label": "九二",
         "text": {
           "id": "h64-yao-2",
@@ -12623,7 +12241,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 3,
-        "polarity": 0,
         "label": "六三",
         "text": {
           "id": "h64-yao-3",
@@ -12648,7 +12265,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 4,
-        "polarity": 1,
         "label": "九四",
         "text": {
           "id": "h64-yao-4",
@@ -12673,7 +12289,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 5,
-        "polarity": 0,
         "label": "六五",
         "text": {
           "id": "h64-yao-5",
@@ -12698,7 +12313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       },
       {
         "position": 6,
-        "polarity": 1,
         "label": "上九",
         "text": {
           "id": "h64-yao-6",

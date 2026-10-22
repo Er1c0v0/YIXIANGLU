@@ -1,6 +1,6 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { readContent, readReviewFiles, expandReviews, hash, validateContent } from '../scripts/content-lib.mjs'
+import { readContent, readReviewFiles, expandReviews, validateContent } from '../scripts/content-lib.mjs'
 import { getContent } from '../miniprogram/data/repository'
 import { HEXAGRAM_CONTENT } from '../miniprogram/data/content'
 

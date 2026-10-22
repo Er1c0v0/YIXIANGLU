@@ -1,3 +1,4 @@
+<page-meta root-font-size="system" />
 <view class="page home">
   <view class="hero"><view class="hero-copy"><view class="hero-title"><view>从一卦，</view><view>读懂变化。</view></view><view class="muted">观其象，读其辞。</view></view><view class="hero-figure"><view class="hero-symbol"><hexagram-shape lines="{{heroLines}}" /></view><text class="hero-caption">离 · 明两作</text></view></view>
   <view class="guide"><text class="guide-number">01 生成</text><text>—</text><text class="guide-number">02 阅读</text><text>—</text><text class="guide-number">03 观变</text></view>
