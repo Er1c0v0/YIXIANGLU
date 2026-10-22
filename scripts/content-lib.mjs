@@ -15,6 +15,17 @@ const required = (value, label) => assert.ok(typeof value === 'string' && value.
 const status = value => ['pending','passed','needs-fix','not-applicable'].includes(value)
 const subjectOf = (value, keys) => Object.fromEntries(keys.map(key => [key,value[key]]))
 
+export function readContent() {
+  const directory = new URL('../content/', import.meta.url)
+  const load = file => JSON.parse(readFileSync(new URL(file, directory), 'utf8'))
+  const knownFiles = ['sources.json','manifest.json','search.json','imagery.json','elements.json']
+  for (const file of readdirSync(directory).filter(file => file.endsWith('.json'))) assert.ok(knownFiles.includes(file), `未知内容文件类别 ${file}`)
+  const contents = readdirSync(new URL('hexagrams/', directory)).filter(file => file.endsWith('.json'))
+    .map(file => load(`hexagrams/${file}`)).sort((a,b) => a.id-b.id)
+  return { contents, sources: load('sources.json'), reviews: expandReviews(readReviewFiles()),
+    search: load('search.json'), imagery: load('imagery.json'), relations: load('elements.json') }
+}
+
 export function readReviewFiles() {
   const directory = new URL('../content/reviews/', import.meta.url)
   const load = name => JSON.parse(readFileSync(new URL(name, directory), 'utf8'))
@@ -51,7 +62,7 @@ export function expandReviews({ methods, records }) {
   return reviews
 }
 
-export function validateContent({ contents, sources, reviews, search = [], imagery = [], relations = [] }, { release = false } = {}) {
+export function validateContent({ contents, sources, reviews, search, imagery, relations }, { release = false } = {}) {
   const sourceMap = new Map(sources.map(source => [source.id,source]))
   const reviewMap = new Map(reviews.map(record => [record.id,record]))
   assert.equal(sourceMap.size,sources.length,'来源重复')
@@ -187,10 +198,11 @@ export function validateContent({ contents, sources, reviews, search = [], image
   }
   assert.equal(usedReviews.size,reviews.length,'存在无关联审核')
   const count = (records,key) => ({ passed:records.filter(r => r[key]==='passed').length, outstanding:records.filter(r => r[key]!=='passed' && r[key]!=='not-applicable').length, notApplicable:records.filter(r => r[key]==='not-applicable').length })
+  const buildHash = hash({contents,sources,reviews,search,imagery,relations})
   const manifest = {
     schemaVersion:3,
-    dataVersion:`3.${hash({contents,sources,reviews,search,imagery,relations}).slice(0,12)}`,
-    buildHash:hash({contents,sources,reviews,search,imagery,relations}),
+    dataVersion:`3.${buildHash.slice(0,12)}`,
+    buildHash,
     counts:{hexagrams:contents.length,originalBlocks:textIds.size,reviewRecords:reviews.length,sources:sources.length,search:search.length,imagery:imagery.length,elementRelations:relations.length},
     target:{hexagrams:64,originalBlocks:964,search:64,minimumImagery:96,elementRelations:10},
     missingHexagramIds:Array.from({length:64},(_,i)=>i+1).filter(id=>!contents.some(c=>c.id===id)),

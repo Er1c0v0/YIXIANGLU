@@ -64,7 +64,7 @@ test('PRD 8.5 所有关键案例与数字固定爻约束', () => {
   for (const [values,id,fixed,result] of [[['17','26','9'],43,3,58],[['00017','00026','0009'],43,3,58],[['8','16','6'],2,6,23],[['9007199254740993','8','6'],11,6,26]] as const) {
     const cast=castNumbers(...values)
     assert.equal(cast.hexagram.id,id); assert.equal(cast.fixed,fixed)
-    const session:CastSession={mode:'number',hexagramId:id,fixed,rawInputs:values}
+    const session:CastSession={mode:'number',hexagramId:id,fixed}
     assert.equal(resultForSession(session).id,result)
     for (const bad of [[],[fixed,1],[fixed===1?2:1]]) assert.throws(()=>resultForSession(session,bad))
   }
@@ -79,9 +79,9 @@ test('路由、内存会话、返回保留及新流程隔离', () => {
   assert.ok(sessionRoute('analysis').includes('id=1'))
   for (const patch of [{id:'0'},{id:'65'},{id:'1abc'},{sid:'99999'},{mode:'number'},{fixed:'3'}]) assert.equal(readSession({...query,...patch}),undefined)
   assert.equal(parseRoute({id:'1',mode:'number',sid:'1',fixed:'7'}),undefined)
-  assert.throws(()=>startSession({mode:'number',hexagramId:1,fixed:0 as LinePosition,rawInputs:['1','1','1']}))
+  assert.throws(()=>startSession({mode:'number',hexagramId:1,fixed:0 as LinePosition}))
   newFlow();assert.equal(readSession(query),undefined)
-  startSession({mode:'number',hexagramId:43,fixed:3,rawInputs:['17','26','9']})
+  startSession({mode:'number',hexagramId:43,fixed:3})
   assert.equal(readSession(query),undefined)
   const fixedQuery=Object.fromEntries(new URL(sessionRoute('changes'),'https://local').searchParams)
   const fixedSession=readSession(fixedQuery)!

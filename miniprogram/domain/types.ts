@@ -7,7 +7,6 @@ export type SixLines = readonly [YinYang, YinYang, YinYang, YinYang, YinYang, Yi
 export interface Trigram {
   id: TrigramId
   name: string
-  pinyin: string
   number: 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
   lines: ThreeLines
 }
@@ -75,4 +74,4 @@ export interface HexagramContent {
 }
 export type CastSession =
   | { mode: 'manual' | 'atlas'; hexagramId: number; selected: LinePosition[] }
-  | { mode: 'number'; hexagramId: number; fixed: LinePosition; rawInputs: readonly [string, string, string] }
+  | { mode: 'number'; hexagramId: number; fixed: LinePosition }

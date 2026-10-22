@@ -1,21 +1,13 @@
-import { readFile, writeFile, readdir } from 'node:fs/promises'
+import { readFile, writeFile } from 'node:fs/promises'
 import assert from 'node:assert/strict'
-import { readReviewFiles, expandReviews, validateContent } from './content-lib.mjs'
+import { readContent, validateContent } from './content-lib.mjs'
 
 const root = new URL('../',import.meta.url)
-const load = async file => JSON.parse(await readFile(new URL(file,root),'utf8'))
-const files = (await readdir(new URL('content/hexagrams/',root))).filter(file=>file.endsWith('.json')).sort()
-const contents = (await Promise.all(files.map(file=>load(`content/hexagrams/${file}`)))).sort((a,b)=>a.id-b.id)
-const sources = await load('content/sources.json')
-const reviews = expandReviews(readReviewFiles())
-const search = await load('content/search.json')
-const imagery = await load('content/imagery.json')
-const relations = await load('content/elements.json')
-const knownFiles = ['sources.json','manifest.json','search.json','imagery.json','elements.json']
-for (const file of (await readdir(new URL('content/',root))).filter(file => file.endsWith('.json'))) assert.ok(knownFiles.includes(file), `未知内容文件类别 ${file}`)
+const dataset = readContent()
+const {contents,sources,reviews,search,imagery,relations} = dataset
 const command = process.argv[2]
 assert.ok(['build','check','release'].includes(command),'用法：tsx scripts/content.mjs build|check|release')
-const manifest = validateContent({contents,sources,reviews,search,imagery,relations},{release:command==='release'})
+const manifest = validateContent(dataset,{release:command==='release'})
 const header = '// 由 scripts/content.mjs 构建。请编辑 content/ 源文件，再重新核对和构建。\n'
 const output = `${header}import { HexagramContent } from '../domain/types'\n\nexport const DATA_VERSION = '${manifest.dataVersion}'\nexport const BUILD_HASH = '${manifest.buildHash}'\nexport const HEXAGRAM_CONTENT: readonly HexagramContent[] = ${JSON.stringify(contents,null,2)}\n`
 const sourceOutput = `${header}import { SourceDocument } from '../domain/types'\nexport const SOURCES: readonly SourceDocument[] = ${JSON.stringify(sources,null,2)}\n`

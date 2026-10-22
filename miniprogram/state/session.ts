@@ -28,8 +28,8 @@ export function readSession(query: Record<string, string | undefined>): CastSess
 }
 
 export function updateSelection(session: CastSession, positions: LinePosition[]) {
-  resultForSession(session, positions)
-  if (session.mode !== 'number') session.selected = normalizePositions(positions)
+  if (session.mode === 'number') resultForSession(session, positions)
+  else session.selected = normalizePositions(positions)
 }
 
 export function sessionRoute(page: 'hexagram' | 'changes' | 'analysis'): string {

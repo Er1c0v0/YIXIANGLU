@@ -34,7 +34,7 @@ Page({
     this.setData({ busy: true })
     const values = this.data.fields.map(field => field.value) as [string,string,string]
     const { hexagram, fixed } = castNumbers(...values)
-    const url = startSession({ mode: 'number', hexagramId: hexagram.id, fixed, rawInputs: values })
+    const url = startSession({ mode: 'number', hexagramId: hexagram.id, fixed })
     wx.navigateTo({ url, fail: () => this.setData({ busy: false }) })
   },
 })

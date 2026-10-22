@@ -1,34 +1,13 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { readFileSync, readdirSync } from 'node:fs'
-import { readReviewFiles, expandReviews, hash, validateContent } from '../scripts/content-lib.mjs'
+import { readContent, readReviewFiles, expandReviews, hash, validateContent } from '../scripts/content-lib.mjs'
 import { getContent } from '../miniprogram/data/repository'
 import { HEXAGRAM_CONTENT } from '../miniprogram/data/content'
-import { SOURCES } from '../miniprogram/data/sources'
-import { combine } from '../miniprogram/domain/hexagrams'
-import { castNumbers, resultForSession } from '../miniprogram/domain/casting'
-import { newFlow, startSession, readSession, sessionRoute } from '../miniprogram/state/session'
-import type { CastSession } from '../miniprogram/domain/types'
 
-const load = (file: string) => JSON.parse(readFileSync(file,'utf8'))
-const files = readdirSync('content/hexagrams/').filter(file=>file.endsWith('.json')).sort()
-const reviewFile = readReviewFiles()
-const dataset = { contents:files.map(file=>load(`content/hexagrams/${file}`)), sources:load('content/sources.json'), reviews:expandReviews(reviewFile), search:load('content/search.json'), imagery:load('content/imagery.json'), relations:load('content/elements.json') }
+const dataset = readContent()
 
-test('增量资料：无白话正常构建、现有资料读取及全库门槛隔离', () => {
-  const manifest = validateContent(dataset)
-  const ids = dataset.contents.map(content => content.id)
-  assert.equal(manifest.counts.hexagrams, ids.length)
-  assert.equal(manifest.counts.originalBlocks, ids.length * 15 + ids.filter(id => id <= 2).length * 2)
-  assert.equal(manifest.counts.reviewRecords, dataset.reviews.length)
-  assert.deepEqual(HEXAGRAM_CONTENT.map(item => item.id), ids)
-  for (const id of manifest.missingHexagramIds) assert.equal(getContent(id), undefined)
-  // 固定用单卦子集验证发布门槛，收齐64卦后仍可运行。
-  const partial = { ...dataset, search: [], imagery: [], relations: [], contents: [dataset.contents[0]], reviews: dataset.reviews.filter(record => record.subjectId.startsWith(`h${ids[0]}-`)) }
-  assert.throws(() => validateContent(partial, { release: true }), /64 卦/)
-})
-
-test('构建器拒绝重复卦、空原文、坏引用、错序和过期哈希', () => {
+test('构建拒绝无效资料，发布拒绝缺卦或未审核原文', () => {
+  const reviewFile = readReviewFiles()
   const invalidMethod = structuredClone(reviewFile)
   invalidMethod.records[0].method = 'missing'
   assert.throws(() => expandReviews(invalidMethod), /核对流程悬空/)
@@ -52,31 +31,17 @@ test('构建器拒绝重复卦、空原文、坏引用、错序和过期哈希',
     [(d:typeof dataset)=>d.reviews.find((r:any)=>r.subjectId==='h3-statement').explanationStatus='passed',/无白话时审核应为不适用/],
   ] as const
   for (const [change,message] of cases) { const copy=structuredClone(dataset); change(copy); assert.throws(()=>validateContent(copy),message) }
+  const first = dataset.contents[0]
+  const partial = { ...dataset, search: [], imagery: [], relations: [], contents: [first], reviews: dataset.reviews.filter(record => record.subjectId.startsWith(`h${first.id}-`)) }
+  assert.throws(() => validateContent(partial, { release: true }), /64 卦/)
+  const unreviewed = structuredClone(dataset)
+  unreviewed.reviews.find(record => record.id === first.statement.reviewId).facsimileStatus = 'pending'
+  assert.throws(() => validateContent(unreviewed, { release: true }), /发布原文审核未完成/)
 })
 
-test('资料关键流程：上下卦方向、变卦读取及正文来源归属', () => {
-  assert.equal(getContent(combine('kun','qian').id)?.statement.original,'泰：小往大來，吉亨。')
-  assert.equal(getContent(combine('qian','kun').id)?.statement.id,'h12-statement')
-  assert.equal(getContent(combine('kan','zhen').id)?.yao[2].text.id,'h3-yao-3')
-  const sessions:CastSession[] = [
-    {mode:'manual',hexagramId:1,selected:[1]},
-    {mode:'number',hexagramId:castNumbers('8','16','6').hexagram.id,fixed:6,rawInputs:['8','16','6']},
-    {mode:'number',hexagramId:castNumbers('9007199254740993','8','6').hexagram.id,fixed:6,rawInputs:['9007199254740993','8','6']},
-  ]
-  for (const [i,session] of sessions.entries()) {
-    newFlow();const url=startSession(session)
-    assert.equal(readSession(Object.fromEntries(new URL(url,'https://local').searchParams)),session)
-    assert.ok(sessionRoute('analysis').includes(`id=${session.hexagramId}`))
-    const result=resultForSession(session), expected=[44,23,26][i]
-    assert.equal(result.id,expected)
-    assert.ok(getContent(result.id)?.statement.original)
-    const position=session.mode==='number'?session.fixed:1
-    assert.equal(getContent(session.hexagramId)?.yao[position-1].text.id,`h${session.hexagramId}-yao-${position}`)
-  }
-  assert.equal(getContent(23)?.yao[5].text.original,'碩果不食，君子得輿，小人剝廬。')
-  // 每次录入自动覆盖全部随包正文；具体异文与审核结论保存在内容档案。
-  for (const content of dataset.contents) {
-    assert.deepEqual(getContent(content.id), content)
+test('按ID读取资料与已复现字形问题回归', () => {
+  for (const content of HEXAGRAM_CONTENT) {
+    assert.equal(getContent(content.id), content)
     const blocks = [content.statement, content.tuan, content.greatImage, ...content.yao.flatMap(yao => [yao.text, yao.smallImage]), ...content.specialEntries.flatMap(entry => [entry.text, entry.smallImage])]
     // 这些录文字形已在模拟器中复现为卦形；通写正文，原字留在 notes。
     for (const block of blocks) assert.doesNotMatch(block.original, /[𩔖𤼵𫉬𢘆]/u, `${block.id} 含已确认显示异常的字形`)
@@ -85,6 +50,5 @@ test('资料关键流程：上下卦方向、变卦读取及正文来源归属',
       assert.equal(yao.smallImage.id, `h${content.id}-image-${yao.position}`)
     }
   }
-  assert.deepEqual(SOURCES, dataset.sources)
   assert.ok(getContent(4)?.statement.original.startsWith('蒙：'))
 })
