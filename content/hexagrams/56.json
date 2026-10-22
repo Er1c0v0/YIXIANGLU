@@ -1,0 +1,235 @@
+{
+  "id": 56,
+  "statement": {
+    "id": "h56-statement",
+    "original": "旅：小亨，旅貞吉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 卦辞 / 0007冊.djvu/499"
+      }
+    ],
+    "reviewId": "review-h56-statement"
+  },
+  "tuan": {
+    "id": "h56-tuan",
+    "original": "旅，小亨，柔得中乎外而順乎剛，止而麗乎明，是以小亨旅貞吉也。旅之時義大矣哉！",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 彖曰 / 0007冊.djvu/499"
+      }
+    ],
+    "reviewId": "review-h56-tuan"
+  },
+  "greatImage": {
+    "id": "h56-great-image",
+    "original": "山上有火，旅；君子以明愼用刑而不留獄。",
+    "notes": [
+      "采用电子录文“愼”，普通电子对校页相应为“慎”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 整卦大象 / 0007冊.djvu/499"
+      }
+    ],
+    "reviewId": "review-h56-great-image"
+  },
+  "summary": "山上有火，处旅明慎。",
+  "overallMeaning": "旅讲身处异地、暂居其间的分寸。以谦和清明对待环境和他人，守住基本原则，不把暂得的位置当作永久依凭。",
+  "imagery": [
+    "艮下离上，止而丽明。",
+    "山上有火，明慎而不滞。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-9-batch6",
+      "locator": "卷9 / 旅 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/499"
+    }
+  ],
+  "overviewReviewId": "review-h56-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h56-yao-1",
+        "original": "旅瑣瑣，斯其所取災。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 初六 / 0007冊.djvu/499"
+          }
+        ],
+        "reviewId": "review-h56-yao-1"
+      },
+      "smallImage": {
+        "id": "h56-image-1",
+        "original": "旅瑣瑣，志窮災也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 初六小象 / 0007冊.djvu/499"
+          }
+        ],
+        "reviewId": "review-h56-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h56-yao-2",
+        "original": "旅即次，懐其資，得童僕貞。",
+        "notes": [
+          "采用电子录文“懐”，普通电子对校页相应为“懷”；采用电子录文“童”，普通电子对校页相应为“僮”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 六二 / 0007冊.djvu/499"
+          }
+        ],
+        "reviewId": "review-h56-yao-2"
+      },
+      "smallImage": {
+        "id": "h56-image-2",
+        "original": "得童僕貞，終无尤也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 六二小象 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h56-yao-3",
+        "original": "旅焚其次，喪其童僕，貞厲。",
+        "notes": [
+          "采用电子录文“童”，普通电子对校页相应为“僮”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 九三 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-yao-3"
+      },
+      "smallImage": {
+        "id": "h56-image-3",
+        "original": "旅焚其次，亦以傷矣。以旅與下，其義喪也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 九三小象 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h56-yao-4",
+        "original": "旅于處，得其資斧，我心不快。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 九四 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-yao-4"
+      },
+      "smallImage": {
+        "id": "h56-image-4",
+        "original": "旅于處，未得位也。得其資斧，心未快也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 九四小象 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h56-yao-5",
+        "original": "射雉一矢亡，終以譽命。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 六五 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-yao-5"
+      },
+      "smallImage": {
+        "id": "h56-image-5",
+        "original": "終以譽命，上逮也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 六五小象 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h56-yao-6",
+        "original": "鳥焚其巢，旅人先笑後號咷，喪牛于易，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 上九 / 0007冊.djvu/500"
+          }
+        ],
+        "reviewId": "review-h56-yao-6"
+      },
+      "smallImage": {
+        "id": "h56-image-6",
+        "original": "以旅在上，其義焚也。喪牛于易，終莫之聞也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 旅 / 上九小象 / 0007冊.djvu/501"
+          }
+        ],
+        "reviewId": "review-h56-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

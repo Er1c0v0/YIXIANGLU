@@ -1,0 +1,233 @@
+{
+  "id": 57,
+  "statement": {
+    "id": "h57-statement",
+    "original": "巽：小亨。利有攸徃，利見大人。",
+    "notes": [
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 卦辞 / 0007冊.djvu/501"
+      }
+    ],
+    "reviewId": "review-h57-statement"
+  },
+  "tuan": {
+    "id": "h57-tuan",
+    "original": "重巽以申命，剛巽乎中正而志行，柔皆順乎剛，是以小亨，利有攸徃，利見大人。",
+    "notes": [
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 彖曰 / 0007冊.djvu/501"
+      }
+    ],
+    "reviewId": "review-h57-tuan"
+  },
+  "greatImage": {
+    "id": "h57-great-image",
+    "original": "隨風，巽；君子以申命行事。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 整卦大象 / 0007冊.djvu/501"
+      }
+    ],
+    "reviewId": "review-h57-great-image"
+  },
+  "summary": "随风而入，申命行事。",
+  "overallMeaning": "巽讲柔顺而持续地进入与影响。以清楚、一贯的表达推动行动，同时保持中正，避免过度退让而失去判断和担当。",
+  "imagery": [
+    "巽下巽上，风相继至。",
+    "申命行事，柔顺有则。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-9-batch6",
+      "locator": "卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/501"
+    }
+  ],
+  "overviewReviewId": "review-h57-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h57-yao-1",
+        "original": "進退，利武人之貞。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 初六 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-yao-1"
+      },
+      "smallImage": {
+        "id": "h57-image-1",
+        "original": "進退，志疑也。利武人之貞，志治也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 初六小象 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h57-yao-2",
+        "original": "巽在牀下，用史巫紛若，吉，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 九二 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-yao-2"
+      },
+      "smallImage": {
+        "id": "h57-image-2",
+        "original": "紛若之吉，得中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 九二小象 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h57-yao-3",
+        "original": "頻巽，吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 九三 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-yao-3"
+      },
+      "smallImage": {
+        "id": "h57-image-3",
+        "original": "頻巽之吝，志窮也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 九三小象 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h57-yao-4",
+        "original": "悔亡，田獲三品。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 六四 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-yao-4"
+      },
+      "smallImage": {
+        "id": "h57-image-4",
+        "original": "田獲三品，有功也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 六四小象 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h57-yao-5",
+        "original": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 九五 / 0007冊.djvu/502"
+          }
+        ],
+        "reviewId": "review-h57-yao-5"
+      },
+      "smallImage": {
+        "id": "h57-image-5",
+        "original": "九五之吉，位正中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 九五小象 / 0007冊.djvu/503"
+          }
+        ],
+        "reviewId": "review-h57-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h57-yao-6",
+        "original": "巽在牀下，喪其資斧，貞凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 上九 / 0007冊.djvu/503"
+          }
+        ],
+        "reviewId": "review-h57-yao-6"
+      },
+      "smallImage": {
+        "id": "h57-image-6",
+        "original": "巽在牀下，上窮也。喪其資斧，正乎凶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 巽 / 上九小象 / 0007冊.djvu/503"
+          }
+        ],
+        "reviewId": "review-h57-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

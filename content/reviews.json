@@ -19790,5 +19790,5447 @@
     "issues": [
       "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
     ]
+  },
+  {
+    "id": "review-h50-statement",
+    "subjectId": "h50-statement",
+    "subjectHash": "5696bb7074019341115cf4fba75135003de52712c720fea14631bff393f72c21",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 卦辞 / 0007冊.djvu/478"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-tuan",
+    "subjectId": "h50-tuan",
+    "subjectHash": "e11249e454300a85d5ae041791fb242a99b777a6517e997a3b6fcf97070e67c8",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 彖曰 / 0007冊.djvu/479"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“眀”，普通电子对校页相应为“明”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h50-great-image",
+    "subjectId": "h50-great-image",
+    "subjectHash": "1abcfe7bec07a7181a3b22e37f264c2ca7d90211449add82410cdd77b23ebe07",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 整卦大象 / 0007冊.djvu/479"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-overview",
+    "subjectId": "h50-overview",
+    "subjectHash": "b66c68628c68bdcd0afb83adb5789dea1da3be84101ddc1ee0759fc2833d7866",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/478–479"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h50-yao-1",
+    "subjectId": "h50-yao-1",
+    "subjectHash": "3909158a90bdfae15cd25566b53c0a2f8fb1d28bd91b9aa48401d242c3c9814b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 初六 / 0007冊.djvu/479"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“顚”，普通电子对校页相应为“顛”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h50-image-1",
+    "subjectId": "h50-image-1",
+    "subjectHash": "6870aa8252b9dbf1295e1aaee74c901bb18d40d7b3452b9edf949b693b72dc9e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 初六小象 / 0007冊.djvu/479"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“顚”，普通电子对校页相应为“顛”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h50-yao-2",
+    "subjectId": "h50-yao-2",
+    "subjectHash": "3b6c9b9b2366eb745f2f418a2655f88f67e4210a29ba95c4e57cd5f924cc3a69",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 九二 / 0007冊.djvu/480"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-image-2",
+    "subjectId": "h50-image-2",
+    "subjectHash": "061ee7c209eb59e4f674b2546c472bab9994740af2a1ed6a50fd90a7038465b9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 九二小象 / 0007冊.djvu/480"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“愼”，普通电子对校页相应为“慎”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h50-yao-3",
+    "subjectId": "h50-yao-3",
+    "subjectHash": "b0e2e3f04fb6f82ddcf826234422d2d51cbee7be6ca21bb097e4299e85ab5e4b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 九三 / 0007冊.djvu/480"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-image-3",
+    "subjectId": "h50-image-3",
+    "subjectHash": "e6c447f51da0fe7b71a9b8c8758588b001d175a5285432404ffcbca5f9dffbfd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 九三小象 / 0007冊.djvu/480"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-yao-4",
+    "subjectId": "h50-yao-4",
+    "subjectHash": "64189b62ef1f5f99a22469abf53dac8e6aba3f610dd09215f04b930cda3690f8",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 九四 / 0007冊.djvu/480"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“其形渥”，普通电子对校页作“其刑渥”；保留“形”字，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h50-image-4",
+    "subjectId": "h50-image-4",
+    "subjectHash": "e40164bbe8d8a1e4ebdd270afa18529434bac9da940245c9b13e56f7e658e4ca",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 九四小象 / 0007冊.djvu/480"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-yao-5",
+    "subjectId": "h50-yao-5",
+    "subjectHash": "f5d1b189b0855213b48211916a2ea789cc2d6395578f40579024c6104fb61c60",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 六五 / 0007冊.djvu/481"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h50-image-5",
+    "subjectId": "h50-image-5",
+    "subjectHash": "00367dd8e5a85317fac82fb171519bb5e41f95c7ec704459bc7bf368bce2f12e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 六五小象 / 0007冊.djvu/481"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h50-yao-6",
+    "subjectId": "h50-yao-6",
+    "subjectHash": "63bed853a218ee43e966120da5878eb337766d9be98fb2ba7bb7ea27b575d89a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 上九 / 0007冊.djvu/481"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h50-image-6",
+    "subjectId": "h50-image-6",
+    "subjectHash": "101de5001a85dc512c0f50198b7ba9faa5d4b6f5e93057b3747296fd1f2bd295",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 上九小象 / 0007冊.djvu/481"
+      },
+      {
+        "sourceId": "ws-zhouyi-50",
+        "locator": "第50卦 鼎 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-statement",
+    "subjectId": "h51-statement",
+    "subjectHash": "3feab963a43ddcf42829770edcd7a42ffd7bd8204e9fa60e03d8df03143fc67c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 卦辞 / 0007冊.djvu/485"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-tuan",
+    "subjectId": "h51-tuan",
+    "subjectHash": "99eb90a96672fe3fedf655eed7b5fe3af71b909a3a446495270a815c5aa251fa",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 彖曰 / 0007冊.djvu/486"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“逺”，普通电子对校页相应为“遠”；采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形与异文待核。",
+      "“不喪匕鬯則已出可以守宗廟”处于王注范围，未混入彖传；其后“出可以守宗廟社稷，以爲祭主也”属主文，已保留。"
+    ]
+  },
+  {
+    "id": "review-h51-great-image",
+    "subjectId": "h51-great-image",
+    "subjectHash": "d231c9711c98a943d2c0ea66e4a8a60dbbbaf88c2e6800eb485077853b1bb394",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 整卦大象 / 0007冊.djvu/486"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“脩”，普通电子对校页相应为“修”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h51-overview",
+    "subjectId": "h51-overview",
+    "subjectHash": "693ec5fc66c0de1d29987c5a258d9d0af71a8b4a136dc54fa4dcdc7d9adc54a2",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/485–486"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h51-yao-1",
+    "subjectId": "h51-yao-1",
+    "subjectHash": "c19b6ec674ecc19914b4983fd997dfeda379c48414e4f3b71955e7c0825d6082",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 初九 / 0007冊.djvu/486"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-image-1",
+    "subjectId": "h51-image-1",
+    "subjectHash": "16b31a74e087cff8d3e242fc5b1e18dc3da1878840302ea4a99210faf51b3ca4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 初九小象 / 0007冊.djvu/486"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-yao-2",
+    "subjectId": "h51-yao-2",
+    "subjectHash": "b8aedc24d8041bdb454f5a200bd3e7c6e72b632edfabcfd46e1e14046d3f069b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 六二 / 0007冊.djvu/486"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-image-2",
+    "subjectId": "h51-image-2",
+    "subjectHash": "a32223668862a8be8666a25573973f6649ec18da11914ea960150e4f195d4ae0",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 六二小象 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h51-yao-3",
+    "subjectId": "h51-yao-3",
+    "subjectHash": "2c800d4268375e028d7c4a1013aca0ac4aada886095f4d894829ef08388f3179",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 六三 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-image-3",
+    "subjectId": "h51-image-3",
+    "subjectHash": "e737c6ea5238ca4ad1782132b7c54967b382d8ce694886ce994069c4b708b9ba",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 六三小象 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-yao-4",
+    "subjectId": "h51-yao-4",
+    "subjectHash": "1c75d714ea6ea61faf7d7d77a23afd32e36580c35fda29339a96fc376848e04a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 九四 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-image-4",
+    "subjectId": "h51-image-4",
+    "subjectHash": "022cd9b6fd2324086a410681a669e6852568354476c1a0fada660c696767a049",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 九四小象 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h51-yao-5",
+    "subjectId": "h51-yao-5",
+    "subjectHash": "ef89dd05e6f4f5457bf2672fccd6476d3d0bc2004b3c79cc9bce59b00d1118c0",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 六五 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h51-image-5",
+    "subjectId": "h51-image-5",
+    "subjectHash": "09c3ee738833dea1b19cb2a8c4f978535af74e3a1c36e3abbf8e287864b47e9f",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 六五小象 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h51-yao-6",
+    "subjectId": "h51-yao-6",
+    "subjectHash": "5aeba9601c0fae9318cde051c701e2fdab037419aaa5567b6605dfd9fe05c4cb",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 上六 / 0007冊.djvu/487"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 易經·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“㛰”，普通电子对校页相应为“婚”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h51-image-6",
+    "subjectId": "h51-image-6",
+    "subjectHash": "082c15fef043dff54477a95f2ba98cf90890f488d62baf38c43c583961c6794f",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 上六小象 / 0007冊.djvu/488"
+      },
+      {
+        "sourceId": "ws-zhouyi-51",
+        "locator": "第51卦 震 / 象曰·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-statement",
+    "subjectId": "h52-statement",
+    "subjectHash": "acf3e5d987fd643f83bfa23b0b6e3a1c3105c0e0e713f909d2686607859d7612",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 卦辞 / 0007冊.djvu/488"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子主文以“艮其背”起首；普通电子对校页作“艮：艮其背”。未向主文重复添加卦名，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h52-tuan",
+    "subjectId": "h52-tuan",
+    "subjectHash": "78d49e3542e91de75026d3db1df3da90cf5e8925c41df7778cb036fc20fa6307",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 彖曰 / 0007冊.djvu/488–489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“静”，普通电子对校页相应为“靜”；采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h52-great-image",
+    "subjectId": "h52-great-image",
+    "subjectHash": "cf1eac90ce05bdc44e85623bfebedc2a8186e1ffaf2ba756e5dfe6c1aab69d45",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 整卦大象 / 0007冊.djvu/489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-overview",
+    "subjectId": "h52-overview",
+    "subjectHash": "e33bcee5f9299626d0b6289f2984109e408ec53c2181919fb2baab3526cc0c14",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/488–489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h52-yao-1",
+    "subjectId": "h52-yao-1",
+    "subjectHash": "ebe36dcc2092fa8196002db48cb3ff80e45c9c57f9ed90452b7766c9a3053ba2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 初六 / 0007冊.djvu/489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-image-1",
+    "subjectId": "h52-image-1",
+    "subjectHash": "86736751788734d591337207ef0c11f71cf7414895318302d039b38c19691f5f",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 初六小象 / 0007冊.djvu/489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-yao-2",
+    "subjectId": "h52-yao-2",
+    "subjectHash": "5b1b1cab2045658e6659f7d072304f8b1ae5108465aea95c60f6e5c8952be7c6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 六二 / 0007冊.djvu/489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-image-2",
+    "subjectId": "h52-image-2",
+    "subjectHash": "f54693e832f00383a11ec92d29fc1cd1b8eb12382420361707eb383216c64869",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 六二小象 / 0007冊.djvu/489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“聴”，普通电子对校页相应为“聽”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h52-yao-3",
+    "subjectId": "h52-yao-3",
+    "subjectHash": "7ae3db0ae8caddd555a0e61688edaa66ee5784aebcc6e0a1c19bec012d11f892",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 九三 / 0007冊.djvu/489"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“列其夤，厲薰心”，普通电子对校页作“裂其夤，厲閽心”；分别留档，未据对校页改字，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h52-image-3",
+    "subjectId": "h52-image-3",
+    "subjectHash": "75a08c1d358a6ffd7edd06bab700fb708291b9b44412e19d1ca33b4cc603fa8a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 九三小象 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-yao-4",
+    "subjectId": "h52-yao-4",
+    "subjectHash": "71b336d02a5d979634df49d56fec13e1f0b27e251f49eaa9c632affd928823fa",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 六四 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-image-4",
+    "subjectId": "h52-image-4",
+    "subjectHash": "ebab21aee4a46e4e0a0a281c9c70fcbc77200c95157978852831053294fcb613",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 六四小象 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-yao-5",
+    "subjectId": "h52-yao-5",
+    "subjectHash": "b3b7c2b0855951a42b947a07392b85de18a2dd7d6f659574e996b34a51c27165",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 六五 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“言有序”，普通电子对校页作“言有孚”；小象两页均为“以中正也”。保留采用主文，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h52-image-5",
+    "subjectId": "h52-image-5",
+    "subjectHash": "6861d8f37905d6e3b008a7ced3cdfb8f582bd68484b246da97eb13248adf6efa",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 六五小象 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-yao-6",
+    "subjectId": "h52-yao-6",
+    "subjectHash": "7396c6bc3d185bf7cf093fd5d359305615bdb3b498a328b27a0830676730b75b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 上九 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h52-image-6",
+    "subjectId": "h52-image-6",
+    "subjectHash": "99cab6d0167b596d17cd00c4b4ac865865655bf094d536fbaf1130e75b3cd22b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 上九小象 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-52",
+        "locator": "第52卦 艮 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-statement",
+    "subjectId": "h53-statement",
+    "subjectHash": "06f2ab867e4f7a43ec78789804fe78abf54042c20b7347ddfd0dc2b0fb793ad6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 卦辞 / 0007冊.djvu/490"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-tuan",
+    "subjectId": "h53-tuan",
+    "subjectHash": "bcfea45e051748ca431373a62c23185fddeff5aeed5350005e5be25a28dcae93",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 彖曰 / 0007冊.djvu/490–491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h53-great-image",
+    "subjectId": "h53-great-image",
+    "subjectHash": "79c2155baa255e651698e82730111cb0ed5bf7f4d84c3c7e515e4c93dc973e6a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 整卦大象 / 0007冊.djvu/491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-overview",
+    "subjectId": "h53-overview",
+    "subjectHash": "41af955990952c61a2936ece126542c39e114f0df9022186a65898bb756a6c64",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/490–491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h53-yao-1",
+    "subjectId": "h53-yao-1",
+    "subjectHash": "10f6865789d24b65573d1693be6adca5cf11b59869adec79bd9059dc68c90d9c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 初六 / 0007冊.djvu/491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-image-1",
+    "subjectId": "h53-image-1",
+    "subjectHash": "f7d336ae8c900a93e73079b5900e753765caf01498bd8ecfdde75827995dd4ba",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 初六小象 / 0007冊.djvu/491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-yao-2",
+    "subjectId": "h53-yao-2",
+    "subjectHash": "c2a03971ea4b6c27f863f5753a425321680ad9db15dd768d339cb315948d9124",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 六二 / 0007冊.djvu/491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-image-2",
+    "subjectId": "h53-image-2",
+    "subjectHash": "82fbc3f615564e30f467ffee06a43becf0193a3bda9a31e8d3f83fbc83eae9c2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 六二小象 / 0007冊.djvu/491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-yao-3",
+    "subjectId": "h53-yao-3",
+    "subjectHash": "80e3a3bc1d6a3430dfa041ba1b2ac28d4785a512518383b87fd0da3512bee90c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 九三 / 0007冊.djvu/491"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-image-3",
+    "subjectId": "h53-image-3",
+    "subjectHash": "b6e36caf5375d63d2fe5683ee1e5b1f01b32f03ca87456c6ded9e29f1af23510",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 九三小象 / 0007冊.djvu/492"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“羣醜”，普通电子对校页相应为“群丑”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h53-yao-4",
+    "subjectId": "h53-yao-4",
+    "subjectHash": "860feaf1d5f657555df4eb2ca0e95d522960433eb6d3bf1a4a897f61bd2f3924",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 六四 / 0007冊.djvu/492"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-image-4",
+    "subjectId": "h53-image-4",
+    "subjectHash": "3a94d2ba357620dcad98861932f6e1faf5a1e8e1c0e7946d9f0fa5e1543c4a1e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 六四小象 / 0007冊.djvu/492"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-yao-5",
+    "subjectId": "h53-yao-5",
+    "subjectHash": "c9cdbf7cee5f4f453f4183abe924196dd2a8935db4262576106b1de54df81665",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 九五 / 0007冊.djvu/492"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“嵗”，普通电子对校页相应为“歲”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h53-image-5",
+    "subjectId": "h53-image-5",
+    "subjectHash": "d9c86be9cbb0f1d163a7116cd49a89578c13d25850f71ad0ebfa54ec148558ef",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 九五小象 / 0007冊.djvu/492"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h53-yao-6",
+    "subjectId": "h53-yao-6",
+    "subjectHash": "fb90630373dc547e6b32a2222499b1d1d573130730879a6df3d1e26fb54b88d3",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 上九 / 0007冊.djvu/492"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h53-image-6",
+    "subjectId": "h53-image-6",
+    "subjectHash": "05df12865ab3a1e7062859dad496b1200c70cd3ca5c80629694746fbb6f540a6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 上九小象 / 0007冊.djvu/493"
+      },
+      {
+        "sourceId": "ws-zhouyi-53",
+        "locator": "第53卦 漸 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-statement",
+    "subjectId": "h54-statement",
+    "subjectHash": "e1529a2321f833954b7da8c5ff2cc6246e0435a125b17a4ff249a0ca7334e407",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 卦辞 / 0007冊.djvu/493"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-tuan",
+    "subjectId": "h54-tuan",
+    "subjectHash": "35c150d6ef8ab4bde6a5f61d97ef0071a3f58744af156a69bbcacabdc064a032",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 彖曰 / 0007冊.djvu/493"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“説”，普通电子对校页相应为“說”；采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h54-great-image",
+    "subjectId": "h54-great-image",
+    "subjectHash": "440b7fb3cbcaf7081913bc249c41121bf0c8cbc6cb3eb5f169b736e4f3695435",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 整卦大象 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-overview",
+    "subjectId": "h54-overview",
+    "subjectHash": "e7a0de9e0b2ea4ed84dbd9bc9fd45fbd20a8d8d241cd086aeccbd17896bce7c9",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/493–494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h54-yao-1",
+    "subjectId": "h54-yao-1",
+    "subjectHash": "2efb496f4dfe232a936dce5588185ea20fa4a20755660afe43ca0666d3dccde9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 初九 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-image-1",
+    "subjectId": "h54-image-1",
+    "subjectHash": "bb908fd2d83250ccaf176ca7dc98a0a8a391565b1cfe738e747e814084d94cd5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 初九小象 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h54-yao-2",
+    "subjectId": "h54-yao-2",
+    "subjectHash": "e0c2ddc13334cf5c9d81bdce344e4aba076d199ebf61e189b761faa124040d2b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 九二 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-image-2",
+    "subjectId": "h54-image-2",
+    "subjectHash": "13f2fc6132a94b038bc8da15ec8e0c043e035ce2496cf046b3aaeff3c2e73f3c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 九二小象 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-yao-3",
+    "subjectId": "h54-yao-3",
+    "subjectHash": "003b7b553f6752b7cf58080842b7f973e6ab662ecfffcda3a19b6b74ee11a07f",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 六三 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-image-3",
+    "subjectId": "h54-image-3",
+    "subjectHash": "b27b3651abf95e949a2be78929f3d11821c46df8c1c7e7a3fff3f762c1ace26d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 六三小象 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-yao-4",
+    "subjectId": "h54-yao-4",
+    "subjectHash": "03e8a2e1628abd59c7ae94af014aac4bb5c352db020c08302501c2a4451717bf",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 九四 / 0007冊.djvu/494"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-image-4",
+    "subjectId": "h54-image-4",
+    "subjectHash": "ecfafbd2e205ea802f64411a8032201d0bd39122a048f54f2bb663f9e47c991d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 九四小象 / 0007冊.djvu/495"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-yao-5",
+    "subjectId": "h54-yao-5",
+    "subjectHash": "badcae815d4acd159bc994e40554cbe2af494431b0cd3652993f2d7910163464",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 六五 / 0007冊.djvu/495"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-image-5",
+    "subjectId": "h54-image-5",
+    "subjectHash": "bd77bc24e8f46ab116db59799c6fb8a3f17f06de337d9bcc995e00bf95ab6780",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 六五小象 / 0007冊.djvu/495"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-yao-6",
+    "subjectId": "h54-yao-6",
+    "subjectHash": "024d172b8961e74d08c369ede57c1c7ef98a41e5766b03e736ea006d335af06d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 上六 / 0007冊.djvu/495"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 易經·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h54-image-6",
+    "subjectId": "h54-image-6",
+    "subjectHash": "4b12f5cc5b8ddf4d698f12508ed4c8385f8a7a83607ec2c7c5dec673c34bf343",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 歸妹 / 上六小象 / 0007冊.djvu/495"
+      },
+      {
+        "sourceId": "ws-zhouyi-54",
+        "locator": "第54卦 歸妹 / 象曰·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“虚”，普通电子对校页相应为“虛”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h55-statement",
+    "subjectId": "h55-statement",
+    "subjectHash": "564f439caa4fe3998fbc98d8cb86ccbaefc9c0e207c7552cc7dc9376aa269e04",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 卦辞 / 0007冊.djvu/495"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-tuan",
+    "subjectId": "h55-tuan",
+    "subjectHash": "516f1c459e8460fac72745d5f7eebe982645deb3f5fc90bafc3bf77a5b154aca",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 彖曰 / 0007冊.djvu/496"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“虚”，普通电子对校页相应为“虛”；采用电子录文“况於”，普通电子对校页相应为“況于”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h55-great-image",
+    "subjectId": "h55-great-image",
+    "subjectHash": "0eb9b2943c1f107930c56c87f4876b9f78c2aa00f7512e73eac86808d0b9f016",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 整卦大象 / 0007冊.djvu/496"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-overview",
+    "subjectId": "h55-overview",
+    "subjectHash": "a3cb1d3eccf04cfbf37fcf09d1326ee40f421b7e6c69d394be8809b63a19b7ba",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/495–496"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h55-yao-1",
+    "subjectId": "h55-yao-1",
+    "subjectHash": "2bbc54e087344e2944598efa49f010c48222f0a4877dbe5fdfdd0c4af747c737",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 初九 / 0007冊.djvu/496"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h55-image-1",
+    "subjectId": "h55-image-1",
+    "subjectHash": "b05e6359ec71abd5205a3c263954cb0cc54c24d87d983a4daa00a42362d3f17d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 初九小象 / 0007冊.djvu/496–497"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-yao-2",
+    "subjectId": "h55-yao-2",
+    "subjectHash": "c876aac66c49ec930d90671b64c68053c94dc2057b54d277fae0c7310a512ec5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 六二 / 0007冊.djvu/497"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；采用电子录文“𤼵”，普通电子对校页相应为“發”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h55-image-2",
+    "subjectId": "h55-image-2",
+    "subjectHash": "fad4416bfa38b0e03a758c0234d44c4037d526a1485a1fdb45a014044306dcdb",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 六二小象 / 0007冊.djvu/497"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“𤼵”，普通电子对校页相应为“發”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h55-yao-3",
+    "subjectId": "h55-yao-3",
+    "subjectHash": "5bcd469d5ccc95baaeae9ff08d978e6e254f008c5fdd5aade52e08a19fdca4c6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 九三 / 0007冊.djvu/497"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-image-3",
+    "subjectId": "h55-image-3",
+    "subjectHash": "3209ff1096df9b0b6a8c30f549e290cf0d77b4dcc8a5acc747ac131e3dbb4228",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 九三小象 / 0007冊.djvu/497"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-yao-4",
+    "subjectId": "h55-yao-4",
+    "subjectHash": "97fddcb1777444d7aa4ee19c730efb17a61391a0b3d7b9ded92cdcccb13860b5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 九四 / 0007冊.djvu/498"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-image-4",
+    "subjectId": "h55-image-4",
+    "subjectHash": "2eca98ee49026012f42856b5e43031b0d7d8977aff0f67335eb30e8b63336e67",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 九四小象 / 0007冊.djvu/498"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-yao-5",
+    "subjectId": "h55-yao-5",
+    "subjectHash": "3cf5572f5f1ee7faa7e4411ccf83406faf68980cde7947efda49afcbc4c6adc7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 六五 / 0007冊.djvu/498"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-image-5",
+    "subjectId": "h55-image-5",
+    "subjectHash": "a79f4bed310109a5913d5c9ce002f177be170d9e1b8c927eec1ad1c803c0eddc",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 六五小象 / 0007冊.djvu/498"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h55-yao-6",
+    "subjectId": "h55-yao-6",
+    "subjectHash": "029e9e84f8545232cf1399f978a401eacb11d9e2c76aa8b83d4a32d8dfd9fe5b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 上六 / 0007冊.djvu/498"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 易經·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“闚”，普通电子对校页相应为“窺”；采用电子录文“戸”，普通电子对校页相应为“戶”；采用电子录文“嵗”，普通电子对校页相应为“歲”；采用电子录文“覿”，普通电子对校页相应为“觌”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h55-image-6",
+    "subjectId": "h55-image-6",
+    "subjectHash": "09c7562cba5366935e7692a874444177e2760db361bf3646c2fcfc999836354a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 豐 / 上六小象 / 0007冊.djvu/498"
+      },
+      {
+        "sourceId": "ws-zhouyi-55",
+        "locator": "第55卦 豐 / 象曰·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“闚”，普通电子对校页相应为“窺”；采用电子录文“戸”，普通电子对校页相应为“戶”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h56-statement",
+    "subjectId": "h56-statement",
+    "subjectHash": "3ab03ec03f5247ab9c31c1a96d5d504617890e9db4087229792555b6f9bce8a8",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 卦辞 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-tuan",
+    "subjectId": "h56-tuan",
+    "subjectHash": "a969789199edf4090f5628a147c8367cf3c2f3fdbb2ead95332436ef2a2ff763",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 彖曰 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-great-image",
+    "subjectId": "h56-great-image",
+    "subjectHash": "97259a496fe480c375daa264096c0343f614aeb98ef1918b55c3066a6c1f8082",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 整卦大象 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“愼”，普通电子对校页相应为“慎”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h56-overview",
+    "subjectId": "h56-overview",
+    "subjectHash": "8bd7e5f7b86f6f9cd0e63112bbb621ed6e434fd99f14e0865d6104f33e35a5ea",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h56-yao-1",
+    "subjectId": "h56-yao-1",
+    "subjectHash": "12109302c81beb08315fdf8389253837b5e481bb2a1a420713c751494dee4e47",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 初六 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-image-1",
+    "subjectId": "h56-image-1",
+    "subjectHash": "9e00c13ddc973953cefb0e6325c0df2b280c016e2286097bd1999fcedb9ba89a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 初六小象 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-yao-2",
+    "subjectId": "h56-yao-2",
+    "subjectHash": "3e85ef637474446dcc36f5addb0752747fbbc9f9d8294ed7bd32c61fd31b3714",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 六二 / 0007冊.djvu/499"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“懐”，普通电子对校页相应为“懷”；采用电子录文“童”，普通电子对校页相应为“僮”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h56-image-2",
+    "subjectId": "h56-image-2",
+    "subjectHash": "c6852406e012f9efe84bc6bebe4750d9949b70a91a88a016b3cdd7d7de7f1e78",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 六二小象 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-yao-3",
+    "subjectId": "h56-yao-3",
+    "subjectHash": "5ff00c3d15795812e652b00c55b624ada978ba395e9c09609f7f406b8286b951",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 九三 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“童”，普通电子对校页相应为“僮”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h56-image-3",
+    "subjectId": "h56-image-3",
+    "subjectHash": "ef6665d4679b6cc74652106b39ef8641eefe9d8a51a653dc7b39931ae503347f",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 九三小象 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-yao-4",
+    "subjectId": "h56-yao-4",
+    "subjectHash": "5a01c2f09c798fcdcbe0fbb3713f7ab3abb0470a3c968c3336e1752f3bb23bb4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 九四 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-image-4",
+    "subjectId": "h56-image-4",
+    "subjectHash": "c351930e8c2eb4c02b74ba2dac80c1605e53a375566cd6b18de799112cd9035e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 九四小象 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-yao-5",
+    "subjectId": "h56-yao-5",
+    "subjectHash": "779c39c9283d0918779fca68e0bf9158a21add1d61aa99a22f7e2d92a0860db7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 六五 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-image-5",
+    "subjectId": "h56-image-5",
+    "subjectHash": "67531dcdc90bf4c2fe6f98bf84c93f70251d1f61e52428dc2e4997982951411b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 六五小象 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-yao-6",
+    "subjectId": "h56-yao-6",
+    "subjectHash": "b993e7c1a9d17cf42880745681f8fd2e1bd7ec57a66586082d499775e4f5a6c9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 上九 / 0007冊.djvu/500"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h56-image-6",
+    "subjectId": "h56-image-6",
+    "subjectHash": "90f6656feed86943e431ee45a6f8c9dc82d4064e6dd4034cc9b71388f568aea2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 旅 / 上九小象 / 0007冊.djvu/501"
+      },
+      {
+        "sourceId": "ws-zhouyi-56",
+        "locator": "第56卦 旅 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-statement",
+    "subjectId": "h57-statement",
+    "subjectHash": "0dd1b76c1bd57e51119a5ecef173bcb84c8e62f120f69fc6785552c3c1e7d0f5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 卦辞 / 0007冊.djvu/501"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h57-tuan",
+    "subjectId": "h57-tuan",
+    "subjectHash": "ba220a6bd7f0dbdc257b6f96d3d2575c5c8a967454b9a09cb0b9453257550701",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 彖曰 / 0007冊.djvu/501"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h57-great-image",
+    "subjectId": "h57-great-image",
+    "subjectHash": "130b8ce63ef36502775f41754e38ce002d9f84b3c55be4667fb47128f65e49c4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 整卦大象 / 0007冊.djvu/501"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-overview",
+    "subjectId": "h57-overview",
+    "subjectHash": "50e7ab888a95212a61352f69bb75fb03fcd101cceb66c92554ebdb94f0ab47a4",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/501"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h57-yao-1",
+    "subjectId": "h57-yao-1",
+    "subjectHash": "8d8ccd0ba6160aa751dd353bad18e079034a2c02b6ae78c065d52b051a38590b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 初六 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-image-1",
+    "subjectId": "h57-image-1",
+    "subjectHash": "bdeab105e8795c3f2749e0906a69fb09ebb73e0514f734fb995a699e693afb09",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 初六小象 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-yao-2",
+    "subjectId": "h57-yao-2",
+    "subjectHash": "e3a87e721dfc513819fb2e205619063def074d6d82c4f1c13d2b8bb725803a02",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 九二 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-image-2",
+    "subjectId": "h57-image-2",
+    "subjectHash": "88e6da7d9fe78f1fc3e955b52b60156ad2d7de9b9905f5fb2e0ddb5c015a9761",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 九二小象 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-yao-3",
+    "subjectId": "h57-yao-3",
+    "subjectHash": "4a8d96573e8c7a8b87849306140a52f4457247d31b0d1e8de35dc08affa5a488",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 九三 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-image-3",
+    "subjectId": "h57-image-3",
+    "subjectHash": "4c04c58e3d89020c5ebc0d8f72ccfe2a232f52fe6fdb0aa35e0894b9abc55fdc",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 九三小象 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-yao-4",
+    "subjectId": "h57-yao-4",
+    "subjectHash": "3e0f202abfa36942dc75aa7f8d85e64f9df554b6c868e88296bbddcde6455bfd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 六四 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-image-4",
+    "subjectId": "h57-image-4",
+    "subjectHash": "1bd3572346f5cdbf057588b3faf992ff61049906254164a7a3b45e19a74b56f1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 六四小象 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-yao-5",
+    "subjectId": "h57-yao-5",
+    "subjectHash": "48f21b1c2b9a40c23de443f7f7e43c8ab5e645c721261d1ab0ac3a0e701f8ca6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 九五 / 0007冊.djvu/502"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-image-5",
+    "subjectId": "h57-image-5",
+    "subjectHash": "a88faeb53420fd950087bb8241f2925b84262a1eb7a6985ea37ca3fab57f65ac",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 九五小象 / 0007冊.djvu/503"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-yao-6",
+    "subjectId": "h57-yao-6",
+    "subjectHash": "4af97356c55d46e78c5678a6ee2406e909070b8752a1b2c2214519192ce2d758",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 上九 / 0007冊.djvu/503"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h57-image-6",
+    "subjectId": "h57-image-6",
+    "subjectHash": "91630b83a7991ac76310d79738aa86e279514676ec819ab6ad1f302af0210e87",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 上九小象 / 0007冊.djvu/503"
+      },
+      {
+        "sourceId": "ws-zhouyi-57",
+        "locator": "第57卦 巽 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-statement",
+    "subjectId": "h59-statement",
+    "subjectHash": "14c6184233b87ad43a3d51adc8f7ac24322849912a89860642af7bbed22d923c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 卦辞 / 0007冊.djvu/509"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h59-tuan",
+    "subjectId": "h59-tuan",
+    "subjectHash": "0846b1c50f20c2e1b35851084cd1ce791f0fb8598db116daa2e6f5b1212581ff",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 彖曰 / 0007冊.djvu/509"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。",
+      "本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"
+    ]
+  },
+  {
+    "id": "review-h59-great-image",
+    "subjectId": "h59-great-image",
+    "subjectHash": "01ed73a58c9d64a672d36e44179a99150e7dacde5f862e0dfd4557a02542fad7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 整卦大象 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-overview",
+    "subjectId": "h59-overview",
+    "subjectHash": "0c9d997cfd792571e53e3718c5777939bbbc6f20fccf5969c8ad06dd3c4c9768",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/509–510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h59-yao-1",
+    "subjectId": "h59-yao-1",
+    "subjectHash": "13c05c534978473838fff2bc63e2d40e43ee3438967ebd972d257491185649e6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 初六 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“用拯馬壯吉”，普通电子对校页作“用拯馬壯，吉，悔亡”；未向主文补入“悔亡”，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h59-image-1",
+    "subjectId": "h59-image-1",
+    "subjectHash": "03c9212f15920c8ea020617c09d6e5fd3f13666118b491951ab57a652ef79607",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 初六小象 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-yao-2",
+    "subjectId": "h59-yao-2",
+    "subjectHash": "b85acfdeee30f0aa6b3edcac814f7edbcbef0134b3e69e2238d9b9e2774f235d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 九二 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-image-2",
+    "subjectId": "h59-image-2",
+    "subjectHash": "d0bba881f95f8ef730be8e0ffd574229da447dd602585d8bf995ad8c878e2797",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 九二小象 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h59-yao-3",
+    "subjectId": "h59-yao-3",
+    "subjectHash": "323b84a91e5d5fca6a372fc7eba0c0252fab25be496f95a654d50db807d4e736",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 六三 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-image-3",
+    "subjectId": "h59-image-3",
+    "subjectHash": "f17888846806d6c2b3bb73af002669e512bf1f6efc6c9e6155465d252e2a22ac",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 六三小象 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-yao-4",
+    "subjectId": "h59-yao-4",
+    "subjectHash": "b667d0f5c1051a43088e4ac432474bdd591b804da1e54f50f6160dedd6e3cbb1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 六四 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h59-image-4",
+    "subjectId": "h59-image-4",
+    "subjectHash": "7c59ba90e7d6942086e8381f8dbdc446be03aef07d307150c6f9fcd1365b2af6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 六四小象 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h59-yao-5",
+    "subjectId": "h59-yao-5",
+    "subjectHash": "f5d12b3b73fe308f44e8ee738f068804210cbcecfea691452f3dfe7d5414697e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 九五 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-image-5",
+    "subjectId": "h59-image-5",
+    "subjectHash": "5ea93569b202aa04e1c04536ac81dd4027d7c9ceca0bce94a9cb560465676102",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 九五小象 / 0007冊.djvu/510"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-yao-6",
+    "subjectId": "h59-yao-6",
+    "subjectHash": "befc83e5f126fc379bdd3d6f8bc89c929bc0102824d7560e787d4736c7e904e9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 上九 / 0007冊.djvu/511"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h59-image-6",
+    "subjectId": "h59-image-6",
+    "subjectHash": "ffd99e7c69ec6fc4447490e7e06d0caafba190524d71c39b9d0ec7b42901bbfe",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 上九小象 / 0007冊.djvu/511"
+      },
+      {
+        "sourceId": "ws-zhouyi-59",
+        "locator": "第59卦 涣 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“逺”，普通电子对校页相应为“遠”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h60-statement",
+    "subjectId": "h60-statement",
+    "subjectHash": "cccc751f9bbe2f37d76d8e17a88e851f56091ae6b7950ccce3fe37e31f77e14a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 卦辞 / 0007冊.djvu/511"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-tuan",
+    "subjectId": "h60-tuan",
+    "subjectHash": "fe21251016631c87011cb15a9dc9c0219890707bf14718e1a3774c38051411fa",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 彖曰 / 0007冊.djvu/511"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-great-image",
+    "subjectId": "h60-great-image",
+    "subjectHash": "a47ec63b79eac2a7e07063a59e9c3e01ad13aa4dcecb65b9ad3a8d9746199a6d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 整卦大象 / 0007冊.djvu/511"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-overview",
+    "subjectId": "h60-overview",
+    "subjectHash": "f32f2075c4703ff7b79614e9e2e89470f414836972382df7dcb04869acece443",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/511"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h60-yao-1",
+    "subjectId": "h60-yao-1",
+    "subjectHash": "a19b1854a2bfbae4e142b4c5fd6ddb89cd9a0864aece740fd2903e0f2f4ee63c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 初九 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“户”，普通电子对校页相应为“戶”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h60-image-1",
+    "subjectId": "h60-image-1",
+    "subjectHash": "750c272f6be5191a0f8400932a2b9e62e90743309d21500a213097bef9084f84",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 初九小象 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“户”，普通电子对校页相应为“戶”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h60-yao-2",
+    "subjectId": "h60-yao-2",
+    "subjectHash": "8fd43a4f5904d741ed7559b833b17adeaf7831c24d33cfaffd46925c3ea69d60",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 九二 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-image-2",
+    "subjectId": "h60-image-2",
+    "subjectHash": "6cf0656829964ae97e38256f9a0276623cac54e952b1ac31d68696acf020e5a0",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 九二小象 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“不出門庭凶，失時極也”，普通电子对校页作“不出門庭，失時極也”；保留主文“凶”字，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h60-yao-3",
+    "subjectId": "h60-yao-3",
+    "subjectHash": "dd74a1c8652b62d0376161e08d46732662f2e07c602360ddceb6e80f57d02719",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 六三 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-image-3",
+    "subjectId": "h60-image-3",
+    "subjectHash": "cd27a1db63f994f7e2d232269a6726f6cdf5eec709caa20b43d2e58a15fb58bd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 六三小象 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-yao-4",
+    "subjectId": "h60-yao-4",
+    "subjectHash": "7e58335ffc452cc727e420bc0b97bb72f26e8936e9d7cae71813b03d92236b4d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 六四 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-image-4",
+    "subjectId": "h60-image-4",
+    "subjectHash": "935b109810f006e02da81709ae193952653b2ecdfc84937cf3b1693d4e26c567",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 六四小象 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-yao-5",
+    "subjectId": "h60-yao-5",
+    "subjectHash": "aee39459cd37e4d7def0ca5576405b08b7b1b0ee468c3ca42be6b9ae7fca958d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 九五 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-image-5",
+    "subjectId": "h60-image-5",
+    "subjectHash": "5c98c29bb5c81493297d0551b7a49a2ae5661454244554037333d67a69de8553",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 九五小象 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-yao-6",
+    "subjectId": "h60-yao-6",
+    "subjectHash": "96a238310966b3c38470de72492f743f72e4dcc1dd45543a006879014293b848",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 上六 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 易經·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h60-image-6",
+    "subjectId": "h60-image-6",
+    "subjectHash": "cd5dbd305e6e768266fdfadd8fd3eab9e616ebbd2e116b1aa5573339079a1b7d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 上六小象 / 0007冊.djvu/512"
+      },
+      {
+        "sourceId": "ws-zhouyi-60",
+        "locator": "第60卦 节 / 象曰·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-statement",
+    "subjectId": "h61-statement",
+    "subjectHash": "b696220d9aa320a426543a535eea4d22bf78ec24f43373be1f4c55a20fb50b71",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 卦辞 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h61-tuan",
+    "subjectId": "h61-tuan",
+    "subjectHash": "3d978b823065db373aa300f832d2ddc412e8fa4f4d85bf06bcc092ba9bfcd487",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 彖曰 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“内”，普通电子对校页相应为“內”；采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。",
+      "本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"
+    ]
+  },
+  {
+    "id": "review-h61-great-image",
+    "subjectId": "h61-great-image",
+    "subjectHash": "dc19636158fdce991a08363a2108b937341475768b558fe239f54138d8952bce",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 整卦大象 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-overview",
+    "subjectId": "h61-overview",
+    "subjectHash": "687288f333a8b3c6d55e29d9ba083d79460d2b5e6c53ecdf7b1698e753f3e0fb",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h61-yao-1",
+    "subjectId": "h61-yao-1",
+    "subjectHash": "029fd30ef08622e6cfe878b20b69d70078b94658dbb53350f5e3d10873af45c2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 初九 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-image-1",
+    "subjectId": "h61-image-1",
+    "subjectHash": "41b954166744f6f8fbcefbd02f1c4a4bee1654b0640ce37366e29f9ed5d7f3e3",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 初九小象 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-yao-2",
+    "subjectId": "h61-yao-2",
+    "subjectHash": "234def9d6487845cca9c2e4262201a41f1f417f927766b4f5d08b6f02f39de7c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 九二 / 0007冊.djvu/513"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“隂”，普通电子对校页相应为“陰”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h61-image-2",
+    "subjectId": "h61-image-2",
+    "subjectHash": "080e0526d2798c46e3e1d4bce673e354ed345c2b6350977183b631051e6e8545",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 九二小象 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h61-yao-3",
+    "subjectId": "h61-yao-3",
+    "subjectHash": "2e673aee50020ea572b64b84da4aa6399deffc761e6217a249b91154c40270c7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 六三 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“鼔”，普通电子对校页相应为“鼓”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h61-image-3",
+    "subjectId": "h61-image-3",
+    "subjectHash": "f114b295ba6d82487ec791994da18f053e898c7d7ef73a8d78a5892941715b19",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 六三小象 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“或鼔或罷”，普通电子对校页作“可鼓或罷”；保留采用录文，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h61-yao-4",
+    "subjectId": "h61-yao-4",
+    "subjectHash": "cfdccbca478fedac84ea356e7e2947d9a404279c78291bb962bca6a67baae244",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 六四 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“月㡬望”，普通电子对校页作“月既望”；保留“㡬”字，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h61-image-4",
+    "subjectId": "h61-image-4",
+    "subjectHash": "3036fe62cc5f4d6d2f8a7cb6071d22c9b8beac03e173ccd888953db4ac91f635",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 六四小象 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“絶𩔖”，普通电子对校页相应为“絕類”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h61-yao-5",
+    "subjectId": "h61-yao-5",
+    "subjectHash": "499fbf04724b2028ce7167aabaa4d2f8e7ff0a9679d9e616d4051e6ce280ccfa",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 九五 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-image-5",
+    "subjectId": "h61-image-5",
+    "subjectHash": "2528f5cafe5f0582069efc83b52fd2b4ab9a7c18947c3adda0cc129f675683cc",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 九五小象 / 0007冊.djvu/514"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-yao-6",
+    "subjectId": "h61-yao-6",
+    "subjectHash": "1f16fceb9ab956df995e9a4b684e4990b5ebe56cbc3386117a615820005b3bb0",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 上九 / 0007冊.djvu/515"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h61-image-6",
+    "subjectId": "h61-image-6",
+    "subjectHash": "04f820daa0b05b7ee8cefbd62ba39171c91851d43907134b744ab14b52e5f009",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 上九小象 / 0007冊.djvu/515"
+      },
+      {
+        "sourceId": "ws-zhouyi-61",
+        "locator": "第61卦 中孚 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-statement",
+    "subjectId": "h62-statement",
+    "subjectHash": "47ae67120e5a3cca600315c611cbc5a1f2861a31434aabd47021c99f1242aa0a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 卦辞 / 0007冊.djvu/515"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-tuan",
+    "subjectId": "h62-tuan",
+    "subjectHash": "0090883a480bd9fbc2cab064731cc052772ced3a9e818ae31dd3899512eadeee",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 彖曰 / 0007冊.djvu/515"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子主文“有飛鳥之象焉”之后接“飛鳥遺之音”，普通电子对校页后句多一“有”字；未补入主文，影印待核。"
+    ]
+  },
+  {
+    "id": "review-h62-great-image",
+    "subjectId": "h62-great-image",
+    "subjectHash": "0f5fcb7f7e9896922a613d00df9ceea1524ef093255a04132a7c74359c35e8ec",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 整卦大象 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-overview",
+    "subjectId": "h62-overview",
+    "subjectHash": "0cf101274f15319624008848f2ccf2c7faea92315400ce08ab36788cb274b0d7",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/515–516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h62-yao-1",
+    "subjectId": "h62-yao-1",
+    "subjectHash": "2a5f24701dcdf8354af18a2d9a87e4723f97c2d8cee75eb4566e9c3c5decb064",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 初六 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-image-1",
+    "subjectId": "h62-image-1",
+    "subjectHash": "5fc1b02dc39d9809dab5c3e08ae8210a1623738af3996d2afcb746aef23fb315",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 初六小象 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-yao-2",
+    "subjectId": "h62-yao-2",
+    "subjectHash": "e53a12479af3513a9ab715a4bd7e709a167e23b481f5a370f45737e8ae8194b7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 六二 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-image-2",
+    "subjectId": "h62-image-2",
+    "subjectHash": "1cc1f9b3c1d13dd0315c37b76e1fd1e926a221bd44102c149436f4fa13b103d4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 六二小象 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-yao-3",
+    "subjectId": "h62-yao-3",
+    "subjectHash": "053ec9057f3103cf2e16d9a2c756ae0bf4afab96292b9b3b16b86534491e7b35",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 九三 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-image-3",
+    "subjectId": "h62-image-3",
+    "subjectHash": "9eab879b4fe2c2acd0a942b5919da9ea8c06fd2a690686f2efbb57dd4c4b1e10",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 九三小象 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-yao-4",
+    "subjectId": "h62-yao-4",
+    "subjectHash": "3d5c34ad24295f9e4c3cd431b587158cc441ffa9e1d9310ae9255a2dd2d856df",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 九四 / 0007冊.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-image-4",
+    "subjectId": "h62-image-4",
+    "subjectHash": "c6470448a29c34c2721ff23d310697b02baaa52b81024a366a201cb4cc096e0d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 九四小象 / 0007冊.djvu/517"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-yao-5",
+    "subjectId": "h62-yao-5",
+    "subjectHash": "d4d384cc90a1962106551915a6f430bb3bc3eb7533523a9cd18f3c5b80841b32",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 六五 / 0007冊.djvu/517"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-image-5",
+    "subjectId": "h62-image-5",
+    "subjectHash": "e63841a8c5a424ee9a9f20d7af0b7472a07ed401841179509361e59fe884fb3b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 六五小象 / 0007冊.djvu/517"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“雲”，普通电子对校页相应为“云”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h62-yao-6",
+    "subjectId": "h62-yao-6",
+    "subjectHash": "f185e0d750965de6156eb887cf81ced9b1e8698167fc9cdc69a8abf9ba77d289",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 上六 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 易經·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h62-image-6",
+    "subjectId": "h62-image-6",
+    "subjectHash": "d93af5f56de94409d597c48b2f2411bfabe707b043a2a934bf8811ec66fb1276",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 上六小象 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-62",
+        "locator": "第62卦 小过 / 象曰·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-statement",
+    "subjectId": "h63-statement",
+    "subjectHash": "5fad52e914231a6d81a820f06c9e4870f38726e83882959c0c38bbcc9f298dd0",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 卦辞 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-tuan",
+    "subjectId": "h63-tuan",
+    "subjectHash": "c87ba79cddc993ef59eb578521b18741b9ceb1294bf3adcd276e3ed133069807",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 彖曰 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"
+    ]
+  },
+  {
+    "id": "review-h63-great-image",
+    "subjectId": "h63-great-image",
+    "subjectHash": "13db31e61bb7c18c45d24bbf9fdd710dbae0d493f0beb41acf136a9cce8a83e2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 整卦大象 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-overview",
+    "subjectId": "h63-overview",
+    "subjectHash": "7717af982d75d399558368dd79165ae8190339e839a83ee06d9714b394af835a",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h63-yao-1",
+    "subjectId": "h63-yao-1",
+    "subjectHash": "cf76efdbca4a90605ecc4af231f3032bfe06a4b4fd42a75a5460512df0318cf5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 初九 / 0007冊.djvu/518"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h63-image-1",
+    "subjectId": "h63-image-1",
+    "subjectHash": "3f2e17e56277f0a9ea4380721b977fcff3b48606adb38745590f3eab2d0560b6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 初九小象 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·初九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h63-yao-2",
+    "subjectId": "h63-yao-2",
+    "subjectHash": "f73c058accb74083679006bfe26bdb371f97274513666fb3d105a0e9677e9efd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 六二 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-image-2",
+    "subjectId": "h63-image-2",
+    "subjectHash": "2f6a499888db7e9e6f4b33020e1b60fec6237875366080aeaa3e130b818ab4b2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 六二小象 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·六二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-yao-3",
+    "subjectId": "h63-yao-3",
+    "subjectHash": "52d09023f0fc2477ef0c951fcd846713e6f961cc209bce44a20d7e2b49c37231",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 九三 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“髙”，普通电子对校页相应为“高”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h63-image-3",
+    "subjectId": "h63-image-3",
+    "subjectHash": "a35997c2b5270c0b078b297806fd05c8cef5ceff129877a98a965662fcc23690",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 九三小象 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·九三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-yao-4",
+    "subjectId": "h63-yao-4",
+    "subjectHash": "30f4272bc34812d19887d1ce1bab1b8041c082864950d969ac11764fd40cb2ec",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 六四 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "主文采用“繻有衣袽”，紧随王注“繻宜曰濡”仅为注家说明，未据注文替换主文。"
+    ]
+  },
+  {
+    "id": "review-h63-image-4",
+    "subjectId": "h63-image-4",
+    "subjectHash": "79b47a415f66a8a1560ad22a4279176c4a8d5394723f3d147c3d9ffd2dcf0582",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 六四小象 / 0007冊.djvu/519"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·六四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-yao-5",
+    "subjectId": "h63-yao-5",
+    "subjectHash": "2b5d15a8bc29f041d8e88ddf4893eac2d7f538e3cc701100f6f761eaf0b0aa29",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 九五 / 0007冊.djvu/520"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-image-5",
+    "subjectId": "h63-image-5",
+    "subjectHash": "7cbdbb644d69871044a5966821592e9e156a94580409baf2677d0b6a13c039db",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 九五小象 / 0007冊.djvu/520"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·九五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-yao-6",
+    "subjectId": "h63-yao-6",
+    "subjectHash": "73ba57f6a003787ce44baf7c41bc23746536ce958aa94042a0893e586d33a24c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 上六 / 0007冊.djvu/520"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 易經·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h63-image-6",
+    "subjectId": "h63-image-6",
+    "subjectHash": "7778313677879eb944411a29bfd1f5c072e769cf46d6e4afb72bceb0617e148e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 上六小象 / 0007冊.djvu/520"
+      },
+      {
+        "sourceId": "ws-zhouyi-63",
+        "locator": "第63卦 既济 / 象曰·上六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-statement",
+    "subjectId": "h64-statement",
+    "subjectHash": "c2ecf28b86b9285e65df8880e14fb260f17850acc6fd7969c2c208d6d35ab462",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 卦辞 / 0007冊.djvu/520"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·卦辞；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-tuan",
+    "subjectId": "h64-tuan",
+    "subjectHash": "6b669a9273125e807d8624519d2effb29c0d68d7398b80985a6064855a84d8e2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 彖曰 / 0007冊.djvu/520–521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 彖曰；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-great-image",
+    "subjectId": "h64-great-image",
+    "subjectHash": "b9c395aa84d7a791642d9f202725a65400588dddd006754fe44eac6c1ba2c795",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 整卦大象 / 0007冊.djvu/521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·整卦；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-overview",
+    "subjectId": "h64-overview",
+    "subjectHash": "26b4e35d8fff0d6f9826e4a620c42d73aa201a19fdb1d3b653ce439e96850441",
+    "originalStatus": "not-applicable",
+    "explanationStatus": "pending",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/520–521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 彖曰、整卦大象与上下卦"
+      }
+    ],
+    "checkedBy": "Codex：依据彖传、大象及上下卦整理简短学习说明；展示释义审核及独立复审未完成",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "展示说明已录入，展示释义审核及独立复审未完成"
+    ]
+  },
+  {
+    "id": "review-h64-yao-1",
+    "subjectId": "h64-yao-1",
+    "subjectHash": "8971ffeb2e77ee96629857d90a2fb53f198b511cab2df0e53610349f2912bd14",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 初六 / 0007冊.djvu/521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-image-1",
+    "subjectId": "h64-image-1",
+    "subjectHash": "61e83d1b7ba655a8c0a803d7742b7059be0940cc08cbc6b59e07fde9f5121a82",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 初六小象 / 0007冊.djvu/521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·初六；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-yao-2",
+    "subjectId": "h64-yao-2",
+    "subjectHash": "3a5aef7bc7216c2864e7da40b8c948f44941fdc5d27395321e4e23fa66b03700",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 九二 / 0007冊.djvu/521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h64-image-2",
+    "subjectId": "h64-image-2",
+    "subjectHash": "8d73e57a46cc63f416b2bb29384e386b28c5e04e7f33f74a848ca8f3f2232fc5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 九二小象 / 0007冊.djvu/521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·九二；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-yao-3",
+    "subjectId": "h64-yao-3",
+    "subjectHash": "22ebd63e46952c2c38cf17ac5cc8b33b6d793509543a226d3e15e2925d1804a4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 六三 / 0007冊.djvu/521"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留",
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"
+    ]
+  },
+  {
+    "id": "review-h64-image-3",
+    "subjectId": "h64-image-3",
+    "subjectHash": "712b97b66ec2ad3ea26ff22419ddcefa55b1589e55dc76dfbc2a8885e654dcc7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 六三小象 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·六三；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-yao-4",
+    "subjectId": "h64-yao-4",
+    "subjectHash": "3f2f13308d6b5ca0c53fe7d91b7ffdaeedcf01553fff33743ab7770c1d815bd8",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 九四 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-image-4",
+    "subjectId": "h64-image-4",
+    "subjectHash": "22a1b8334553c607e09b7080efc6a9ab7b1cb4a066a88881e806afeee676d952",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 九四小象 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·九四；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-yao-5",
+    "subjectId": "h64-yao-5",
+    "subjectHash": "923cfee18e9604e99287744e844a165fe15fa20d0ac1539f467565f0ed403a5c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 六五 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-image-5",
+    "subjectId": "h64-image-5",
+    "subjectHash": "e989382f746b123f4da46b6c1b019952296ae7a5f2b32c52732bdb1f01242d9d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 六五小象 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·六五；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-yao-6",
+    "subjectId": "h64-yao-6",
+    "subjectHash": "4eea6af59805132718174c78439f60772c58a1cceb3ad087ca61f2343e55d717",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 上九 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 易經·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
+  },
+  {
+    "id": "review-h64-image-6",
+    "subjectId": "h64-image-6",
+    "subjectHash": "d1dba50fd153facece2998722b9ea844f28775d4a4ccc1fc225db32530122314",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "facsimileStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 上九小象 / 0007冊.djvu/522"
+      },
+      {
+        "sourceId": "ws-zhouyi-64",
+        "locator": "第64卦 未济 / 象曰·上九；异文仅作对校"
+      }
+    ],
+    "checkedBy": "Codex：逐段读取四库本电子录文并与普通《周易》电子页对校（非影印逐字核对、非独立人工复审）",
+    "checkedAt": "2026-10-22",
+    "issues": [
+      "影印逐字核对和独立人工复审未完成；异体与异文依采用电子录文保留"
+    ]
   }
 ]

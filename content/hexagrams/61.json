@@ -1,0 +1,246 @@
+{
+  "id": 61,
+  "statement": {
+    "id": "h61-statement",
+    "original": "中孚：豚魚吉，利渉大川，利貞。",
+    "notes": [
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 卦辞 / 0007冊.djvu/513"
+      }
+    ],
+    "reviewId": "review-h61-statement"
+  },
+  "tuan": {
+    "id": "h61-tuan",
+    "original": "中孚，柔在内而剛得中，說而巽，孚，乃化邦也。豚魚吉，信及豚魚也。利渉大川，乘木舟虛也。中孚以利貞，乃應乎天也。",
+    "notes": [
+      "采用电子录文“内”，普通电子对校页相应为“內”；采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。",
+      "本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 彖曰 / 0007冊.djvu/513"
+      }
+    ],
+    "reviewId": "review-h61-tuan"
+  },
+  "greatImage": {
+    "id": "h61-great-image",
+    "original": "澤上有風，中孚；君子以議獄緩死。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 中孚 / 整卦大象 / 0007冊.djvu/513"
+      }
+    ],
+    "reviewId": "review-h61-great-image"
+  },
+  "summary": "泽上有风，诚信在中。",
+  "overallMeaning": "中孚以发自内心的诚信建立相互信任。诚意需要落实在言行与判断中，既能感通他人，也应避免只顾表面声势而失去真实依据。",
+  "imagery": [
+    "兑下巽上，泽上有风。",
+    "议狱缓死，诚慎相待。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-10-batch6",
+      "locator": "卷10 / 中孚 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/513"
+    }
+  ],
+  "overviewReviewId": "review-h61-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h61-yao-1",
+        "original": "虞吉，有它不燕。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 初九 / 0007冊.djvu/513"
+          }
+        ],
+        "reviewId": "review-h61-yao-1"
+      },
+      "smallImage": {
+        "id": "h61-image-1",
+        "original": "初九虞吉，志未變也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 初九小象 / 0007冊.djvu/513"
+          }
+        ],
+        "reviewId": "review-h61-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h61-yao-2",
+        "original": "鳴鶴在隂，其子和之。我有好爵，吾與爾靡之。",
+        "notes": [
+          "采用电子录文“隂”，普通电子对校页相应为“陰”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 九二 / 0007冊.djvu/513"
+          }
+        ],
+        "reviewId": "review-h61-yao-2"
+      },
+      "smallImage": {
+        "id": "h61-image-2",
+        "original": "其子和之，中心願也。",
+        "notes": [
+          "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 九二小象 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h61-yao-3",
+        "original": "得敵，或鼔或罷，或泣或歌。",
+        "notes": [
+          "采用电子录文“鼔”，普通电子对校页相应为“鼓”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 六三 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-yao-3"
+      },
+      "smallImage": {
+        "id": "h61-image-3",
+        "original": "或鼔或罷，位不當也。",
+        "notes": [
+          "采用电子录文“或鼔或罷”，普通电子对校页作“可鼓或罷”；保留采用录文，影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 六三小象 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h61-yao-4",
+        "original": "月㡬望，馬匹亡，无咎。",
+        "notes": [
+          "采用电子录文“月㡬望”，普通电子对校页作“月既望”；保留“㡬”字，影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 六四 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-yao-4"
+      },
+      "smallImage": {
+        "id": "h61-image-4",
+        "original": "馬匹亡，絶𩔖上也。",
+        "notes": [
+          "采用电子录文“絶𩔖”，普通电子对校页相应为“絕類”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 六四小象 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h61-yao-5",
+        "original": "有孚攣如，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 九五 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-yao-5"
+      },
+      "smallImage": {
+        "id": "h61-image-5",
+        "original": "有孚攣如，位正當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 九五小象 / 0007冊.djvu/514"
+          }
+        ],
+        "reviewId": "review-h61-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h61-yao-6",
+        "original": "翰音登于天，貞凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 上九 / 0007冊.djvu/515"
+          }
+        ],
+        "reviewId": "review-h61-yao-6"
+      },
+      "smallImage": {
+        "id": "h61-image-6",
+        "original": "翰音登于天，何可長也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 中孚 / 上九小象 / 0007冊.djvu/515"
+          }
+        ],
+        "reviewId": "review-h61-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

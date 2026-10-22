@@ -1,0 +1,237 @@
+{
+  "id": 53,
+  "statement": {
+    "id": "h53-statement",
+    "original": "漸：女歸吉，利貞。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 卦辞 / 0007冊.djvu/490"
+      }
+    ],
+    "reviewId": "review-h53-statement"
+  },
+  "tuan": {
+    "id": "h53-tuan",
+    "original": "漸之進也，女歸吉也。進得位，徃有功也。進以正，可以正邦也。其位剛得中也。止而巽，動不窮也。",
+    "notes": [
+      "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 彖曰 / 0007冊.djvu/490–491"
+      }
+    ],
+    "reviewId": "review-h53-tuan"
+  },
+  "greatImage": {
+    "id": "h53-great-image",
+    "original": "山上有木，漸；君子以居賢德善俗。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 漸 / 整卦大象 / 0007冊.djvu/491"
+      }
+    ],
+    "reviewId": "review-h53-great-image"
+  },
+  "summary": "山上有木，循序而进。",
+  "overallMeaning": "渐讲进展要有次序。以稳固的根基和适宜的节奏逐步前行，重视关系、德行与习惯的长期培养，不因急于求成而失去原则。",
+  "imagery": [
+    "艮下巽上，止而巽。",
+    "山上有木，居贤德善俗。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-9-batch6",
+      "locator": "卷9 / 漸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/490–491"
+    }
+  ],
+  "overviewReviewId": "review-h53-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h53-yao-1",
+        "original": "鴻漸于干，小子厲，有言，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 初六 / 0007冊.djvu/491"
+          }
+        ],
+        "reviewId": "review-h53-yao-1"
+      },
+      "smallImage": {
+        "id": "h53-image-1",
+        "original": "小子之厲，義无咎也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 初六小象 / 0007冊.djvu/491"
+          }
+        ],
+        "reviewId": "review-h53-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h53-yao-2",
+        "original": "鴻漸于磐，飲食衎衎，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 六二 / 0007冊.djvu/491"
+          }
+        ],
+        "reviewId": "review-h53-yao-2"
+      },
+      "smallImage": {
+        "id": "h53-image-2",
+        "original": "飲食衎衎，不素飽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 六二小象 / 0007冊.djvu/491"
+          }
+        ],
+        "reviewId": "review-h53-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h53-yao-3",
+        "original": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 九三 / 0007冊.djvu/491"
+          }
+        ],
+        "reviewId": "review-h53-yao-3"
+      },
+      "smallImage": {
+        "id": "h53-image-3",
+        "original": "夫征不復，離羣醜也。婦孕不育，失其道也。利用禦寇，順相保也。",
+        "notes": [
+          "采用电子录文“羣醜”，普通电子对校页相应为“群丑”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 九三小象 / 0007冊.djvu/492"
+          }
+        ],
+        "reviewId": "review-h53-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h53-yao-4",
+        "original": "鴻漸于木，或得其桷，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 六四 / 0007冊.djvu/492"
+          }
+        ],
+        "reviewId": "review-h53-yao-4"
+      },
+      "smallImage": {
+        "id": "h53-image-4",
+        "original": "或得其桷，順以巽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 六四小象 / 0007冊.djvu/492"
+          }
+        ],
+        "reviewId": "review-h53-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h53-yao-5",
+        "original": "鴻漸于陵，婦三嵗不孕，終莫之勝，吉。",
+        "notes": [
+          "采用电子录文“嵗”，普通电子对校页相应为“歲”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 九五 / 0007冊.djvu/492"
+          }
+        ],
+        "reviewId": "review-h53-yao-5"
+      },
+      "smallImage": {
+        "id": "h53-image-5",
+        "original": "終莫之勝吉，得所願也。",
+        "notes": [
+          "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 九五小象 / 0007冊.djvu/492"
+          }
+        ],
+        "reviewId": "review-h53-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h53-yao-6",
+        "original": "鴻漸于陸，其羽可用為儀，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 上九 / 0007冊.djvu/492"
+          }
+        ],
+        "reviewId": "review-h53-yao-6"
+      },
+      "smallImage": {
+        "id": "h53-image-6",
+        "original": "其羽可用為儀吉，不可亂也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 漸 / 上九小象 / 0007冊.djvu/493"
+          }
+        ],
+        "reviewId": "review-h53-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

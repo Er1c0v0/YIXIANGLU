@@ -1,0 +1,244 @@
+{
+  "id": 59,
+  "statement": {
+    "id": "h59-statement",
+    "original": "渙：亨。王假有廟，利渉大川，利貞。",
+    "notes": [
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 卦辞 / 0007冊.djvu/509"
+      }
+    ],
+    "reviewId": "review-h59-statement"
+  },
+  "tuan": {
+    "id": "h59-tuan",
+    "original": "渙，亨。剛來而不窮，柔得位乎外而上同。王假有廟，王乃在中也。利渉大川，乗木有功也。",
+    "notes": [
+      "采用电子录文“渉”，普通电子对校页相应为“涉”；采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。",
+      "本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 彖曰 / 0007冊.djvu/509"
+      }
+    ],
+    "reviewId": "review-h59-tuan"
+  },
+  "greatImage": {
+    "id": "h59-great-image",
+    "original": "風行水上，渙；先王以享于帝立廟。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 整卦大象 / 0007冊.djvu/510"
+      }
+    ],
+    "reviewId": "review-h59-great-image"
+  },
+  "summary": "风行水上，聚散有道。",
+  "overallMeaning": "涣面对人心与事物的离散。通过共同的目标和合宜的组织重新建立联系，既要疏通阻滞，也要防止各自分散而失去协作。",
+  "imagery": [
+    "坎下巽上，风行水上。",
+    "享帝立庙，聚合人心。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-10-batch6",
+      "locator": "卷10 / 涣 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/509–510"
+    }
+  ],
+  "overviewReviewId": "review-h59-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h59-yao-1",
+        "original": "用拯馬壯，吉。",
+        "notes": [
+          "采用电子录文“用拯馬壯吉”，普通电子对校页作“用拯馬壯，吉，悔亡”；未向主文补入“悔亡”，影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 初六 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-yao-1"
+      },
+      "smallImage": {
+        "id": "h59-image-1",
+        "original": "初六之吉，順也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 初六小象 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h59-yao-2",
+        "original": "渙奔其机，悔亡。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 九二 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-yao-2"
+      },
+      "smallImage": {
+        "id": "h59-image-2",
+        "original": "渙奔其机，得願也。",
+        "notes": [
+          "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 九二小象 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h59-yao-3",
+        "original": "渙其躬，无悔。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 六三 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-yao-3"
+      },
+      "smallImage": {
+        "id": "h59-image-3",
+        "original": "渙其躬，志在外也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 六三小象 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h59-yao-4",
+        "original": "渙其羣，元吉。渙有丘，匪夷所思。",
+        "notes": [
+          "采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 六四 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-yao-4"
+      },
+      "smallImage": {
+        "id": "h59-image-4",
+        "original": "渙其羣元吉，光大也。",
+        "notes": [
+          "采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 六四小象 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h59-yao-5",
+        "original": "渙汗其大號，渙王居，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 九五 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-yao-5"
+      },
+      "smallImage": {
+        "id": "h59-image-5",
+        "original": "王居无咎，正位也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 九五小象 / 0007冊.djvu/510"
+          }
+        ],
+        "reviewId": "review-h59-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h59-yao-6",
+        "original": "渙其血，去逖出，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 上九 / 0007冊.djvu/511"
+          }
+        ],
+        "reviewId": "review-h59-yao-6"
+      },
+      "smallImage": {
+        "id": "h59-image-6",
+        "original": "渙其血，逺害也。",
+        "notes": [
+          "采用电子录文“逺”，普通电子对校页相应为“遠”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 涣 / 上九小象 / 0007冊.djvu/511"
+          }
+        ],
+        "reviewId": "review-h59-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

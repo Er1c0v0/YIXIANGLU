@@ -1,0 +1,233 @@
+{
+  "id": 62,
+  "statement": {
+    "id": "h62-statement",
+    "original": "小過：亨，利貞。可小事，不可大事。飛鳥遺之音，不宜上，宜下，大吉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 卦辞 / 0007冊.djvu/515"
+      }
+    ],
+    "reviewId": "review-h62-statement"
+  },
+  "tuan": {
+    "id": "h62-tuan",
+    "original": "小過，小者過而亨也。過以利貞，與時行也。柔得中，是以小事吉也；剛失位而不中，是以不可大事也。有飛鳥之象焉。飛鳥遺之音，不宜上，宜下，大吉，上逆而下順也。",
+    "notes": [
+      "采用电子主文“有飛鳥之象焉”之后接“飛鳥遺之音”，普通电子对校页后句多一“有”字；未补入主文，影印待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 彖曰 / 0007冊.djvu/515"
+      }
+    ],
+    "reviewId": "review-h62-tuan"
+  },
+  "greatImage": {
+    "id": "h62-great-image",
+    "original": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 整卦大象 / 0007冊.djvu/516"
+      }
+    ],
+    "reviewId": "review-h62-great-image"
+  },
+  "summary": "山上有雷，小事谨慎。",
+  "overallMeaning": "小过着眼于小处的谨慎与适度超过。条件不足以承担大事时，宜在礼节、哀敬和节用上用心，避免因逞强上进而超越能够承受的范围。",
+  "imagery": [
+    "艮下震上，山上有雷。",
+    "行恭、丧哀、用俭。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-10-batch6",
+      "locator": "卷10 / 小过 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/515–516"
+    }
+  ],
+  "overviewReviewId": "review-h62-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h62-yao-1",
+        "original": "飛鳥以凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 初六 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-yao-1"
+      },
+      "smallImage": {
+        "id": "h62-image-1",
+        "original": "飛鳥以凶，不可如何也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 初六小象 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h62-yao-2",
+        "original": "過其祖，遇其妣；不及其君，遇其臣，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 六二 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-yao-2"
+      },
+      "smallImage": {
+        "id": "h62-image-2",
+        "original": "不及其君，臣不可過也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 六二小象 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h62-yao-3",
+        "original": "弗過防之，從或戕之，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 九三 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-yao-3"
+      },
+      "smallImage": {
+        "id": "h62-image-3",
+        "original": "從或戕之，凶如何也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 九三小象 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h62-yao-4",
+        "original": "无咎，弗過遇之。往厲必戒，勿用永貞。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 九四 / 0007冊.djvu/516"
+          }
+        ],
+        "reviewId": "review-h62-yao-4"
+      },
+      "smallImage": {
+        "id": "h62-image-4",
+        "original": "弗過遇之，位不當也。往厲必戒，終不可長也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 九四小象 / 0007冊.djvu/517"
+          }
+        ],
+        "reviewId": "review-h62-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h62-yao-5",
+        "original": "密雲不雨，自我西郊，公弋取彼在穴。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 六五 / 0007冊.djvu/517"
+          }
+        ],
+        "reviewId": "review-h62-yao-5"
+      },
+      "smallImage": {
+        "id": "h62-image-5",
+        "original": "密雲不雨，已上也。",
+        "notes": [
+          "采用电子录文“雲”，普通电子对校页相应为“云”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 六五小象 / 0007冊.djvu/517"
+          }
+        ],
+        "reviewId": "review-h62-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h62-yao-6",
+        "original": "弗遇過之，飛鳥離之，凶，是謂災眚。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 上六 / 0007冊.djvu/518"
+          }
+        ],
+        "reviewId": "review-h62-yao-6"
+      },
+      "smallImage": {
+        "id": "h62-image-6",
+        "original": "弗遇過之，已亢也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 小过 / 上六小象 / 0007冊.djvu/518"
+          }
+        ],
+        "reviewId": "review-h62-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

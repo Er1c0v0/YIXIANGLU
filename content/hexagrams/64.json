@@ -1,0 +1,233 @@
+{
+  "id": 64,
+  "statement": {
+    "id": "h64-statement",
+    "original": "未濟：亨。小狐汔濟，濡其尾，无攸利。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 卦辞 / 0007冊.djvu/520"
+      }
+    ],
+    "reviewId": "review-h64-statement"
+  },
+  "tuan": {
+    "id": "h64-tuan",
+    "original": "未濟，亨，柔得中也。小狐汔濟，未出中也。濡其尾，无攸利，不續終也。雖不當位，剛柔應也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 彖曰 / 0007冊.djvu/520–521"
+      }
+    ],
+    "reviewId": "review-h64-tuan"
+  },
+  "greatImage": {
+    "id": "h64-great-image",
+    "original": "火在水上，未濟；君子以慎辨物居方。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 未济 / 整卦大象 / 0007冊.djvu/521"
+      }
+    ],
+    "reviewId": "review-h64-great-image"
+  },
+  "summary": "火在水上，审慎求成。",
+  "overallMeaning": "未济讲尚未完成、仍有调整空间的局面。分清事物的位置和关系，保持耐心与协作，尤其在接近完成时仍不松懈，使努力能够持续到终点。",
+  "imagery": [
+    "坎下离上，火在水上。",
+    "慎辨物，居其方。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-10-batch6",
+      "locator": "卷10 / 未济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/520–521"
+    }
+  ],
+  "overviewReviewId": "review-h64-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h64-yao-1",
+        "original": "濡其尾，吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 初六 / 0007冊.djvu/521"
+          }
+        ],
+        "reviewId": "review-h64-yao-1"
+      },
+      "smallImage": {
+        "id": "h64-image-1",
+        "original": "濡其尾，亦不知極也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 初六小象 / 0007冊.djvu/521"
+          }
+        ],
+        "reviewId": "review-h64-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h64-yao-2",
+        "original": "曵其輪，貞吉。",
+        "notes": [
+          "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 九二 / 0007冊.djvu/521"
+          }
+        ],
+        "reviewId": "review-h64-yao-2"
+      },
+      "smallImage": {
+        "id": "h64-image-2",
+        "original": "九二貞吉，中以行正也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 九二小象 / 0007冊.djvu/521"
+          }
+        ],
+        "reviewId": "review-h64-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h64-yao-3",
+        "original": "未濟，征凶，利渉大川。",
+        "notes": [
+          "采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 六三 / 0007冊.djvu/521"
+          }
+        ],
+        "reviewId": "review-h64-yao-3"
+      },
+      "smallImage": {
+        "id": "h64-image-3",
+        "original": "未濟征凶，位不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 六三小象 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h64-yao-4",
+        "original": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 九四 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-yao-4"
+      },
+      "smallImage": {
+        "id": "h64-image-4",
+        "original": "貞吉悔亡，志行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 九四小象 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h64-yao-5",
+        "original": "貞吉，无悔，君子之光，有孚，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 六五 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-yao-5"
+      },
+      "smallImage": {
+        "id": "h64-image-5",
+        "original": "君子之光，其暉吉也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 六五小象 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h64-yao-6",
+        "original": "有孚于飲酒，无咎。濡其首，有孚失是。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 上九 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-yao-6"
+      },
+      "smallImage": {
+        "id": "h64-image-6",
+        "original": "飲酒濡首，亦不知節也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 未济 / 上九小象 / 0007冊.djvu/522"
+          }
+        ],
+        "reviewId": "review-h64-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

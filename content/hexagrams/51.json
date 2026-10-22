@@ -1,0 +1,242 @@
+{
+  "id": 51,
+  "statement": {
+    "id": "h51-statement",
+    "original": "震：亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 卦辞 / 0007冊.djvu/485"
+      }
+    ],
+    "reviewId": "review-h51-statement"
+  },
+  "tuan": {
+    "id": "h51-tuan",
+    "original": "震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚逺而懼邇也。出可以守宗廟社稷，以爲祭主也。",
+    "notes": [
+      "采用电子录文“逺”，普通电子对校页相应为“遠”；采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形与异文待核。",
+      "“不喪匕鬯則已出可以守宗廟”处于王注范围，未混入彖传；其后“出可以守宗廟社稷，以爲祭主也”属主文，已保留。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 彖曰 / 0007冊.djvu/486"
+      }
+    ],
+    "reviewId": "review-h51-tuan"
+  },
+  "greatImage": {
+    "id": "h51-great-image",
+    "original": "洊雷，震；君子以恐懼脩省。",
+    "notes": [
+      "采用电子录文“脩”，普通电子对校页相应为“修”；保留所见，影印字形与异文待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 震 / 整卦大象 / 0007冊.djvu/486"
+      }
+    ],
+    "reviewId": "review-h51-great-image"
+  },
+  "summary": "洊雷相继，恐惧修省。",
+  "overallMeaning": "震讲突如其来的震动与警醒。遇到惊惧时保持职责，以反省和准备回应变化，使最初的不安转化为有秩序的行动。",
+  "imagery": [
+    "震下震上，雷声相继。",
+    "恐惧修省，守其所任。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-9-batch6",
+      "locator": "卷9 / 震 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/485–486"
+    }
+  ],
+  "overviewReviewId": "review-h51-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h51-yao-1",
+        "original": "震來虩虩，後笑言啞啞，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 初九 / 0007冊.djvu/486"
+          }
+        ],
+        "reviewId": "review-h51-yao-1"
+      },
+      "smallImage": {
+        "id": "h51-image-1",
+        "original": "震來虩虩，恐致福也。笑言啞啞，後有則也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 初九小象 / 0007冊.djvu/486"
+          }
+        ],
+        "reviewId": "review-h51-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h51-yao-2",
+        "original": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 六二 / 0007冊.djvu/486"
+          }
+        ],
+        "reviewId": "review-h51-yao-2"
+      },
+      "smallImage": {
+        "id": "h51-image-2",
+        "original": "震來厲，乗剛也。",
+        "notes": [
+          "采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 六二小象 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h51-yao-3",
+        "original": "震蘇蘇，震行无眚。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 六三 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-yao-3"
+      },
+      "smallImage": {
+        "id": "h51-image-3",
+        "original": "震蘇蘇，位不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 六三小象 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h51-yao-4",
+        "original": "震遂泥。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 九四 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-yao-4"
+      },
+      "smallImage": {
+        "id": "h51-image-4",
+        "original": "震遂泥，未光也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 九四小象 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h51-yao-5",
+        "original": "震徃來厲，億无喪，有事。",
+        "notes": [
+          "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 六五 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-yao-5"
+      },
+      "smallImage": {
+        "id": "h51-image-5",
+        "original": "震徃來厲，危行也。其事在中，大无喪也。",
+        "notes": [
+          "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 六五小象 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h51-yao-6",
+        "original": "震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。㛰媾有言。",
+        "notes": [
+          "采用电子录文“㛰”，普通电子对校页相应为“婚”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 上六 / 0007冊.djvu/487"
+          }
+        ],
+        "reviewId": "review-h51-yao-6"
+      },
+      "smallImage": {
+        "id": "h51-image-6",
+        "original": "震索索，中未得也。雖凶无咎，畏鄰戒也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-9-batch6",
+            "locator": "卷9 / 震 / 上六小象 / 0007冊.djvu/488"
+          }
+        ],
+        "reviewId": "review-h51-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

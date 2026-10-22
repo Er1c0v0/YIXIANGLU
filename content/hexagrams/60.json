@@ -1,0 +1,235 @@
+{
+  "id": 60,
+  "statement": {
+    "id": "h60-statement",
+    "original": "節：亨。苦節不可貞。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 卦辞 / 0007冊.djvu/511"
+      }
+    ],
+    "reviewId": "review-h60-statement"
+  },
+  "tuan": {
+    "id": "h60-tuan",
+    "original": "節，亨。剛柔分而剛得中。苦節不可貞，其道窮也。說以行險，當位以節，中正以通。天地節而四時成，節以制度，不傷財，不害民。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 彖曰 / 0007冊.djvu/511"
+      }
+    ],
+    "reviewId": "review-h60-tuan"
+  },
+  "greatImage": {
+    "id": "h60-great-image",
+    "original": "澤上有水，節；君子以制數度，議德行。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 整卦大象 / 0007冊.djvu/511"
+      }
+    ],
+    "reviewId": "review-h60-great-image"
+  },
+  "summary": "泽上有水，制数有度。",
+  "overallMeaning": "节讲在有限条件下确定适当的尺度。制度与自我约束应使行动能够持续；一味苛刻的限制会走向困穷，需要兼顾原则与实际承受能力。",
+  "imagery": [
+    "兑下坎上，泽上有水。",
+    "制数度，议德行。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-10-batch6",
+      "locator": "卷10 / 节 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/511"
+    }
+  ],
+  "overviewReviewId": "review-h60-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h60-yao-1",
+        "original": "不出户庭，无咎。",
+        "notes": [
+          "采用电子录文“户”，普通电子对校页相应为“戶”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 初九 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-yao-1"
+      },
+      "smallImage": {
+        "id": "h60-image-1",
+        "original": "不出户庭，知通塞也。",
+        "notes": [
+          "采用电子录文“户”，普通电子对校页相应为“戶”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 初九小象 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h60-yao-2",
+        "original": "不出門庭，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 九二 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-yao-2"
+      },
+      "smallImage": {
+        "id": "h60-image-2",
+        "original": "不出門庭凶，失時極也。",
+        "notes": [
+          "采用电子录文“不出門庭凶，失時極也”，普通电子对校页作“不出門庭，失時極也”；保留主文“凶”字，影印待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 九二小象 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h60-yao-3",
+        "original": "不節若，則嗟若，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 六三 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-yao-3"
+      },
+      "smallImage": {
+        "id": "h60-image-3",
+        "original": "不節之嗟，又誰咎也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 六三小象 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h60-yao-4",
+        "original": "安節，亨。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 六四 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-yao-4"
+      },
+      "smallImage": {
+        "id": "h60-image-4",
+        "original": "安節之亨，承上道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 六四小象 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h60-yao-5",
+        "original": "甘節，吉。往有尚。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 九五 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-yao-5"
+      },
+      "smallImage": {
+        "id": "h60-image-5",
+        "original": "甘節之吉，居位中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 九五小象 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h60-yao-6",
+        "original": "苦節，貞凶，悔亡。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 上六 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-yao-6"
+      },
+      "smallImage": {
+        "id": "h60-image-6",
+        "original": "苦節貞凶，其道窮也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 节 / 上六小象 / 0007冊.djvu/512"
+          }
+        ],
+        "reviewId": "review-h60-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

@@ -1,0 +1,239 @@
+{
+  "id": 63,
+  "statement": {
+    "id": "h63-statement",
+    "original": "既濟：亨小，利貞。初吉終亂。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 卦辞 / 0007冊.djvu/518"
+      }
+    ],
+    "reviewId": "review-h63-statement"
+  },
+  "tuan": {
+    "id": "h63-tuan",
+    "original": "既濟，亨，小者亨也。利貞，剛柔正而位當也。初吉，柔得中也。終止則亂，其道窮也。",
+    "notes": [
+      "本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 彖曰 / 0007冊.djvu/518"
+      }
+    ],
+    "reviewId": "review-h63-tuan"
+  },
+  "greatImage": {
+    "id": "h63-great-image",
+    "original": "水在火上，既濟；君子以思患而豫防之。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 既济 / 整卦大象 / 0007冊.djvu/518"
+      }
+    ],
+    "reviewId": "review-h63-great-image"
+  },
+  "summary": "水在火上，成事思患。",
+  "overallMeaning": "既济描写事情已经成就、各得其位的状态。秩序形成之后仍须留意细小变化，预先防备问题，避免因满足现状而使成果逐渐失去支撑。",
+  "imagery": [
+    "离下坎上，水在火上。",
+    "思患豫防，成而能守。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-10-batch6",
+      "locator": "卷10 / 既济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/518"
+    }
+  ],
+  "overviewReviewId": "review-h63-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h63-yao-1",
+        "original": "曵其輪，濡其尾，无咎。",
+        "notes": [
+          "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 初九 / 0007冊.djvu/518"
+          }
+        ],
+        "reviewId": "review-h63-yao-1"
+      },
+      "smallImage": {
+        "id": "h63-image-1",
+        "original": "曵其輪，義无咎也。",
+        "notes": [
+          "采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 初九小象 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h63-yao-2",
+        "original": "婦喪其茀，勿逐，七日得。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 六二 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-yao-2"
+      },
+      "smallImage": {
+        "id": "h63-image-2",
+        "original": "七日得，以中道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 六二小象 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h63-yao-3",
+        "original": "髙宗伐鬼方，三年克之，小人勿用。",
+        "notes": [
+          "采用电子录文“髙”，普通电子对校页相应为“高”；保留所见，影印字形与异文待核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 九三 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-yao-3"
+      },
+      "smallImage": {
+        "id": "h63-image-3",
+        "original": "三年克之，憊也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 九三小象 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h63-yao-4",
+        "original": "繻有衣袽，終日戒。",
+        "notes": [
+          "主文采用“繻有衣袽”，紧随王注“繻宜曰濡”仅为注家说明，未据注文替换主文。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 六四 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-yao-4"
+      },
+      "smallImage": {
+        "id": "h63-image-4",
+        "original": "終日戒，有所疑也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 六四小象 / 0007冊.djvu/519"
+          }
+        ],
+        "reviewId": "review-h63-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h63-yao-5",
+        "original": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 九五 / 0007冊.djvu/520"
+          }
+        ],
+        "reviewId": "review-h63-yao-5"
+      },
+      "smallImage": {
+        "id": "h63-image-5",
+        "original": "東鄰殺牛，不如西鄰之時也。實受其福，吉大來也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 九五小象 / 0007冊.djvu/520"
+          }
+        ],
+        "reviewId": "review-h63-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h63-yao-6",
+        "original": "濡其首，厲。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 上六 / 0007冊.djvu/520"
+          }
+        ],
+        "reviewId": "review-h63-yao-6"
+      },
+      "smallImage": {
+        "id": "h63-image-6",
+        "original": "濡其首厲，何可久也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-10-batch6",
+            "locator": "卷10 / 既济 / 上六小象 / 0007冊.djvu/520"
+          }
+        ],
+        "reviewId": "review-h63-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}
