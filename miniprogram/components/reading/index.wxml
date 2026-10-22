@@ -1,7 +1,7 @@
 <block wx:if="{{meta}}">
   <view class="card">
     <view class="row between"><view><view class="eyebrow">第 {{meta.id}} 卦</view><view class="title">{{meta.fullName}}</view><view class="muted">上卦 · {{upperName}}　下卦 · {{lowerName}}</view></view><hexagram-shape lines="{{meta.lines}}" /></view>
-    <view wx:if="{{content}}" class="summary">{{content.summary}}</view>
+    <text wx:if="{{content}}" class="summary" user-select="{{true}}">{{content.summary}}</text>
   </view>
   <slot name="directory"></slot>
   <view wx:if="{{!content}}" class="card empty"><view class="section-title">资料整理中</view></view>
@@ -12,7 +12,7 @@
     </view>
     <view class="card">
       <button id="section-overview" class="disclosure" bindtap="toggleOverview" aria-expanded="{{overviewOpen}}" hover-class="button-pressed" hover-stay-time="80">意象与整体含义 <text>{{overviewOpen ? '−' : '＋'}}</text></button>
-      <view wx:if="{{overviewOpen}}"><view wx:for="{{content.imagery}}" wx:key="*this" class="imagery">{{item}}</view><view class="overall">{{content.overallMeaning}}</view><source-panel refs="{{content.overviewRefs}}" /></view>
+      <view wx:if="{{overviewOpen}}"><text wx:for="{{content.imagery}}" wx:key="*this" class="imagery" user-select="{{true}}">{{item}}</text><text class="overall" user-select="{{true}}">{{content.overallMeaning}}</text><source-panel refs="{{content.overviewRefs}}" /></view>
     </view>
     <view class="card"><button id="section-tuan" class="disclosure" bindtap="toggleTuan" aria-expanded="{{tuanOpen}}" hover-class="button-pressed" hover-stay-time="80">彖传 <text>{{tuanOpen ? '−' : '＋'}}</text></button><view wx:if="{{tuanOpen}}"><text class="original" user-select="{{true}}">{{content.tuan.original}}</text><source-panel refs="{{content.tuan.originalRefs}}" /></view></view>
     <view class="card"><button id="section-image" class="disclosure" bindtap="toggleImage" aria-expanded="{{imageOpen}}" hover-class="button-pressed" hover-stay-time="80">大象传 <text>{{imageOpen ? '−' : '＋'}}</text></button><view wx:if="{{imageOpen}}"><text class="original" user-select="{{true}}">{{content.greatImage.original}}</text><source-panel refs="{{content.greatImage.originalRefs}}" /></view></view>
