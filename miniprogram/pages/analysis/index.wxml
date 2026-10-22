@@ -4,12 +4,12 @@
     <view class="card row between"><view class="comparison"><text class="label">本卦 · {{original.fullName}}</text><hexagram-shape lines="{{original.lines}}" /></view><text class="muted">→</text><view class="comparison"><text class="label">{{zero ? '结果相同' : '变卦'}} · {{changed.fullName}}</text><hexagram-shape lines="{{changed.lines}}" /></view></view>
     <view wx:if="{{zero}}" class="notice">未选择变爻，本卦不变。</view>
     <block wx:else><view class="section-title">本卦所选爻 · {{selectedNames}}</view>
-      <view wx:for="{{rows}}" wx:key="position" class="card yao-card"><view class="section-title">{{item.label}}</view><block wx:if="{{item.entry}}"><text class="label">本卦爻辞</text><view class="original" selectable>{{item.entry.text.original}}</view><view class="rule"></view><text class="label">小象传</text><view class="original" selectable>{{item.entry.smallImage.original}}</view><source-panel refs="{{item.entry.text.originalRefs}}" related-refs="{{item.entry.smallImage.originalRefs}}" /></block><view wx:else class="muted">资料整理中</view></view>
+      <view wx:for="{{rows}}" wx:key="position" class="card yao-card"><view class="section-title">{{item.label}}</view><block wx:if="{{item.entry}}"><text class="label">本卦爻辞</text><text class="original" user-select="{{true}}">{{item.entry.text.original}}</text><view class="rule"></view><text class="label">小象传</text><text class="original" user-select="{{true}}">{{item.entry.smallImage.original}}</text><source-panel refs="{{item.entry.text.originalRefs}}" related-refs="{{item.entry.smallImage.originalRefs}}" /></block><view wx:else class="muted">资料整理中</view></view>
     </block>
     <view wx:for="{{originalSpecials}}" wx:key="kind" class="card">
       <view class="section-title">本卦特殊知识 · {{item.kind === 'yong-jiu' ? '用九' : '用六'}}</view>
-      <view class="original" selectable>{{item.text.original}}</view>
-      <view class="rule"></view><text class="label">相关象传</text><view class="original" selectable>{{item.smallImage.original}}</view>
+      <text class="original" user-select="{{true}}">{{item.text.original}}</text>
+      <view class="rule"></view><text class="label">相关象传</text><text class="original" user-select="{{true}}">{{item.smallImage.original}}</text>
       <source-panel refs="{{item.text.originalRefs}}" related-refs="{{item.smallImage.originalRefs}}" />
     </view>
     <view class="section-title">{{zero ? '本卦整体资料' : '变卦整体资料'}}</view><reading hexagram-id="{{changed.id}}" />

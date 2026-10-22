@@ -6,7 +6,7 @@ Component({
   data: { open: false, sources: [] as { key: string; title: string; locator: string; url?: string; edition: string; rightsNote: string; note?: string }[] },
   observers: {
     'refs, relatedRefs': function(refs: SourceRef[], relatedRefs: SourceRef[]) {
-      this.setData({ sources: [...refs, ...relatedRefs].map(ref => {
+      this.setData({ open: false, sources: [...refs, ...relatedRefs].map(ref => {
         const source = SOURCES.find(item => item.id === ref.sourceId)!
         return { key: `${ref.sourceId}:${ref.locator}`, title: source.title, locator: ref.locator, url: source.url, edition: source.edition, rightsNote: source.rightsNote, note: ref.note }
       }) })

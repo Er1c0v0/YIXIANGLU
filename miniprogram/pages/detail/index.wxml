@@ -1,6 +1,6 @@
 <view class="page">
   <block wx:if="{{valid}}">
-    <reading hexagram-id="{{id}}" />
+    <reading hexagram-id="{{id}}" show-yao="{{true}}" />
     <button class="primary" bindtap="observe" hover-class="button-pressed" hover-stay-time="80">观察变化</button>
     <button wx:if="{{showAtlasLink}}" class="link" bindtap="atlas" hover-class="button-pressed" hover-stay-time="80">返回图鉴</button>
   </block>
