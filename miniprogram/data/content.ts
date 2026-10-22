@@ -1,8 +1,8 @@
 // 由 scripts/content.mjs 构建。请编辑 content/ 源文件，再重新核对和构建。
 import { HexagramContent, SourceDocument } from '../domain/types'
 
-export const DATA_VERSION = '2026-10-21.prototype-1'
-export const BUILD_HASH = '9b32395c403d00b5b674e8cc6f934f52f53eb8a305f66f4e4736e9a779d964d8'
+export const DATA_VERSION = '2.a2970b8bf4a2'
+export const BUILD_HASH = 'a2970b8bf4a2d64ab30919422872c956fb00b58d8b5dc97ec9bc9478cbd68a3a'
 export const SOURCES: readonly SourceDocument[] = [
   {
     "id": "ws-zhouyi-1",
@@ -58,9 +58,119 @@ export const SOURCES: readonly SourceDocument[] = [
     "revisionOrSnapshot": "2404993",
     "accessedAt": "2026-10-21",
     "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按页面 CC BY-SA 4.0 及附加条款使用。白话为本项目辅助整理；修改含分句标点与异文注释。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "skqs-zhouyi-2",
+    "title": "《周易注疏》四库本·卷2",
+    "authorOrCompiler": "王弼、韩康伯注；陆德明音义；孔颖达疏；电子录文由维基文库贡献者整理",
+    "edition": "《景印文淵閣四庫全書》第0007册；卷2电子录文 oldid=9685959；所嵌页面尚未校对，未完成逐页影印复核；卷页 oldid 只固定编排，不冻结嵌页，摘录以本库访问日与审核哈希存档",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷02&oldid=9685959",
+    "revisionOrSnapshot": "9685959",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传、注疏为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。项目抽取经传并整理标点，保留采用录文的异体字。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "skqs-zhouyi-3",
+    "title": "《周易注疏》四库本·卷3",
+    "authorOrCompiler": "王弼、韩康伯注；陆德明音义；孔颖达疏；电子录文由维基文库贡献者整理",
+    "edition": "《景印文淵閣四庫全書》第0007册；卷3电子录文 oldid=9685960；所嵌页面尚未校对，未完成逐页影印复核；卷页 oldid 只固定编排，不冻结嵌页，摘录以本库访问日与审核哈希存档",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷03&oldid=9685960",
+    "revisionOrSnapshot": "9685960",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传、注疏为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。项目抽取经传并整理标点，保留采用录文的异体字。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "skqs-zhouyi-5",
+    "title": "《周易注疏》四库本·卷5",
+    "authorOrCompiler": "王弼、韩康伯注；陆德明音义；孔颖达疏；电子录文由维基文库贡献者整理",
+    "edition": "《景印文淵閣四庫全書》第0007册；卷5电子录文 oldid=9685962；所嵌页面尚未校对，未完成逐页影印复核；卷页 oldid 只固定编排，不冻结嵌页，摘录以本库访问日与审核哈希存档",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷05&oldid=9685962",
+    "revisionOrSnapshot": "9685962",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传、注疏为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。项目抽取经传并整理标点，保留采用录文的异体字。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "skqs-zhouyi-8",
+    "title": "《周易注疏》四库本·卷8",
+    "authorOrCompiler": "王弼、韩康伯注；陆德明音义；孔颖达疏；电子录文由维基文库贡献者整理",
+    "edition": "《景印文淵閣四庫全書》第0007册；卷8电子录文 oldid=9685965；所嵌页面尚未校对，未完成逐页影印复核；卷页 oldid 只固定编排，不冻结嵌页，摘录以本库访问日与审核哈希存档",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易注疏_(四庫全書本)/卷08&oldid=9685965",
+    "revisionOrSnapshot": "9685965",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传、注疏为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。项目抽取经传并整理标点，保留采用录文的异体字。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ws-zhouyi-3",
+    "title": "《周易》·屯（维基文库贡献者对校录文）",
+    "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库《周易/屯》固定电子修订版 oldid=10643482；仅作对校，不冒称四库本",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易/屯&oldid=10643482",
+    "revisionOrSnapshot": "10643482",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ws-zhouyi-11",
+    "title": "《周易》·泰（维基文库贡献者对校录文）",
+    "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库《周易/泰》固定电子修订版 oldid=2106138；仅作对校，不冒称四库本",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易/泰&oldid=2106138",
+    "revisionOrSnapshot": "2106138",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ws-zhouyi-12",
+    "title": "《周易》·否（维基文库贡献者对校录文）",
+    "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库《周易/否》固定电子修订版 oldid=10645603；仅作对校，不冒称四库本",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易/否&oldid=10645603",
+    "revisionOrSnapshot": "10645603",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ws-zhouyi-44",
+    "title": "《周易》·姤（维基文库贡献者对校录文）",
+    "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库《周易/姤》固定电子修订版 oldid=10646826；仅作对校，不冒称四库本",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易/姤&oldid=10646826",
+    "revisionOrSnapshot": "10646826",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ws-zhouyi-23",
+    "title": "《周易》·剝（维基文库贡献者对校录文）",
+    "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库《周易/剝》固定电子修订版 oldid=10645800；仅作对校，不冒称四库本",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易/剝&oldid=10645800",
+    "revisionOrSnapshot": "10645800",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "ws-zhouyi-26",
+    "title": "《周易》·大畜（维基文库贡献者对校录文）",
+    "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库《周易/大畜》固定电子修订版 oldid=10646304；仅作对校，不冒称四库本",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=周易/大畜&oldid=10646304",
+    "revisionOrSnapshot": "10646304",
+    "accessedAt": "2026-10-21",
+    "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
   }
 ]
-export const SAMPLE_CONTENT: readonly HexagramContent[] = [
+export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 1,
     "statement": {
@@ -842,6 +952,1163 @@ export const SAMPLE_CONTENT: readonly HexagramContent[] = [
     ]
   },
   {
+    "id": 3,
+    "statement": {
+      "id": "h3-statement",
+      "original": "屯：元亨，利貞。勿用有攸徃，利建侯。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-2",
+          "locator": "卷2 / 屯 / 卦辞 / 0007冊.djvu/339"
+        }
+      ],
+      "reviewId": "review-h3-statement"
+    },
+    "tuan": {
+      "id": "h3-tuan",
+      "original": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-2",
+          "locator": "卷2 / 屯 / 彖曰 / 0007冊.djvu/339"
+        }
+      ],
+      "reviewId": "review-h3-tuan"
+    },
+    "greatImage": {
+      "id": "h3-great-image",
+      "original": "雲雷，屯；君子以經綸。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-2",
+          "locator": "卷2 / 屯 / 整卦大象 / 0007冊.djvu/339"
+        }
+      ],
+      "reviewId": "review-h3-great-image"
+    },
+    "summary": "云雷相交，初生多难。",
+    "overallMeaning": "屯表现事物初创时的艰难。行动要守正，先建立秩序和协作，不急于冒进。",
+    "imagery": [
+      "震下坎上，动于险中。",
+      "云雷交作，君子经纶。"
+    ],
+    "overviewRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2",
+        "locator": "卷2 / 屯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/339–339"
+      }
+    ],
+    "overviewReviewId": "review-h3-overview",
+    "yao": [
+      {
+        "position": 1,
+        "polarity": 1,
+        "label": "初九",
+        "text": {
+          "id": "h3-yao-1",
+          "original": "磐桓，利居貞，利建侯。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 初九 / 0007冊.djvu/340"
+            }
+          ],
+          "reviewId": "review-h3-yao-1"
+        },
+        "smallImage": {
+          "id": "h3-image-1",
+          "original": "雖磐桓，志行正也。以貴下賤，大得民也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 初九小象 / 0007冊.djvu/340"
+            }
+          ],
+          "reviewId": "review-h3-image-1"
+        }
+      },
+      {
+        "position": 2,
+        "polarity": 0,
+        "label": "六二",
+        "text": {
+          "id": "h3-yao-2",
+          "original": "屯如邅如，乘馬班如，匪宼婚媾，女子貞不字，十年乃字。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 六二 / 0007冊.djvu/340"
+            }
+          ],
+          "reviewId": "review-h3-yao-2"
+        },
+        "smallImage": {
+          "id": "h3-image-2",
+          "original": "六二之難，乘剛也。十年乃字，反常也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 六二小象 / 0007冊.djvu/340"
+            }
+          ],
+          "reviewId": "review-h3-image-2"
+        }
+      },
+      {
+        "position": 3,
+        "polarity": 0,
+        "label": "六三",
+        "text": {
+          "id": "h3-yao-3",
+          "original": "卽鹿无虞，惟入于林中，君子幾不如舎，徃吝。",
+          "notes": [
+            "采用四库本电子录文的“卽”“舎”“徃”；图形字按图像替代文字转写，影印字形待核。"
+          ],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 六三 / 0007冊.djvu/341"
+            }
+          ],
+          "reviewId": "review-h3-yao-3"
+        },
+        "smallImage": {
+          "id": "h3-image-3",
+          "original": "卽鹿无虞，以從禽也。君子舍之，徃吝窮也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 六三小象 / 0007冊.djvu/341"
+            }
+          ],
+          "reviewId": "review-h3-image-3"
+        }
+      },
+      {
+        "position": 4,
+        "polarity": 0,
+        "label": "六四",
+        "text": {
+          "id": "h3-yao-4",
+          "original": "乘馬班如，求婚媾，徃吉，无不利。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 六四 / 0007冊.djvu/341"
+            }
+          ],
+          "reviewId": "review-h3-yao-4"
+        },
+        "smallImage": {
+          "id": "h3-image-4",
+          "original": "求而徃，明也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 六四小象 / 0007冊.djvu/341"
+            }
+          ],
+          "reviewId": "review-h3-image-4"
+        }
+      },
+      {
+        "position": 5,
+        "polarity": 1,
+        "label": "九五",
+        "text": {
+          "id": "h3-yao-5",
+          "original": "屯其膏，小貞吉，大貞凶。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 九五 / 0007冊.djvu/341"
+            }
+          ],
+          "reviewId": "review-h3-yao-5"
+        },
+        "smallImage": {
+          "id": "h3-image-5",
+          "original": "屯其膏，施未光也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 九五小象 / 0007冊.djvu/342"
+            }
+          ],
+          "reviewId": "review-h3-image-5"
+        }
+      },
+      {
+        "position": 6,
+        "polarity": 0,
+        "label": "上六",
+        "text": {
+          "id": "h3-yao-6",
+          "original": "乘馬班如，泣血漣如。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 上六 / 0007冊.djvu/342"
+            }
+          ],
+          "reviewId": "review-h3-yao-6"
+        },
+        "smallImage": {
+          "id": "h3-image-6",
+          "original": "泣血漣如，何可長也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-2",
+              "locator": "卷2 / 屯 / 上六小象 / 0007冊.djvu/342"
+            }
+          ],
+          "reviewId": "review-h3-image-6"
+        }
+      }
+    ],
+    "specialEntries": []
+  },
+  {
+    "id": 11,
+    "statement": {
+      "id": "h11-statement",
+      "original": "泰：小往大來，吉亨。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-3",
+          "locator": "卷3 / 泰 / 卦辞 / 0007冊.djvu/365"
+        }
+      ],
+      "reviewId": "review-h11-statement"
+    },
+    "tuan": {
+      "id": "h11-tuan",
+      "original": "泰，小往大來，吉亨。則是天地交而萬物通也，上下交而其志同也。内陽而外陰，内健而外順，内君子而外小人，君子道長，小人道消也。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-3",
+          "locator": "卷3 / 泰 / 彖曰 / 0007冊.djvu/365"
+        }
+      ],
+      "reviewId": "review-h11-tuan"
+    },
+    "greatImage": {
+      "id": "h11-great-image",
+      "original": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-3",
+          "locator": "卷3 / 泰 / 整卦大象 / 0007冊.djvu/365"
+        }
+      ],
+      "reviewId": "review-h11-great-image"
+    },
+    "summary": "天地相交，通泰之象。",
+    "overallMeaning": "泰以天地交通、上下同心说明通达。通达仍有转变，应辅成秩序，在顺境中守正知变。",
+    "imagery": [
+      "乾下坤上，内健外顺。",
+      "天地交而万物通。"
+    ],
+    "overviewRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/365–365"
+      }
+    ],
+    "overviewReviewId": "review-h11-overview",
+    "yao": [
+      {
+        "position": 1,
+        "polarity": 1,
+        "label": "初九",
+        "text": {
+          "id": "h11-yao-1",
+          "original": "拔茅茹，以其彚，征吉。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 初九 / 0007冊.djvu/366"
+            }
+          ],
+          "reviewId": "review-h11-yao-1"
+        },
+        "smallImage": {
+          "id": "h11-image-1",
+          "original": "拔茅征吉，志在外也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 初九小象 / 0007冊.djvu/366"
+            }
+          ],
+          "reviewId": "review-h11-image-1"
+        }
+      },
+      {
+        "position": 2,
+        "polarity": 1,
+        "label": "九二",
+        "text": {
+          "id": "h11-yao-2",
+          "original": "包荒，用馮河，不遐遺，朋亡，得尚于中行。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 九二 / 0007冊.djvu/366"
+            }
+          ],
+          "reviewId": "review-h11-yao-2"
+        },
+        "smallImage": {
+          "id": "h11-image-2",
+          "original": "包荒，得尚于中行，以光大也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 九二小象 / 0007冊.djvu/366"
+            }
+          ],
+          "reviewId": "review-h11-image-2"
+        }
+      },
+      {
+        "position": 3,
+        "polarity": 1,
+        "label": "九三",
+        "text": {
+          "id": "h11-yao-3",
+          "original": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 九三 / 0007冊.djvu/366"
+            }
+          ],
+          "reviewId": "review-h11-yao-3"
+        },
+        "smallImage": {
+          "id": "h11-image-3",
+          "original": "无往不復，天地際也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 九三小象 / 0007冊.djvu/366–367"
+            }
+          ],
+          "reviewId": "review-h11-image-3"
+        }
+      },
+      {
+        "position": 4,
+        "polarity": 0,
+        "label": "六四",
+        "text": {
+          "id": "h11-yao-4",
+          "original": "翩翩，不富以其鄰，不戒以孚。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 六四 / 0007冊.djvu/367"
+            }
+          ],
+          "reviewId": "review-h11-yao-4"
+        },
+        "smallImage": {
+          "id": "h11-image-4",
+          "original": "翩翩不富，皆失實也。不戒以孚，中心願也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 六四小象 / 0007冊.djvu/367"
+            }
+          ],
+          "reviewId": "review-h11-image-4"
+        }
+      },
+      {
+        "position": 5,
+        "polarity": 0,
+        "label": "六五",
+        "text": {
+          "id": "h11-yao-5",
+          "original": "帝乙歸妹，以祉元吉。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 六五 / 0007冊.djvu/367"
+            }
+          ],
+          "reviewId": "review-h11-yao-5"
+        },
+        "smallImage": {
+          "id": "h11-image-5",
+          "original": "以祉元吉，中以行願也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 六五小象 / 0007冊.djvu/367"
+            }
+          ],
+          "reviewId": "review-h11-image-5"
+        }
+      },
+      {
+        "position": 6,
+        "polarity": 0,
+        "label": "上六",
+        "text": {
+          "id": "h11-yao-6",
+          "original": "城復于隍，勿用師。自邑告命，貞吝。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 上六 / 0007冊.djvu/367"
+            }
+          ],
+          "reviewId": "review-h11-yao-6"
+        },
+        "smallImage": {
+          "id": "h11-image-6",
+          "original": "城復于隍，其命亂也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 泰 / 上六小象 / 0007冊.djvu/368"
+            }
+          ],
+          "reviewId": "review-h11-image-6"
+        }
+      }
+    ],
+    "specialEntries": []
+  },
+  {
+    "id": 12,
+    "statement": {
+      "id": "h12-statement",
+      "original": "否之匪人，不利君子貞，大往小來。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-3",
+          "locator": "卷3 / 否 / 卦辞 / 0007冊.djvu/368"
+        }
+      ],
+      "reviewId": "review-h12-statement"
+    },
+    "tuan": {
+      "id": "h12-tuan",
+      "original": "否之匪人，不利君子貞，大往小來。則是天地不交而萬物不通也，上下不交而天下无邦也。内陰而外陽，内柔而外剛，内小人而外君子，小人道長，君子道消也。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-3",
+          "locator": "卷3 / 否 / 彖曰 / 0007冊.djvu/368"
+        }
+      ],
+      "reviewId": "review-h12-tuan"
+    },
+    "greatImage": {
+      "id": "h12-great-image",
+      "original": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-3",
+          "locator": "卷3 / 否 / 整卦大象 / 0007冊.djvu/368"
+        }
+      ],
+      "reviewId": "review-h12-great-image"
+    },
+    "summary": "天地不交，闭塞之象。",
+    "overallMeaning": "否与泰相对，表现上下不通的处境。君子收敛守德，避免因名利冒进，同时观察闭塞向通达转变的条件。",
+    "imagery": [
+      "坤下乾上，内柔外刚。",
+      "天地不交，君子俭德避难。"
+    ],
+    "overviewRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/368–368"
+      }
+    ],
+    "overviewReviewId": "review-h12-overview",
+    "yao": [
+      {
+        "position": 1,
+        "polarity": 0,
+        "label": "初六",
+        "text": {
+          "id": "h12-yao-1",
+          "original": "拔茅茹，以其彚，貞吉亨。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 初六 / 0007冊.djvu/368"
+            }
+          ],
+          "reviewId": "review-h12-yao-1"
+        },
+        "smallImage": {
+          "id": "h12-image-1",
+          "original": "拔茅貞吉，志在君也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 初六小象 / 0007冊.djvu/368"
+            }
+          ],
+          "reviewId": "review-h12-image-1"
+        }
+      },
+      {
+        "position": 2,
+        "polarity": 0,
+        "label": "六二",
+        "text": {
+          "id": "h12-yao-2",
+          "original": "包承，小人吉，大人否亨。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 六二 / 0007冊.djvu/368"
+            }
+          ],
+          "reviewId": "review-h12-yao-2"
+        },
+        "smallImage": {
+          "id": "h12-image-2",
+          "original": "大人否亨，不亂羣也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 六二小象 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-image-2"
+        }
+      },
+      {
+        "position": 3,
+        "polarity": 0,
+        "label": "六三",
+        "text": {
+          "id": "h12-yao-3",
+          "original": "包羞。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 六三 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-yao-3"
+        },
+        "smallImage": {
+          "id": "h12-image-3",
+          "original": "包羞，位不當也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 六三小象 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-image-3"
+        }
+      },
+      {
+        "position": 4,
+        "polarity": 1,
+        "label": "九四",
+        "text": {
+          "id": "h12-yao-4",
+          "original": "有命，无咎，疇離祉。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 九四 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-yao-4"
+        },
+        "smallImage": {
+          "id": "h12-image-4",
+          "original": "有命无咎，志行也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 九四小象 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-image-4"
+        }
+      },
+      {
+        "position": 5,
+        "polarity": 1,
+        "label": "九五",
+        "text": {
+          "id": "h12-yao-5",
+          "original": "休否，大人吉。其亡其亡，繋于苞桑。",
+          "notes": [
+            "采用四库本电子录文“繋于苞桑”，普通《周易》电子页主文作“繫于包桑”；字形与异文留待影印复核。"
+          ],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 九五 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-yao-5"
+        },
+        "smallImage": {
+          "id": "h12-image-5",
+          "original": "大人之吉，位正當也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 九五小象 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-image-5"
+        }
+      },
+      {
+        "position": 6,
+        "polarity": 1,
+        "label": "上九",
+        "text": {
+          "id": "h12-yao-6",
+          "original": "傾否，先否後喜。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 上九 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-yao-6"
+        },
+        "smallImage": {
+          "id": "h12-image-6",
+          "original": "否終則傾，何可長也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-3",
+              "locator": "卷3 / 否 / 上九小象 / 0007冊.djvu/369"
+            }
+          ],
+          "reviewId": "review-h12-image-6"
+        }
+      }
+    ],
+    "specialEntries": []
+  },
+  {
+    "id": 23,
+    "statement": {
+      "id": "h23-statement",
+      "original": "剝：不利有攸往。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-5",
+          "locator": "卷5 / 剝 / 卦辞 / 0007冊.djvu/401"
+        }
+      ],
+      "reviewId": "review-h23-statement"
+    },
+    "tuan": {
+      "id": "h23-tuan",
+      "original": "剝，剝也，柔變剛也。不利有攸往，小人長也。順而止之，觀象也。君子尚消息盈虚，天行也。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-5",
+          "locator": "卷5 / 剝 / 彖曰 / 0007冊.djvu/401"
+        }
+      ],
+      "reviewId": "review-h23-tuan"
+    },
+    "greatImage": {
+      "id": "h23-great-image",
+      "original": "山附于地，剝；上以厚下安宅。",
+      "notes": [
+        "采用四库本电子录文“山附于地”，普通《周易》电子页作“山附地上”。"
+      ],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-5",
+          "locator": "卷5 / 剝 / 整卦大象 / 0007冊.djvu/402"
+        }
+      ],
+      "reviewId": "review-h23-great-image"
+    },
+    "summary": "山附于地，剥落之象。",
+    "overallMeaning": "剥表现根基逐渐受损的过程。大象强调厚下安宅，从稳固基础着手，并观察消长的时势。",
+    "imagery": [
+      "坤下艮上，顺而止。",
+      "五阴一阳，上九独存。"
+    ],
+    "overviewRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 剝 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/401–402"
+      }
+    ],
+    "overviewReviewId": "review-h23-overview",
+    "yao": [
+      {
+        "position": 1,
+        "polarity": 0,
+        "label": "初六",
+        "text": {
+          "id": "h23-yao-1",
+          "original": "剝牀以足，蔑貞凶。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 初六 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-yao-1"
+        },
+        "smallImage": {
+          "id": "h23-image-1",
+          "original": "剝牀以足，以滅下也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 初六小象 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-image-1"
+        }
+      },
+      {
+        "position": 2,
+        "polarity": 0,
+        "label": "六二",
+        "text": {
+          "id": "h23-yao-2",
+          "original": "剝牀以辨，蔑貞凶。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六二 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-yao-2"
+        },
+        "smallImage": {
+          "id": "h23-image-2",
+          "original": "剝牀以辨，未有與也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六二小象 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-image-2"
+        }
+      },
+      {
+        "position": 3,
+        "polarity": 0,
+        "label": "六三",
+        "text": {
+          "id": "h23-yao-3",
+          "original": "剝之，无咎。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六三 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-yao-3"
+        },
+        "smallImage": {
+          "id": "h23-image-3",
+          "original": "剝之无咎，失上下也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六三小象 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-image-3"
+        }
+      },
+      {
+        "position": 4,
+        "polarity": 0,
+        "label": "六四",
+        "text": {
+          "id": "h23-yao-4",
+          "original": "剝牀以膚，凶。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六四 / 0007冊.djvu/402"
+            }
+          ],
+          "reviewId": "review-h23-yao-4"
+        },
+        "smallImage": {
+          "id": "h23-image-4",
+          "original": "剝牀以膚，切近災也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六四小象 / 0007冊.djvu/403"
+            }
+          ],
+          "reviewId": "review-h23-image-4"
+        }
+      },
+      {
+        "position": 5,
+        "polarity": 0,
+        "label": "六五",
+        "text": {
+          "id": "h23-yao-5",
+          "original": "貫魚，以宮人寵，无不利。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六五 / 0007冊.djvu/403"
+            }
+          ],
+          "reviewId": "review-h23-yao-5"
+        },
+        "smallImage": {
+          "id": "h23-image-5",
+          "original": "以宮人寵，終无尤也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 六五小象 / 0007冊.djvu/403"
+            }
+          ],
+          "reviewId": "review-h23-image-5"
+        }
+      },
+      {
+        "position": 6,
+        "polarity": 1,
+        "label": "上九",
+        "text": {
+          "id": "h23-yao-6",
+          "original": "碩果不食，君子得輿，小人剝廬。",
+          "notes": [
+            "采用四库本电子录文“君子得輿”，普通《周易》电子页主文作“君子德車”并列异文。"
+          ],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 上九 / 0007冊.djvu/403"
+            }
+          ],
+          "reviewId": "review-h23-yao-6"
+        },
+        "smallImage": {
+          "id": "h23-image-6",
+          "original": "君子得輿，民所載也。小人剝廬，終不可用也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 剝 / 上九小象 / 0007冊.djvu/403"
+            }
+          ],
+          "reviewId": "review-h23-image-6"
+        }
+      }
+    ],
+    "specialEntries": []
+  },
+  {
+    "id": 26,
+    "statement": {
+      "id": "h26-statement",
+      "original": "大畜：利貞，不家食吉，利渉大川。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-5",
+          "locator": "卷5 / 大畜 / 卦辞 / 0007冊.djvu/408"
+        }
+      ],
+      "reviewId": "review-h26-statement"
+    },
+    "tuan": {
+      "id": "h26-tuan",
+      "original": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利渉大川，應乎天也。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-5",
+          "locator": "卷5 / 大畜 / 彖曰 / 0007冊.djvu/409"
+        }
+      ],
+      "reviewId": "review-h26-tuan"
+    },
+    "greatImage": {
+      "id": "h26-great-image",
+      "original": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-5",
+          "locator": "卷5 / 大畜 / 整卦大象 / 0007冊.djvu/409"
+        }
+      ],
+      "reviewId": "review-h26-great-image"
+    },
+    "summary": "天在山中，积蓄德业。",
+    "overallMeaning": "大畜既有积蓄，也有约束刚健之意。学习前人的言行以养德，遇到阻力时能止，条件成熟时再行。",
+    "imagery": [
+      "乾下艮上，以止畜健。",
+      "天在山中，多识前言往行。"
+    ],
+    "overviewRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/408–409"
+      }
+    ],
+    "overviewReviewId": "review-h26-overview",
+    "yao": [
+      {
+        "position": 1,
+        "polarity": 1,
+        "label": "初九",
+        "text": {
+          "id": "h26-yao-1",
+          "original": "有厲，利已。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 初九 / 0007冊.djvu/409"
+            }
+          ],
+          "reviewId": "review-h26-yao-1"
+        },
+        "smallImage": {
+          "id": "h26-image-1",
+          "original": "有厲利巳，不犯災也。",
+          "notes": [
+            "四库本电子录文小象作“利巳”，爻辞作“利已”；保留录文差别，待影印字形复核。"
+          ],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 初九小象 / 0007冊.djvu/409"
+            }
+          ],
+          "reviewId": "review-h26-image-1"
+        }
+      },
+      {
+        "position": 2,
+        "polarity": 1,
+        "label": "九二",
+        "text": {
+          "id": "h26-yao-2",
+          "original": "輿說輹。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 九二 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-yao-2"
+        },
+        "smallImage": {
+          "id": "h26-image-2",
+          "original": "輿說輹，中无尤也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 九二小象 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-image-2"
+        }
+      },
+      {
+        "position": 3,
+        "polarity": 1,
+        "label": "九三",
+        "text": {
+          "id": "h26-yao-3",
+          "original": "良馬逐，利艱貞。曰閑輿衛，利有攸徃。",
+          "notes": [
+            "采用四库本电子录文“曰閑輿衛”，其音义列“曰音越”；普通《周易》电子页作“日閑輿衛”且多一“吉”字，待影印复核。"
+          ],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 九三 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-yao-3"
+        },
+        "smallImage": {
+          "id": "h26-image-3",
+          "original": "利有攸往，上合志也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 九三小象 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-image-3"
+        }
+      },
+      {
+        "position": 4,
+        "polarity": 0,
+        "label": "六四",
+        "text": {
+          "id": "h26-yao-4",
+          "original": "童牛之牿，元吉。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 六四 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-yao-4"
+        },
+        "smallImage": {
+          "id": "h26-image-4",
+          "original": "六四元吉，有喜也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 六四小象 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-image-4"
+        }
+      },
+      {
+        "position": 5,
+        "polarity": 0,
+        "label": "六五",
+        "text": {
+          "id": "h26-yao-5",
+          "original": "豶豕之牙，吉。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 六五 / 0007冊.djvu/410"
+            }
+          ],
+          "reviewId": "review-h26-yao-5"
+        },
+        "smallImage": {
+          "id": "h26-image-5",
+          "original": "六五之吉，有慶也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 六五小象 / 0007冊.djvu/410–411"
+            }
+          ],
+          "reviewId": "review-h26-image-5"
+        }
+      },
+      {
+        "position": 6,
+        "polarity": 1,
+        "label": "上九",
+        "text": {
+          "id": "h26-yao-6",
+          "original": "何天之衢，亨。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 上九 / 0007冊.djvu/411"
+            }
+          ],
+          "reviewId": "review-h26-yao-6"
+        },
+        "smallImage": {
+          "id": "h26-image-6",
+          "original": "何天之衢，道大行也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-5",
+              "locator": "卷5 / 大畜 / 上九小象 / 0007冊.djvu/411"
+            }
+          ],
+          "reviewId": "review-h26-image-6"
+        }
+      }
+    ],
+    "specialEntries": []
+  },
+  {
     "id": 30,
     "statement": {
       "id": "h30-statement",
@@ -1533,6 +2800,235 @@ export const SAMPLE_CONTENT: readonly HexagramContent[] = [
         },
         "positionExplanation": "第6爻（从下向上），为阴爻，位于上卦。",
         "positionReviewId": "review-h43-position-6"
+      }
+    ],
+    "specialEntries": []
+  },
+  {
+    "id": 44,
+    "statement": {
+      "id": "h44-statement",
+      "original": "姤：女壯，勿用取女。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-8",
+          "locator": "卷8 / 姤 / 卦辞 / 0007冊.djvu/463"
+        }
+      ],
+      "reviewId": "review-h44-statement"
+    },
+    "tuan": {
+      "id": "h44-tuan",
+      "original": "姤，遇也，柔遇剛也。勿用取女，不可與長也。天地相遇，品物咸章也。剛遇中正，天下大行也。姤之時義大矣哉！",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-8",
+          "locator": "卷8 / 姤 / 彖曰 / 0007冊.djvu/463"
+        }
+      ],
+      "reviewId": "review-h44-tuan"
+    },
+    "greatImage": {
+      "id": "h44-great-image",
+      "original": "天下有風，姤；后以施命誥四方。",
+      "notes": [],
+      "originalRefs": [
+        {
+          "sourceId": "skqs-zhouyi-8",
+          "locator": "卷8 / 姤 / 整卦大象 / 0007冊.djvu/464"
+        }
+      ],
+      "reviewId": "review-h44-great-image"
+    },
+    "summary": "天下有风，刚柔相遇。",
+    "overallMeaning": "姤以一柔遇五刚取相遇之义。经传借古代婚姻之象讨论相遇的条件与节制，阅读时结合爻位观察关系的变化。",
+    "imagery": [
+      "巽下乾上，风行天下。",
+      "一阴初生，与五阳相遇。"
+    ],
+    "overviewRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8",
+        "locator": "卷8 / 姤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/463–464"
+      }
+    ],
+    "overviewReviewId": "review-h44-overview",
+    "yao": [
+      {
+        "position": 1,
+        "polarity": 0,
+        "label": "初六",
+        "text": {
+          "id": "h44-yao-1",
+          "original": "繫于金柅，貞吉。有攸往，見凶。羸豕孚蹢躅。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 初六 / 0007冊.djvu/464"
+            }
+          ],
+          "reviewId": "review-h44-yao-1"
+        },
+        "smallImage": {
+          "id": "h44-image-1",
+          "original": "繫于金柅，柔道牽也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 初六小象 / 0007冊.djvu/464"
+            }
+          ],
+          "reviewId": "review-h44-image-1"
+        }
+      },
+      {
+        "position": 2,
+        "polarity": 1,
+        "label": "九二",
+        "text": {
+          "id": "h44-yao-2",
+          "original": "包有魚，无咎，不利賓。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九二 / 0007冊.djvu/464"
+            }
+          ],
+          "reviewId": "review-h44-yao-2"
+        },
+        "smallImage": {
+          "id": "h44-image-2",
+          "original": "包有魚，義不及賓也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九二小象 / 0007冊.djvu/464"
+            }
+          ],
+          "reviewId": "review-h44-image-2"
+        }
+      },
+      {
+        "position": 3,
+        "polarity": 1,
+        "label": "九三",
+        "text": {
+          "id": "h44-yao-3",
+          "original": "臀无膚，其行次且，厲，无大咎。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九三 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-yao-3"
+        },
+        "smallImage": {
+          "id": "h44-image-3",
+          "original": "其行次且，行未牽也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九三小象 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-image-3"
+        }
+      },
+      {
+        "position": 4,
+        "polarity": 1,
+        "label": "九四",
+        "text": {
+          "id": "h44-yao-4",
+          "original": "包无魚，起凶。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九四 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-yao-4"
+        },
+        "smallImage": {
+          "id": "h44-image-4",
+          "original": "无魚之凶，逺民也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九四小象 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-image-4"
+        }
+      },
+      {
+        "position": 5,
+        "polarity": 1,
+        "label": "九五",
+        "text": {
+          "id": "h44-yao-5",
+          "original": "以杞包瓜，含章，有隕自天。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九五 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-yao-5"
+        },
+        "smallImage": {
+          "id": "h44-image-5",
+          "original": "九五含章，中正也。有隕自天，志不舎命也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 九五小象 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-image-5"
+        }
+      },
+      {
+        "position": 6,
+        "polarity": 1,
+        "label": "上九",
+        "text": {
+          "id": "h44-yao-6",
+          "original": "姤其角，吝，无咎。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 上九 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-yao-6"
+        },
+        "smallImage": {
+          "id": "h44-image-6",
+          "original": "姤其角，上窮吝也。",
+          "notes": [],
+          "originalRefs": [
+            {
+              "sourceId": "skqs-zhouyi-8",
+              "locator": "卷8 / 姤 / 上九小象 / 0007冊.djvu/465"
+            }
+          ],
+          "reviewId": "review-h44-image-6"
+        }
       }
     ],
     "specialEntries": []

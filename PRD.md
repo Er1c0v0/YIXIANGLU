@@ -287,7 +287,7 @@ flowchart TD
 | 数据 | 本地JSON源文件 + 构建生成的TS模块/索引 | 数据随包发布，运行期不请求远端内容 |
 | 开发 | 微信开发者工具 + Git | 记录工具和基础库版本；真实AppID由项目负责人配置 |
 | 类型 | 微信官方API类型定义 | 可使用[官方miniprogram-api-typings](https://github.com/wechat-miniprogram/api-typings)；锁定依赖版本 |
-| 测试 | TypeScript编译检查 + Vitest纯逻辑测试 + 内容结构校验 | 测试工具只在开发环境运行，不打入小程序 |
+| 测试 | TypeScript编译检查 + Node内置测试配合tsx的纯逻辑测试 + 内容结构校验 | 测试工具只在开发环境运行，不打入小程序 |
 | 发布 | 开发者工具上传体验版 | 自动化上传后续可使用[官方miniprogram-ci](https://github.com/wechat-miniprogram/miniprogram-ci-dist)，首版无需强制接入 |
 
 阶段一选择当时开发者工具支持、且两端真机可运行的稳定基础库版本并固定记录，不在PRD中臆定“最新版”版本号。官方在线文档本次未能完整读取，具体组件参数应在开发阶段结合工具提示及官方类型验证；本PRD不据此声称某版本API已经完成真机验证。
@@ -337,7 +337,7 @@ project/
 
 ### 6.4 打包与离线
 
-优先把核心页面、8卦、64卦元数据、全部正文与释义作为本地资源打包，避免远程字体、图片和CDN。阶段三测量实际产物体积，再决定是否有必要调整组织方式。
+优先把核心页面、8卦、64卦元数据、全部正文与展示说明作为本地资源打包，避免远程字体、图片和CDN。阶段三测量实际产物体积，再决定是否有必要调整组织方式。
 
 如果接近微信当时的包体限制，应先压缩冗余字段、删除未用图片与测试产物。需要分包时，必须明确微信首次下载分包可能需要网络；不得把“尚未下载的分包”宣传为首次断网可用。首版验收优先采用完整核心资料随主包可用的方案；包体上限按实际工具校验记录，不使用未经核实的固定额度。
 
@@ -368,10 +368,10 @@ interface SourceRef {
 interface ReviewedText {
   id: string;
   original: string;          // 按采用版本保留原字
-  explanation: string;      // 既有白话档案，不在界面展示
+  explanation?: string;     // 既有白话档案；新原文无需填写，不在界面展示
   notes: string[];          // 术语、异体字、必要的歧义说明
   originalRefs: SourceRef[];
-  explanationRefs: SourceRef[]; // 理解依据；可引用古注，白话仍独立整理
+  explanationRefs?: SourceRef[]; // 有白话时提供；无白话时省略
   reviewId: string;
 }
 
@@ -381,8 +381,8 @@ interface YaoEntry {
   label: string;
   text: ReviewedText;        // 爻辞原文及留存释义
   smallImage: ReviewedText;  // 小象原文及留存释义
-  positionExplanation: string;
-  positionReviewId: string;
+  positionExplanation?: string; // 既有爻位说明留档，新条目可不填写
+  positionReviewId?: string;    // 与留档说明成对提供
 }
 
 interface SpecialEntry {
@@ -464,7 +464,9 @@ interface ReviewRecord {
   subjectId: string;
   subjectHash: string;       // 覆盖原文、白话和所引用版本等审核对象
   originalStatus: 'pending' | 'passed' | 'needs-fix' | 'not-applicable';
-  explanationStatus: 'pending' | 'passed' | 'needs-fix';
+  explanationStatus: 'pending' | 'passed' | 'needs-fix' | 'not-applicable';
+  facsimileStatus?: 'pending' | 'passed' | 'needs-fix';
+  independentReviewStatus?: 'pending' | 'passed' | 'needs-fix';
   checkedRefs: SourceRef[];
   checkedBy: string;
   checkedAt: string;
@@ -472,13 +474,13 @@ interface ReviewRecord {
 }
 
 interface ContentManifest {
-  schemaVersion: string;
+  schemaVersion: number;
   dataVersion: string;
   buildHash: string;
-  expected: {
-    trigrams: 8; hexagrams: 64; regularYao: 384;
-    regularSmallImages: 384; specialEntries: 2;
-  };
+  counts: { hexagrams: number; originalBlocks: number; reviewRecords: number };
+  target: { hexagrams: 64; originalBlocks: 964 };
+  missingHexagramIds: number[];
+  // 实际构建另统计电子、影印、独立复核、展示说明及留档白话的审核数量。
 }
 
 type CastSession =
@@ -487,7 +489,7 @@ type CastSession =
       rawInputs: readonly [string, string, string] };
 ```
 
-`ReviewRecord`也用于纯释义条目；无原文时`originalStatus`可为`not-applicable`。`checkedBy`记录实际核对者或核对流程，自动生成数据不能自动伪造审查通过记录。内容改动导致哈希变化时，对应审核失效。
+`ReviewRecord`也用于纯释义条目；无原文时`originalStatus`可为`not-applicable`。新原文无需另写白话，省略白话及其引用，`explanationStatus`必须为`not-applicable`。既有白话、爻位说明及审核历史留档；电子、影印及独立复核分别记录，旧记录未提供新字段时按待审统计。`checkedBy`记录实际核对者或核对流程，自动生成数据不能自动伪造审查通过记录。内容改动导致哈希变化时，对应审核失效。
 
 ### 7.3 数据完整性约束
 
@@ -499,7 +501,7 @@ type CastSession =
 | 常规爻 | 每卦恰好6爻，position覆盖1～6；共384条爻辞与384条小象 |
 | 特殊条文 | 乾独有用九、坤独有用六，共2条；各有对应象传原文，不占第7爻 |
 | 原文块总数 | 64×3 + 384×2 + 2×2 = 964个必需原文块，每块有来源与审核记录 |
-| 其他释义 | 卦级整体说明、意象、爻位说明、特殊知识注释、生克说明也必须审查 |
+| 其他释义 | 卦级整体说明、意象、特殊知识注释、生克等展示说明必须审查；既有白话与爻位留档说明保留真实审核状态 |
 | 引用 | 所有sourceId、reviewId、subjectId均可解析，不能悬空 |
 | 意象 | 课堂表8类×8卦均覆盖；扩展类逐项有内容与来源；生克各5条关系 |
 | 发布数据 | 无空白必需字段、占位文、未决审核或审核哈希不匹配 |
@@ -757,13 +759,13 @@ changedMask = originalMask XOR changeMask
 
 ### 阶段三：完整六十四卦资料库
 
-**目标：**完成全部内容及逐条校验，替换原型缺失状态。
+**目标：**完成全部内容及逐条校验，替换原型缺失状态。按卦增量录入；第一批补齐屯、泰、否、姤、剥、大畜，达到11卦、169原文块，随后剩余53卦按卦序每批8卦、末批5卦推进。实现进度与历史验收见 [开发计划](docs/development-plan.md)。
 
 - [ ] S3-01 补齐64卦经传原文、整体含义与卦象意象。
 - [ ] S3-02 补齐384条爻辞与小象传原文。
 - [ ] S3-03 补齐用九、用六和相关象传与说明，保持独立特殊条目。
 - [ ] S3-04 校对卦名、全称、繁体名、拼音与别名索引；记录别名依据。
-- [ ] S3-05 按第9节对全部原文与释义逐条审查，处理问题并生成审核哈希。
+- [ ] S3-05 按第9节对全部原文与展示说明逐条审查，处理问题并生成审核哈希。
 - [ ] S3-06 建立课堂8类对应和扩展意象、生克数据，逐条标注体系与来源。
 - [ ] S3-07 建立内容构建、缺项/重复/引用校验、版本清单与发布完整性检查；测量打包体积。
 

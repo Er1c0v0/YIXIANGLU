@@ -1,0 +1,229 @@
+{
+  "id": 11,
+  "statement": {
+    "id": "h11-statement",
+    "original": "泰：小往大來，吉亨。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 卦辞 / 0007冊.djvu/365"
+      }
+    ],
+    "reviewId": "review-h11-statement"
+  },
+  "tuan": {
+    "id": "h11-tuan",
+    "original": "泰，小往大來，吉亨。則是天地交而萬物通也，上下交而其志同也。内陽而外陰，内健而外順，内君子而外小人，君子道長，小人道消也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 彖曰 / 0007冊.djvu/365"
+      }
+    ],
+    "reviewId": "review-h11-tuan"
+  },
+  "greatImage": {
+    "id": "h11-great-image",
+    "original": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 整卦大象 / 0007冊.djvu/365"
+      }
+    ],
+    "reviewId": "review-h11-great-image"
+  },
+  "summary": "天地相交，通泰之象。",
+  "overallMeaning": "泰以天地交通、上下同心说明通达。通达仍有转变，应辅成秩序，在顺境中守正知变。",
+  "imagery": [
+    "乾下坤上，内健外顺。",
+    "天地交而万物通。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3",
+      "locator": "卷3 / 泰 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/365–365"
+    }
+  ],
+  "overviewReviewId": "review-h11-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h11-yao-1",
+        "original": "拔茅茹，以其彚，征吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 初九 / 0007冊.djvu/366"
+          }
+        ],
+        "reviewId": "review-h11-yao-1"
+      },
+      "smallImage": {
+        "id": "h11-image-1",
+        "original": "拔茅征吉，志在外也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 初九小象 / 0007冊.djvu/366"
+          }
+        ],
+        "reviewId": "review-h11-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h11-yao-2",
+        "original": "包荒，用馮河，不遐遺，朋亡，得尚于中行。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 九二 / 0007冊.djvu/366"
+          }
+        ],
+        "reviewId": "review-h11-yao-2"
+      },
+      "smallImage": {
+        "id": "h11-image-2",
+        "original": "包荒，得尚于中行，以光大也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 九二小象 / 0007冊.djvu/366"
+          }
+        ],
+        "reviewId": "review-h11-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h11-yao-3",
+        "original": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 九三 / 0007冊.djvu/366"
+          }
+        ],
+        "reviewId": "review-h11-yao-3"
+      },
+      "smallImage": {
+        "id": "h11-image-3",
+        "original": "无往不復，天地際也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 九三小象 / 0007冊.djvu/366–367"
+          }
+        ],
+        "reviewId": "review-h11-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h11-yao-4",
+        "original": "翩翩，不富以其鄰，不戒以孚。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 六四 / 0007冊.djvu/367"
+          }
+        ],
+        "reviewId": "review-h11-yao-4"
+      },
+      "smallImage": {
+        "id": "h11-image-4",
+        "original": "翩翩不富，皆失實也。不戒以孚，中心願也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 六四小象 / 0007冊.djvu/367"
+          }
+        ],
+        "reviewId": "review-h11-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h11-yao-5",
+        "original": "帝乙歸妹，以祉元吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 六五 / 0007冊.djvu/367"
+          }
+        ],
+        "reviewId": "review-h11-yao-5"
+      },
+      "smallImage": {
+        "id": "h11-image-5",
+        "original": "以祉元吉，中以行願也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 六五小象 / 0007冊.djvu/367"
+          }
+        ],
+        "reviewId": "review-h11-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h11-yao-6",
+        "original": "城復于隍，勿用師。自邑告命，貞吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 上六 / 0007冊.djvu/367"
+          }
+        ],
+        "reviewId": "review-h11-yao-6"
+      },
+      "smallImage": {
+        "id": "h11-image-6",
+        "original": "城復于隍，其命亂也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 泰 / 上六小象 / 0007冊.djvu/368"
+          }
+        ],
+        "reviewId": "review-h11-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

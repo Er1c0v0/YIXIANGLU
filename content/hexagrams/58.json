@@ -1,0 +1,346 @@
+{
+  "id": 58,
+  "statement": {
+    "id": "h58-statement",
+    "original": "兌：亨。利貞。",
+    "explanation": "通达，利于守正。悦乐和交往须以正当的原则为基础。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 卦辞"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 易經 / 卦辞"
+      }
+    ],
+    "reviewId": "review-h58-statement"
+  },
+  "tuan": {
+    "id": "h58-tuan",
+    "original": "兌，說也。剛中而柔外，說以利貞，是以順乎天，而應乎人。說以先民，民忘其勞；說以犯難，民忘其死；說之大，民勸矣哉！",
+    "explanation": "兑是喜悦。内心刚正、外在柔和，以守正为喜悦的基础，顺应天道而回应人心。先使民众悦服，再带领劳作或面对困难，便能激发共同承担的意愿；这是古代政治语境中的论述。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰 / 全段"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 彖曰 / 全段"
+      }
+    ],
+    "reviewId": "review-h58-tuan"
+  },
+  "greatImage": {
+    "id": "h58-great-image",
+    "original": "麗澤，兌；君子以朋友講習。",
+    "explanation": "两泽相连为兑；君子由此与朋友互相讲论、学习。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 整卦大象"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-58",
+        "locator": "第58卦 兌 / 象曰 / 整卦大象"
+      }
+    ],
+    "reviewId": "review-h58-great-image"
+  },
+  "summary": "和悦与交流，内心守正而相互讲习。",
+  "overallMeaning": "两兑相重，以相连的泽水说明润泽和交流。喜悦不是一味取悦他人，须以内在刚正为基础，并在朋友讲习中共同进步。",
+  "imagery": [
+    "上下皆兑，以两泽相连、相互润泽取象。",
+    "刚中柔外，帮助辨别和悦与谄媚的差别。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "ws-zhouyi-58",
+      "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+    }
+  ],
+  "overviewReviewId": "review-h58-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h58-yao-1",
+        "original": "和兌，吉。",
+        "explanation": "和谐而喜悦，原文称吉；不以偏私取悦为目的。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 初九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 初九"
+          }
+        ],
+        "reviewId": "review-h58-yao-1"
+      },
+      "smallImage": {
+        "id": "h58-image-1",
+        "original": "和兌之吉，行未疑也。",
+        "explanation": "和悦而吉，是因为行动没有使人产生疑忌。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 初九小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 初九小象"
+          }
+        ],
+        "reviewId": "review-h58-image-1"
+      },
+      "positionExplanation": "第1爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h58-position-1"
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h58-yao-2",
+        "original": "孚兌，吉，悔亡。",
+        "explanation": "以诚信相悦，原文称吉，悔恨消失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 九二"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 九二"
+          }
+        ],
+        "reviewId": "review-h58-yao-2"
+      },
+      "smallImage": {
+        "id": "h58-image-2",
+        "original": "孚兌之吉，信志也。",
+        "explanation": "诚信相悦而吉，源于心志可信。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 九二小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 九二小象"
+          }
+        ],
+        "reviewId": "review-h58-image-2"
+      },
+      "positionExplanation": "第2爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h58-position-2"
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h58-yao-3",
+        "original": "來兌，凶。",
+        "explanation": "前来求悦或向外求悦，原文称凶；提醒悦乐失去原则的风险。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 六三"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 六三"
+          }
+        ],
+        "reviewId": "review-h58-yao-3"
+      },
+      "smallImage": {
+        "id": "h58-image-3",
+        "original": "來兌之凶，位不當也。",
+        "explanation": "来兑之凶，与所居位置不当相联系。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 六三小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 六三小象"
+          }
+        ],
+        "reviewId": "review-h58-image-3"
+      },
+      "positionExplanation": "第3爻（从下向上），为阴爻，位于下卦。",
+      "positionReviewId": "review-h58-position-3"
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h58-yao-4",
+        "original": "商兌，未寧，介疾有喜。",
+        "explanation": "商量斟酌如何相悦，尚不安定；能介然辨别并去除弊病，便可有喜。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 九四"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 九四"
+          }
+        ],
+        "reviewId": "review-h58-yao-4"
+      },
+      "smallImage": {
+        "id": "h58-image-4",
+        "original": "九四之喜，有慶也。",
+        "explanation": "九四能够辨别、处理弊病，因此有值得庆贺之事。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 九四小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 九四小象"
+          }
+        ],
+        "reviewId": "review-h58-image-4"
+      },
+      "positionExplanation": "第4爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h58-position-4"
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h58-yao-5",
+        "original": "孚于剝，有厲。",
+        "explanation": "信任剥蚀自身正道的力量，便有危险；借以提醒信任须有辨别。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 九五"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 九五"
+          }
+        ],
+        "reviewId": "review-h58-yao-5"
+      },
+      "smallImage": {
+        "id": "h58-image-5",
+        "original": "孚于剝，位正當也。",
+        "explanation": "居于正当之位，更应注意信任对象是否会剥蚀正道。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 九五小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 九五小象"
+          }
+        ],
+        "reviewId": "review-h58-image-5"
+      },
+      "positionExplanation": "第5爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h58-position-5"
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h58-yao-6",
+        "original": "引兌。",
+        "explanation": "引导或牵引他人进入悦乐；原文简短，须结合处于卦极的位置理解。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 上六"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 易經 / 上六"
+          }
+        ],
+        "reviewId": "review-h58-yao-6"
+      },
+      "smallImage": {
+        "id": "h58-image-6",
+        "original": "上六引兌，未光也。",
+        "explanation": "上六的牵引相悦，其道尚不光明。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 上六小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-58",
+            "locator": "第58卦 兌 / 象曰 / 上六小象"
+          }
+        ],
+        "reviewId": "review-h58-image-6"
+      },
+      "positionExplanation": "第6爻（从下向上），为阴爻，位于上卦。",
+      "positionReviewId": "review-h58-position-6"
+    }
+  ],
+  "specialEntries": []
+}

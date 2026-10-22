@@ -9,6 +9,7 @@
   "scripts": {
     "build:content": "tsx scripts/content.mjs build",
     "check:content": "tsx scripts/content.mjs check",
+    "check:content:release": "tsx scripts/content.mjs release",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
     "check": "npm run check:content && npm run typecheck && npm test"

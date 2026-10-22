@@ -1,0 +1,231 @@
+{
+  "id": 12,
+  "statement": {
+    "id": "h12-statement",
+    "original": "否之匪人，不利君子貞，大往小來。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 否 / 卦辞 / 0007冊.djvu/368"
+      }
+    ],
+    "reviewId": "review-h12-statement"
+  },
+  "tuan": {
+    "id": "h12-tuan",
+    "original": "否之匪人，不利君子貞，大往小來。則是天地不交而萬物不通也，上下不交而天下无邦也。内陰而外陽，内柔而外剛，内小人而外君子，小人道長，君子道消也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 否 / 彖曰 / 0007冊.djvu/368"
+      }
+    ],
+    "reviewId": "review-h12-tuan"
+  },
+  "greatImage": {
+    "id": "h12-great-image",
+    "original": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 否 / 整卦大象 / 0007冊.djvu/368"
+      }
+    ],
+    "reviewId": "review-h12-great-image"
+  },
+  "summary": "天地不交，闭塞之象。",
+  "overallMeaning": "否与泰相对，表现上下不通的处境。君子收敛守德，避免因名利冒进，同时观察闭塞向通达转变的条件。",
+  "imagery": [
+    "坤下乾上，内柔外刚。",
+    "天地不交，君子俭德避难。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3",
+      "locator": "卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/368–368"
+    }
+  ],
+  "overviewReviewId": "review-h12-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h12-yao-1",
+        "original": "拔茅茹，以其彚，貞吉亨。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 初六 / 0007冊.djvu/368"
+          }
+        ],
+        "reviewId": "review-h12-yao-1"
+      },
+      "smallImage": {
+        "id": "h12-image-1",
+        "original": "拔茅貞吉，志在君也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 初六小象 / 0007冊.djvu/368"
+          }
+        ],
+        "reviewId": "review-h12-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h12-yao-2",
+        "original": "包承，小人吉，大人否亨。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 六二 / 0007冊.djvu/368"
+          }
+        ],
+        "reviewId": "review-h12-yao-2"
+      },
+      "smallImage": {
+        "id": "h12-image-2",
+        "original": "大人否亨，不亂羣也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 六二小象 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h12-yao-3",
+        "original": "包羞。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 六三 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-yao-3"
+      },
+      "smallImage": {
+        "id": "h12-image-3",
+        "original": "包羞，位不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 六三小象 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h12-yao-4",
+        "original": "有命，无咎，疇離祉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 九四 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-yao-4"
+      },
+      "smallImage": {
+        "id": "h12-image-4",
+        "original": "有命无咎，志行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 九四小象 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h12-yao-5",
+        "original": "休否，大人吉。其亡其亡，繋于苞桑。",
+        "notes": [
+          "采用四库本电子录文“繋于苞桑”，普通《周易》电子页主文作“繫于包桑”；字形与异文留待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 九五 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-yao-5"
+      },
+      "smallImage": {
+        "id": "h12-image-5",
+        "original": "大人之吉，位正當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 九五小象 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h12-yao-6",
+        "original": "傾否，先否後喜。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 上九 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-yao-6"
+      },
+      "smallImage": {
+        "id": "h12-image-6",
+        "original": "否終則傾，何可長也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3",
+            "locator": "卷3 / 否 / 上九小象 / 0007冊.djvu/369"
+          }
+        ],
+        "reviewId": "review-h12-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

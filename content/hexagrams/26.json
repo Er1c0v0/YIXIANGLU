@@ -1,0 +1,233 @@
+{
+  "id": 26,
+  "statement": {
+    "id": "h26-statement",
+    "original": "大畜：利貞，不家食吉，利渉大川。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 大畜 / 卦辞 / 0007冊.djvu/408"
+      }
+    ],
+    "reviewId": "review-h26-statement"
+  },
+  "tuan": {
+    "id": "h26-tuan",
+    "original": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利渉大川，應乎天也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 大畜 / 彖曰 / 0007冊.djvu/409"
+      }
+    ],
+    "reviewId": "review-h26-tuan"
+  },
+  "greatImage": {
+    "id": "h26-great-image",
+    "original": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 大畜 / 整卦大象 / 0007冊.djvu/409"
+      }
+    ],
+    "reviewId": "review-h26-great-image"
+  },
+  "summary": "天在山中，积蓄德业。",
+  "overallMeaning": "大畜既有积蓄，也有约束刚健之意。学习前人的言行以养德，遇到阻力时能止，条件成熟时再行。",
+  "imagery": [
+    "乾下艮上，以止畜健。",
+    "天在山中，多识前言往行。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-5",
+      "locator": "卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/408–409"
+    }
+  ],
+  "overviewReviewId": "review-h26-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h26-yao-1",
+        "original": "有厲，利已。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 初九 / 0007冊.djvu/409"
+          }
+        ],
+        "reviewId": "review-h26-yao-1"
+      },
+      "smallImage": {
+        "id": "h26-image-1",
+        "original": "有厲利巳，不犯災也。",
+        "notes": [
+          "四库本电子录文小象作“利巳”，爻辞作“利已”；保留录文差别，待影印字形复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 初九小象 / 0007冊.djvu/409"
+          }
+        ],
+        "reviewId": "review-h26-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h26-yao-2",
+        "original": "輿說輹。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 九二 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-yao-2"
+      },
+      "smallImage": {
+        "id": "h26-image-2",
+        "original": "輿說輹，中无尤也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 九二小象 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h26-yao-3",
+        "original": "良馬逐，利艱貞。曰閑輿衛，利有攸徃。",
+        "notes": [
+          "采用四库本电子录文“曰閑輿衛”，其音义列“曰音越”；普通《周易》电子页作“日閑輿衛”且多一“吉”字，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 九三 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-yao-3"
+      },
+      "smallImage": {
+        "id": "h26-image-3",
+        "original": "利有攸往，上合志也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 九三小象 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h26-yao-4",
+        "original": "童牛之牿，元吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 六四 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-yao-4"
+      },
+      "smallImage": {
+        "id": "h26-image-4",
+        "original": "六四元吉，有喜也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 六四小象 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h26-yao-5",
+        "original": "豶豕之牙，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 六五 / 0007冊.djvu/410"
+          }
+        ],
+        "reviewId": "review-h26-yao-5"
+      },
+      "smallImage": {
+        "id": "h26-image-5",
+        "original": "六五之吉，有慶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 六五小象 / 0007冊.djvu/410–411"
+          }
+        ],
+        "reviewId": "review-h26-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h26-yao-6",
+        "original": "何天之衢，亨。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 上九 / 0007冊.djvu/411"
+          }
+        ],
+        "reviewId": "review-h26-yao-6"
+      },
+      "smallImage": {
+        "id": "h26-image-6",
+        "original": "何天之衢，道大行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-5",
+            "locator": "卷5 / 大畜 / 上九小象 / 0007冊.djvu/411"
+          }
+        ],
+        "reviewId": "review-h26-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

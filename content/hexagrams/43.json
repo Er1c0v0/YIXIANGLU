@@ -1,0 +1,348 @@
+{
+  "id": 43,
+  "statement": {
+    "id": "h43-statement",
+    "original": "夬：揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+    "explanation": "在王庭公开宣示，以诚信呼告，同时意识到危险；从自己的邑内告诫起，不利于立即动武，利于有所前行。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 卦辞"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 易經 / 卦辞"
+      }
+    ],
+    "reviewId": "review-h43-statement"
+  },
+  "tuan": {
+    "id": "h43-tuan",
+    "original": "夬，決也，剛決柔也。健而說，決而和，揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑，不利即戎，所尚乃窮也。利有攸往，剛長乃終也。",
+    "explanation": "夬是决断，卦形表现为五阳决一阴。乾健而兑悦，因而决断中仍求和。上方一阴乘五阳，故须公开宣示；诚信呼告并揭示危险。只崇尚武力会走向穷困，应先从自身告诫整顿，让刚正之道持续发展。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰 / 全段"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 彖曰 / 全段"
+      }
+    ],
+    "reviewId": "review-h43-tuan"
+  },
+  "greatImage": {
+    "id": "h43-great-image",
+    "original": "澤上于天，夬；君子以施祿及下，居德則忌。",
+    "explanation": "泽升于天为夬；君子由此把禄惠施及下方，并警惕把恩德据为己有。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 整卦大象"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-43",
+        "locator": "第43卦 夬 / 象曰 / 整卦大象"
+      }
+    ],
+    "reviewId": "review-h43-great-image"
+  },
+  "summary": "决断与公开，行动中仍须警惕强硬过度。",
+  "overallMeaning": "上兑下乾，五阳在下、一阴居上，形成决断的图景。卦辞将公开宣示、诚信和自我告诫放在动武之前，学习重点是决而能和。",
+  "imagery": [
+    "下乾为健，上兑为悦，联系“健而说、决而和”。",
+    "五阳一阴是卦形说明，不据此判定个人处境。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "ws-zhouyi-43",
+      "locator": "第43卦 夬 / 彖曰、象曰与上下卦"
+    }
+  ],
+  "overviewReviewId": "review-h43-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h43-yao-1",
+        "original": "壯于前趾，往不勝為咎。",
+        "explanation": "力量只用在脚趾前冲，贸然前往而不能取胜，就会招致过失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 初九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 初九"
+          }
+        ],
+        "reviewId": "review-h43-yao-1"
+      },
+      "smallImage": {
+        "id": "h43-image-1",
+        "original": "不勝而往，咎也。",
+        "explanation": "没有取胜的条件却仍贸然前往，正是其过失所在。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 初九小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 初九小象"
+          }
+        ],
+        "reviewId": "review-h43-image-1"
+      },
+      "positionExplanation": "第1爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h43-position-1"
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h43-yao-2",
+        "original": "惕號，莫夜有戎，勿恤。",
+        "explanation": "警惕呼告，即使暮夜有兵戎，也不必忧惧；强调预先戒备。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九二"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九二"
+          }
+        ],
+        "reviewId": "review-h43-yao-2"
+      },
+      "smallImage": {
+        "id": "h43-image-2",
+        "original": "莫夜有戎，得中道也。",
+        "explanation": "暮夜有兵戎仍能从容，是因为行事得中。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九二小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九二小象"
+          }
+        ],
+        "reviewId": "review-h43-image-2"
+      },
+      "positionExplanation": "第2爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h43-position-2"
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h43-yao-3",
+        "original": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，无咎。",
+        "explanation": "强硬显露在颧面，有凶险。君子坚定决断，独行遇雨，仿佛被淋湿而令人愠怒，但可无咎；这里的独行与遇雨是复杂处境的取象。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九三"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九三"
+          }
+        ],
+        "reviewId": "review-h43-yao-3"
+      },
+      "smallImage": {
+        "id": "h43-image-3",
+        "original": "君子夬夬，終无咎也。",
+        "explanation": "君子坚定而有原则地决断，最终可以没有过失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九三小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九三小象"
+          }
+        ],
+        "reviewId": "review-h43-image-3"
+      },
+      "positionExplanation": "第3爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h43-position-3"
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h43-yao-4",
+        "original": "臀无膚，其行次且。牽羊悔亡，聞言不信。",
+        "explanation": "臀部失去皮肤，行走踌躇；若像牵羊般顺势而行，悔恨可消，却听到劝言也不信。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九四"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九四"
+          }
+        ],
+        "reviewId": "review-h43-yao-4"
+      },
+      "smallImage": {
+        "id": "h43-image-4",
+        "original": "其行次且，位不當也。聞言不信，聰不明也。",
+        "explanation": "行走踌躇，与位置不当相关；听劝而不信，说明听觉虽有而理解不明。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九四小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九四小象"
+          }
+        ],
+        "reviewId": "review-h43-image-4"
+      },
+      "positionExplanation": "第4爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h43-position-4"
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h43-yao-5",
+        "original": "莧陸夬夬，中行无咎。",
+        "explanation": "对苋陆一类草木作坚决处置，行于中道才可无咎；植物名称和取象解释存在分歧。",
+        "notes": [
+          "“莧陸”的植物指称及比喻解释有分歧，白话仅作入门理解，待专门复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九五"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 九五"
+          }
+        ],
+        "reviewId": "review-h43-yao-5"
+      },
+      "smallImage": {
+        "id": "h43-image-5",
+        "original": "中行无咎，中未光也。",
+        "explanation": "虽能以中道免咎，其中正之德仍未充分显明。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九五小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 九五小象"
+          }
+        ],
+        "reviewId": "review-h43-image-5"
+      },
+      "positionExplanation": "第5爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h43-position-5"
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h43-yao-6",
+        "original": "无號，終有凶。",
+        "explanation": "无从呼号求助，最终有凶险；说明处在穷极而失去依凭的境地。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 上六"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 易經 / 上六"
+          }
+        ],
+        "reviewId": "review-h43-yao-6"
+      },
+      "smallImage": {
+        "id": "h43-image-6",
+        "original": "无號之凶，終不可長也。",
+        "explanation": "无号的凶险说明这种处境最终不能长久延续。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 上六小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-43",
+            "locator": "第43卦 夬 / 象曰 / 上六小象"
+          }
+        ],
+        "reviewId": "review-h43-image-6"
+      },
+      "positionExplanation": "第6爻（从下向上），为阴爻，位于上卦。",
+      "positionReviewId": "review-h43-position-6"
+    }
+  ],
+  "specialEntries": []
+}

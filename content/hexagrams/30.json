@@ -1,0 +1,348 @@
+{
+  "id": 30,
+  "statement": {
+    "id": "h30-statement",
+    "original": "離：利貞。亨。畜牝牛，吉。",
+    "explanation": "利于守正而亨通，蓄养母牛则吉；借母牛的柔顺说明内柔而有依附的德性。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 卦辞"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 易經 / 卦辞"
+      }
+    ],
+    "reviewId": "review-h30-statement"
+  },
+  "tuan": {
+    "id": "h30-tuan",
+    "original": "離，麗也；日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。柔麗乎中正，故亨；是以畜牝牛吉也。",
+    "explanation": "离有依附之义：日月依附于天，百谷草木依附于土。光明相继而依于正道，才能化育天下。柔顺依于中正，所以亨通；因此用蓄养母牛来说明这一德性。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰 / 全段"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 彖曰 / 全段"
+      }
+    ],
+    "reviewId": "review-h30-tuan"
+  },
+  "greatImage": {
+    "id": "h30-great-image",
+    "original": "明兩作離，大人以繼明照于四方。",
+    "explanation": "光明相继而起为离，有德有位的人由此持续发扬光明，照及四方。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 整卦大象"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-30",
+        "locator": "第30卦 離 / 象曰 / 整卦大象"
+      }
+    ],
+    "reviewId": "review-h30-great-image"
+  },
+  "summary": "光明与依附，明察须有所依且合于正道。",
+  "overallMeaning": "上下皆离，既是光明相继，也说明事物不能脱离其所依附的条件。两条阴爻居各经卦中位，可帮助理解“柔丽乎中正”。",
+  "imagery": [
+    "上下皆离，取火与光明相继之象。",
+    "内柔外刚，可联系母牛之象理解。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "ws-zhouyi-30",
+      "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+    }
+  ],
+  "overviewReviewId": "review-h30-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h30-yao-1",
+        "original": "履錯然，敬之无咎。",
+        "explanation": "脚步交错纷然，保持敬慎就能避免过失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 初九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 初九"
+          }
+        ],
+        "reviewId": "review-h30-yao-1"
+      },
+      "smallImage": {
+        "id": "h30-image-1",
+        "original": "履錯之敬，以辟咎也。",
+        "explanation": "纷杂的行进之中保持敬慎，是为了避开过失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 初九小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 初九小象"
+          }
+        ],
+        "reviewId": "review-h30-image-1"
+      },
+      "positionExplanation": "第1爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h30-position-1"
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h30-yao-2",
+        "original": "黃離，元吉。",
+        "explanation": "黄色的光明，原文称大吉；黄取居中之意，说明光明合于中道。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 六二"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 六二"
+          }
+        ],
+        "reviewId": "review-h30-yao-2"
+      },
+      "smallImage": {
+        "id": "h30-image-2",
+        "original": "黃離元吉，得中道也。",
+        "explanation": "黄离所以大吉，是因为得到了中道。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 六二小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 六二小象"
+          }
+        ],
+        "reviewId": "review-h30-image-2"
+      },
+      "positionExplanation": "第2爻（从下向上），为阴爻，位于下卦。",
+      "positionReviewId": "review-h30-position-2"
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h30-yao-3",
+        "original": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
+        "explanation": "夕阳西斜的光明之中，若不能击缶歌唱而坦然面对，便只剩老境的嗟叹，原文称凶。",
+        "notes": [
+          "电子底本文字为“差”，页面另注一作“嗟”；这里不直接替换原字，白话按嗟叹义说明。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 九三"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 九三"
+          }
+        ],
+        "reviewId": "review-h30-yao-3"
+      },
+      "smallImage": {
+        "id": "h30-image-3",
+        "original": "日昃之離，何可久也。",
+        "explanation": "日已西斜的光明，哪里能够长久维持；说明盛衰有时。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 九三小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 九三小象"
+          }
+        ],
+        "reviewId": "review-h30-image-3"
+      },
+      "positionExplanation": "第3爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h30-position-3"
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h30-yao-4",
+        "original": "突如其來如，焚如，死如，棄如。",
+        "explanation": "突然冲来，如焚烧、如死亡、如被抛弃；用强烈意象描述躁进带来的破坏。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 九四"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 九四"
+          }
+        ],
+        "reviewId": "review-h30-yao-4"
+      },
+      "smallImage": {
+        "id": "h30-image-4",
+        "original": "突如其來如，无所容也。",
+        "explanation": "突然冲进而破坏常序，以至无处容身。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 九四小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 九四小象"
+          }
+        ],
+        "reviewId": "review-h30-image-4"
+      },
+      "positionExplanation": "第4爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h30-position-4"
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h30-yao-5",
+        "original": "出涕沱若，戚嗟若，吉。",
+        "explanation": "泪流满面，忧戚嗟叹，原文却称吉；可理解为身在忧患而能警醒。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 六五"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 六五"
+          }
+        ],
+        "reviewId": "review-h30-yao-5"
+      },
+      "smallImage": {
+        "id": "h30-image-5",
+        "original": "六五之吉，離王公也。",
+        "explanation": "六五之吉，与其依附于王公之位有关；“离”在这里有依附义。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 六五小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 六五小象"
+          }
+        ],
+        "reviewId": "review-h30-image-5"
+      },
+      "positionExplanation": "第5爻（从下向上），为阴爻，位于上卦。",
+      "positionReviewId": "review-h30-position-5"
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h30-yao-6",
+        "original": "王用出征，有嘉折首，獲匪其醜，无咎。",
+        "explanation": "王者出征，嘉奖斩获首恶者，所擒不滥及无辜同类，可以无咎；这是古代征伐语境。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 上九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 易經 / 上九"
+          }
+        ],
+        "reviewId": "review-h30-yao-6"
+      },
+      "smallImage": {
+        "id": "h30-image-6",
+        "original": "王用出征，以正邦也。",
+        "explanation": "王者出征的目的，是整治邦国的秩序。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 上九小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-30",
+            "locator": "第30卦 離 / 象曰 / 上九小象"
+          }
+        ],
+        "reviewId": "review-h30-image-6"
+      },
+      "positionExplanation": "第6爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h30-position-6"
+    }
+  ],
+  "specialEntries": []
+}

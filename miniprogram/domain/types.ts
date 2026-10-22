@@ -28,19 +28,21 @@ export interface SourceDocument {
   accessedAt: string; rightsNote: string
 }
 export interface ReviewedText {
-  id: string; original: string; explanation: string; notes: string[]
-  originalRefs: SourceRef[]; explanationRefs: SourceRef[]; reviewId: string
+  id: string; original: string; explanation?: string; notes: string[]
+  originalRefs: SourceRef[]; explanationRefs?: SourceRef[]; reviewId: string
 }
 export interface ReviewRecord {
   id: string; subjectId: string; subjectHash: string
   originalStatus: 'pending' | 'passed' | 'needs-fix' | 'not-applicable'
-  explanationStatus: 'pending' | 'passed' | 'needs-fix'
+  explanationStatus: 'pending' | 'passed' | 'needs-fix' | 'not-applicable'
+  facsimileStatus?: 'pending' | 'passed' | 'needs-fix'
+  independentReviewStatus?: 'pending' | 'passed' | 'needs-fix'
   checkedRefs: SourceRef[]; checkedBy: string; checkedAt: string; issues: string[]
 }
 export interface YaoEntry {
   position: LinePosition; polarity: YinYang; label: string
   text: ReviewedText; smallImage: ReviewedText
-  positionExplanation: string; positionReviewId: string
+  positionExplanation?: string; positionReviewId?: string
 }
 export interface SpecialEntry {
   kind: 'yong-jiu' | 'yong-liu'; text: ReviewedText; smallImage: ReviewedText

@@ -1,0 +1,229 @@
+{
+  "id": 44,
+  "statement": {
+    "id": "h44-statement",
+    "original": "姤：女壯，勿用取女。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8",
+        "locator": "卷8 / 姤 / 卦辞 / 0007冊.djvu/463"
+      }
+    ],
+    "reviewId": "review-h44-statement"
+  },
+  "tuan": {
+    "id": "h44-tuan",
+    "original": "姤，遇也，柔遇剛也。勿用取女，不可與長也。天地相遇，品物咸章也。剛遇中正，天下大行也。姤之時義大矣哉！",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8",
+        "locator": "卷8 / 姤 / 彖曰 / 0007冊.djvu/463"
+      }
+    ],
+    "reviewId": "review-h44-tuan"
+  },
+  "greatImage": {
+    "id": "h44-great-image",
+    "original": "天下有風，姤；后以施命誥四方。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8",
+        "locator": "卷8 / 姤 / 整卦大象 / 0007冊.djvu/464"
+      }
+    ],
+    "reviewId": "review-h44-great-image"
+  },
+  "summary": "天下有风，刚柔相遇。",
+  "overallMeaning": "姤以一柔遇五刚取相遇之义。经传借古代婚姻之象讨论相遇的条件与节制，阅读时结合爻位观察关系的变化。",
+  "imagery": [
+    "巽下乾上，风行天下。",
+    "一阴初生，与五阳相遇。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-8",
+      "locator": "卷8 / 姤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/463–464"
+    }
+  ],
+  "overviewReviewId": "review-h44-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h44-yao-1",
+        "original": "繫于金柅，貞吉。有攸往，見凶。羸豕孚蹢躅。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 初六 / 0007冊.djvu/464"
+          }
+        ],
+        "reviewId": "review-h44-yao-1"
+      },
+      "smallImage": {
+        "id": "h44-image-1",
+        "original": "繫于金柅，柔道牽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 初六小象 / 0007冊.djvu/464"
+          }
+        ],
+        "reviewId": "review-h44-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h44-yao-2",
+        "original": "包有魚，无咎，不利賓。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九二 / 0007冊.djvu/464"
+          }
+        ],
+        "reviewId": "review-h44-yao-2"
+      },
+      "smallImage": {
+        "id": "h44-image-2",
+        "original": "包有魚，義不及賓也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九二小象 / 0007冊.djvu/464"
+          }
+        ],
+        "reviewId": "review-h44-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h44-yao-3",
+        "original": "臀无膚，其行次且，厲，无大咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九三 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-yao-3"
+      },
+      "smallImage": {
+        "id": "h44-image-3",
+        "original": "其行次且，行未牽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九三小象 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h44-yao-4",
+        "original": "包无魚，起凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九四 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-yao-4"
+      },
+      "smallImage": {
+        "id": "h44-image-4",
+        "original": "无魚之凶，逺民也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九四小象 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h44-yao-5",
+        "original": "以杞包瓜，含章，有隕自天。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九五 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-yao-5"
+      },
+      "smallImage": {
+        "id": "h44-image-5",
+        "original": "九五含章，中正也。有隕自天，志不舎命也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 九五小象 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h44-yao-6",
+        "original": "姤其角，吝，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 上九 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-yao-6"
+      },
+      "smallImage": {
+        "id": "h44-image-6",
+        "original": "姤其角，上窮吝也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-8",
+            "locator": "卷8 / 姤 / 上九小象 / 0007冊.djvu/465"
+          }
+        ],
+        "reviewId": "review-h44-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

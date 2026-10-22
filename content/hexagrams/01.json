@@ -1,0 +1,390 @@
+{
+  "id": 1,
+  "statement": {
+    "id": "h1-statement",
+    "original": "乾：元亨。利貞。",
+    "explanation": "开创而亨通，利于守持正道。这里按《易传》的德性解释理解“元亨利贞”。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 卦辞"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易經 / 卦辞"
+      }
+    ],
+    "reviewId": "review-h1-statement"
+  },
+  "tuan": {
+    "id": "h1-tuan",
+    "original": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形，大明終始，六位時成。時乘六龍以御天，乾道變化，各正性命，保合大和，乃利貞。首出庶物，萬國咸寧。",
+    "explanation": "乾的创始作用使万物开始生长，并统贯天道。云行雨降，万物形成各自的形态；明察终始，六爻随时序呈现。借六龙说明顺时而动，使万物各安其性命、保持和谐，进而守正。作为万物的先导，天下由此安宁。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      }
+    ],
+    "reviewId": "review-h1-tuan"
+  },
+  "greatImage": {
+    "id": "h1-great-image",
+    "original": "天行健，君子以自強不息。",
+    "explanation": "天的运行刚健不息，君子由此学习不断自我勉励。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 整卦大象"
+      }
+    ],
+    "explanationRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 整卦大象"
+      }
+    ],
+    "reviewId": "review-h1-great-image"
+  },
+  "summary": "刚健与创始，学习在不同阶段把握行动的分寸。",
+  "overallMeaning": "六爻以潜龙、见龙、飞龙等形象，呈现由隐而显、由进到极的阶段。学习重点是刚健而不固执于进取，留意时机与过度。",
+  "imagery": [
+    "上下皆乾，以天的运行比拟持续的力量。",
+    "六爻皆阳，爻辞借龙的不同处境展开。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "ws-zhouyi-1",
+      "locator": "第1卦 乾 / 彖曰、象曰与上下卦"
+    }
+  ],
+  "overviewReviewId": "review-h1-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h1-yao-1",
+        "original": "潛龍勿用。",
+        "explanation": "龙潜藏着，暂不施用其才能。比喻条件未成熟时先积蓄力量。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 初九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 初九"
+          }
+        ],
+        "reviewId": "review-h1-yao-1"
+      },
+      "smallImage": {
+        "id": "h1-image-1",
+        "original": "潛龍勿用，陽在下也。",
+        "explanation": "阳爻处在最下方，说明潜藏未显的阶段。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 初九小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 初九小象"
+          }
+        ],
+        "reviewId": "review-h1-image-1"
+      },
+      "positionExplanation": "第1爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h1-position-1"
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h1-yao-2",
+        "original": "見龍在田，利見大人。",
+        "explanation": "龙出现在田野，利于见到有德有位的人。“见龙”的“见”读作现。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九二"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九二"
+          }
+        ],
+        "reviewId": "review-h1-yao-2"
+      },
+      "smallImage": {
+        "id": "h1-image-2",
+        "original": "見龍在田，德施普也。",
+        "explanation": "龙出现在田野，说明德行的影响开始普遍施展。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九二小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九二小象"
+          }
+        ],
+        "reviewId": "review-h1-image-2"
+      },
+      "positionExplanation": "第2爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h1-position-2"
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h1-yao-3",
+        "original": "君子終日乾乾，夕惕若；厲，无咎。",
+        "explanation": "君子整天勤勉，到了夜间仍保持警惕；虽有危险，也能避免过失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九三"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九三"
+          }
+        ],
+        "reviewId": "review-h1-yao-3"
+      },
+      "smallImage": {
+        "id": "h1-image-3",
+        "original": "終日乾乾，反復道也。",
+        "explanation": "终日勤勉，是反复践行应行之道。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九三小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九三小象"
+          }
+        ],
+        "reviewId": "review-h1-image-3"
+      },
+      "positionExplanation": "第3爻（从下向上），为阳爻，位于下卦。",
+      "positionReviewId": "review-h1-position-3"
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h1-yao-4",
+        "original": "或躍在淵，无咎。",
+        "explanation": "或向上跃起，或仍处深渊；审慎试进，可以没有过失。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九四"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九四"
+          }
+        ],
+        "reviewId": "review-h1-yao-4"
+      },
+      "smallImage": {
+        "id": "h1-image-4",
+        "original": "或躍在淵，進无咎也。",
+        "explanation": "在跃进与留处之间审时而行，其进取可以无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九四小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九四小象"
+          }
+        ],
+        "reviewId": "review-h1-image-4"
+      },
+      "positionExplanation": "第4爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h1-position-4"
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h1-yao-5",
+        "original": "飛龍在天，利見大人。",
+        "explanation": "龙飞在天空，利于见到有德有位的人；借以说明才能充分发挥的处境。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九五"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 九五"
+          }
+        ],
+        "reviewId": "review-h1-yao-5"
+      },
+      "smallImage": {
+        "id": "h1-image-5",
+        "original": "飛龍在天，大人造也。",
+        "explanation": "飞龙在天，说明大人有所作为、成就其事。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九五小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 九五小象"
+          }
+        ],
+        "reviewId": "review-h1-image-5"
+      },
+      "positionExplanation": "第5爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h1-position-5"
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h1-yao-6",
+        "original": "亢龍，有悔。",
+        "explanation": "龙上升到过高之处，会有悔恨；提示进取到了极处须知节制。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 上九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 上九"
+          }
+        ],
+        "reviewId": "review-h1-yao-6"
+      },
+      "smallImage": {
+        "id": "h1-image-6",
+        "original": "亢龍有悔，盈不可久也。",
+        "explanation": "处于过满的状态不能长久，所以会有悔。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 上九小象"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 上九小象"
+          }
+        ],
+        "reviewId": "review-h1-image-6"
+      },
+      "positionExplanation": "第6爻（从下向上），为阳爻，位于上卦。",
+      "positionReviewId": "review-h1-position-6"
+    }
+  ],
+  "specialEntries": [
+    {
+      "kind": "yong-jiu",
+      "text": {
+        "id": "h1-yong-jiu",
+        "original": "見羣龍无首，吉。",
+        "explanation": "群龙出现而不以一龙居首，原文称吉；在学习中可理解为刚健而不专断。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 用九"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 易經 / 用九"
+          }
+        ],
+        "reviewId": "review-h1-yong-jiu"
+      },
+      "smallImage": {
+        "id": "h1-yong-jiu-image",
+        "original": "用九，天德不可為首也。",
+        "explanation": "说明天德虽刚健，也不以争居首位为原则。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 用九相关象传"
+          }
+        ],
+        "explanationRefs": [
+          {
+            "sourceId": "ws-zhouyi-1",
+            "locator": "第1卦 乾 / 象曰 / 用九相关象传"
+          }
+        ],
+        "reviewId": "review-h1-yong-jiu-image"
+      },
+      "learningNote": "用九是独立特殊条文，不是第七爻；本原型展示六爻全变时仍保留六条常规爻辞，不据此判定主爻。",
+      "learningReviewId": "review-h1-special-note"
+    }
+  ]
+}
