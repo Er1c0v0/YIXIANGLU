@@ -1,0 +1,233 @@
+{
+  "id": 4,
+  "statement": {
+    "id": "h4-statement",
+    "original": "𫎇：亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+    "notes": [
+      "卦辞首字依四库本电子录文作“𫎇”，其余多作“蒙”；影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 卦辞 / 0007冊.djvu/342"
+      }
+    ],
+    "reviewId": "review-h4-statement"
+  },
+  "tuan": {
+    "id": "h4-tuan",
+    "original": "蒙，山下有險，險而止，蒙。蒙亨，以亨行，時中也。匪我求童蒙，童蒙求我，志應也。初筮告，以剛中也。再三瀆，瀆則不告，瀆蒙也。蒙以養正，聖功也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 彖曰 / 0007冊.djvu/342–343"
+      }
+    ],
+    "reviewId": "review-h4-tuan"
+  },
+  "greatImage": {
+    "id": "h4-great-image",
+    "original": "山下出泉，蒙；君子以果行育德。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 整卦大象 / 0007冊.djvu/343"
+      }
+    ],
+    "reviewId": "review-h4-great-image"
+  },
+  "summary": "山下出泉，启蒙养正。",
+  "overallMeaning": "蒙以山下泉水比喻初学未明。求教要诚恳，施教要有准则，在行动中培养正直的品德。",
+  "imagery": [
+    "坎下艮上，山下有险。",
+    "山下出泉，果行育德。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-2-batch2",
+      "locator": "卷2 / 蒙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/342–343"
+    }
+  ],
+  "overviewReviewId": "review-h4-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h4-yao-1",
+        "original": "發蒙，利用刑人，用說桎梏，以徃吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 初六 / 0007冊.djvu/343"
+          }
+        ],
+        "reviewId": "review-h4-yao-1"
+      },
+      "smallImage": {
+        "id": "h4-image-1",
+        "original": "利用刑人，以正法也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 初六小象 / 0007冊.djvu/343"
+          }
+        ],
+        "reviewId": "review-h4-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h4-yao-2",
+        "original": "包蒙吉，納婦吉，子克家。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 九二 / 0007冊.djvu/343"
+          }
+        ],
+        "reviewId": "review-h4-yao-2"
+      },
+      "smallImage": {
+        "id": "h4-image-2",
+        "original": "子克家，剛柔接也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 九二小象 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h4-yao-3",
+        "original": "勿用取女，見金夫，不有躬，无攸利。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 六三 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-yao-3"
+      },
+      "smallImage": {
+        "id": "h4-image-3",
+        "original": "勿用取女，行不順也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 六三小象 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h4-yao-4",
+        "original": "困蒙，吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 六四 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-yao-4"
+      },
+      "smallImage": {
+        "id": "h4-image-4",
+        "original": "困蒙之吝，獨遠實也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 六四小象 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h4-yao-5",
+        "original": "童蒙，吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 六五 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-yao-5"
+      },
+      "smallImage": {
+        "id": "h4-image-5",
+        "original": "童蒙之吉，順以巽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 六五小象 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h4-yao-6",
+        "original": "擊蒙，不利爲宼，利禦宼。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 上九 / 0007冊.djvu/344"
+          }
+        ],
+        "reviewId": "review-h4-yao-6"
+      },
+      "smallImage": {
+        "id": "h4-image-6",
+        "original": "利用禦宼，上下順也。",
+        "notes": [
+          "四库本电子录文作“利用禦宼”，普通电子对校页作“利禦寇”；依采用录文暂存，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 蒙 / 上九小象 / 0007冊.djvu/345"
+          }
+        ],
+        "reviewId": "review-h4-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

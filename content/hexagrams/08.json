@@ -1,0 +1,231 @@
+{
+  "id": 8,
+  "statement": {
+    "id": "h8-statement",
+    "original": "比：吉。原筮，元永貞，无咎。不寧方來，後夫凶。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 比 / 卦辞 / 0007冊.djvu/356"
+      }
+    ],
+    "reviewId": "review-h8-statement"
+  },
+  "tuan": {
+    "id": "h8-tuan",
+    "original": "比，吉也。比，輔也，下順從也。原筮，元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 比 / 彖曰 / 0007冊.djvu/357"
+      }
+    ],
+    "reviewId": "review-h8-tuan"
+  },
+  "greatImage": {
+    "id": "h8-great-image",
+    "original": "地上有水，比；先王以建萬國，親諸侯。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 比 / 整卦大象 / 0007冊.djvu/357"
+      }
+    ],
+    "reviewId": "review-h8-great-image"
+  },
+  "summary": "地上有水，亲比相辅。",
+  "overallMeaning": "比讨论人与人之间的亲近与协作。以诚信和长久守正为基础，慎重选择可以相辅相成的关系。",
+  "imagery": [
+    "坤下坎上，下顺从上。",
+    "地上有水，建国亲侯。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3-batch2",
+      "locator": "卷3 / 比 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/356–357"
+    }
+  ],
+  "overviewReviewId": "review-h8-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h8-yao-1",
+        "original": "有孚比之，无咎。有孚盈缶，終來有它吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 初六 / 0007冊.djvu/357"
+          }
+        ],
+        "reviewId": "review-h8-yao-1"
+      },
+      "smallImage": {
+        "id": "h8-image-1",
+        "original": "比之初六，有它吉也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 初六小象 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h8-yao-2",
+        "original": "比之自内，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 六二 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-yao-2"
+      },
+      "smallImage": {
+        "id": "h8-image-2",
+        "original": "比之自内，不自失也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 六二小象 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h8-yao-3",
+        "original": "比之匪人。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 六三 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-yao-3"
+      },
+      "smallImage": {
+        "id": "h8-image-3",
+        "original": "比之匪人，不亦傷乎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 六三小象 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h8-yao-4",
+        "original": "外比之，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 六四 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-yao-4"
+      },
+      "smallImage": {
+        "id": "h8-image-4",
+        "original": "外比於賢，以從上也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 六四小象 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h8-yao-5",
+        "original": "顯比，王用三驅，失前禽，邑人不誡，吉。",
+        "notes": [
+          "采用四库本电子录文“三驅”；普通电子对校页作“三敺”，待影印复核。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 九五 / 0007冊.djvu/358"
+          }
+        ],
+        "reviewId": "review-h8-yao-5"
+      },
+      "smallImage": {
+        "id": "h8-image-5",
+        "original": "顯比之吉，位正中也。舎逆取順，失前禽也。邑人不誡，上使中也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 九五小象 / 0007冊.djvu/359"
+          }
+        ],
+        "reviewId": "review-h8-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h8-yao-6",
+        "original": "比之无首，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 上六 / 0007冊.djvu/359"
+          }
+        ],
+        "reviewId": "review-h8-yao-6"
+      },
+      "smallImage": {
+        "id": "h8-image-6",
+        "original": "比之无首，无所終也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 比 / 上六小象 / 0007冊.djvu/359"
+          }
+        ],
+        "reviewId": "review-h8-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

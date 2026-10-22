@@ -1,0 +1,231 @@
+{
+  "id": 5,
+  "statement": {
+    "id": "h5-statement",
+    "original": "需：有孚，光亨，貞吉。利涉大川。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 卦辞 / 0007冊.djvu/345"
+      }
+    ],
+    "reviewId": "review-h5-statement"
+  },
+  "tuan": {
+    "id": "h5-tuan",
+    "original": "需，須也，險在前也。剛健而不䧟，其義不困窮矣。需有孚，光亨，貞吉，位乎天位，以正中也。利涉大川，徃有功也。",
+    "notes": [
+      "保留采用电子录文的“䧟”“徃”等字形，影印待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 彖曰 / 0007冊.djvu/345"
+      }
+    ],
+    "reviewId": "review-h5-tuan"
+  },
+  "greatImage": {
+    "id": "h5-great-image",
+    "original": "雲上於天，需；君子以飲食宴樂。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 整卦大象 / 0007冊.djvu/345"
+      }
+    ],
+    "reviewId": "review-h5-great-image"
+  },
+  "summary": "云上于天，守信待时。",
+  "overallMeaning": "需表现险阻在前时的等待。保持诚信与中正，养足力量，辨明时机后再前行。",
+  "imagery": [
+    "乾下坎上，刚健而不陷。",
+    "云上于天，饮食宴乐。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-2-batch2",
+      "locator": "卷2 / 需 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/345"
+    }
+  ],
+  "overviewReviewId": "review-h5-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h5-yao-1",
+        "original": "需于郊，利用恒，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 初九 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-yao-1"
+      },
+      "smallImage": {
+        "id": "h5-image-1",
+        "original": "需于郊，不犯難行也。利用恒，无咎，未失常也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 初九小象 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h5-yao-2",
+        "original": "需于沙，小有言，終吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 九二 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-yao-2"
+      },
+      "smallImage": {
+        "id": "h5-image-2",
+        "original": "需于沙，衍在中也。雖小有言，以吉終也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 九二小象 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h5-yao-3",
+        "original": "需于泥，致宼至。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 九三 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-yao-3"
+      },
+      "smallImage": {
+        "id": "h5-image-3",
+        "original": "需于泥，災在外也。自我致宼，敬愼不敗也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 九三小象 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h5-yao-4",
+        "original": "需于血，出自穴。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 六四 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-yao-4"
+      },
+      "smallImage": {
+        "id": "h5-image-4",
+        "original": "需于血，順以聽也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 六四小象 / 0007冊.djvu/346"
+          }
+        ],
+        "reviewId": "review-h5-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h5-yao-5",
+        "original": "需于酒食，貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 九五 / 0007冊.djvu/347"
+          }
+        ],
+        "reviewId": "review-h5-yao-5"
+      },
+      "smallImage": {
+        "id": "h5-image-5",
+        "original": "酒食貞吉，以中正也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 九五小象 / 0007冊.djvu/347"
+          }
+        ],
+        "reviewId": "review-h5-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h5-yao-6",
+        "original": "入于穴，有不速之客三人來，敬之終吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 上六 / 0007冊.djvu/347"
+          }
+        ],
+        "reviewId": "review-h5-yao-6"
+      },
+      "smallImage": {
+        "id": "h5-image-6",
+        "original": "不速之客來，敬之終吉。雖不當位，未大失也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-2-batch2",
+            "locator": "卷2 / 需 / 上六小象 / 0007冊.djvu/347"
+          }
+        ],
+        "reviewId": "review-h5-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

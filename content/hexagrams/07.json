@@ -1,0 +1,231 @@
+{
+  "id": 7,
+  "statement": {
+    "id": "h7-statement",
+    "original": "師：貞，丈人吉，无咎。",
+    "notes": [
+      "卦辞止于“无咎”；电子页紧随的“丈人嚴莊之稱也”属于注文，未混入正文。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 師 / 卦辞 / 0007冊.djvu/354"
+      }
+    ],
+    "reviewId": "review-h7-statement"
+  },
+  "tuan": {
+    "id": "h7-tuan",
+    "original": "師，衆也。貞，正也。能以衆正，可以王矣。剛中而應，行險而順，以此毒天下而民從之，吉又何咎矣。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 師 / 彖曰 / 0007冊.djvu/354"
+      }
+    ],
+    "reviewId": "review-h7-tuan"
+  },
+  "greatImage": {
+    "id": "h7-great-image",
+    "original": "地中有水，師；君子以容民畜衆。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 師 / 整卦大象 / 0007冊.djvu/355"
+      }
+    ],
+    "reviewId": "review-h7-great-image"
+  },
+  "summary": "地中有水，容民畜众。",
+  "overallMeaning": "师讨论统领众人的责任。行动须有正当准则，任用能担当的人，兼顾纪律与对众人的照顾。",
+  "imagery": [
+    "坎下坤上，行险而顺。",
+    "地中有水，容民畜众。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3-batch2",
+      "locator": "卷3 / 師 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/354–355"
+    }
+  ],
+  "overviewReviewId": "review-h7-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 0,
+      "label": "初六",
+      "text": {
+        "id": "h7-yao-1",
+        "original": "師出以律，否臧，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 初六 / 0007冊.djvu/355"
+          }
+        ],
+        "reviewId": "review-h7-yao-1"
+      },
+      "smallImage": {
+        "id": "h7-image-1",
+        "original": "師出以律，失律凶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 初六小象 / 0007冊.djvu/355"
+          }
+        ],
+        "reviewId": "review-h7-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h7-yao-2",
+        "original": "在師中吉，无咎。王三錫命。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 九二 / 0007冊.djvu/355"
+          }
+        ],
+        "reviewId": "review-h7-yao-2"
+      },
+      "smallImage": {
+        "id": "h7-image-2",
+        "original": "在師中吉，承天寵也。王三錫命，懐萬邦也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 九二小象 / 0007冊.djvu/355"
+          }
+        ],
+        "reviewId": "review-h7-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h7-yao-3",
+        "original": "師或輿尸，凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 六三 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-yao-3"
+      },
+      "smallImage": {
+        "id": "h7-image-3",
+        "original": "師或輿尸，大无功也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 六三小象 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 0,
+      "label": "六四",
+      "text": {
+        "id": "h7-yao-4",
+        "original": "師左次，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 六四 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-yao-4"
+      },
+      "smallImage": {
+        "id": "h7-image-4",
+        "original": "左次无咎，未失常也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 六四小象 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 0,
+      "label": "六五",
+      "text": {
+        "id": "h7-yao-5",
+        "original": "田有禽，利執言，无咎。長子帥師，弟子輿尸，貞凶。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 六五 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-yao-5"
+      },
+      "smallImage": {
+        "id": "h7-image-5",
+        "original": "長子帥師，以中行也。弟子輿尸，使不當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 六五小象 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 0,
+      "label": "上六",
+      "text": {
+        "id": "h7-yao-6",
+        "original": "大君有命，開國承家，小人勿用。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 上六 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-yao-6"
+      },
+      "smallImage": {
+        "id": "h7-image-6",
+        "original": "大君有命，以正功也。小人勿用，必亂邦也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 師 / 上六小象 / 0007冊.djvu/356"
+          }
+        ],
+        "reviewId": "review-h7-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

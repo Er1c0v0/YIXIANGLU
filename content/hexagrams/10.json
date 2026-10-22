@@ -1,0 +1,235 @@
+{
+  "id": 10,
+  "statement": {
+    "id": "h10-statement",
+    "original": "履虎尾，不咥人，亨。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 履 / 卦辞 / 0007冊.djvu/363"
+      }
+    ],
+    "reviewId": "review-h10-statement"
+  },
+  "tuan": {
+    "id": "h10-tuan",
+    "original": "履，柔履剛也。說而應乎乾，是以履虎尾，不咥人，亨。剛中正，履帝位而不疚，光明也。",
+    "notes": [
+      "采用四库本电子录文，彖传“不咥人亨”之后无“利貞”；普通电子对校页多此二字。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 履 / 彖曰 / 0007冊.djvu/363"
+      }
+    ],
+    "reviewId": "review-h10-tuan"
+  },
+  "greatImage": {
+    "id": "h10-great-image",
+    "original": "上天下澤，履；君子以辯上下，定民志。",
+    "notes": [
+      "四库本电子录文作“辯上下”，普通电子对校页作“辨上下”。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 履 / 整卦大象 / 0007冊.djvu/363"
+      }
+    ],
+    "reviewId": "review-h10-great-image"
+  },
+  "summary": "上天下泽，谨慎践履。",
+  "overallMeaning": "履以履虎尾比喻行于危处。行动宜谦逊谨慎，明辨分际，并回看自己的行为与后果。",
+  "imagery": [
+    "兑下乾上，柔履刚。",
+    "上天下泽，辨上下、定民志。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3-batch2",
+      "locator": "卷3 / 履 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/363"
+    }
+  ],
+  "overviewReviewId": "review-h10-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h10-yao-1",
+        "original": "素履，往无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 初九 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-yao-1"
+      },
+      "smallImage": {
+        "id": "h10-image-1",
+        "original": "素履之往，獨行願也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 初九小象 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 1,
+      "label": "九二",
+      "text": {
+        "id": "h10-yao-2",
+        "original": "履道坦坦，幽人貞吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 九二 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-yao-2"
+      },
+      "smallImage": {
+        "id": "h10-image-2",
+        "original": "幽人貞吉，中不自亂也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 九二小象 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 0,
+      "label": "六三",
+      "text": {
+        "id": "h10-yao-3",
+        "original": "眇能視，跛能履，履虎尾，咥人，凶。武人爲于大君。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 六三 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-yao-3"
+      },
+      "smallImage": {
+        "id": "h10-image-3",
+        "original": "眇能視，不足以有明也。跛能履，不足以與行也。咥人之凶，位不當也。武人爲于大君，志剛也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 六三小象 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h10-yao-4",
+        "original": "履虎尾，愬愬終吉。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 九四 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-yao-4"
+      },
+      "smallImage": {
+        "id": "h10-image-4",
+        "original": "愬愬終吉，志行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 九四小象 / 0007冊.djvu/364"
+          }
+        ],
+        "reviewId": "review-h10-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h10-yao-5",
+        "original": "夬履，貞厲。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 九五 / 0007冊.djvu/365"
+          }
+        ],
+        "reviewId": "review-h10-yao-5"
+      },
+      "smallImage": {
+        "id": "h10-image-5",
+        "original": "夬履貞厲，位正當也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 九五小象 / 0007冊.djvu/365"
+          }
+        ],
+        "reviewId": "review-h10-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h10-yao-6",
+        "original": "視履考祥，其旋元吉。",
+        "notes": [
+          "采用四库本电子录文“考祥”，普通电子对校页作“考詳”，待影印核字。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 上九 / 0007冊.djvu/365"
+          }
+        ],
+        "reviewId": "review-h10-yao-6"
+      },
+      "smallImage": {
+        "id": "h10-image-6",
+        "original": "元吉在上，大有慶也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 履 / 上九小象 / 0007冊.djvu/365"
+          }
+        ],
+        "reviewId": "review-h10-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}

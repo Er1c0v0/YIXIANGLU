@@ -1,0 +1,235 @@
+{
+  "id": 13,
+  "statement": {
+    "id": "h13-statement",
+    "original": "同人于野，亨。利渉大川，利君子貞。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 同人 / 卦辞 / 0007冊.djvu/370"
+      }
+    ],
+    "reviewId": "review-h13-statement"
+  },
+  "tuan": {
+    "id": "h13-tuan",
+    "original": "同人，柔得位得中而應乎乾，曰同人。同人曰，同人于野，亨。利渉大川，乾行也。文明以健，中正而應，君子正也。唯君子爲能通天下之志。",
+    "notes": [],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 同人 / 彖曰 / 0007冊.djvu/370"
+      }
+    ],
+    "reviewId": "review-h13-tuan"
+  },
+  "greatImage": {
+    "id": "h13-great-image",
+    "original": "天與火，同人；君子以𩔖族辨物。",
+    "notes": [
+      "保留采用电子录文“𩔖族辨物”，影印字形待核。"
+    ],
+    "originalRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 同人 / 整卦大象 / 0007冊.djvu/370"
+      }
+    ],
+    "reviewId": "review-h13-great-image"
+  },
+  "summary": "天火相同，通达众志。",
+  "overallMeaning": "同人讨论如何与人和同。以公正开阔的共同目标联结众人，同时辨明差异，避免局限于小圈子。",
+  "imagery": [
+    "离下乾上，文明以健。",
+    "天与火同，类族辨物。"
+  ],
+  "overviewRefs": [
+    {
+      "sourceId": "skqs-zhouyi-3-batch2",
+      "locator": "卷3 / 同人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/370"
+    }
+  ],
+  "overviewReviewId": "review-h13-overview",
+  "yao": [
+    {
+      "position": 1,
+      "polarity": 1,
+      "label": "初九",
+      "text": {
+        "id": "h13-yao-1",
+        "original": "同人于門，无咎。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 初九 / 0007冊.djvu/370"
+          }
+        ],
+        "reviewId": "review-h13-yao-1"
+      },
+      "smallImage": {
+        "id": "h13-image-1",
+        "original": "出門同人，又誰咎也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 初九小象 / 0007冊.djvu/370"
+          }
+        ],
+        "reviewId": "review-h13-image-1"
+      }
+    },
+    {
+      "position": 2,
+      "polarity": 0,
+      "label": "六二",
+      "text": {
+        "id": "h13-yao-2",
+        "original": "同人于宗，吝。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 六二 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-yao-2"
+      },
+      "smallImage": {
+        "id": "h13-image-2",
+        "original": "同人于宗，吝道也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 六二小象 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-image-2"
+      }
+    },
+    {
+      "position": 3,
+      "polarity": 1,
+      "label": "九三",
+      "text": {
+        "id": "h13-yao-3",
+        "original": "伏戎于莽，升其高陵，三歲不興。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 九三 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-yao-3"
+      },
+      "smallImage": {
+        "id": "h13-image-3",
+        "original": "伏戎于莽，敵剛也。三嵗不興，安行也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 九三小象 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-image-3"
+      }
+    },
+    {
+      "position": 4,
+      "polarity": 1,
+      "label": "九四",
+      "text": {
+        "id": "h13-yao-4",
+        "original": "乘其墉，弗克攻，吉。",
+        "notes": [
+          "四库本电子录文作“墉”，普通电子对校页作“庸”；依采用录文暂存。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 九四 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-yao-4"
+      },
+      "smallImage": {
+        "id": "h13-image-4",
+        "original": "乘其墉，義弗克也。其吉，則困而反則也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 九四小象 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-image-4"
+      }
+    },
+    {
+      "position": 5,
+      "polarity": 1,
+      "label": "九五",
+      "text": {
+        "id": "h13-yao-5",
+        "original": "同人先號咷而後笑，大師克相遇。",
+        "notes": [
+          "四库本电子录文作“號咷”，普通电子对校页作“號啕”；依采用录文暂存。"
+        ],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 九五 / 0007冊.djvu/371"
+          }
+        ],
+        "reviewId": "review-h13-yao-5"
+      },
+      "smallImage": {
+        "id": "h13-image-5",
+        "original": "同人之先，以中直也。大師相遇，言相克也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 九五小象 / 0007冊.djvu/372"
+          }
+        ],
+        "reviewId": "review-h13-image-5"
+      }
+    },
+    {
+      "position": 6,
+      "polarity": 1,
+      "label": "上九",
+      "text": {
+        "id": "h13-yao-6",
+        "original": "同人于郊，无悔。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 上九 / 0007冊.djvu/372"
+          }
+        ],
+        "reviewId": "review-h13-yao-6"
+      },
+      "smallImage": {
+        "id": "h13-image-6",
+        "original": "同人于郊，志未得也。",
+        "notes": [],
+        "originalRefs": [
+          {
+            "sourceId": "skqs-zhouyi-3-batch2",
+            "locator": "卷3 / 同人 / 上九小象 / 0007冊.djvu/372"
+          }
+        ],
+        "reviewId": "review-h13-image-6"
+      }
+    }
+  ],
+  "specialEntries": []
+}
