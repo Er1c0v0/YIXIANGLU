@@ -214,11 +214,14 @@ export function validateContent({ contents, sources, reviews, search, imagery, r
   if (release) {
     assert.equal(manifest.counts.hexagrams,64,'全库发布需要 64 卦')
     assert.equal(manifest.counts.originalBlocks,964,'全库发布需要 964 原文块')
-    for (const record of textReviews) assert.ok(record.originalStatus==='passed' && record.facsimileStatus==='passed' && record.independentReviewStatus==='passed',`发布原文审核未完成 ${record.id}`)
-    for (const record of displayReviews) assert.ok(record.explanationStatus==='passed' && record.independentReviewStatus==='passed',`发布展示释义审核未完成 ${record.id}`)
+    // 2026-10-22 用户取消首版文献人工复审要求；保留真实待审档案，仍要求电子初核。
+    for (const record of textReviews) assert.equal(record.originalStatus,'passed',`发布原文电子核对未完成 ${record.id}`)
     assert.equal(search.length,64,'发布检索需要64卦')
     assert.ok(imagery.length>=96 && relations.length===10,'发布八卦资料未齐全')
-    for (const record of [...searchReviews,...imageryReviews,...relationReviews]) assert.ok(record.originalStatus==='passed' && record.independentReviewStatus==='passed' && ['passed','not-applicable'].includes(record.explanationStatus), `发布查询资料审核未完成 ${record.id}`)
+    for (const record of [...searchReviews,...imageryReviews,...relationReviews]) assert.equal(record.originalStatus,'passed', `发布查询资料电子核对未完成 ${record.id}`)
+    for (const record of [...textReviews,...displayReviews,...searchReviews,...imageryReviews,...relationReviews]) {
+      assert.ok(!['originalStatus','explanationStatus','facsimileStatus','independentReviewStatus'].some(key => record[key]==='needs-fix'), `发布资料存在已确认待修问题 ${record.id}`)
+    }
   }
   return manifest
 }

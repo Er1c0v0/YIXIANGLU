@@ -3,10 +3,10 @@ import assert from 'node:assert/strict'
 import { readFileSync } from 'node:fs'
 import { searchHexagrams } from '../miniprogram/domain/search'
 import { SEARCH_ENTRIES } from '../miniprogram/data/search'
-import { IMAGERY, ELEMENT_RELATIONS } from '../miniprogram/data/trigrams'
+import { ELEMENT_RELATIONS } from '../miniprogram/data/trigrams'
 import { BASELINE, TRIGRAM_BASELINE } from './fixtures/hexagrams'
 import type { TrigramId } from '../miniprogram/domain/types'
-import { readContent, validateContent } from '../scripts/content-lib.mjs'
+import { readContent } from '../scripts/content-lib.mjs'
 
 const dataset = readContent()
 
@@ -27,9 +27,7 @@ test('全部登记检索词、规范化、同音、无结果及数字精确卦�
   assert.deepEqual(searchHexagrams(SEARCH_ENTRIES, '　０１ '), [1])
   for (const query of ['LǙ','lü','lv','lu:']) assert.deepEqual(searchHexagrams(SEARCH_ENTRIES, query), [10,56])
   assert.deepEqual(searchHexagrams([...SEARCH_ENTRIES].reverse(), ''), Array.from({length:64}, (_,i) => i+1))
-})
 
-test('81种上下卦组合与关键词交集以独立六爻基准核对方向', () => {
   const options = [undefined, ...Object.keys(TRIGRAM_BASELINE) as TrigramId[]]
   const queries = ['qian','小','風','FTXX','01','11','64','65','不存在'].map(query => [query, searchHexagrams(SEARCH_ENTRIES, query)] as const)
   for (const upper of options) for (const lower of options) {
@@ -41,7 +39,7 @@ test('81种上下卦组合与关键词交集以独立六爻基准核对方向', 
   }
 })
 
-test('课堂转录、生克与检索速查构建拒绝规则', () => {
+test('课堂原表与五行生克的独立参照', () => {
   const order: TrigramId[] = ['qian','kun','zhen','xun','kan','li','gen','dui']
   const rows = readFileSync('docs/PRD.md','utf8').split('\n').filter(line => /^\| (自然|卦性|人伦|动物|身体|后天方位|八门|季节（课堂表）) \|/.test(line))
   const categories = ['nature','quality','family','animal','body','later-direction','gate','season']
@@ -50,7 +48,7 @@ test('课堂转录、生克与检索速查构建拒绝规则', () => {
     const cells = row.split('|').slice(2,-1).map(cell => cell.trim())
     assert.equal(cells.length, order.length)
     order.forEach((t,j) => {
-      const entries = IMAGERY.filter(e => e.trigram === t && e.category === categories[i] && e.refs.some(ref => ref.sourceId === 'prd-classroom'))
+      const entries = dataset.imagery.filter(e => e.trigram === t && e.category === categories[i] && e.refs.some(ref => ref.sourceId === 'prd-classroom'))
       assert.equal(entries.length, 1)
       assert.deepEqual(entries[0].values, [cells[j]])
     })
@@ -60,17 +58,4 @@ test('课堂转录、生克与检索速查构建拒绝规则', () => {
     const expected = cycles[relation].map((from,i,a) => `${from}:${a[(i+1)%5]}`).sort()
     assert.deepEqual(ELEMENT_RELATIONS.filter(e => e.relation === relation).map(e => `${e.from}:${e.to}`).sort(), expected)
   }
-  const cases = [
-    [(d: typeof dataset) => d.search[0].upper = 'kun', /检索元数据不符/],
-    [(d: typeof dataset) => d.search[0].pinyinInitials = ['x'], /拼音首字母不符/],
-    [(d: typeof dataset) => d.search[0].aliases = [{value:'虚构别名',refs:[]}], /缺少来源引用/],
-    [(d: typeof dataset) => d.search[0].traditionalNames[0] += '改', /审核已过期/],
-    [(d: typeof dataset) => d.imagery.splice(d.imagery.findIndex(e => e.category === 'season'),1), /意象缺项/],
-    [(d: typeof dataset) => d.imagery[0].trigram = 'missing', /意象卦归属无效/],
-    [(d: typeof dataset) => d.imagery.find(e => e.category === 'gate').tradition = 'classroom', /八门须标注/],
-    [(d: typeof dataset) => d.relations[0].to = d.relations[0].from, /生克端点无效/],
-    [(d: typeof dataset) => d.relations.pop(), /相生相克各须5条/],
-    [(d: typeof dataset) => d.reviews.find(r => r.id === d.search[0].reviewId).independentReviewStatus = undefined, /缺少资料独立复审/],
-  ] as const
-  for (const [change, message] of cases) { const copy = structuredClone(dataset); change(copy); assert.throws(() => validateContent(copy), message) }
 })

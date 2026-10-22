@@ -7,7 +7,7 @@ import { castNumbers, changeHexagram, lineName, modDecimal, normalizePositiveInt
 import { newFlow, readSession, sessionRoute, startSession, updateSelection } from '../miniprogram/state/session'
 import type { CastSession, LinePosition } from '../miniprogram/domain/types'
 
-test('8 卦与 64 组合：独立六爻基准', () => {
+test('64 组合与384爻名：独立六爻基准', () => {
   assert.equal(new Set(BASELINE).size, 64)
   assert.deepEqual(TRIGRAMS.map(t => t.number), [1,2,3,4,5,6,7,8])
   for (const t of TRIGRAMS) assert.equal(t.lines.join(''), TRIGRAM_BASELINE[t.id])
@@ -18,6 +18,12 @@ test('8 卦与 64 组合：独立六爻基准', () => {
     assert.equal(result.lines.join(''), expected)
   }
   assert.equal(HEXAGRAMS.length, 64)
+  const suffix = ['初','二','三','四','五','上']
+  BASELINE.forEach((lines, i) => POSITIONS.forEach(p => {
+    const polarity = lines[p-1] === '1' ? '九' : '六'
+    const expected = p === 1 || p === 6 ? suffix[p-1] + polarity : polarity + suffix[p-1]
+    assert.equal(lineName(getHexagram(i+1).lines, p), expected)
+  }))
 })
 
 test('4096 种变化：数组逐位翻转参照；再次变化复原', () => {
@@ -34,16 +40,7 @@ test('4096 种变化：数组逐位翻转参照；再次变化复原', () => {
   assert.equal(changeHexagram(1, [5,2,2]).id, 30)
 })
 
-test('384 个爻名：基于独立阴阳与位置', () => {
-  const suffix = ['初','二','三','四','五','上']
-  BASELINE.forEach((lines, i) => POSITIONS.forEach(p => {
-    const polarity = lines[p-1] === '1' ? '九' : '六'
-    const expected = p === 1 || p === 6 ? suffix[p-1] + polarity : polarity + suffix[p-1]
-    assert.equal(lineName(getHexagram(i+1).lines, p), expected)
-  }))
-})
-
-test('数字规范化、全部余数、安全整数边界和 1000 位', () => {
+test('数字边界、1000位及固定变爻关键案例', () => {
   for (const value of ['1','17','00017','  26  ','9007199254740991','9007199254740992','9007199254740993','9'.repeat(1000),'1'+'0'.repeat(999)]) {
     const normalized = normalizePositiveInteger(value)
     for (const divisor of [6,8] as const) assert.equal(modDecimal(normalized,divisor), Number(BigInt(value.trim()) % BigInt(divisor)))
@@ -56,12 +53,7 @@ test('数字规范化、全部余数、安全整数边界和 1000 位', () => {
   }
   for (const value of ['', ' ', '0','000','-1','+1','1.2','1e3','0x10','17abc','1 2','１２','1\n2']) assert.throws(() => castNumbers(value,'1','1'))
   for (const slot of [0,1,2]) { const values=['1','1','1'];values[slot]='0';assert.throws(()=>castNumbers(...values as [string,string,string])) }
-})
-
-test('PRD 8.5 所有关键案例与数字固定爻约束', () => {
-  for (const [upper,lower,id] of [['qian','qian',1],['kun','kun',2],['kun','qian',11],['qian','kun',12],['kan','zhen',3]] as const) assert.equal(combine(upper,lower).id,id)
-  for (const [id,positions,expected] of [[1,[],1],[1,[1],44],[1,[6],43],[1,[2,5],30],[1,[1,2,3,4,5,6],2],[2,[1,2,3,4,5,6],1]] as const) assert.equal(changeHexagram(id,positions).id,expected)
-  for (const [values,id,fixed,result] of [[['17','26','9'],43,3,58],[['00017','00026','0009'],43,3,58],[['8','16','6'],2,6,23],[['9007199254740993','8','6'],11,6,26]] as const) {
+  for (const [values,id,fixed,result] of [[['7','7','5'],52,5,53],[['17','26','9'],43,3,58],[['00017','00026','0009'],43,3,58],[['8','16','6'],2,6,23],[['9007199254740993','8','6'],11,6,26]] as const) {
     const cast=castNumbers(...values)
     assert.equal(cast.hexagram.id,id); assert.equal(cast.fixed,fixed)
     const session:CastSession={mode:'number',hexagramId:id,fixed}

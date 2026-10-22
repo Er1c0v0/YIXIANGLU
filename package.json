@@ -2,7 +2,7 @@
   "name": "yixianglu",
   "version": "0.1.0",
   "private": true,
-  "description": "易象录：微信原生易经学习原型",
+  "description": "易象录：微信原生易经学习小程序",
   "engines": {
     "node": ">=22"
   },

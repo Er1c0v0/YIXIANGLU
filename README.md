@@ -1,6 +1,6 @@
 # 易象录
 
-微信原生 TypeScript 学习小程序，本地资料随包使用，无登录或后端。已支持手动组合、数字生成、阅读、变爻分析、64卦搜索筛选与八卦速查。原型已验收；文献审核、完整版本适配与体验版发布仍待完成。
+微信原生 TypeScript 学习小程序，本地资料随包使用，无登录或后端。已支持手动组合、数字生成、阅读、变爻分析、64卦搜索筛选与八卦速查。功能和两台用户设备实测已完成，首版交付进度见[验证记录](docs/validation.md)。
 
 ## 使用与开发
 
@@ -9,12 +9,18 @@
 ```sh
 npm ci
 npm run build:content   # 构建随包资料与版本清单
-npm run check          # 内容、类型及全部本地测试
+npm run check          # 内容、类型及8组核心检查
 ```
 
 微信开发者工具导入仓库根目录（`project.config.json`所在位置），运行目录为`miniprogram/`，启用TypeScript编译；无需“构建npm”。AppID由项目负责人配置，私人设置`project.private.config.json`不纳入Git。若仍报告根目录找不到app.json，使用“项目 → 重新打开此项目”。
 
-单项命令：`npm run typecheck`、`npm test`、`npm run check:content`。`npm run check:content:release`另查完整资料与审核门槛，当前因原文审核未完成而拒绝；它不替代真机及体验版验收。
+单项命令：`npm run typecheck`、`npm test`、`npm run check:content`。`npm run check:content:release`检查首版完整性、电子初核及已确认待修问题。用户已取消文献人工复审和真机性能计时要求；待审记录继续留档，不伪报通过。
+
+## 首版交付
+
+版本号使用`package.json`中的`0.1.0`。提交前运行上述检查及`npm run check:content:release`，再用微信开发者工具编译、核对代码依赖分析中的实际文件清单并上传，备案通过后由用户在微信公众平台“版本管理”设置体验版、提审及发布。上传开发版本不等于已设置体验版，体验版不等于已正式上架；实际状态只在[验证记录](docs/validation.md)维护。
+
+`miniprogramRoot`固定为`miniprogram/`。只打包页面、组件、领域计算、内存会话、展示数据和必要来源；JS/WXML/WXSS压缩已开启，不上传SourceMap。仓库中的`tests/`、`docs/`、`scripts/`、`content/`、开发依赖及`.validation/`均位于运行根目录外，不随程序发布。完整设计和内容审核档案继续随Git维护。
 
 ## 功能约定
 

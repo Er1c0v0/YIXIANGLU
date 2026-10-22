@@ -23,27 +23,22 @@ export interface HexagramMeta {
 export interface HexagramSearchEntry {
   id: number; name: string; fullName: string; upper: TrigramId; lower: TrigramId
   traditionalNames: string[]
-  aliases: { value: string; refs: SourceRef[] }[]
+  aliases: { value: string }[]
   pinyin: string; fullNamePinyin: string; pinyinInitials: string[]
-  refs: SourceRef[]; reviewId: string
 }
 
 export interface ImageryEntry {
   id: string; trigram: TrigramId
   category: 'nature' | 'quality' | 'family' | 'animal' | 'body'
-    | 'later-direction' | 'earlier-direction' | 'gate' | 'season'
-    | 'element' | 'number' | 'color'
-  values: string[]; explanation: string
-  tradition: 'zhouyi-shuogua' | 'classroom' | 'later-xiangshu' | 'qimen'
-  refs: SourceRef[]; reviewId: string
+    | 'later-direction' | 'gate' | 'season' | 'element' | 'color'
+  values: string[]
 }
 
 export interface ElementRelation {
   id: string
   from: 'wood' | 'fire' | 'earth' | 'metal' | 'water'
   to: 'wood' | 'fire' | 'earth' | 'metal' | 'water'
-  relation: 'generates' | 'controls'; tradition: 'later-xiangshu'
-  refs: SourceRef[]; reviewId: string
+  relation: 'generates' | 'controls'
 }
 
 export interface SourceRef { sourceId: string; locator: string; note?: string }
@@ -53,22 +48,19 @@ export interface SourceDocument {
   accessedAt: string; rightsNote: string
 }
 export interface ReviewedText {
-  id: string; original: string; explanation?: string; notes: string[]
-  originalRefs: SourceRef[]; explanationRefs?: SourceRef[]; reviewId: string
+  id: string; original: string; originalRefs: SourceRef[]
 }
 export interface YaoEntry {
   position: LinePosition; polarity: YinYang; label: string
   text: ReviewedText; smallImage: ReviewedText
-  positionExplanation?: string; positionReviewId?: string
 }
 export interface SpecialEntry {
   kind: 'yong-jiu' | 'yong-liu'; text: ReviewedText; smallImage: ReviewedText
-  learningNote: string; learningReviewId: string
 }
 export interface HexagramContent {
   id: number; statement: ReviewedText; tuan: ReviewedText; greatImage: ReviewedText
   summary: string; overallMeaning: string; imagery: string[]
-  overviewRefs: SourceRef[]; overviewReviewId: string
+  overviewRefs: SourceRef[]
   yao: readonly [YaoEntry, YaoEntry, YaoEntry, YaoEntry, YaoEntry, YaoEntry]
   specialEntries: SpecialEntry[]
 }

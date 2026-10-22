@@ -10,7 +10,7 @@
 | `sources.json` | 采用版本、对校版本、段落与权利说明 |
 | `manifest.json` | 构建生成的版本、计数和待审清单 |
 
-卦ID、正文ID、审核ID保持稳定。`manifest.json`及`miniprogram/data/`中的`content.ts`、`search.ts`、`trigrams.ts`、`sources.ts`由构建器生成，不手改；页面只读本地资料。
+卦ID、正文ID、审核ID保持稳定。`manifest.json`及`miniprogram/data/`中的`content.ts`、`search.ts`、`trigrams.ts`、`sources.ts`由构建器生成，不手改；页面只读本地资料。生成模块仅包含运行字段；原文白话、notes、审核编号、爻位说明、特殊知识说明与不展示的先天数/方位留在本目录。964个原文块、展示说明、原文来源定位及来源许可仍随包保留。
 
 ## 录入与核对
 
@@ -28,6 +28,6 @@
 
 结构版本为3；版本格式为`schemaVersion.内容哈希前12位`，完整SHA-256覆盖正文、来源、展开审核、检索、意象和生克。新资料主体为去掉`reviewId`后的记录，结合所引来源对象计算，检索另纳入别名引用；旧正文主体规则不变。相同源重复构建应逐字一致。
 
-`npm run check:content:release`另要求完整资料、必需影印/独立复核及说明审核通过；当前未通过，不能由开发检查或页面功能完成替代。设备与体验版要求见[开发计划](../docs/development-plan.md)。
+`npm run check:content:release`要求64卦/964原文块及完整查询资料、电子初核通过，并拒绝已标为needs-fix的问题。2026-10-22用户取消首版文献人工复审要求，影印、独立复审及释义人工审查不再阻断首版；记录和清单中的pending仍保留。旧门槛失败是历史事实，不改写成审核通过。设备与体验版要求见[开发计划](../docs/development-plan.md)。
 
 采用版本、异文、逐项待审及许可说明统一见[资料核对](../docs/content-review.md)与来源登记。卷页oldid只固定编排，不冻结嵌页；访问日、摘录与哈希记录实际采用范围，电子对校不称为影印核准。
