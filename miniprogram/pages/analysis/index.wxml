@@ -1,6 +1,6 @@
 <view class="page">
   <block wx:if="{{valid}}">
-    <view class="eyebrow">第四步 · 阅读变化</view><view class="title">{{original.name}} → {{changed.name}}</view>
+    <view class="eyebrow">{{atlasMode ? '阅读变化' : '第四步 · 阅读变化'}}</view><view class="title">{{original.name}} → {{changed.name}}</view>
     <view class="card row between"><view class="comparison"><text class="label">本卦 · {{original.fullName}}</text><hexagram-shape lines="{{original.lines}}" /></view><text class="muted">→</text><view class="comparison"><text class="label">{{zero ? '结果相同' : '变卦'}} · {{changed.fullName}}</text><hexagram-shape lines="{{changed.lines}}" /></view></view>
     <view wx:if="{{zero}}" class="notice">未选择变爻，本卦不变。</view>
     <block wx:else><view class="section-title">本卦所选爻 · {{selectedNames}}</view>

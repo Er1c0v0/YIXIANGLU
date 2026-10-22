@@ -1,4 +1,3 @@
-import { startSession } from '../../state/session'
 import { HEXAGRAMS, getHexagram } from '../../domain/hexagrams'
 import { TRIGRAMS, getTrigram } from '../../domain/trigrams'
 import { searchHexagrams, normalizeSearch } from '../../domain/search'
@@ -54,8 +53,10 @@ Page({
   },
   read(e: WechatMiniprogram.TouchEvent) {
     if (this.data.busy) return
+    if (this.timer !== 0) this.refresh()
+    const id = Number(e.currentTarget.dataset.id)
+    if (!this.data.samples.some(item => item.id === id)) return
     this.setData({ busy: true })
-    const url = startSession({ mode: 'atlas', hexagramId: Number(e.currentTarget.dataset.id), selected: [] })
-    wx.navigateTo({ url, fail: () => this.setData({ busy: false }) })
+    wx.navigateTo({ url: `/pages/detail/index?id=${id}`, fail: () => this.setData({ busy: false }) })
   },
 })

@@ -1,6 +1,6 @@
 <view class="page">
   <block wx:if="{{valid}}">
-    <view class="eyebrow">第三步 · 观察爻变</view><view class="title">{{numberMode ? '这一爻，由数字确定' : '选择想要观察的爻'}}</view>
+    <view class="eyebrow">{{atlasMode ? '观察爻变' : '第三步 · 观察爻变'}}</view><view class="title">{{numberMode ? '这一爻，由数字确定' : '选择想要观察的爻'}}</view>
     <view wx:if="{{numberMode}}" class="notice">变爻由数字确定，可返回修改数字。</view><view wx:else class="subtitle">点击爻线选择或取消。</view>
     <view class="card"><view class="section-title">本卦 · {{original.fullName}}</view><hexagram-shape lines="{{original.lines}}" selected="{{selected}}" show-labels interactive="{{!numberMode}}" bind:select="choose" /></view>
     <view class="card"><view class="section-title">变卦预览 · {{changed.fullName}}</view><hexagram-shape lines="{{changed.lines}}" /><view class="notes">{{selected.length ? ('已选 ' + selected.length + ' 爻：' + selectedNames) : '未选择变爻，本卦保持不变'}}</view></view>

@@ -12,6 +12,8 @@
 
 卦ID、正文ID、审核ID保持稳定。`manifest.json`及`miniprogram/data/`中的`content.ts`、`search.ts`、`trigrams.ts`、`sources.ts`由构建器生成，不手改；页面只读本地资料。生成模块仅包含运行字段；原文白话、notes、审核编号、爻位说明、特殊知识说明与不展示的先天数/方位留在本目录。964个原文块、展示说明、原文来源定位及来源许可仍随包保留。
 
+第二版独立详情与既有生成／分析页共用`miniprogram/data/repository.ts`和阅读组件，不另复制正文或来源。阶段1只调整入口与内存会话；本目录数据及审核无需因页面升级重新生成或改为通过。
+
 ## 录入与核对
 
 登记版本和段落 → 录入或修改 → 实际核对 → 保存主体哈希与真实审核状态 → `npm run build:content` → `npm run check`。

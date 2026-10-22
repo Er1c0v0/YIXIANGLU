@@ -4,7 +4,7 @@ import { BASELINE, TRIGRAM_BASELINE } from './fixtures/hexagrams'
 import { TRIGRAMS } from '../miniprogram/domain/trigrams'
 import { HEXAGRAMS, combine, getHexagram } from '../miniprogram/domain/hexagrams'
 import { castNumbers, changeHexagram, lineName, modDecimal, normalizePositiveInteger, normalizePositions, parseRoute, POSITIONS, resultForSession } from '../miniprogram/domain/casting'
-import { newFlow, readSession, sessionRoute, startSession, updateSelection } from '../miniprogram/state/session'
+import { endSession, isActiveSession, newFlow, readSession, sessionRoute, startSession, updateSelection } from '../miniprogram/state/session'
 import type { CastSession, LinePosition } from '../miniprogram/domain/types'
 
 test('64 组合与384爻名：独立六爻基准', () => {
@@ -79,4 +79,23 @@ test('路由、内存会话、返回保留及新流程隔离', () => {
   const fixedSession=readSession(fixedQuery)!
   assert.throws(()=>updateSelection(fixedSession,[1]))
   assert.equal(readSession({...fixedQuery,fixed:'2'}),undefined)
+})
+
+test('会话按引用归属判断与结束，新流程使旧引用失效', () => {
+  newFlow()
+  assert.equal(isActiveSession(undefined), false)
+  const session:CastSession={mode:'atlas',hexagramId:1,selected:[]}
+  startSession(session)
+  assert.equal(isActiveSession({...session}), false)
+  const replacement:CastSession={...session}
+  startSession(replacement)
+  assert.equal(isActiveSession(session), false)
+  endSession(session)
+  endSession(undefined)
+  assert.equal(isActiveSession(replacement), true)
+  endSession(replacement)
+  assert.equal(isActiveSession(replacement), false)
+  startSession(session)
+  newFlow()
+  assert.equal(isActiveSession(session), false)
 })

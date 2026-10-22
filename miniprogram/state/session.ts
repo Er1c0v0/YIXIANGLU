@@ -7,6 +7,14 @@ let active: { sid: string; session: CastSession } | undefined
 
 export function newFlow() { active = undefined }
 
+export function isActiveSession(session: CastSession | undefined): boolean {
+  return session !== undefined && active?.session === session
+}
+
+export function endSession(session: CastSession | undefined): void {
+  if (isActiveSession(session)) active = undefined
+}
+
 export function startSession(session: CastSession): string {
   getHexagram(session.hexagramId)
   if (session.mode === 'number') {
