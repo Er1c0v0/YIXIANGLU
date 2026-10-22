@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h45-statement", "subjectId": "h45-statement", "method": "electronic-20261022",
+    "subjectHash": "c8a0d222136559084859cda3e2ef07600a064ad3b58a9c91922e23620ac2f451",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 卦辞 / 0007冊.djvu/466"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子主文“萃亨”后接注文“聚乃通也”，再接“王假有廟”；普通电子对校页卦辞开头无此“亨”字。保留主文，排除中间注文，影印待核。"]
+  },
+  {
+    "id": "review-h45-tuan", "subjectId": "h45-tuan", "method": "electronic-20261022",
+    "subjectHash": "251f63353b443c053dbd7d57946ba750332c26885da68d39a3d8966a3f5421b0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 彖曰 / 0007冊.djvu/466"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-great-image", "subjectId": "h45-great-image", "method": "electronic-20261022",
+    "subjectHash": "42d1ef8039e395ff3db28942247ecaafca5139bbcac889a8026033144b2445e4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 整卦大象 / 0007冊.djvu/466"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用电子录文“於”，普通电子对校页相应为“于”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h45-overview", "subjectId": "h45-overview", "method": "overview-20261022",
+    "subjectHash": "2be7f1ad92bf0535409588e4eac86674ab50f38c5ff54a3657c0ce30b5022f26",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/466"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-yao-1", "subjectId": "h45-yao-1", "method": "electronic-20261022",
+    "subjectHash": "8a301250985cf41790077f3424fb1c60be8cc1b795ff0ea6e688fa002e7d8ba9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 初六 / 0007冊.djvu/467"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-image-1", "subjectId": "h45-image-1", "method": "electronic-20261022",
+    "subjectHash": "5245676bccd59a1776b32ed3af151fe672aa383689053b5b0199cf8d57946b16",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 初六小象 / 0007冊.djvu/467"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-yao-2", "subjectId": "h45-yao-2", "method": "electronic-20261022",
+    "subjectHash": "0efff88a1d3e18b908e5c5a7063c182e3a0b757aeb2de90878c0b4ad9e5b229c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 六二 / 0007冊.djvu/467"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-image-2", "subjectId": "h45-image-2", "method": "electronic-20261022",
+    "subjectHash": "fe3d17801350994eaf0b4547bc492abea7e29f3350ce6bb3e971fa052f97f833",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 六二小象 / 0007冊.djvu/467"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-yao-3", "subjectId": "h45-yao-3", "method": "electronic-20261022",
+    "subjectHash": "e12bc2fb2f655904d029ecba6408f28e5029da9a56d33daf973e534efc54dd3d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 六三 / 0007冊.djvu/467"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-image-3", "subjectId": "h45-image-3", "method": "electronic-20261022",
+    "subjectHash": "c091af9aec904ff484b6a3baeb1d46097c7835d013408bc06f8675303faaaab9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 六三小象 / 0007冊.djvu/467"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-yao-4", "subjectId": "h45-yao-4", "method": "electronic-20261022",
+    "subjectHash": "25ca2a58f4394ac3646f6f74315ec5016d7a3694e3487f8890cc797515670574",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 九四 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-image-4", "subjectId": "h45-image-4", "method": "electronic-20261022",
+    "subjectHash": "f915fded3d74801164f2720eddb6d9881f3c7b8c741a8e68eb6135c3ceaca481",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 九四小象 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-yao-5", "subjectId": "h45-yao-5", "method": "electronic-20261022",
+    "subjectHash": "86c27bffeffce7aca228944a9fecf49050b44f444834f1cf323a02cc2c873f75",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 九五 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-image-5", "subjectId": "h45-image-5", "method": "electronic-20261022",
+    "subjectHash": "6f03d4bdba0cd9a7ef981d2cbb1b341b77353446c220b0ed22289af2047c8ec2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 九五小象 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h45-yao-6", "subjectId": "h45-yao-6", "method": "electronic-20261022",
+    "subjectHash": "200772d46f26d392ed87f32974e1d1a0f3f8e3f2b9edab56072a8c0866444189",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 上六 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 易經·上六；异文仅作对校"}],
+    "issues": ["采用电子录文“咨”，普通电子对校页相应为“資”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h45-image-6", "subjectId": "h45-image-6", "method": "electronic-20261022",
+    "subjectHash": "1d8c1930e86fbd97aad5bcb51f5e46db8a5f665d7f92541dde52ff745c9c27e4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 萃 / 上六小象 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-45","locator":"第45卦 萃 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

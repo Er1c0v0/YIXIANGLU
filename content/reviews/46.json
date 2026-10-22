@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h46-statement", "subjectId": "h46-statement", "method": "electronic-20261022",
+    "subjectHash": "fbc7c42b307a82131a2915f255f71f2888bb4a177bac394ed8b7f05d4875c0c6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 卦辞 / 0007冊.djvu/468"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-tuan", "subjectId": "h46-tuan", "method": "electronic-20261022",
+    "subjectHash": "34bd66fae373093d0ebad2fa7c79bc98637c63893fcdd99d1be7fc125086e951",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 彖曰 / 0007冊.djvu/468–469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-great-image", "subjectId": "h46-great-image", "method": "electronic-20261022",
+    "subjectHash": "bc40c2c9589bf4db1f417ab178a21191abdfe1f8f84af8cd9248cdf1bb253918",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 整卦大象 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-overview", "subjectId": "h46-overview", "method": "overview-20261022",
+    "subjectHash": "c5986c4a66cebbf8d26809b1160301c00893cf7a22c57df599e744912ba66a52",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/468–469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-yao-1", "subjectId": "h46-yao-1", "method": "electronic-20261022",
+    "subjectHash": "0e27cf1173fbb05a79ed9aae9ac60e0dfe89d3271c82ab31b13cf3734406b2c5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 初六 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-image-1", "subjectId": "h46-image-1", "method": "electronic-20261022",
+    "subjectHash": "9d3ea52df9c9d2195d88454349755dfb0061c814d0d73dfb0d4fca24831bea4e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 初六小象 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-yao-2", "subjectId": "h46-yao-2", "method": "electronic-20261022",
+    "subjectHash": "0da5a071ae035e82b58efe839b33e47431b3cb95f0cff725c858e485514db201",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 九二 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-image-2", "subjectId": "h46-image-2", "method": "electronic-20261022",
+    "subjectHash": "215731601f9778eff8a8cc6290971ae27de20b35c8ccd888ba1cc02daa3ea294",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 九二小象 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-yao-3", "subjectId": "h46-yao-3", "method": "electronic-20261022",
+    "subjectHash": "11fcd8c02cef9494533fa6bb8f76fd48c077b592cee62e7525d6402238605ea2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 九三 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-image-3", "subjectId": "h46-image-3", "method": "electronic-20261022",
+    "subjectHash": "ad431bdb71627594ce7329963a452ef85cac81408a8dbb3fd51fd94542585b79",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 九三小象 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-yao-4", "subjectId": "h46-yao-4", "method": "electronic-20261022",
+    "subjectHash": "d9be31d7f73c05ac90f847811142fa7446bfd1ef4c9997c7ae8300102d2f16d1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 六四 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“亨”，普通电子对校页相应为“享”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h46-image-4", "subjectId": "h46-image-4", "method": "electronic-20261022",
+    "subjectHash": "3e0a925058f55962ec632550d6f4f862567c99f6fafafaff2f05d17483c05947",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 六四小象 / 0007冊.djvu/469"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-yao-5", "subjectId": "h46-yao-5", "method": "electronic-20261022",
+    "subjectHash": "cb6d70358d2a9d94de66c440ba17cb6788e53c64f8a09a592d0fe0639309d09e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 六五 / 0007冊.djvu/470"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-image-5", "subjectId": "h46-image-5", "method": "electronic-20261022",
+    "subjectHash": "74c0f17a1d575fb80e5cd0145096fe6804d422f6f22e28cc1fb1b9dab8a32a3e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 六五小象 / 0007冊.djvu/470"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-yao-6", "subjectId": "h46-yao-6", "method": "electronic-20261022",
+    "subjectHash": "e4a12fa2a410fdf63066a821680c164c084b549cb66670445b3ca82fe9bc6a8a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 上六 / 0007冊.djvu/470"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h46-image-6", "subjectId": "h46-image-6", "method": "electronic-20261022",
+    "subjectHash": "406754545bb9b4846854f698a9d4a15c06c9f575634ce09bc1a8177456462a64",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 升 / 上六小象 / 0007冊.djvu/470"},{"sourceId":"ws-zhouyi-46","locator":"第46卦 升 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

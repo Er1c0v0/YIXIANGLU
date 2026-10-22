@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h61-statement", "subjectId": "h61-statement", "method": "electronic-20261022",
+    "subjectHash": "b696220d9aa320a426543a535eea4d22bf78ec24f43373be1f4c55a20fb50b71",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 卦辞 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h61-tuan", "subjectId": "h61-tuan", "method": "electronic-20261022",
+    "subjectHash": "3d978b823065db373aa300f832d2ddc412e8fa4f4d85bf06bcc092ba9bfcd487",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 彖曰 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“内”，普通电子对校页相应为“內”；采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。","本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"]
+  },
+  {
+    "id": "review-h61-great-image", "subjectId": "h61-great-image", "method": "electronic-20261022",
+    "subjectHash": "dc19636158fdce991a08363a2108b937341475768b558fe239f54138d8952bce",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 整卦大象 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-overview", "subjectId": "h61-overview", "method": "overview-20261022",
+    "subjectHash": "687288f333a8b3c6d55e29d9ba083d79460d2b5e6c53ecdf7b1698e753f3e0fb",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-yao-1", "subjectId": "h61-yao-1", "method": "electronic-20261022",
+    "subjectHash": "029fd30ef08622e6cfe878b20b69d70078b94658dbb53350f5e3d10873af45c2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 初九 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-image-1", "subjectId": "h61-image-1", "method": "electronic-20261022",
+    "subjectHash": "41b954166744f6f8fbcefbd02f1c4a4bee1654b0640ce37366e29f9ed5d7f3e3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 初九小象 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-yao-2", "subjectId": "h61-yao-2", "method": "electronic-20261022",
+    "subjectHash": "234def9d6487845cca9c2e4262201a41f1f417f927766b4f5d08b6f02f39de7c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 九二 / 0007冊.djvu/513"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“隂”，普通电子对校页相应为“陰”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h61-image-2", "subjectId": "h61-image-2", "method": "electronic-20261022",
+    "subjectHash": "080e0526d2798c46e3e1d4bce673e354ed345c2b6350977183b631051e6e8545",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 九二小象 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h61-yao-3", "subjectId": "h61-yao-3", "method": "electronic-20261022",
+    "subjectHash": "2e673aee50020ea572b64b84da4aa6399deffc761e6217a249b91154c40270c7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 六三 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“鼔”，普通电子对校页相应为“鼓”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h61-image-3", "subjectId": "h61-image-3", "method": "electronic-20261022",
+    "subjectHash": "f114b295ba6d82487ec791994da18f053e898c7d7ef73a8d78a5892941715b19",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 六三小象 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“或鼔或罷”，普通电子对校页作“可鼓或罷”；保留采用录文，影印待核。"]
+  },
+  {
+    "id": "review-h61-yao-4", "subjectId": "h61-yao-4", "method": "electronic-20261022",
+    "subjectHash": "cfdccbca478fedac84ea356e7e2947d9a404279c78291bb962bca6a67baae244",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 六四 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“月㡬望”，普通电子对校页作“月既望”；保留“㡬”字，影印待核。"]
+  },
+  {
+    "id": "review-h61-image-4", "subjectId": "h61-image-4", "method": "glyph-display-20261022",
+    "subjectHash": "b0e53b06c0240f2de72624904ae7ed650540ab520c76d90bf64d0b305c49c903",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 六四小象 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“絶𩔖”，普通电子对校页相应为“絕類”；保留所见，影印字形与异文待核。","2026-10-22显示修正：“𩔖”通写为“類”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=3036fe62cc5f4d6d2f8a7cb6071d22c9b8beac03e173ccd888953db4ac91f635"]
+  },
+  {
+    "id": "review-h61-yao-5", "subjectId": "h61-yao-5", "method": "electronic-20261022",
+    "subjectHash": "499fbf04724b2028ce7167aabaa4d2f8e7ff0a9679d9e616d4051e6ce280ccfa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 九五 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-image-5", "subjectId": "h61-image-5", "method": "electronic-20261022",
+    "subjectHash": "2528f5cafe5f0582069efc83b52fd2b4ab9a7c18947c3adda0cc129f675683cc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 九五小象 / 0007冊.djvu/514"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-yao-6", "subjectId": "h61-yao-6", "method": "electronic-20261022",
+    "subjectHash": "1f16fceb9ab956df995e9a4b684e4990b5ebe56cbc3386117a615820005b3bb0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 上九 / 0007冊.djvu/515"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h61-image-6", "subjectId": "h61-image-6", "method": "electronic-20261022",
+    "subjectHash": "04f820daa0b05b7ee8cefbd62ba39171c91851d43907134b744ab14b52e5f009",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 中孚 / 上九小象 / 0007冊.djvu/515"},{"sourceId":"ws-zhouyi-61","locator":"第61卦 中孚 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h12-statement", "subjectId": "h12-statement", "method": "electronic-20261021",
+    "subjectHash": "bf81c6251227d20d32e32ab3338f94d6549056621ea4e5e8d50f9ff8d80d90b9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 卦辞 / 0007冊.djvu/368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-tuan", "subjectId": "h12-tuan", "method": "electronic-20261021",
+    "subjectHash": "f443271f10f3bc7afc5c9ed79a95ee58f2b7f95847ee265b303af26c17b6c305",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 彖曰 / 0007冊.djvu/368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-great-image", "subjectId": "h12-great-image", "method": "electronic-20261021",
+    "subjectHash": "9c1c57dab3c26352dd81ac72b228fb0c797e9275efc64712e3c1a1ae0cffd03a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 整卦大象 / 0007冊.djvu/368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-overview", "subjectId": "h12-overview", "method": "overview-20261021",
+    "subjectHash": "d4c34ec8cb4a7cfb8fb86c23fb0d91e701f3f5b394204883fea9e17baf01cd61",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/368–368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-yao-1", "subjectId": "h12-yao-1", "method": "electronic-20261021",
+    "subjectHash": "9c397382cd59642196a1bd3a28f67ea5e58b5ad8d0b7c0ebfa6eb194e26c1de6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 初六 / 0007冊.djvu/368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-image-1", "subjectId": "h12-image-1", "method": "electronic-20261021",
+    "subjectHash": "d7d12e55f320d6e0c5b61c6c75be4665fcc43acf2d973b158c383f77155d6856",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 初六小象 / 0007冊.djvu/368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-yao-2", "subjectId": "h12-yao-2", "method": "electronic-20261021",
+    "subjectHash": "d52efdc6a8f42eb532c6b2c9be01ef052b3a238f9bce0d7fb6e812ee135975b4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 六二 / 0007冊.djvu/368"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-image-2", "subjectId": "h12-image-2", "method": "electronic-20261021",
+    "subjectHash": "fc24b8abb17f4c215f71359d089bfff396d6fbedc566435256b2f16186200984",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 六二小象 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-yao-3", "subjectId": "h12-yao-3", "method": "electronic-20261021",
+    "subjectHash": "ecf0286650df74d557d518e8612fa08d6e659369b0f21419428d26c102be87b3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 六三 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-image-3", "subjectId": "h12-image-3", "method": "electronic-20261021",
+    "subjectHash": "24368d554544d80afcea62ecb2bac006e64a4eb2455831b7e5320e4b08521848",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 六三小象 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-yao-4", "subjectId": "h12-yao-4", "method": "electronic-20261021",
+    "subjectHash": "1244453291c87cb9cb281b89b23f22954f05c8fa770b6f3128290c570ed382d2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 九四 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-image-4", "subjectId": "h12-image-4", "method": "electronic-20261021",
+    "subjectHash": "bc930c22e63faf5fcbcd2905506f2bf5907695d6428e8333b3d2e65c0eebb149",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 九四小象 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-yao-5", "subjectId": "h12-yao-5", "method": "electronic-20261021",
+    "subjectHash": "19903e2390b35dfed6b99e00e5387778c701f8794f17444cfa5f194c6f60f130",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 九五 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-image-5", "subjectId": "h12-image-5", "method": "electronic-20261021",
+    "subjectHash": "b43bb60c21a976ae1b712a6f915b033b5df3e5c7730e6f54edb54bb6aac329ab",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 九五小象 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-yao-6", "subjectId": "h12-yao-6", "method": "electronic-20261021",
+    "subjectHash": "9a4a7fb2259b6214f7966f6019a4736d51c8e745ae24d9b8e444c59d1be06824",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 上九 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h12-image-6", "subjectId": "h12-image-6", "method": "electronic-20261021",
+    "subjectHash": "7d8dc38b98e22c9f7270841a245a1ec86faa2691b33ae9edd0da99de5d28355f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3","locator":"卷3 / 否 / 上九小象 / 0007冊.djvu/369"},{"sourceId":"ws-zhouyi-12","locator":"第12卦 否 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  }
+]

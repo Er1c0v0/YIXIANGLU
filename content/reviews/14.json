@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h14-statement", "subjectId": "h14-statement", "method": "electronic-20261022",
+    "subjectHash": "cc6b75b4ab65cc720b6f5f9852d5de1bd978cb1791e5ab05c1706812a43fa92c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 卦辞 / 0007冊.djvu/372"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-tuan", "subjectId": "h14-tuan", "method": "electronic-20261022",
+    "subjectHash": "a09068860751a1e24dd9086d802674c07a811bed674669e77ef887649bc5001f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 彖曰 / 0007冊.djvu/372"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-great-image", "subjectId": "h14-great-image", "method": "electronic-20261022",
+    "subjectHash": "73cf1403d225fc24e3abf65e6c13cf57ba4f55c3645d201c3e0f81f6f50ff98a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 整卦大象 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-overview", "subjectId": "h14-overview", "method": "overview-20261022",
+    "subjectHash": "a3526921ac66427c69e26a46369a2a67b7fbffa17aff543f6d55bfffef13aa7c",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/372–373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-yao-1", "subjectId": "h14-yao-1", "method": "electronic-20261022",
+    "subjectHash": "99a07b9a4a5e31e2b5d4554a4530c7bc47b33086e59c26be23f0ebc626bbb5e7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 初九 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-image-1", "subjectId": "h14-image-1", "method": "electronic-20261022",
+    "subjectHash": "365133f313f27b4e8a2e265e1d7541529312eddae54e9e34c919e155006aed65",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 初九小象 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-yao-2", "subjectId": "h14-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e7559afe4a12c1fec8ded40ff33495c4243e4ddfc28f81920b875dfbb3e6ee71",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 九二 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·九二；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“大車”，普通电子对校页作“大轝”。"]
+  },
+  {
+    "id": "review-h14-image-2", "subjectId": "h14-image-2", "method": "electronic-20261022",
+    "subjectHash": "fb456de351ba9cf5f59db6d2e0382724f85fc204500e69842ec826ce02eae744",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 九二小象 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-yao-3", "subjectId": "h14-yao-3", "method": "electronic-20261022",
+    "subjectHash": "a3f8fb4d258d8dbc17332578debd11ac09f2563628870c887fc0e9e36a504375",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 九三 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-image-3", "subjectId": "h14-image-3", "method": "electronic-20261022",
+    "subjectHash": "8f711710a8ddf10c1b5d0bfebcdec68f40f7036d99b54f09102c25fcaa69625e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 九三小象 / 0007冊.djvu/373"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-yao-4", "subjectId": "h14-yao-4", "method": "electronic-20261022",
+    "subjectHash": "d9dbfc3078148ca50bf9bddf9e611937f67d3ddc526267c8460a0a682b4cb876",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 九四 / 0007冊.djvu/374"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·九四；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“彭”，普通电子对校页爻辞作“尫”、小象仍作“彭”，待影印复核。"]
+  },
+  {
+    "id": "review-h14-image-4", "subjectId": "h14-image-4", "method": "electronic-20261022",
+    "subjectHash": "73a7e58d09eb68867d5523feb0a5a8717c0cdbc919d0deb41583def04905698a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 九四小象 / 0007冊.djvu/374"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·九四；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“明辯晢也”，普通电子对校页作“明辨晰也”。"]
+  },
+  {
+    "id": "review-h14-yao-5", "subjectId": "h14-yao-5", "method": "electronic-20261022",
+    "subjectHash": "4fc967359badf4d2007fc12ad6ea9136f65feabb69100ce2f0dead04730a31b9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 六五 / 0007冊.djvu/374"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-image-5", "subjectId": "h14-image-5", "method": "glyph-display-20261022",
+    "subjectHash": "f92d129fb8112c957dccde34517e9d3a1bc7a1c0ab6ca714907aac814fd06fd4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 六五小象 / 0007冊.djvu/374"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·六五；异文仅作对校"}],
+    "issues": ["保留采用电子录文“𤼵”字，普通电子对校页作“發”，影印字形待核。","2026-10-22显示修正：“𤼵”通写为“發”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=d9279da01f3c9e9b93dd8bdddf44f06bf2fe7ae447ca5c3d6c1e71722a47bef8"]
+  },
+  {
+    "id": "review-h14-yao-6", "subjectId": "h14-yao-6", "method": "electronic-20261022",
+    "subjectHash": "6cb9865720eb8809867cb0fbc1937f9fa28b9611181a66d185e245d2bd024969",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 上九 / 0007冊.djvu/374"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h14-image-6", "subjectId": "h14-image-6", "method": "electronic-20261022",
+    "subjectHash": "199b6ba6f8be7e3ef4e14d339da4dabfde8e154ba22620a4403abad4271a2971",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch3","locator":"卷3 / 大有 / 上九小象 / 0007冊.djvu/374"},{"sourceId":"ws-zhouyi-14","locator":"第14卦 大有 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

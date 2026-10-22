@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h42-statement", "subjectId": "h42-statement", "method": "electronic-20261022",
+    "subjectHash": "1aa51c19e6e4a92d47958971a4da0c87c3bda4d63963c1ccf2bec8d8edd5fa7a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 卦辞 / 0007冊.djvu/454"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h42-tuan", "subjectId": "h42-tuan", "method": "electronic-20261022",
+    "subjectHash": "574de94ab2446cdca95e29d4ebdd64d046f1efffc97c379ca4d4a7f56cdcbbfd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 彖曰 / 0007冊.djvu/454"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h42-great-image", "subjectId": "h42-great-image", "method": "electronic-20261022",
+    "subjectHash": "732094ea1cb106694c7223d39b8c6b8fa2752fdfea819b2d51cf1be2c46584f8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 整卦大象 / 0007冊.djvu/455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-overview", "subjectId": "h42-overview", "method": "overview-20261022",
+    "subjectHash": "39bede1efb0ed8bd86057c253b2b4463483292316cce84ba32fe338f1980d5e7",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/454–455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-yao-1", "subjectId": "h42-yao-1", "method": "electronic-20261022",
+    "subjectHash": "dc24a23d3c0d5fff544809a23c975ea883ddd45665cdca43516cb83622958f7f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 初九 / 0007冊.djvu/455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·初九；异文仅作对校"}],
+    "issues": ["采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h42-image-1", "subjectId": "h42-image-1", "method": "electronic-20261022",
+    "subjectHash": "f976cd57adb361b87abd46987b7f6cfba57bf68e5a5580f4c3af48b60d6470f2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 初九小象 / 0007冊.djvu/455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-yao-2", "subjectId": "h42-yao-2", "method": "electronic-20261022",
+    "subjectHash": "248148b17c2f92455c9b1afaff6a7d595c7d7e02b39e4d8d98b6615d03ee35cb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 六二 / 0007冊.djvu/455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-image-2", "subjectId": "h42-image-2", "method": "electronic-20261022",
+    "subjectHash": "aefbc9f021fbb6b43d38b27a090f1e6332952acf7b60012cf1f4c3004d0be057",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 六二小象 / 0007冊.djvu/455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-yao-3", "subjectId": "h42-yao-3", "method": "electronic-20261022",
+    "subjectHash": "176265ea7a33959d26325832a5c9ce8e74c71961c894bfa79e519e6983c70e43",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 六三 / 0007冊.djvu/455"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-image-3", "subjectId": "h42-image-3", "method": "electronic-20261022",
+    "subjectHash": "8d8a3f4e6dfa2c8ab1b47cf6002ed3370b1a60ae47a3ef515732a29dc70ff1d0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 六三小象 / 0007冊.djvu/456"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-yao-4", "subjectId": "h42-yao-4", "method": "electronic-20261022",
+    "subjectHash": "a70f85dcf338796badbefeacd45b4da9123ab7f3c2cb57afad60ef4a746d3262",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 六四 / 0007冊.djvu/456"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h42-image-4", "subjectId": "h42-image-4", "method": "electronic-20261022",
+    "subjectHash": "4716ac2f40471a7fb4513b2276a7e8a260518d52d6ce581fa01c928c9b004368",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 六四小象 / 0007冊.djvu/456"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-yao-5", "subjectId": "h42-yao-5", "method": "electronic-20261022",
+    "subjectHash": "c0d48c09ce195d7b632d22b41e463ca58bbfc2787883a32fc5532833f7554b2c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 九五 / 0007冊.djvu/456"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-image-5", "subjectId": "h42-image-5", "method": "electronic-20261022",
+    "subjectHash": "da4a021ac8f2867afd602ec4c8278ba21f8267fdcfc90d2f8ecec9bde79327f0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 九五小象 / 0007冊.djvu/456"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h42-yao-6", "subjectId": "h42-yao-6", "method": "electronic-20261022",
+    "subjectHash": "53c1372d8bab28de87c9326c9de1e07013a742081eb2a9237eb13c60833d3397",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 上九 / 0007冊.djvu/457"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 易經·上九；异文仅作对校"}],
+    "issues": ["采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h42-image-6", "subjectId": "h42-image-6", "method": "electronic-20261022",
+    "subjectHash": "7092bfeb168758b5148907d3b7a6c5aae3a53266d2976e36ba47157e1265cbcf",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 益 / 上九小象 / 0007冊.djvu/457"},{"sourceId":"ws-zhouyi-42","locator":"第42卦 益 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

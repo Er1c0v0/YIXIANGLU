@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h48-statement", "subjectId": "h48-statement", "method": "electronic-20261022",
+    "subjectHash": "2f4cb50f997946bddb25914273cf42f6b76b52b431647955c6b7ddb0bce63276",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 卦辞 / 0007冊.djvu/473"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子录文卦辞作“甁”、彖传作“瓶”，普通电子对校页均作“瓶”；保留所见字形，影印待核。"]
+  },
+  {
+    "id": "review-h48-tuan", "subjectId": "h48-tuan", "method": "electronic-20261022",
+    "subjectHash": "71da77e9b65921d3a582b7aa05ddb23e7ae813486eed3e23135ce1a075c01b19",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 彖曰 / 0007冊.djvu/474"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-great-image", "subjectId": "h48-great-image", "method": "electronic-20261022",
+    "subjectHash": "35a5dfd20ee0d3608f815cae00050b2837cc57ef434ca21d31d76203946c0577",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 整卦大象 / 0007冊.djvu/474"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-overview", "subjectId": "h48-overview", "method": "overview-20261022",
+    "subjectHash": "f78eec4d9e0a8740f80bab18be4bb6eb3845919cbadf83c35cab7348d1b3ba62",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/473–474"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-yao-1", "subjectId": "h48-yao-1", "method": "electronic-20261022",
+    "subjectHash": "17d519911e623c63ca4741893bec7f7ff7aa1b3f5477ddb2fa0aa1020afe3d1c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 初六 / 0007冊.djvu/474"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-image-1", "subjectId": "h48-image-1", "method": "electronic-20261022",
+    "subjectHash": "5d19bd16630903845a08fe8178b20ae5e3929fa2de6142317b0d4321551bbc65",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 初六小象 / 0007冊.djvu/474"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-yao-2", "subjectId": "h48-yao-2", "method": "electronic-20261022",
+    "subjectHash": "bb2f123b149706e017b70e2d05fdebb12c4fe49754b282ce950d4a2e0728c9ab",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 九二 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“甕”，普通电子对校页相应为“瓮”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h48-image-2", "subjectId": "h48-image-2", "method": "electronic-20261022",
+    "subjectHash": "e1c94ce9c545732c8b16084412bf499ebb30009d6cb478a8194f8a602811b896",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 九二小象 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-yao-3", "subjectId": "h48-yao-3", "method": "electronic-20261022",
+    "subjectHash": "0e1165090c6d93c992808d088eb9cae5f4c97a6b94e526a368cbfb86adb2a791",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 九三 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·九三；异文仅作对校"}],
+    "issues": ["采用电子录文“眀竝”，普通电子对校页相应为“明並”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h48-image-3", "subjectId": "h48-image-3", "method": "electronic-20261022",
+    "subjectHash": "d168bfd07b5a196c55c603e7741a04711be729d51b75b320ece93ed201d24d6c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 九三小象 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·九三；异文仅作对校"}],
+    "issues": ["采用电子录文“眀”，普通电子对校页相应为“明”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h48-yao-4", "subjectId": "h48-yao-4", "method": "electronic-20261022",
+    "subjectHash": "32ca60046f922cc9c7d7e64ae4b14ccb35063b0092346bda6abef110098a2757",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 六四 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-image-4", "subjectId": "h48-image-4", "method": "electronic-20261022",
+    "subjectHash": "bcb7c944c354dfe5a581daf829906ccac05e1f998da4cbe7d224e2c6aabd16dc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 六四小象 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-yao-5", "subjectId": "h48-yao-5", "method": "electronic-20261022",
+    "subjectHash": "a619af1746e45cb93a887b22a9db85ef160463d47f78206b8ad6bed9fa0c4932",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 九五 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·九五；异文仅作对校"}],
+    "issues": ["采用电子录文“洌”，普通电子对校页相应为“冽”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h48-image-5", "subjectId": "h48-image-5", "method": "electronic-20261022",
+    "subjectHash": "99111ccbc010be6c28197fad7f2ad8bf4614f0238d3d8fe3bd48e8464ca6f3f2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 九五小象 / 0007冊.djvu/475"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-yao-6", "subjectId": "h48-yao-6", "method": "electronic-20261022",
+    "subjectHash": "8b6144cee02b5bf29910f1c8b3c710a9d72259c1e0a7f785e6df32fd9f9ee5f8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 上六 / 0007冊.djvu/476"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h48-image-6", "subjectId": "h48-image-6", "method": "electronic-20261022",
+    "subjectHash": "18792ca8731f019ab100642f3e616520eedb33fb28fb8dbd147bec3a5c0c00d3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 井 / 上六小象 / 0007冊.djvu/476"},{"sourceId":"ws-zhouyi-48","locator":"第48卦 井 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

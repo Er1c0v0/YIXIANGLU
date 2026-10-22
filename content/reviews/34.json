@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h34-statement", "subjectId": "h34-statement", "method": "electronic-20261022",
+    "subjectHash": "381679dd4b95d8a98282ecd34e80b5b48dc91687393859d9ac08375b01a725f8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 卦辞 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-tuan", "subjectId": "h34-tuan", "method": "electronic-20261022",
+    "subjectHash": "06e2b9db7858eb0d66748e9b9d60173fafb1abe2ec98434f16962967c4380dd7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 彖曰 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-great-image", "subjectId": "h34-great-image", "method": "electronic-20261022",
+    "subjectHash": "47a0f9890cf75e32071e73b27a027d9f7c8dbfdb534f2c84a15af28d5766aced",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 整卦大象 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-overview", "subjectId": "h34-overview", "method": "overview-20261022",
+    "subjectHash": "a6ec35846512b1de4822b5e257142387ff07305c6d0c3edd08d334cc6a3c55a0",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-yao-1", "subjectId": "h34-yao-1", "method": "electronic-20261022",
+    "subjectHash": "48b3860c56eafcd3af6ab36815aebe5122429c634b55faa2206e020afba6d10b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 初九 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-image-1", "subjectId": "h34-image-1", "method": "electronic-20261022",
+    "subjectHash": "eee6439bbe84fe02d90542d7a23d8c06e9129c00cc866fd2509d3b4ab974f36d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 初九小象 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-yao-2", "subjectId": "h34-yao-2", "method": "electronic-20261022",
+    "subjectHash": "811606c3613a8d8a64e51a83918a0686418ab122b7669ea7d46b48c53fc76bb9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 九二 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-image-2", "subjectId": "h34-image-2", "method": "electronic-20261022",
+    "subjectHash": "e7a8e3fcca4ae2d5dbaaec377d9f38280b760c7d289cc8e432f833ede298c9a9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 九二小象 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-yao-3", "subjectId": "h34-yao-3", "method": "electronic-20261022",
+    "subjectHash": "cb7076d753ae04df91402a3af95e61e00d9eac4177ee7ff2bc0bf7011956edf7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 九三 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-image-3", "subjectId": "h34-image-3", "method": "electronic-20261022",
+    "subjectHash": "df5cd8f0a04ce4ab557edb5ce46905fe56c6a00c83888a96ad655223fcd46104",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 九三小象 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-yao-4", "subjectId": "h34-yao-4", "method": "electronic-20261022",
+    "subjectHash": "2bf232c407046e7838330edb1af62bbda82b95c9ac8d42720bc474df29b82de2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 九四 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·九四；异文仅作对校"}],
+    "issues": ["采用电子录文“壯于大輿之輹”，普通电子对校页作“壯于大轝之腹”；依采用录文保留，影印字形待核。"]
+  },
+  {
+    "id": "review-h34-image-4", "subjectId": "h34-image-4", "method": "electronic-20261022",
+    "subjectHash": "4b044e105b303a78226a90783f83947556b8df827e8c15b7a32c472a331a7121",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 九四小象 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-yao-5", "subjectId": "h34-yao-5", "method": "electronic-20261022",
+    "subjectHash": "ec30aef507d084acb8ea38c24dc40b5f21709d6869ac7aa63cd6884fc48f1044",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 六五 / 0007冊.djvu/434"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-image-5", "subjectId": "h34-image-5", "method": "electronic-20261022",
+    "subjectHash": "47e477f1f0f49ab2c68b97e3fa5149d9703686c3ac88ead137c9772d0ed3c2aa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 六五小象 / 0007冊.djvu/435"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-yao-6", "subjectId": "h34-yao-6", "method": "electronic-20261022",
+    "subjectHash": "5b61ffb1bb85fbc5b4f18261a9d509832d496342ab817f09401a3d3dd14c08ae",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 上六 / 0007冊.djvu/435"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h34-image-6", "subjectId": "h34-image-6", "method": "electronic-20261022",
+    "subjectHash": "0fb138a52c8d509b0ac4135e956925e9a71c471499e595e620bcb4bd7932bced",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 大壯 / 上六小象 / 0007冊.djvu/435"},{"sourceId":"ws-zhouyi-34","locator":"第34卦 大壯 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

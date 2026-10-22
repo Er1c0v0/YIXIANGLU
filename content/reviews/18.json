@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h18-statement", "subjectId": "h18-statement", "method": "electronic-20261022",
+    "subjectHash": "4f2cd2482c6471fe376a751507fb031164b39b7d8d71201bcf836026cf47b006",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 卦辞 / 0007冊.djvu/386"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-tuan", "subjectId": "h18-tuan", "method": "electronic-20261022",
+    "subjectHash": "20f251da5c7acc4a6651ea8f82f21e2f400a4a38290035d8f1bf6c9f94593290",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 彖曰 / 0007冊.djvu/386"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-great-image", "subjectId": "h18-great-image", "method": "electronic-20261022",
+    "subjectHash": "a6ad76b9414e95c4686ff4ecad9fa28d3fa5e2d9cd2ae80e71b61c90ee7b7872",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 整卦大象 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-overview", "subjectId": "h18-overview", "method": "overview-20261022",
+    "subjectHash": "416fd000572d4c4784f2e1e006f513d5cc03617c05dddfdf77e41536632d1448",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/386–387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-yao-1", "subjectId": "h18-yao-1", "method": "electronic-20261022",
+    "subjectHash": "122373f1f654ccfa57d5375a620ed00b68249a5b53d4c87512724c6e01ceab66",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 初六 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-image-1", "subjectId": "h18-image-1", "method": "electronic-20261022",
+    "subjectHash": "0ee73854f18ecf2f2f4ac86b9507b1f74895665dfeda7121a66428f0ca668f8d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 初六小象 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-yao-2", "subjectId": "h18-yao-2", "method": "electronic-20261022",
+    "subjectHash": "9352c1c1120e8c35a21a50d61b72fa535f37bdbc2a00357343086d50c2098698",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 九二 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-image-2", "subjectId": "h18-image-2", "method": "electronic-20261022",
+    "subjectHash": "8443031c1d4d67f8ef6a3c3ecbc5fa6556424babd64351edc7627643fc5d9221",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 九二小象 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-yao-3", "subjectId": "h18-yao-3", "method": "electronic-20261022",
+    "subjectHash": "fe080fdb3d2413b7fc643848ee1087121fef1267eff8444831f8d0f87d730d5e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 九三 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-image-3", "subjectId": "h18-image-3", "method": "electronic-20261022",
+    "subjectHash": "ad40c9c0e7a39645a1310c0e872cbd84874e4194f23927ee0599ff2e187af779",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 九三小象 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-yao-4", "subjectId": "h18-yao-4", "method": "electronic-20261022",
+    "subjectHash": "630eaa27824ba0a455b80a154bc61fdf47062a04fb293789ebcb4cf019bdea06",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 六四 / 0007冊.djvu/387"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-image-4", "subjectId": "h18-image-4", "method": "electronic-20261022",
+    "subjectHash": "569bee07ddccac6008bf7b1930717d3676d63a8ee3d3adfb2505260f4ddbd8ce",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 六四小象 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-yao-5", "subjectId": "h18-yao-5", "method": "electronic-20261022",
+    "subjectHash": "0ac3cae2a3a1f9fce087a70cbec9f0fdf7c511b7d94ba437df02d94b4a50abe3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 六五 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-image-5", "subjectId": "h18-image-5", "method": "electronic-20261022",
+    "subjectHash": "f22c2912be47f481525f21c54754b79d58c76f45bb75d049e3cfc5cbe191489e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 六五小象 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h18-yao-6", "subjectId": "h18-yao-6", "method": "electronic-20261022",
+    "subjectHash": "a03c26f4eecaf809efa64f61d0da7bdcce982f2871a48af90f5ad6a2a4c320ad",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 上九 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 易經·上九；异文仅作对校"}],
+    "issues": ["保留采用电子录文“髙”字，普通电子对校页作“高”。"]
+  },
+  {
+    "id": "review-h18-image-6", "subjectId": "h18-image-6", "method": "electronic-20261022",
+    "subjectHash": "f101357caed0337cec4c5599ed1a993cd2441e68e3829d761eceb918685cd39d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 蠱 / 上九小象 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-18","locator":"第18卦 蠱 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

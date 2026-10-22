@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h6-statement", "subjectId": "h6-statement", "method": "electronic-20261022",
+    "subjectHash": "b5b88ed706b185f742fbcdf9ca2595839cee8d55d6f695f35a715b83f07de3e7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 卦辞 / 0007冊.djvu/347"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-tuan", "subjectId": "h6-tuan", "method": "electronic-20261022",
+    "subjectHash": "efecee10def9d188cb040411497851eca7cd6d82110f1866eeb2582909d1d0e3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 彖曰 / 0007冊.djvu/347–348"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-great-image", "subjectId": "h6-great-image", "method": "electronic-20261022",
+    "subjectHash": "71cd18f055462942d79290e3d69318dbc3544f1f05f2d47cb7c857cdad3d0330",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 整卦大象 / 0007冊.djvu/348"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-overview", "subjectId": "h6-overview", "method": "overview-20261022",
+    "subjectHash": "0d72812157ded8c860b79f9ed84851125fb509dc01f5211be3a02addc834021e",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/347–348"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-yao-1", "subjectId": "h6-yao-1", "method": "electronic-20261022",
+    "subjectHash": "b47d35ad06ff1566cb8ae44025a8de40fbf05e9312f6926e5234241ecddf080d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 初六 / 0007冊.djvu/348"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-image-1", "subjectId": "h6-image-1", "method": "electronic-20261022",
+    "subjectHash": "ba4aa773d136daf283a59a70a0ba580e8add0966890b09421e78263e42ff1368",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 初六小象 / 0007冊.djvu/349"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-yao-2", "subjectId": "h6-yao-2", "method": "electronic-20261022",
+    "subjectHash": "fcd8ebd2ea094c4bb4afcebc385103b8e4371af0cd0cfc30112eba8dbae336e5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 九二 / 0007冊.djvu/349"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-image-2", "subjectId": "h6-image-2", "method": "electronic-20261022",
+    "subjectHash": "de3e0d4695bcd067935ea7d0a79b22e19e277461b9040987d687e040aea948ef",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 九二小象 / 0007冊.djvu/349"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-yao-3", "subjectId": "h6-yao-3", "method": "electronic-20261022",
+    "subjectHash": "5f640be2e49cadc4f6861e967fa86eff024c3e67cff39801eda437d4af9fbd40",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 六三 / 0007冊.djvu/349"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-image-3", "subjectId": "h6-image-3", "method": "electronic-20261022",
+    "subjectHash": "51443ec0d91618a6d294665a761f786ef2c50e49be272fba160cb89e2f9921f6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 六三小象 / 0007冊.djvu/349"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-yao-4", "subjectId": "h6-yao-4", "method": "electronic-20261022",
+    "subjectHash": "5caefc2374623d3de03582cb1a83fd3775cfe696fa0f1ceb7dfc55e0d4e4691e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 九四 / 0007冊.djvu/349"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-image-4", "subjectId": "h6-image-4", "method": "electronic-20261022",
+    "subjectHash": "1cadab8470a62aac8c0e57e84cef86e95b4c05e7bdd95e107096fa2eeadc82f2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 九四小象 / 0007冊.djvu/350"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-yao-5", "subjectId": "h6-yao-5", "method": "electronic-20261022",
+    "subjectHash": "e17d11a0288bf417c2a7d0d0988125b6c61e6babc2423fd07eb0c64d2c9592e3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 九五 / 0007冊.djvu/350"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-image-5", "subjectId": "h6-image-5", "method": "electronic-20261022",
+    "subjectHash": "8222c3d66084fd60e252cb4e598a94e7186ceef45a94a04c658a8b25d56eb26c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 九五小象 / 0007冊.djvu/350"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h6-yao-6", "subjectId": "h6-yao-6", "method": "electronic-20261022",
+    "subjectHash": "e2c0ac69a30a3c8cbafe1129d8bae553b6a2329b1d0158f0edeb941740cc0131",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 上九 / 0007冊.djvu/350"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 易經·上九；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“禠”；普通电子对校页作“褫”，待影印核字。"]
+  },
+  {
+    "id": "review-h6-image-6", "subjectId": "h6-image-6", "method": "electronic-20261022",
+    "subjectHash": "35ed9c7fcc10e30d6e586b63d7a70efeb238c81392184eb5d5237ff321c5203d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 訟 / 上九小象 / 0007冊.djvu/350"},{"sourceId":"ws-zhouyi-6","locator":"第6卦 訟 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

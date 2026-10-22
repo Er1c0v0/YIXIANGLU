@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h54-statement", "subjectId": "h54-statement", "method": "electronic-20261022",
+    "subjectHash": "e1529a2321f833954b7da8c5ff2cc6246e0435a125b17a4ff249a0ca7334e407",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 卦辞 / 0007冊.djvu/493"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-tuan", "subjectId": "h54-tuan", "method": "electronic-20261022",
+    "subjectHash": "35c150d6ef8ab4bde6a5f61d97ef0071a3f58744af156a69bbcacabdc064a032",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 彖曰 / 0007冊.djvu/493"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“説”，普通电子对校页相应为“說”；采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h54-great-image", "subjectId": "h54-great-image", "method": "electronic-20261022",
+    "subjectHash": "440b7fb3cbcaf7081913bc249c41121bf0c8cbc6cb3eb5f169b736e4f3695435",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 整卦大象 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-overview", "subjectId": "h54-overview", "method": "overview-20261022",
+    "subjectHash": "e7a0de9e0b2ea4ed84dbd9bc9fd45fbd20a8d8d241cd086aeccbd17896bce7c9",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/493–494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-yao-1", "subjectId": "h54-yao-1", "method": "electronic-20261022",
+    "subjectHash": "2efb496f4dfe232a936dce5588185ea20fa4a20755660afe43ca0666d3dccde9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 初九 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-image-1", "subjectId": "h54-image-1", "method": "electronic-20261022",
+    "subjectHash": "bb908fd2d83250ccaf176ca7dc98a0a8a391565b1cfe738e747e814084d94cd5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 初九小象 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·初九；异文仅作对校"}],
+    "issues": ["采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h54-yao-2", "subjectId": "h54-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e0c2ddc13334cf5c9d81bdce344e4aba076d199ebf61e189b761faa124040d2b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 九二 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-image-2", "subjectId": "h54-image-2", "method": "electronic-20261022",
+    "subjectHash": "13f2fc6132a94b038bc8da15ec8e0c043e035ce2496cf046b3aaeff3c2e73f3c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 九二小象 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-yao-3", "subjectId": "h54-yao-3", "method": "electronic-20261022",
+    "subjectHash": "003b7b553f6752b7cf58080842b7f973e6ab662ecfffcda3a19b6b74ee11a07f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 六三 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-image-3", "subjectId": "h54-image-3", "method": "electronic-20261022",
+    "subjectHash": "b27b3651abf95e949a2be78929f3d11821c46df8c1c7e7a3fff3f762c1ace26d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 六三小象 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-yao-4", "subjectId": "h54-yao-4", "method": "electronic-20261022",
+    "subjectHash": "03e8a2e1628abd59c7ae94af014aac4bb5c352db020c08302501c2a4451717bf",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 九四 / 0007冊.djvu/494"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-image-4", "subjectId": "h54-image-4", "method": "electronic-20261022",
+    "subjectHash": "ecfafbd2e205ea802f64411a8032201d0bd39122a048f54f2bb663f9e47c991d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 九四小象 / 0007冊.djvu/495"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-yao-5", "subjectId": "h54-yao-5", "method": "electronic-20261022",
+    "subjectHash": "badcae815d4acd159bc994e40554cbe2af494431b0cd3652993f2d7910163464",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 六五 / 0007冊.djvu/495"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-image-5", "subjectId": "h54-image-5", "method": "electronic-20261022",
+    "subjectHash": "bd77bc24e8f46ab116db59799c6fb8a3f17f06de337d9bcc995e00bf95ab6780",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 六五小象 / 0007冊.djvu/495"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-yao-6", "subjectId": "h54-yao-6", "method": "electronic-20261022",
+    "subjectHash": "024d172b8961e74d08c369ede57c1c7ef98a41e5766b03e736ea006d335af06d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 上六 / 0007冊.djvu/495"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h54-image-6", "subjectId": "h54-image-6", "method": "electronic-20261022",
+    "subjectHash": "4b12f5cc5b8ddf4d698f12508ed4c8385f8a7a83607ec2c7c5dec673c34bf343",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 歸妹 / 上六小象 / 0007冊.djvu/495"},{"sourceId":"ws-zhouyi-54","locator":"第54卦 歸妹 / 象曰·上六；异文仅作对校"}],
+    "issues": ["采用电子录文“虚”，普通电子对校页相应为“虛”；保留所见，影印字形与异文待核。"]
+  }
+]

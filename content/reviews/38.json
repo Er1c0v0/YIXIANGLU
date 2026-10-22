@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h38-statement", "subjectId": "h38-statement", "method": "electronic-20261022",
+    "subjectHash": "ffe95a950639bff74f0991223e1c80d330625c9024dbbe913fc306c5b6b5dafb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 卦辞 / 0007冊.djvu/444"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-tuan", "subjectId": "h38-tuan", "method": "glyph-display-20261022",
+    "subjectHash": "93b8a222fa0562592efc3f0354e736b722f63ac325c5344563e004c2fef8b073",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 彖曰 / 0007冊.djvu/444"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“𩔖”，普通电子对校页相应为“類”；保留所见，影印字形待核。","2026-10-22显示修正：“𩔖”通写为“類”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=7e87685bfd030d46e87607fca3b9e7be8f1cf20fe3450eb338726733dc94e2ae"]
+  },
+  {
+    "id": "review-h38-great-image", "subjectId": "h38-great-image", "method": "electronic-20261022",
+    "subjectHash": "524de4e361d12e4366bbcd4b073c7a5d2ef579552b2566d58644e087cd0fe9bf",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 整卦大象 / 0007冊.djvu/444"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-overview", "subjectId": "h38-overview", "method": "overview-20261022",
+    "subjectHash": "f5ab4c025d2d9f53a9f27083cedf0e8aad19a9c9a5582e29a037a32c43b81dbc",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/444"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-yao-1", "subjectId": "h38-yao-1", "method": "electronic-20261022",
+    "subjectHash": "c5b3363198a42ba6a843d69ceafc714fb8b352787d2305ee6a09f3181e2e7353",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 初九 / 0007冊.djvu/444"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-image-1", "subjectId": "h38-image-1", "method": "electronic-20261022",
+    "subjectHash": "f917d754463baac76a9e7ecd535b5340a03721f035e2a3e9e983afac13b8bd98",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 初九小象 / 0007冊.djvu/444"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-yao-2", "subjectId": "h38-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e6dc8f5b7f8ad1b8c42837eccae1b776f02f36d8be3bcce2ff31f66ff008aa40",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 九二 / 0007冊.djvu/445"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-image-2", "subjectId": "h38-image-2", "method": "electronic-20261022",
+    "subjectHash": "2a1e44b1ea3621f4ed266ec59361ce1d114fefd410e569f11aae7c7b785c9784",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 九二小象 / 0007冊.djvu/445"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-yao-3", "subjectId": "h38-yao-3", "method": "electronic-20261022",
+    "subjectHash": "102cf4b6a572ce3533dfb8607a765f6eee99cc684fd5f94d40b0ede2bec4175e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 六三 / 0007冊.djvu/445"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“見輿曵，其牛掣”，普通电子对校页作“見輿曳，其牛𧤊”；不以对校页替换采用录文，影印待核。"]
+  },
+  {
+    "id": "review-h38-image-3", "subjectId": "h38-image-3", "method": "electronic-20261022",
+    "subjectHash": "048023b5f7520d1e4bfc9d03b515c1763178d339b5e41337e19a1ad18942ffe2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 六三小象 / 0007冊.djvu/445"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h38-yao-4", "subjectId": "h38-yao-4", "method": "electronic-20261022",
+    "subjectHash": "1133d8101e39930436693b4c2e84f95e5a39907aa08ca598d18ef9bf6b700a6c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 九四 / 0007冊.djvu/445"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-image-4", "subjectId": "h38-image-4", "method": "electronic-20261022",
+    "subjectHash": "b12bd6e03f9d07fbbd1681577a8ccd618b8e0bdb1430d42a6e81b8ce0cc242a1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 九四小象 / 0007冊.djvu/445"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-yao-5", "subjectId": "h38-yao-5", "method": "electronic-20261022",
+    "subjectHash": "306452216f0e14626f6debae42adac2a3cc6beed48ed3eea0be6043c2711541f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 六五 / 0007冊.djvu/446"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-image-5", "subjectId": "h38-image-5", "method": "electronic-20261022",
+    "subjectHash": "e9cd2ae09587206a426f2db256af0c618c593d3d05040fbcee5a05b740f30699",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 六五小象 / 0007冊.djvu/446"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h38-yao-6", "subjectId": "h38-yao-6", "method": "electronic-20261022",
+    "subjectHash": "90722c31c7ab9d0ec5ca413cc4e81d0db47c56b37e7c6a447f7348cbdd1fab23",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 上九 / 0007冊.djvu/446"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 易經·上九；异文仅作对校"}],
+    "issues": ["采用电子录文“塗”、“宼㛰”，普通电子对校页相应为“涂”、“寇婚”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h38-image-6", "subjectId": "h38-image-6", "method": "electronic-20261022",
+    "subjectHash": "ba95ed1c9a4320dbef6ab53813faf26550cd8e87b84943d1c13465f45955128d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 睽 / 上九小象 / 0007冊.djvu/446"},{"sourceId":"ws-zhouyi-38","locator":"第38卦 睽 / 象曰·上九；异文仅作对校"}],
+    "issues": ["采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形待核。"]
+  }
+]

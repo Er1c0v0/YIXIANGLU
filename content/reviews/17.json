@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h17-statement", "subjectId": "h17-statement", "method": "electronic-20261022",
+    "subjectHash": "7053cf271023e6e25a9cd75a2250646a1edb58442a71bd88c08ef85062b9f3d5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 卦辞 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-tuan", "subjectId": "h17-tuan", "method": "electronic-20261022",
+    "subjectHash": "ffc637953cd2e7bbdf73c444e8eb80fd162a7764147744713b678746afe175dc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 彖曰 / 0007冊.djvu/384"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-great-image", "subjectId": "h17-great-image", "method": "electronic-20261022",
+    "subjectHash": "9488a118427aafc296ef3b8ed4d171297e126f7d93d33e006e595210740d30f7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 整卦大象 / 0007冊.djvu/384"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-overview", "subjectId": "h17-overview", "method": "overview-20261022",
+    "subjectHash": "f9e3482700d2eb10f03840d6e8374e305af8d170fc75cfdb6c8034b623cc1679",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/383–384"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-yao-1", "subjectId": "h17-yao-1", "method": "electronic-20261022",
+    "subjectHash": "0ff948a692a5cf7c9c2a1d5d608753d678f8f1691ebec8092ebd13d4b0c842f5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 初九 / 0007冊.djvu/384"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-image-1", "subjectId": "h17-image-1", "method": "electronic-20261022",
+    "subjectHash": "bbd8d155879d76971f00fcd8d721273056dd3445cd65729eb7b3e1b58eda1f1a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 初九小象 / 0007冊.djvu/384"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-yao-2", "subjectId": "h17-yao-2", "method": "electronic-20261022",
+    "subjectHash": "2bfc0580a2f6f5f29caddd571c2e4277fa2b9d2445a3f52048107bc62a3ef67d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 六二 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-image-2", "subjectId": "h17-image-2", "method": "electronic-20261022",
+    "subjectHash": "f4dd9cb5be372778c6971d010aa56695c9d19d3807ca4cf12406c624de807c01",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 六二小象 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-yao-3", "subjectId": "h17-yao-3", "method": "electronic-20261022",
+    "subjectHash": "4f8f334430fa02ec17ce700bc23a3fb753073ef190542588f8682e84a47970fe",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 六三 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·六三；异文仅作对校"}],
+    "issues": ["标点依采用录文注文“隨有求得也”“故利居貞也”整理，未改动经文字序。"]
+  },
+  {
+    "id": "review-h17-image-3", "subjectId": "h17-image-3", "method": "electronic-20261022",
+    "subjectHash": "75e5a0cd7df6bb497b8c35f50c4862a337749360cfeb562e9e3db03c07832a0a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 六三小象 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-yao-4", "subjectId": "h17-yao-4", "method": "glyph-display-20261022",
+    "subjectHash": "832a03160c0eb5a22becf5d068d6183c47d83ffbfbe81685f7dfa498670b737d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 九四 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·九四；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“𫉬”，普通电子对校页作“獲”；影印字形待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=ddfcac7a599c1d70e881bccb50be7d46c627721b33eb66b20b641a996b90cb3c"]
+  },
+  {
+    "id": "review-h17-image-4", "subjectId": "h17-image-4", "method": "glyph-display-20261022",
+    "subjectHash": "64a128572bb7c8a6969597b72b3d218f8449c5760732e7201c67a9c6303103bb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 九四小象 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·九四；异文仅作对校"}],
+    "issues": ["保留采用电子录文“𫉬”字，影印字形待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=763d1dca81f346f5b8ad80cc2fd644fda002bd134b732324ccc1c6fe24071f4c"]
+  },
+  {
+    "id": "review-h17-yao-5", "subjectId": "h17-yao-5", "method": "electronic-20261022",
+    "subjectHash": "52429f6a1677e2200146c0612b9a105809bc5d79181379ab3e2399dbeddb1080",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 九五 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-image-5", "subjectId": "h17-image-5", "method": "electronic-20261022",
+    "subjectHash": "dca377210b05b5e638c406f30b2e5e8665567b3df064ad6e2c301bbcb7248ab8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 九五小象 / 0007冊.djvu/385"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-yao-6", "subjectId": "h17-yao-6", "method": "electronic-20261022",
+    "subjectHash": "433c90b3245c37138b0520d3bb7e8ba7db24bcbfafbd60942efe74c375770876",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 上六 / 0007冊.djvu/386"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h17-image-6", "subjectId": "h17-image-6", "method": "electronic-20261022",
+    "subjectHash": "6a74c25ec6d639056ccd4b23e75994189ed4979079e8f6b05e0df5c89441f416",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 隨 / 上六小象 / 0007冊.djvu/386"},{"sourceId":"ws-zhouyi-17","locator":"第17卦 隨 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

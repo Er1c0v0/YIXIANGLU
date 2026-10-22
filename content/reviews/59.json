@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h59-statement", "subjectId": "h59-statement", "method": "electronic-20261022",
+    "subjectHash": "14c6184233b87ad43a3d51adc8f7ac24322849912a89860642af7bbed22d923c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 卦辞 / 0007冊.djvu/509"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h59-tuan", "subjectId": "h59-tuan", "method": "electronic-20261022",
+    "subjectHash": "0846b1c50f20c2e1b35851084cd1ce791f0fb8598db116daa2e6f5b1212581ff",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 彖曰 / 0007冊.djvu/509"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“渉”，普通电子对校页相应为“涉”；采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。","本次四库电子页此段标题作“象曰”，段内释卦辞且普通电子对校页归入“彖曰”；本档按彖传归类，正文不收录栏目标题。标题差异保留待影印核定，未据此声称已纠正底本。"]
+  },
+  {
+    "id": "review-h59-great-image", "subjectId": "h59-great-image", "method": "electronic-20261022",
+    "subjectHash": "01ed73a58c9d64a672d36e44179a99150e7dacde5f862e0dfd4557a02542fad7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 整卦大象 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-overview", "subjectId": "h59-overview", "method": "overview-20261022",
+    "subjectHash": "0c9d997cfd792571e53e3718c5777939bbbc6f20fccf5969c8ad06dd3c4c9768",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/509–510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-yao-1", "subjectId": "h59-yao-1", "method": "electronic-20261022",
+    "subjectHash": "13c05c534978473838fff2bc63e2d40e43ee3438967ebd972d257491185649e6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 初六 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·初六；异文仅作对校"}],
+    "issues": ["采用电子录文“用拯馬壯吉”，普通电子对校页作“用拯馬壯，吉，悔亡”；未向主文补入“悔亡”，影印待核。"]
+  },
+  {
+    "id": "review-h59-image-1", "subjectId": "h59-image-1", "method": "electronic-20261022",
+    "subjectHash": "03c9212f15920c8ea020617c09d6e5fd3f13666118b491951ab57a652ef79607",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 初六小象 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-yao-2", "subjectId": "h59-yao-2", "method": "electronic-20261022",
+    "subjectHash": "b85acfdeee30f0aa6b3edcac814f7edbcbef0134b3e69e2238d9b9e2774f235d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 九二 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-image-2", "subjectId": "h59-image-2", "method": "electronic-20261022",
+    "subjectHash": "d0bba881f95f8ef730be8e0ffd574229da447dd602585d8bf995ad8c878e2797",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 九二小象 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h59-yao-3", "subjectId": "h59-yao-3", "method": "electronic-20261022",
+    "subjectHash": "323b84a91e5d5fca6a372fc7eba0c0252fab25be496f95a654d50db807d4e736",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 六三 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-image-3", "subjectId": "h59-image-3", "method": "electronic-20261022",
+    "subjectHash": "f17888846806d6c2b3bb73af002669e512bf1f6efc6c9e6155465d252e2a22ac",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 六三小象 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-yao-4", "subjectId": "h59-yao-4", "method": "electronic-20261022",
+    "subjectHash": "b667d0f5c1051a43088e4ac432474bdd591b804da1e54f50f6160dedd6e3cbb1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 六四 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h59-image-4", "subjectId": "h59-image-4", "method": "electronic-20261022",
+    "subjectHash": "7c59ba90e7d6942086e8381f8dbdc446be03aef07d307150c6f9fcd1365b2af6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 六四小象 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“羣”，普通电子对校页相应为“群”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h59-yao-5", "subjectId": "h59-yao-5", "method": "electronic-20261022",
+    "subjectHash": "f5d12b3b73fe308f44e8ee738f068804210cbcecfea691452f3dfe7d5414697e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 九五 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-image-5", "subjectId": "h59-image-5", "method": "electronic-20261022",
+    "subjectHash": "5ea93569b202aa04e1c04536ac81dd4027d7c9ceca0bce94a9cb560465676102",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 九五小象 / 0007冊.djvu/510"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-yao-6", "subjectId": "h59-yao-6", "method": "electronic-20261022",
+    "subjectHash": "befc83e5f126fc379bdd3d6f8bc89c929bc0102824d7560e787d4736c7e904e9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 上九 / 0007冊.djvu/511"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h59-image-6", "subjectId": "h59-image-6", "method": "electronic-20261022",
+    "subjectHash": "ffd99e7c69ec6fc4447490e7e06d0caafba190524d71c39b9d0ec7b42901bbfe",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 涣 / 上九小象 / 0007冊.djvu/511"},{"sourceId":"ws-zhouyi-59","locator":"第59卦 涣 / 象曰·上九；异文仅作对校"}],
+    "issues": ["采用电子录文“逺”，普通电子对校页相应为“遠”；保留所见，影印字形与异文待核。"]
+  }
+]

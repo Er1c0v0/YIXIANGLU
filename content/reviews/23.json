@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h23-statement", "subjectId": "h23-statement", "method": "electronic-20261021",
+    "subjectHash": "5117b4dd96996e1922b2bae61e97dc1736597430bbc238e60939e9302aafe450",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 卦辞 / 0007冊.djvu/401"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-tuan", "subjectId": "h23-tuan", "method": "electronic-20261021",
+    "subjectHash": "6cb3c3c8e456c138a2cfd635958783dd9d48dc0b375b38443d68ce0747467c1d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 彖曰 / 0007冊.djvu/401"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-great-image", "subjectId": "h23-great-image", "method": "electronic-20261021",
+    "subjectHash": "500a246aeb22518e0ed85e75729c230aae285697c0d79f66da519342512b284e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 整卦大象 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-overview", "subjectId": "h23-overview", "method": "overview-20261021",
+    "subjectHash": "95bb12f12b48023d00501f91b76d0d61e72aa90ecf3e6d2cd30acdca00b46e8c",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/401–402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-yao-1", "subjectId": "h23-yao-1", "method": "electronic-20261021",
+    "subjectHash": "37640a331a86cb62c4e09f8b026da9683100a857abcd28ff1d1e9b02fa735e3b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 初六 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-image-1", "subjectId": "h23-image-1", "method": "electronic-20261021",
+    "subjectHash": "677818cfe2bd0608c63148819e08e7db4fbc0437cdc5e6907fb8029a3f6f558b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 初六小象 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-yao-2", "subjectId": "h23-yao-2", "method": "electronic-20261021",
+    "subjectHash": "49806ca8323999837be92177f2a6114f62a23f8652178cddf1eb8f6a66eba601",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六二 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-image-2", "subjectId": "h23-image-2", "method": "electronic-20261021",
+    "subjectHash": "ed408d4f1f5a9da5ec20dc744a1df078be95b82c1983316a5736e9583655c97c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六二小象 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-yao-3", "subjectId": "h23-yao-3", "method": "electronic-20261021",
+    "subjectHash": "2f487c9d5300687cbd8106b86be766662420e773b6888453e82e3b0db3363d09",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六三 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-image-3", "subjectId": "h23-image-3", "method": "electronic-20261021",
+    "subjectHash": "2dcf66ca390ee85bcd50bcd7fb8705b7a464d678466cf2b02dc3ab1413542357",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六三小象 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-yao-4", "subjectId": "h23-yao-4", "method": "electronic-20261021",
+    "subjectHash": "601fb0502ea9b008f28ff2a5ca6d607577cb786d31eb7285457bb1913df5adfd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六四 / 0007冊.djvu/402"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-image-4", "subjectId": "h23-image-4", "method": "electronic-20261021",
+    "subjectHash": "e132db2e8e272d7bdb572a3e5babb544c33923af1bced5dc92e739dceda4faf5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六四小象 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-yao-5", "subjectId": "h23-yao-5", "method": "electronic-20261021",
+    "subjectHash": "eda8680c81b59f9898fd89a8398c07bd738cfd048360af9fa3c9cea8b365a7c6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六五 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-image-5", "subjectId": "h23-image-5", "method": "electronic-20261021",
+    "subjectHash": "2663e1946102195aa1b81abf06c26ddbc920ce3b0bdf2da87a4dd4dea6297803",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 六五小象 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-yao-6", "subjectId": "h23-yao-6", "method": "electronic-20261021",
+    "subjectHash": "d66e47d0a73b0c4a53152acf9ac8fbb287ab8c0d96666da93a87f3470335d43b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 上九 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h23-image-6", "subjectId": "h23-image-6", "method": "electronic-20261021",
+    "subjectHash": "99e7283b3658748ec3021ceba867f3f16a5a2b4ad410279c52da07f7c9332c17",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 剝 / 上九小象 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-23","locator":"第23卦 剝 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  }
+]

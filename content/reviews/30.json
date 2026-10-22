@@ -1,0 +1,156 @@
+[
+  {
+    "id": "review-h30-statement", "subjectId": "h30-statement", "method": "prototype-20261021",
+    "subjectHash": "c17dbe04c444403d403b4791946e097a4cc7f61d46b0fdca0b1c29bf6852107f",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 卦辞"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-tuan", "subjectId": "h30-tuan", "method": "prototype-20261021",
+    "subjectHash": "b2ce7a5627ba5ccefc59f3e83bcb4b131066277477a80d2cca305ab768c3d20f",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰 / 全段"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-great-image", "subjectId": "h30-great-image", "method": "prototype-20261021",
+    "subjectHash": "22aaeca68a2e0ec757818f06f53846fa15ef97d6161ca2fc0971322482dd6e44",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 整卦大象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-yao-1", "subjectId": "h30-yao-1", "method": "prototype-20261021",
+    "subjectHash": "f62c8cbb2a38b297599e744ea017d3fb35df62db2e09eeeabb6bc249491d7128",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 初九"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-image-1", "subjectId": "h30-image-1", "method": "prototype-20261021",
+    "subjectHash": "8512036dea6204f2709a7ea99a52244746ea06d4d4f11c0d5f6402ad963db354",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 初九小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-yao-2", "subjectId": "h30-yao-2", "method": "prototype-20261021",
+    "subjectHash": "b985a7acd8bca1a6d57ec0d60995655eb32c7e045aecb2e2bbaa76b6ad770801",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 六二"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-image-2", "subjectId": "h30-image-2", "method": "prototype-20261021",
+    "subjectHash": "6e1ce3ffc3d05e9a39d991d80ae7367dc1c2e1f371645b3a0acb1b59acb70721",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 六二小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-yao-3", "subjectId": "h30-yao-3", "method": "prototype-20261021",
+    "subjectHash": "f71c82f73c95bb0ad3df3a375fdc57d5dbed6050b60835ea3e61b48980e2b052",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 九三"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-image-3", "subjectId": "h30-image-3", "method": "prototype-20261021",
+    "subjectHash": "26600bbeefa967ab3777ea1cfed5c20918d7b4942cb03ad3e6ab73efa77a874d",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 九三小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-yao-4", "subjectId": "h30-yao-4", "method": "prototype-20261021",
+    "subjectHash": "caf24bf77a70b3e702fed2a40a60bf2769d56d31adcdd900625b32bf397b82ad",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 九四"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-image-4", "subjectId": "h30-image-4", "method": "prototype-20261021",
+    "subjectHash": "a702814fbe33d11478d95a5fca8168353ca3f840861761b7882f3e2e13af6606",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 九四小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-yao-5", "subjectId": "h30-yao-5", "method": "prototype-20261021",
+    "subjectHash": "ca2f1c0df3891279325c34a35bd70f38b0a701a06abaab06f7e0c4f0adbcc136",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 六五"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-image-5", "subjectId": "h30-image-5", "method": "prototype-20261021",
+    "subjectHash": "af8e9b2464a7dcf42d6595b7da31b2749ee6be48842187b7370dae8cd4478302",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 六五小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-yao-6", "subjectId": "h30-yao-6", "method": "prototype-20261021",
+    "subjectHash": "7ed828c830d805ef9e28944a456ab97750bfb787ed84406b02e7833ad37d86a2",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 易經 / 上九"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-image-6", "subjectId": "h30-image-6", "method": "prototype-20261021",
+    "subjectHash": "d604789b3014dcd6fe0da129d78627923d023759365180394d1f9be86fa6fb2a",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 象曰 / 上九小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-overview", "subjectId": "h30-overview", "method": "prototype-20261021",
+    "subjectHash": "d026903c5ae4d640131be684976e3537721ac65a11cf320fca844a015d14f973",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-position-1", "subjectId": "h30-position-1", "method": "prototype-20261021",
+    "subjectHash": "13a435da3fd42712ae3dfd6f305c0512ad71f169c369e63508d522c83066a087",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-position-2", "subjectId": "h30-position-2", "method": "prototype-20261021",
+    "subjectHash": "0c05fbe9651dea9c78e6abcc20ec26cbd2170f606636d3706bdac1efc0994c64",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-position-3", "subjectId": "h30-position-3", "method": "prototype-20261021",
+    "subjectHash": "c85e8fee5d4a808b9c022be01a897c0f689176628af2fcefb658c9bfbfaf4f1d",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-position-4", "subjectId": "h30-position-4", "method": "prototype-20261021",
+    "subjectHash": "7d1e7c6e7d3ca5d0561e31c871c58bd1327177a648f7fed95a91fe5b8d5ed8a0",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-position-5", "subjectId": "h30-position-5", "method": "prototype-20261021",
+    "subjectHash": "dc891a0d7f755de11ce131a8414e67accb982c7291cd39282f80075aa2fcea76",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h30-position-6", "subjectId": "h30-position-6", "method": "prototype-20261021",
+    "subjectHash": "afcb05c36f8837dc0b83b491dec3587d062561ceb66f3dfa1d3817a175713bc5",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-30","locator":"第30卦 離 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  }
+]

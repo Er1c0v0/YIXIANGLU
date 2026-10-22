@@ -1,9 +1,10 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
 import { readFileSync, readdirSync } from 'node:fs'
-import { expandReviews, hash, validateContent } from '../scripts/content-lib.mjs'
-import { getContent, getCollectedHexagrams } from '../miniprogram/data/repository'
-import { SOURCES } from '../miniprogram/data/content'
+import { readReviewFiles, expandReviews, hash, validateContent } from '../scripts/content-lib.mjs'
+import { getContent } from '../miniprogram/data/repository'
+import { HEXAGRAM_CONTENT } from '../miniprogram/data/content'
+import { SOURCES } from '../miniprogram/data/sources'
 import { combine } from '../miniprogram/domain/hexagrams'
 import { castNumbers, resultForSession } from '../miniprogram/domain/casting'
 import { newFlow, startSession, readSession, sessionRoute } from '../miniprogram/state/session'
@@ -11,8 +12,8 @@ import type { CastSession } from '../miniprogram/domain/types'
 
 const load = (file: string) => JSON.parse(readFileSync(file,'utf8'))
 const files = readdirSync('content/hexagrams/').filter(file=>file.endsWith('.json')).sort()
-const reviewFile = load('content/reviews.json')
-const dataset = { contents:files.map(file=>load(`content/hexagrams/${file}`)), sources:load('content/sources.json'), reviews:expandReviews(reviewFile) }
+const reviewFile = readReviewFiles()
+const dataset = { contents:files.map(file=>load(`content/hexagrams/${file}`)), sources:load('content/sources.json'), reviews:expandReviews(reviewFile), search:load('content/search.json'), imagery:load('content/imagery.json'), relations:load('content/elements.json') }
 
 test('增量资料：无白话正常构建、现有资料读取及全库门槛隔离', () => {
   const manifest = validateContent(dataset)
@@ -20,10 +21,10 @@ test('增量资料：无白话正常构建、现有资料读取及全库门槛�
   assert.equal(manifest.counts.hexagrams, ids.length)
   assert.equal(manifest.counts.originalBlocks, ids.length * 15 + ids.filter(id => id <= 2).length * 2)
   assert.equal(manifest.counts.reviewRecords, dataset.reviews.length)
-  assert.deepEqual(getCollectedHexagrams().map(item => item.id), ids)
+  assert.deepEqual(HEXAGRAM_CONTENT.map(item => item.id), ids)
   for (const id of manifest.missingHexagramIds) assert.equal(getContent(id), undefined)
   // 固定用单卦子集验证发布门槛，收齐64卦后仍可运行。
-  const partial = { ...dataset, contents: [dataset.contents[0]], reviews: dataset.reviews.filter(record => record.subjectId.startsWith(`h${ids[0]}-`)) }
+  const partial = { ...dataset, search: [], imagery: [], relations: [], contents: [dataset.contents[0]], reviews: dataset.reviews.filter(record => record.subjectId.startsWith(`h${ids[0]}-`)) }
   assert.throws(() => validateContent(partial, { release: true }), /64 卦/)
 })
 

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h41-statement", "subjectId": "h41-statement", "method": "electronic-20261022",
+    "subjectHash": "4b7aaccc1e25eb7fcf1f590a630769f21a3b559ab987eec87875ef1b6984373f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 卦辞 / 0007冊.djvu/451"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-tuan", "subjectId": "h41-tuan", "method": "electronic-20261022",
+    "subjectHash": "c0dbd8cfdcf0574a21ee275db14ada0c8ebc9ce0ed206f16b362b94adad02bf3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 彖曰 / 0007冊.djvu/451–452"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-great-image", "subjectId": "h41-great-image", "method": "electronic-20261022",
+    "subjectHash": "bbbec54b40b77e1ce945656c5dd716d44722d34d8c9231c5318db89df9489d80",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 整卦大象 / 0007冊.djvu/452"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-overview", "subjectId": "h41-overview", "method": "overview-20261022",
+    "subjectHash": "e672e623009c9d417e612d141b84c1f87090a18c30a088a00623a644dc021a0e",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/451–452"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-yao-1", "subjectId": "h41-yao-1", "method": "electronic-20261022",
+    "subjectHash": "128f57ae447efc3de14e65d2d6f8c9d284122a8814c3a13db50ea3798bc9d45e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 初九 / 0007冊.djvu/452"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·初九；异文仅作对校"}],
+    "issues": ["采用电子录文“已事遄往”，普通电子对校页爻辞作“祀事遄往”、小象仍作“已事遄往”；依采用录文保留，影印待核。"]
+  },
+  {
+    "id": "review-h41-image-1", "subjectId": "h41-image-1", "method": "electronic-20261022",
+    "subjectHash": "33e4efdb315e1e6faab29a15268c647421fc0ba2cbf62af4722ca012db2cc9df",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 初九小象 / 0007冊.djvu/452"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-yao-2", "subjectId": "h41-yao-2", "method": "electronic-20261022",
+    "subjectHash": "4e89e92e4c3d8210b6a9464310a0cd07ae7d41c786e3c355a83dab1b4e8516b7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 九二 / 0007冊.djvu/452"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-image-2", "subjectId": "h41-image-2", "method": "electronic-20261022",
+    "subjectHash": "65c8d3b531452f7e85e3027a5a440b77773bb719c8144a0f165f8801ab06e11d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 九二小象 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h41-yao-3", "subjectId": "h41-yao-3", "method": "electronic-20261022",
+    "subjectHash": "3bcb29ffca0e9f28cabe5c2424ecadcbfddc97932f3a9fbb4d68bedbb6897992",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 六三 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-image-3", "subjectId": "h41-image-3", "method": "electronic-20261022",
+    "subjectHash": "1e0603ce0f53d0ff3f1e2f219697090553a9407086545a28177ec4e8a3c0f613",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 六三小象 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-yao-4", "subjectId": "h41-yao-4", "method": "electronic-20261022",
+    "subjectHash": "463a98d29ed1f9c2ec6a2fcf682754d6ed529ab79b7fe9a237e9f12cb1b11e2d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 六四 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-image-4", "subjectId": "h41-image-4", "method": "electronic-20261022",
+    "subjectHash": "022624e6c74530dc1d7f1123ed99433574d2f30787cd826c61bdd3778d4e2d22",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 六四小象 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-yao-5", "subjectId": "h41-yao-5", "method": "electronic-20261022",
+    "subjectHash": "e742b229ba8183c20b625e79d1001fe95ffd5f854713067b97e1cbc8697579c7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 六五 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-image-5", "subjectId": "h41-image-5", "method": "electronic-20261022",
+    "subjectHash": "1ec1e01bfa3cbbe99035d47b3f304b001f0c4fcc0d197d86630b9ce653aad833",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 六五小象 / 0007冊.djvu/453"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·六五；异文仅作对校"}],
+    "issues": ["采用电子录文“祐”，普通电子对校页相应为“佑”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h41-yao-6", "subjectId": "h41-yao-6", "method": "electronic-20261022",
+    "subjectHash": "708230714e764520eed0b9a46bda0bb3ce4e9749665b9616778fd5f29e08d535",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 上九 / 0007冊.djvu/454"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h41-image-6", "subjectId": "h41-image-6", "method": "electronic-20261022",
+    "subjectHash": "42121a2b0b0b98a0f0bdae13d33939097c96e24366eebf66fceced2adc2a19eb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 損 / 上九小象 / 0007冊.djvu/454"},{"sourceId":"ws-zhouyi-41","locator":"第41卦 損 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h4-statement", "subjectId": "h4-statement", "method": "meng-display-20261022",
+    "subjectHash": "b3924bff7e3702536f25cc5c154b94677721527d3e40867b6e014555ca0e8a2b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 卦辞 / 0007冊.djvu/342"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["原首字“𫎇”及旧审核见提交0a2ead8；原subjectHash=00725d4d3e14197714d007ea3dc8e78a8294f0f52ce94a85a4ebdaaa3856d589"]
+  },
+  {
+    "id": "review-h4-tuan", "subjectId": "h4-tuan", "method": "electronic-20261022",
+    "subjectHash": "3066eb1249148b0df63e6374b90857f5b3995f44086c6759c62cd77573e43635",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 彖曰 / 0007冊.djvu/342–343"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-great-image", "subjectId": "h4-great-image", "method": "electronic-20261022",
+    "subjectHash": "3de653cbec211a3fe513070209cd65242a44b2985f0a4b469e2e3f8003a08407",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 整卦大象 / 0007冊.djvu/343"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-overview", "subjectId": "h4-overview", "method": "overview-20261022",
+    "subjectHash": "a9dd9af965914953cd71554e1118ec9111758c8b77d46e85aa6b9708c881b3bd",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/342–343"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-yao-1", "subjectId": "h4-yao-1", "method": "electronic-20261022",
+    "subjectHash": "b11b2c07d4380942e03e24c6ee87b831033e581022a94e62c23a9abb55fca627",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 初六 / 0007冊.djvu/343"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-image-1", "subjectId": "h4-image-1", "method": "electronic-20261022",
+    "subjectHash": "1663d375a548dc1dea515efcc7a8541e0a47cd60460e85fe5fc3f0bf7ef18af4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 初六小象 / 0007冊.djvu/343"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-yao-2", "subjectId": "h4-yao-2", "method": "electronic-20261022",
+    "subjectHash": "5ee421758b4b78c7292abdbd167f7c82b7be3482a8af475cc585ed7e1f545817",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 九二 / 0007冊.djvu/343"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-image-2", "subjectId": "h4-image-2", "method": "electronic-20261022",
+    "subjectHash": "58da2df721701c067a650e20e15f432883b421dd41a2add82d82326a136bdf70",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 九二小象 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-yao-3", "subjectId": "h4-yao-3", "method": "electronic-20261022",
+    "subjectHash": "d2e77abba696976e939d46319f01168c51a66c97c81b50c816fa6fc7aaeab554",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 六三 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-image-3", "subjectId": "h4-image-3", "method": "electronic-20261022",
+    "subjectHash": "427756c60c5d935799bd78b114f865dabbfca61a3ddf4561d5332d1a6a239dd5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 六三小象 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-yao-4", "subjectId": "h4-yao-4", "method": "electronic-20261022",
+    "subjectHash": "278e5bf1efdcd313cd0b54c22935123745e2b9e38eb84dc8fe47b10cd543cb32",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 六四 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-image-4", "subjectId": "h4-image-4", "method": "electronic-20261022",
+    "subjectHash": "219103b6a8773a7483aa415fbd89b75bca529a189f748973facc6c147e6052ea",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 六四小象 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-yao-5", "subjectId": "h4-yao-5", "method": "electronic-20261022",
+    "subjectHash": "7d9d576337dcee6249e486069ec9b0b8017cfac5abc1cb6618bb5069ce0c0dc5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 六五 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-image-5", "subjectId": "h4-image-5", "method": "electronic-20261022",
+    "subjectHash": "8db37b3ac7c2525ac8286582a9b2c9e7696fe6ed92668318eb740cfb0e83f846",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 六五小象 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-yao-6", "subjectId": "h4-yao-6", "method": "electronic-20261022",
+    "subjectHash": "71e2f5d573cba84968d36061dddac863ca2f9927b14cbef39c316f2cb2649826",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 上九 / 0007冊.djvu/344"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h4-image-6", "subjectId": "h4-image-6", "method": "electronic-20261022",
+    "subjectHash": "1940a1e9c375cbc1a8caae1130156908be37b0fd63ae46790f0e4182d4dc9e99",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 蒙 / 上九小象 / 0007冊.djvu/345"},{"sourceId":"ws-zhouyi-4","locator":"第4卦 蒙 / 象曰·上九；异文仅作对校"}],
+    "issues": ["四库本电子录文作“利用禦宼”，普通电子对校页作“利禦寇”；依采用录文暂存，待影印复核。"]
+  }
+]

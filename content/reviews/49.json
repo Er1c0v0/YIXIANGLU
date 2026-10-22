@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h49-statement", "subjectId": "h49-statement", "method": "electronic-20261022",
+    "subjectHash": "4859a82a7bb95b4b619caf4d5257c73c2f3decb0f01260447c9c46edeb8f249f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 卦辞 / 0007冊.djvu/476"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-tuan", "subjectId": "h49-tuan", "method": "electronic-20261022",
+    "subjectHash": "dccc48bc2d33ba30b2e8fca9010385d216ebcebd44b4939361afa6fcef530ed1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 彖曰 / 0007冊.djvu/476"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“革而信之”“文眀以説”“革之時大矣哉”，普通电子对校页分别作“革而信也”“文明以說”“革之時義大矣哉”；未向主文补入“義”字，影印待核。"]
+  },
+  {
+    "id": "review-h49-great-image", "subjectId": "h49-great-image", "method": "electronic-20261022",
+    "subjectHash": "b08906a20fc50712d95458527a4200a59906d392935ce51327eede1dbfdbe2bb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 整卦大象 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用电子录文“厯眀”，普通电子对校页相应为“歷明”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h49-overview", "subjectId": "h49-overview", "method": "overview-20261022",
+    "subjectHash": "7829ef68917a10ee0e689954db28bcf72c80e7e4974d6ec048c73988b2a5f2b9",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/476–477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-yao-1", "subjectId": "h49-yao-1", "method": "electronic-20261022",
+    "subjectHash": "8feefb617b2f966aedd37ab9c5e57a868d1ed5bd8d243ef91f74f8b228c8c26d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 初九 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·初九；异文仅作对校"}],
+    "issues": ["采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h49-image-1", "subjectId": "h49-image-1", "method": "electronic-20261022",
+    "subjectHash": "8a0a6191d9b485528b8dc4ad99435b3d897a54079a749d6f4caefea60c24e20b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 初九小象 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·初九；异文仅作对校"}],
+    "issues": ["采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h49-yao-2", "subjectId": "h49-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e16c074f323cba320482ef1481acefd3663d82c84e03e933aa5af339b339ddd7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 六二 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-image-2", "subjectId": "h49-image-2", "method": "electronic-20261022",
+    "subjectHash": "108d6f86a01bfff45ad78455e11c0ef483f6fe57433b47112267b08851f56065",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 六二小象 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-yao-3", "subjectId": "h49-yao-3", "method": "electronic-20261022",
+    "subjectHash": "fd956bb9fb1f26f451ba2a7b7ca873c873ca7fd16e75f48835af9d7acb3ddc19",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 九三 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-image-3", "subjectId": "h49-image-3", "method": "electronic-20261022",
+    "subjectHash": "4a7a7d91ddd3741ffd569062bbcb1a71ebf39302700df06c52d49abdd5ba3706",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 九三小象 / 0007冊.djvu/477"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-yao-4", "subjectId": "h49-yao-4", "method": "electronic-20261022",
+    "subjectHash": "e46d97d75367ebd80cdb2b2937369442ec89e048663cc452d90bd59b48dc1971",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 九四 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-image-4", "subjectId": "h49-image-4", "method": "electronic-20261022",
+    "subjectHash": "33957bb96dd5d63a8fdd609e92256470b58b3c8d65b37b42ef75fa9241416c0b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 九四小象 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-yao-5", "subjectId": "h49-yao-5", "method": "electronic-20261022",
+    "subjectHash": "08558ac1f2108f9de4cc9a6f9e9daf4671836f1c84dd7b7968613b7ef9ce9162",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 九五 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-image-5", "subjectId": "h49-image-5", "method": "electronic-20261022",
+    "subjectHash": "bbd15189580a3304579fb949376e257e1e8651b2a8d5f4db5bfd0e8a36d2b7ea",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 九五小象 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-yao-6", "subjectId": "h49-yao-6", "method": "electronic-20261022",
+    "subjectHash": "0a2fd7f2cbd9796f449a81228c9e3815cb82850de02976cace34cde5a10eac37",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 上六 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h49-image-6", "subjectId": "h49-image-6", "method": "electronic-20261022",
+    "subjectHash": "7bcb51aa540d41f2b91a2d286e9f6040c04268f47ffb22fe23f8bd8a1f1211c0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 革 / 上六小象 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-49","locator":"第49卦 革 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

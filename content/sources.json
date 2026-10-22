@@ -889,5 +889,201 @@
     "revisionOrSnapshot": "10647450",
     "accessedAt": "2026-10-22",
     "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
+  },
+  {
+    "id": "prd-classroom",
+    "title": "PRD所载课堂资料转录",
+    "authorOrCompiler": "原课堂表作者未详；PRD记录与本项目转录",
+    "edition": "docs/PRD.md §5.8“取象比类”八类表；仅依据PRD转录，未取得原照片或教材页码",
+    "provider": "本项目PRD",
+    "revisionOrSnapshot": "2026-10-22 · §5.8 · 八类×八卦",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "课堂资料权利归原权利人；仅登记PRD中对应关系的转录，不据此宣称具有原照片或教材许可。"
+  },
+  {
+    "id": "editorial-search",
+    "title": "易象录检索字段整理",
+    "authorOrCompiler": "易象录项目整理",
+    "edition": "基于既有64卦名称、全称及上下卦；普通话拼音分音节登记，首字母由音节提取；重点读音另附字词典引用",
+    "provider": "本项目",
+    "revisionOrSnapshot": "2026-10-22 · search.json",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "检索事实字段由本项目整理；未转载词典释义。"
+  },
+  {
+    "id": "moe-hexagram-names",
+    "title": "教育部《重编国语辞典修订本》·六十四卦",
+    "authorOrCompiler": "教育部",
+    "edition": "2021版／台湾学术网络第六版；词条ID=63849",
+    "provider": "教育部",
+    "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=63849&la=0&powerMode=0",
+    "revisionOrSnapshot": "2026-10-22访问 · ID=63849",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅核对卦名及字形，不转载释义；词典内容权利归教育部。"
+  },
+  {
+    "id": "ws-meihua-1",
+    "title": "《梅花易数》卷一",
+    "authorOrCompiler": "旧题邵雍；电子录文由维基文库贡献者整理",
+    "edition": "维基文库固定电子修订oldid=2690596；未核定纸本，未作影印复核",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=梅花易數/卷一&oldid=2690596",
+    "revisionOrSnapshot": "2690596",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "古代原文属公有领域；电子录文署名维基文库贡献者，依页面CC BY-SA 4.0及附加条款使用。本项目摘取对应词并按字段整理，现代说明为本项目整理。"
+  },
+  {
+    "id": "ws-shuogua-lookup",
+    "title": "《易传·说卦》",
+    "authorOrCompiler": "古代经传；电子录文由维基文库贡献者整理",
+    "edition": "维基文库固定电子修订oldid=2614055；未核定纸本，未作影印复核",
+    "provider": "维基文库",
+    "url": "https://zh.wikisource.org/w/index.php?title=易傳/說卦&oldid=2614055",
+    "revisionOrSnapshot": "2614055",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "古代原文属公有领域；电子录文署名维基文库贡献者，依页面CC BY-SA 4.0及附加条款使用。本项目摘取对应词并按字段整理，现代说明为本项目整理。"
+  },
+  {
+    "id": "shidian-earlier-directions",
+    "title": "《周会魁校正易经大全》·先天八卦方位",
+    "authorOrCompiler": "胡广编；林罗山训点（按提供方著录）",
+    "edition": "识典古籍电子本NA00535，章节1mdw8110qaazq中“邵子曰：乾南坤北”段；只核电子摘录，未核纸本刊年与影印页",
+    "provider": "识典古籍",
+    "url": "https://www.shidianguji.com/zh/mid-page/7476580232355495973",
+    "revisionOrSnapshot": "2026-10-22访问 · 段落7476580232355495973",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "古代对应关系为事实资料；仅提取八个方位词，未转载平台整理注释。"
+  },
+  {
+    "id": "moe-bi",
+    "title": "教育部国语辞典·賁",
+    "authorOrCompiler": "教育部",
+    "edition": "《重编国语辞典修订本》2021版；对应网址词条",
+    "provider": "教育部",
+    "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=405&la=0&powerMode=0",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅核对卦名读音，不转载词典释义；词典权利归教育部。"
+  },
+  {
+    "id": "moe-xiaoxu",
+    "title": "教育部国语辞典·小畜",
+    "authorOrCompiler": "教育部",
+    "edition": "《重编国语辞典修订本》2021版；对应网址词条",
+    "provider": "教育部",
+    "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=106936&la=0&powerMode=0",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅核对卦名读音，不转载词典释义；词典权利归教育部。"
+  },
+  {
+    "id": "moe-jie",
+    "title": "教育部国语辞典·解",
+    "authorOrCompiler": "教育部",
+    "edition": "《国语辞典简编本》2021版；对应网址词条",
+    "provider": "教育部",
+    "url": "https://dict.concised.moe.edu.tw/dictView.jsp?ID=22186&la=0&powerMode=0",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅核对卦名读音，不转载词典释义；词典权利归教育部。"
+  },
+  {
+    "id": "zdic-qian",
+    "title": "汉典·乾",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/乾",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-zhun",
+    "title": "汉典·屯",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/屯",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-pi",
+    "title": "汉典·否",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/否",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-shihe",
+    "title": "汉典·噬嗑",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线词条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/噬嗑",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-daxu",
+    "title": "汉典·大畜",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线词条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/大畜",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-guai",
+    "title": "汉典·夬",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/夬",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-gou",
+    "title": "汉典·姤",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/姤",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-gen",
+    "title": "汉典·艮",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/艮",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "zdic-jian",
+    "title": "汉典·漸",
+    "authorOrCompiler": "汉典编纂整理",
+    "edition": "汉典在线字条；卦名义项与读音",
+    "provider": "汉典",
+    "url": "https://zdic.net/hans/漸",
+    "revisionOrSnapshot": "2026-10-22访问",
+    "accessedAt": "2026-10-22",
+    "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
   }
 ]

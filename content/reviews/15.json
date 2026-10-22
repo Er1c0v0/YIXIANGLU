@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h15-statement", "subjectId": "h15-statement", "method": "electronic-20261022",
+    "subjectHash": "2ccde419c44adaf47264883c5ca1f6916707f7d6d74312f424e8d6cee5d557f3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 卦辞 / 0007冊.djvu/378"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-tuan", "subjectId": "h15-tuan", "method": "electronic-20261022",
+    "subjectHash": "c144b635ba271d1d90dd24bf68e642e448bdb668dcd376279629813dd71f0419",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 彖曰 / 0007冊.djvu/379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 彖曰；异文仅作对校"}],
+    "issues": ["电子页“鬼”为图形字，按图像替代文字转写，未遗漏为“神害盈”；保留录文“踰”，普通电子对校页作“逾”。影印字形待核。"]
+  },
+  {
+    "id": "review-h15-great-image", "subjectId": "h15-great-image", "method": "electronic-20261022",
+    "subjectHash": "f34724eeeb1f2c4b83ec011bcbec49c3308ea0c20addf2c59fc124f70b09b1e0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 整卦大象 / 0007冊.djvu/379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-overview", "subjectId": "h15-overview", "method": "overview-20261022",
+    "subjectHash": "3725e3a95622da3421113d1e3229708df84193bfb1a2c2124b516a7fe9be8fcd",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/378–379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-yao-1", "subjectId": "h15-yao-1", "method": "electronic-20261022",
+    "subjectHash": "d80197340e4ab4e70d921990757365d1e91c4cd9666e4b5cf68df2fc9bc0d310",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 初六 / 0007冊.djvu/379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-image-1", "subjectId": "h15-image-1", "method": "electronic-20261022",
+    "subjectHash": "860c3eebc21589c0e673f27009d805fcf687cdb1f766661dae0ef85d08c2d7b0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 初六小象 / 0007冊.djvu/379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-yao-2", "subjectId": "h15-yao-2", "method": "electronic-20261022",
+    "subjectHash": "3188af2a367cbd574cdee54ec869ab1430e875fa5c0c21e2744012b495179975",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 六二 / 0007冊.djvu/379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-image-2", "subjectId": "h15-image-2", "method": "electronic-20261022",
+    "subjectHash": "0929f5669ab3121381374b6fb005eec9b89460f9bd16c667b17fda3871b46033",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 六二小象 / 0007冊.djvu/379"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-yao-3", "subjectId": "h15-yao-3", "method": "electronic-20261022",
+    "subjectHash": "2904c3fa515c28f1d1f7633761e32355f62b70795b6b6cd5a7ffd9d1e4e059ac",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 九三 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-image-3", "subjectId": "h15-image-3", "method": "electronic-20261022",
+    "subjectHash": "c162f5712f6127958b240f6541ebd983f56e13d9818c1c2b355f045821f457af",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 九三小象 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-yao-4", "subjectId": "h15-yao-4", "method": "electronic-20261022",
+    "subjectHash": "20168444572bdc7c408dec5085ca079687b4109a191ae1c9d2e120f0326d07ca",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 六四 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-image-4", "subjectId": "h15-image-4", "method": "electronic-20261022",
+    "subjectHash": "46c303e47b0b1b367b096a6589d0622d30441f74dc1a948612bf7dc102e73e8e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 六四小象 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-yao-5", "subjectId": "h15-yao-5", "method": "electronic-20261022",
+    "subjectHash": "51151d7851f6bf5f168590c77f0a88990776c448d83841886633867f9e99b7d7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 六五 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-image-5", "subjectId": "h15-image-5", "method": "electronic-20261022",
+    "subjectHash": "1a7c8957a38d992679344b18374c9efa5a704ff694ac1b5b3e8424a4037f1664",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 六五小象 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-yao-6", "subjectId": "h15-yao-6", "method": "electronic-20261022",
+    "subjectHash": "2a383a436a19832e8345c1bf2826da6c225b9c4b83b244e5e2ebb15025c8f430",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 上六 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h15-image-6", "subjectId": "h15-image-6", "method": "electronic-20261022",
+    "subjectHash": "48a4e7b6a54128ecb257708e26a7e71c76dd5c76f630651c9d8f77bc83a8b77b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 謙 / 上六小象 / 0007冊.djvu/380"},{"sourceId":"ws-zhouyi-15","locator":"第15卦 謙 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

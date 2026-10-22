@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h9-statement", "subjectId": "h9-statement", "method": "electronic-20261022",
+    "subjectHash": "fb0c972f45ee3d68a352c1927a351ca444295c0230514a8114ce3fa478e1153e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 卦辞 / 0007冊.djvu/359"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-tuan", "subjectId": "h9-tuan", "method": "electronic-20261022",
+    "subjectHash": "807aa905f14b6ad2977d9ebfe70f188c74a1f67ec3421b9533101aa19bc447c1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 彖曰 / 0007冊.djvu/360"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-great-image", "subjectId": "h9-great-image", "method": "electronic-20261022",
+    "subjectHash": "7e6614a94286f36d91eb04daec2d8601f3ec512ac2029b793e6609c1931d9efa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 整卦大象 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-overview", "subjectId": "h9-overview", "method": "overview-20261022",
+    "subjectHash": "9689598315eb9016ffd79004ca28fce56c1b798c76a18b9dcc4e653b2f5a5b90",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/359–361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-yao-1", "subjectId": "h9-yao-1", "method": "electronic-20261022",
+    "subjectHash": "b57c8aca6ec915d5adbc169fd34d7e18ee7ac8b2a320c24f9b8cbc127f5120c9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 初九 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-image-1", "subjectId": "h9-image-1", "method": "electronic-20261022",
+    "subjectHash": "0648cfc2080f474b76a29b2e3a1a549708ba3d41ef618535d0d0c193a1bab0c5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 初九小象 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-yao-2", "subjectId": "h9-yao-2", "method": "electronic-20261022",
+    "subjectHash": "1d0842ff2f0c9a574ea30c023a8fabd033e6b4c7c469aa88ce9dc87bc46d3961",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 九二 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-image-2", "subjectId": "h9-image-2", "method": "electronic-20261022",
+    "subjectHash": "0691ca76d9ae6a73f9d66fcb92ef237cbe9f9b1ef24ce06de3b603ad032ea148",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 九二小象 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-yao-3", "subjectId": "h9-yao-3", "method": "electronic-20261022",
+    "subjectHash": "f5f1675599d40a9e37b524ba7f26a89d40939a3419fe37cafc24f004b29d93e1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 九三 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·九三；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“輿說輻”；普通电子对校页作“車說輹”。"]
+  },
+  {
+    "id": "review-h9-image-3", "subjectId": "h9-image-3", "method": "electronic-20261022",
+    "subjectHash": "fff84592718d449ded17b8006793a7fba9199ddce80d988709c28c4b1ef6da8b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 九三小象 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-yao-4", "subjectId": "h9-yao-4", "method": "electronic-20261022",
+    "subjectHash": "7b238a71dd566cea8737938f21a8ac66fdce635462fa4f3924e0d7240af88168",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 六四 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-image-4", "subjectId": "h9-image-4", "method": "electronic-20261022",
+    "subjectHash": "06bd411e985a62b7afa815e0bfc6c520a42df7deaba90b9c85d1e74e713a54de",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 六四小象 / 0007冊.djvu/361"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-yao-5", "subjectId": "h9-yao-5", "method": "electronic-20261022",
+    "subjectHash": "4db93de91ba46c1d0627e16bbfdaf24de0a0410e8ad3bf626352ea423d21dfa9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 九五 / 0007冊.djvu/362"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-image-5", "subjectId": "h9-image-5", "method": "electronic-20261022",
+    "subjectHash": "c2b4ef856b0984a65ba2935f727fa0201c701768ddc2f4109338e56e73e12501",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 九五小象 / 0007冊.djvu/362"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h9-yao-6", "subjectId": "h9-yao-6", "method": "electronic-20261022",
+    "subjectHash": "4900eb6067d85dfcb8d86ab5ddad3b9ea5e7d26df95e5ddc76a4450427ac8c8f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 上九 / 0007冊.djvu/362"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 易經·上九；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“旣雨旣處”“尚德載”；普通电子对校页作“既雨既處”“尚得載”，待影印复核。"]
+  },
+  {
+    "id": "review-h9-image-6", "subjectId": "h9-image-6", "method": "electronic-20261022",
+    "subjectHash": "3e9b2f82d6c5be1594651dfa3f465ef890b873fb0b0423f6b08c417763562a11",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 小畜 / 上九小象 / 0007冊.djvu/362"},{"sourceId":"ws-zhouyi-9","locator":"第9卦 小畜 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

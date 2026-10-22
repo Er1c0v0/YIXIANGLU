@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h47-statement", "subjectId": "h47-statement", "method": "electronic-20261022",
+    "subjectHash": "082c4314e3ac4c32359c056adae95e84cd9bf22024110b099b84372f5b84bd72",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 卦辞 / 0007冊.djvu/470"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h47-tuan", "subjectId": "h47-tuan", "method": "electronic-20261022",
+    "subjectHash": "47e597f7a8bc032c47f738577e3847085060c95b90faddf52f7211022955b8d3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 彖曰 / 0007冊.djvu/470"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“揜”、“説”、“惟”，普通电子对校页相应为“掩”、“說”、“唯”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-great-image", "subjectId": "h47-great-image", "method": "electronic-20261022",
+    "subjectHash": "9d61f79c2983773bd8f76127f7c7f936a549e44fe7b3f5b8ddd5801d9752872f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 整卦大象 / 0007冊.djvu/471"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h47-overview", "subjectId": "h47-overview", "method": "overview-20261022",
+    "subjectHash": "bfd653e2688851f318662734b7d233133d0e920a20a9f9d5f4c8d8706d86fdfe",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/470–471"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h47-yao-1", "subjectId": "h47-yao-1", "method": "electronic-20261022",
+    "subjectHash": "bcfa6c271470edf3da76d32d7eef7251420403806c233f6d72543a8d0d7f3277",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 初六 / 0007冊.djvu/471"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·初六；异文仅作对校"}],
+    "issues": ["采用电子录文“歳”，普通电子对校页相应为“歲”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-image-1", "subjectId": "h47-image-1", "method": "electronic-20261022",
+    "subjectHash": "38c666cb4d0bedc5f31de51263f7490aedb1ba3946881e559a34305db9c48592",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 初六小象 / 0007冊.djvu/471"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·初六；异文仅作对校"}],
+    "issues": ["采用电子录文“眀”，普通电子对校页相应为“明”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-yao-2", "subjectId": "h47-yao-2", "method": "electronic-20261022",
+    "subjectHash": "8a4e65b492808d5e662a06db065e7b37244f3ee2a1964bbb9731fdd0348f2087",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 九二 / 0007冊.djvu/471"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“享”，普通电子对校页相应为“亨”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-image-2", "subjectId": "h47-image-2", "method": "electronic-20261022",
+    "subjectHash": "942ba5b6fd902b457a0598c819e21a79a5307893ba1d1c4935c7c81076c55d09",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 九二小象 / 0007冊.djvu/471"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h47-yao-3", "subjectId": "h47-yao-3", "method": "electronic-20261022",
+    "subjectHash": "088a13915d6cd7baed2ea5298c4c9806675ebf4bb82e1706d057959f44f35c85",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 六三 / 0007冊.djvu/472"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“宫”，普通电子对校页相应为“宮”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-image-3", "subjectId": "h47-image-3", "method": "electronic-20261022",
+    "subjectHash": "d3beb341292be621866c83070c42a47204d2604d9b01371928bdd383abce3141",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 六三小象 / 0007冊.djvu/472"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“蔾”、“宫”，普通电子对校页相应为“藜”、“宮”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-yao-4", "subjectId": "h47-yao-4", "method": "electronic-20261022",
+    "subjectHash": "17c524510b13c35c751e54f9a3da3198061fbcd6db1102d140c5174fe3cf50dd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 九四 / 0007冊.djvu/472"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·九四；异文仅作对校"}],
+    "issues": ["采用电子录文“來徐徐，困于金車”，普通电子对校页爻辞作“來荼荼，困于金轝”、小象仍作“來徐徐”；保留采用录文，影印待核。"]
+  },
+  {
+    "id": "review-h47-image-4", "subjectId": "h47-image-4", "method": "electronic-20261022",
+    "subjectHash": "a14348c88bcad5a5c9962820166cf21256766385d03a1f4db74cffc19b09ed28",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 九四小象 / 0007冊.djvu/472"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h47-yao-5", "subjectId": "h47-yao-5", "method": "electronic-20261022",
+    "subjectHash": "e2fd86be58b08066eba2a9e627c8d6010e89597a28bbb2e5dcc8123df3b891aa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 九五 / 0007冊.djvu/472"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·九五；异文仅作对校"}],
+    "issues": ["采用电子录文“説”，普通电子对校页相应为“說”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-image-5", "subjectId": "h47-image-5", "method": "electronic-20261022",
+    "subjectHash": "8958cfea360c581c315790f82fead788297968e3a2d485b4175c70e4a49410e5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 九五小象 / 0007冊.djvu/472"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·九五；异文仅作对校"}],
+    "issues": ["采用电子录文“説”，普通电子对校页相应为“說”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h47-yao-6", "subjectId": "h47-yao-6", "method": "electronic-20261022",
+    "subjectHash": "26604f0a17720dad2e47f798a567240a80f024e1629726c197a51c93075bd32c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 上六 / 0007冊.djvu/473"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h47-image-6", "subjectId": "h47-image-6", "method": "electronic-20261022",
+    "subjectHash": "85384b839efe3e07466b1a722c94b99f23de73960fcfa41338210b7051e186a7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch5","locator":"卷8 / 困 / 上六小象 / 0007冊.djvu/473"},{"sourceId":"ws-zhouyi-47","locator":"第47卦 困 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

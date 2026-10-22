@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h5-statement", "subjectId": "h5-statement", "method": "electronic-20261022",
+    "subjectHash": "ed18ca382fa2b863e3641c06c30602a9acf5a06494028476dc31087488611248",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 卦辞 / 0007冊.djvu/345"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-tuan", "subjectId": "h5-tuan", "method": "electronic-20261022",
+    "subjectHash": "8919e46fea98594fa6a78e0905749765e737dca78e61b5a8f33b08f9cb67d92a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 彖曰 / 0007冊.djvu/345"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 彖曰；异文仅作对校"}],
+    "issues": ["保留采用电子录文的“䧟”“徃”等字形，影印待核。"]
+  },
+  {
+    "id": "review-h5-great-image", "subjectId": "h5-great-image", "method": "electronic-20261022",
+    "subjectHash": "fb59f6ddc17c53c402eb352ec0e12de00020887004c0e449f56c9e535b0317fc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 整卦大象 / 0007冊.djvu/345"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-overview", "subjectId": "h5-overview", "method": "overview-20261022",
+    "subjectHash": "bf53d35b98e6462f8b28403f22a40abafb77c9e606c7d0fa5e285a46fa5edf2b",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/345"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-yao-1", "subjectId": "h5-yao-1", "method": "electronic-20261022",
+    "subjectHash": "e9ba9e680d6e6bdc6616f7ad223fe70d82025f6a86e44e49fa968a1b0df049ab",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 初九 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-image-1", "subjectId": "h5-image-1", "method": "electronic-20261022",
+    "subjectHash": "998c9caafb6a2fbe3425d3fb52a3f9d61dcaddd00983796bc360fd8e67ef6454",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 初九小象 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-yao-2", "subjectId": "h5-yao-2", "method": "electronic-20261022",
+    "subjectHash": "6cc28e73e257d984610fccabf07a68fedaec48eb11d0ee905039786f7102d02a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 九二 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-image-2", "subjectId": "h5-image-2", "method": "electronic-20261022",
+    "subjectHash": "0fd17beba8a48f9455cca2f7917f108e15439333767e7494c72692023a7c1162",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 九二小象 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-yao-3", "subjectId": "h5-yao-3", "method": "electronic-20261022",
+    "subjectHash": "0553311298fbed8f92f0e3587e97dcedb45c18dcf41b2d59e1015c5cfb3cdcc8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 九三 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-image-3", "subjectId": "h5-image-3", "method": "electronic-20261022",
+    "subjectHash": "09f840cd7656f52e58decb29e43bbd8ff0ba967b22135068390a427c1141f0e7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 九三小象 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-yao-4", "subjectId": "h5-yao-4", "method": "electronic-20261022",
+    "subjectHash": "437c2d4f99a90f68e91a657a7ebbb414e54782328d97f02237acf6b4de0e5cac",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 六四 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-image-4", "subjectId": "h5-image-4", "method": "electronic-20261022",
+    "subjectHash": "e8bbff5e7e97216adaa5d1fa5f6e1461bad4f38d0e35bdc4d410e1cd209a06f3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 六四小象 / 0007冊.djvu/346"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-yao-5", "subjectId": "h5-yao-5", "method": "electronic-20261022",
+    "subjectHash": "005d9d8d78afdc13811efa578a674384c414c4b039ec0e72e24ad9d540480483",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 九五 / 0007冊.djvu/347"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-image-5", "subjectId": "h5-image-5", "method": "electronic-20261022",
+    "subjectHash": "4ce562213e751bffbd6325a0ca19927f11c70de06166bd92588a747707e3ba0b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 九五小象 / 0007冊.djvu/347"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-yao-6", "subjectId": "h5-yao-6", "method": "electronic-20261022",
+    "subjectHash": "608a5ea1321af3b9e49abee71bbc185f12f6f58c26f752a3d2003f8957d62332",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 上六 / 0007冊.djvu/347"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h5-image-6", "subjectId": "h5-image-6", "method": "electronic-20261022",
+    "subjectHash": "e3dd568ea62bf0fad400e1cfb828b0a6a1cd6268e5e9c8b5a1daa2691d68d7e9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2-batch2","locator":"卷2 / 需 / 上六小象 / 0007冊.djvu/347"},{"sourceId":"ws-zhouyi-5","locator":"第5卦 需 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

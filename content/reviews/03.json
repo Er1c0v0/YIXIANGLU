@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h3-statement", "subjectId": "h3-statement", "method": "electronic-20261021",
+    "subjectHash": "7f9e6f42f3dff63a993f37133d26bc7f5d14c6c4b95be55d5009343ced87b00a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 卦辞 / 0007冊.djvu/339"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-tuan", "subjectId": "h3-tuan", "method": "electronic-20261021",
+    "subjectHash": "bdeaefebdd9829e806d6d1fc4f465d4670bd242cebd12a5a22b165617c1cb6e0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 彖曰 / 0007冊.djvu/339"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-great-image", "subjectId": "h3-great-image", "method": "electronic-20261021",
+    "subjectHash": "51a8c850daafc4c96ff708e80547c029ef676d03979d92e29a86b917672f2629",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 整卦大象 / 0007冊.djvu/339"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-overview", "subjectId": "h3-overview", "method": "overview-20261021",
+    "subjectHash": "1f647eee62586b693686ad9bbb731ffc3086833afae85398bace710c034b829e",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/339–339"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-yao-1", "subjectId": "h3-yao-1", "method": "electronic-20261021",
+    "subjectHash": "cc9691aab02a26bd419ec8e185ef2ac1a6fe8ddce2157b72deb85ca8d4d1c9f6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 初九 / 0007冊.djvu/340"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-image-1", "subjectId": "h3-image-1", "method": "electronic-20261021",
+    "subjectHash": "e7516c847c9ad87427984eff590b72c3ce1140404dcafe21739507e7e5a2bf40",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 初九小象 / 0007冊.djvu/340"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-yao-2", "subjectId": "h3-yao-2", "method": "electronic-20261021",
+    "subjectHash": "52a13b4442cc479412559c980a1a22807ae9a5cec23c0ec38a37fd188a0e7cdb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 六二 / 0007冊.djvu/340"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-image-2", "subjectId": "h3-image-2", "method": "electronic-20261021",
+    "subjectHash": "d80a2dbac6a17f1d4ec2be724ad1b79ad7ddd16961f620d0eb9400ebc837aaa5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 六二小象 / 0007冊.djvu/340"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-yao-3", "subjectId": "h3-yao-3", "method": "electronic-20261021",
+    "subjectHash": "1e353399286d8ebe4c21138e8a013fe1af7da99dbfb48517e4e8b7a7f7a3228f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 六三 / 0007冊.djvu/341"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-image-3", "subjectId": "h3-image-3", "method": "electronic-20261021",
+    "subjectHash": "30e7210bd25038d7c65b31b459ce11037bf58c0627bca79391c19a1bf80d44db",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 六三小象 / 0007冊.djvu/341"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-yao-4", "subjectId": "h3-yao-4", "method": "electronic-20261021",
+    "subjectHash": "69f191c61df944b1cda426e2b7162e77a1a340c0ae159060c9981016d5298821",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 六四 / 0007冊.djvu/341"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-image-4", "subjectId": "h3-image-4", "method": "electronic-20261021",
+    "subjectHash": "7178d5cce55b8d687df639047b19816e0cd7cc8024d3e1c8628f2e22efea5df4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 六四小象 / 0007冊.djvu/341"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-yao-5", "subjectId": "h3-yao-5", "method": "electronic-20261021",
+    "subjectHash": "3a98030d3622b960c3fff0019a222113369bc326b2d995f3ccf66f0ebc4d6554",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 九五 / 0007冊.djvu/341"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-image-5", "subjectId": "h3-image-5", "method": "electronic-20261021",
+    "subjectHash": "ddd73f3d9af83d930a0744a99b01794c5a46df87f9fef2a48e7ceed71450a49f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 九五小象 / 0007冊.djvu/342"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-yao-6", "subjectId": "h3-yao-6", "method": "electronic-20261021",
+    "subjectHash": "db58d6676807e75d57180fab397a7a0795c300c9eb962bb2652d1aef8dd833dc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 上六 / 0007冊.djvu/342"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h3-image-6", "subjectId": "h3-image-6", "method": "electronic-20261021",
+    "subjectHash": "20b5c43116024deb855aa0ecb632fa08a50e5c0ea432a070c73e48b9644b7a43",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-2","locator":"卷2 / 屯 / 上六小象 / 0007冊.djvu/342"},{"sourceId":"ws-zhouyi-3","locator":"第3卦 屯 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  }
+]

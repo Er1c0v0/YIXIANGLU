@@ -1,1 +1,16 @@
-<view class="page"><view class="title">六十四卦</view><button wx:for="{{samples}}" wx:key="id" class="sample" data-id="{{item.id}}" bindtap="read" hover-class="button-pressed" hover-stay-time="80"><view class="row between"><view><view class="label">第 {{item.id}} 卦</view><view>{{item.fullName}}</view></view><hexagram-shape lines="{{item.lines}}" compact /></view></button></view>
+<view class="page">
+  <view class="title">六十四卦</view>
+  <view class="search-row">
+    <input class="search-input" value="{{inputValue}}" bindinput="input" confirm-type="search" bindconfirm="refresh" placeholder="卦名、拼音或卦序" maxlength="80" aria-label="搜索六十四卦" />
+    <button wx:if="{{hasText}}" class="link clear" bindtap="clearSearch" hover-class="button-pressed">清除</button>
+  </view>
+  <view class="filters">
+    <picker mode="selector" range="{{options}}" range-key="name" value="{{upperIndex}}" data-side="upper" bindchange="filter" aria-label="选择上卦"><button class="filter" hover-class="button-pressed">上卦 · {{options[upperIndex].name}} <text>⌄</text></button></picker>
+    <picker mode="selector" range="{{options}}" range-key="name" value="{{lowerIndex}}" data-side="lower" bindchange="filter" aria-label="选择下卦"><button class="filter" hover-class="button-pressed">下卦 · {{options[lowerIndex].name}} <text>⌄</text></button></picker>
+  </view>
+  <view wx:if="{{active}}" class="result-bar"><text class="muted">{{samples.length}} 个结果</text><button class="link reset" bindtap="reset" hover-class="button-pressed">重置</button></view>
+  <view wx:if="{{!samples.length}}" class="empty">没有找到符合条件的卦</view>
+  <button wx:for="{{samples}}" wx:key="id" class="sample" data-id="{{item.id}}" bindtap="read" hover-class="button-pressed" hover-stay-time="80">
+    <view class="row between"><view><view class="label">第 {{item.id}} 卦</view><view>{{item.fullName}}</view><view class="structure">上{{item.upperName}} · 下{{item.lowerName}}</view></view><hexagram-shape lines="{{item.lines}}" compact /></view>
+  </button>
+</view>

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h26-statement", "subjectId": "h26-statement", "method": "electronic-20261021",
+    "subjectHash": "0a792b33083d9f3ab410af13979abc62968fa4cc10f8b3708c1e0874541528ac",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 卦辞 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-tuan", "subjectId": "h26-tuan", "method": "electronic-20261021",
+    "subjectHash": "8114361f21caab4fe16dc0a0cbeba2ca8415d92d544ba6e5f350f4592f1e1730",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 彖曰 / 0007冊.djvu/409"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-great-image", "subjectId": "h26-great-image", "method": "electronic-20261021",
+    "subjectHash": "005ef13c5bc9537816985a44f325e99dffa406391054aa47b55fc591edb6283d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 整卦大象 / 0007冊.djvu/409"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-overview", "subjectId": "h26-overview", "method": "overview-20261021",
+    "subjectHash": "a003de27c80abe3c136a8ccbfccc50e92b84d6eec2517f0d86afa4e328a9e70f",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/408–409"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-yao-1", "subjectId": "h26-yao-1", "method": "electronic-20261021",
+    "subjectHash": "25d7c2b9f772af85d9b80d942037bd2cffb7cabd4d2b9e23f60cae3709d2beae",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 初九 / 0007冊.djvu/409"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-image-1", "subjectId": "h26-image-1", "method": "electronic-20261021",
+    "subjectHash": "d54ae2a327ee12753e04989f2b03474295c2507f2c8e9d14f4e0baaaf747e015",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 初九小象 / 0007冊.djvu/409"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-yao-2", "subjectId": "h26-yao-2", "method": "electronic-20261021",
+    "subjectHash": "1123bcef51b4abdd394851de7941b350dcb51ffefb81119aacefb46a48b1316b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 九二 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-image-2", "subjectId": "h26-image-2", "method": "electronic-20261021",
+    "subjectHash": "67bc62ddf7151c2eae87230f23a3345c3df43fabb6ce493b332623a8a65fc6ba",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 九二小象 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-yao-3", "subjectId": "h26-yao-3", "method": "electronic-20261021",
+    "subjectHash": "c2a31a01f7eff5413242a2412013b318ef4b22d451617d03e1e1af171bbe2913",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 九三 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-image-3", "subjectId": "h26-image-3", "method": "electronic-20261021",
+    "subjectHash": "280ebc60a1e193704d2a8b095e81fb1e7cdc8cce749a64fdac3c8244e7e59c77",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 九三小象 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-yao-4", "subjectId": "h26-yao-4", "method": "electronic-20261021",
+    "subjectHash": "b6abdb8f1ad3bc78798e9b0a82fe9e4f896a9d793b95dba96fc5ea293ed4243e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 六四 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-image-4", "subjectId": "h26-image-4", "method": "electronic-20261021",
+    "subjectHash": "6cfb9e52e80f0c768d60ef89adc3f52c5c7d75e437560cda8cc0d049b2a3e03b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 六四小象 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-yao-5", "subjectId": "h26-yao-5", "method": "electronic-20261021",
+    "subjectHash": "0d6bd4c6b61b68055514106528b436f3794fdf1a5ca208ba0946f337c86ecb36",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 六五 / 0007冊.djvu/410"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-image-5", "subjectId": "h26-image-5", "method": "electronic-20261021",
+    "subjectHash": "a3552f532e0daa2072c351d5372f9d64ad2df3726591870c99e4972889c19e36",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 六五小象 / 0007冊.djvu/410–411"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-yao-6", "subjectId": "h26-yao-6", "method": "electronic-20261021",
+    "subjectHash": "a0847f9807bf764ac42230a45b2b9dd4ccf9c28abf7be6308b5e68b37eba8a9f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 上九 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h26-image-6", "subjectId": "h26-image-6", "method": "electronic-20261021",
+    "subjectHash": "0306b37099353e3ef9a1d965ebe5a6186600fb053c24e725599366fb7730fb41",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5","locator":"卷5 / 大畜 / 上九小象 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-26","locator":"第26卦 大畜 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  }
+]

@@ -1,0 +1,1864 @@
+[
+  {
+    "id": "imagery-qian-nature-classroom",
+    "trigram": "qian",
+    "category": "nature",
+    "values": [
+      "天"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-nature-classroom"
+  },
+  {
+    "id": "imagery-kun-nature-classroom",
+    "trigram": "kun",
+    "category": "nature",
+    "values": [
+      "地"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-nature-classroom"
+  },
+  {
+    "id": "imagery-zhen-nature-classroom",
+    "trigram": "zhen",
+    "category": "nature",
+    "values": [
+      "雷"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-nature-classroom"
+  },
+  {
+    "id": "imagery-xun-nature-classroom",
+    "trigram": "xun",
+    "category": "nature",
+    "values": [
+      "风"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-nature-classroom"
+  },
+  {
+    "id": "imagery-kan-nature-classroom",
+    "trigram": "kan",
+    "category": "nature",
+    "values": [
+      "水"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-nature-classroom"
+  },
+  {
+    "id": "imagery-li-nature-classroom",
+    "trigram": "li",
+    "category": "nature",
+    "values": [
+      "火"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-nature-classroom"
+  },
+  {
+    "id": "imagery-gen-nature-classroom",
+    "trigram": "gen",
+    "category": "nature",
+    "values": [
+      "山"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-nature-classroom"
+  },
+  {
+    "id": "imagery-dui-nature-classroom",
+    "trigram": "dui",
+    "category": "nature",
+    "values": [
+      "泽"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-nature-classroom"
+  },
+  {
+    "id": "imagery-qian-quality-classroom",
+    "trigram": "qian",
+    "category": "quality",
+    "values": [
+      "健"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-quality-classroom"
+  },
+  {
+    "id": "imagery-kun-quality-classroom",
+    "trigram": "kun",
+    "category": "quality",
+    "values": [
+      "顺"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-quality-classroom"
+  },
+  {
+    "id": "imagery-zhen-quality-classroom",
+    "trigram": "zhen",
+    "category": "quality",
+    "values": [
+      "动"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-quality-classroom"
+  },
+  {
+    "id": "imagery-xun-quality-classroom",
+    "trigram": "xun",
+    "category": "quality",
+    "values": [
+      "入"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-quality-classroom"
+  },
+  {
+    "id": "imagery-kan-quality-classroom",
+    "trigram": "kan",
+    "category": "quality",
+    "values": [
+      "陷"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-quality-classroom"
+  },
+  {
+    "id": "imagery-li-quality-classroom",
+    "trigram": "li",
+    "category": "quality",
+    "values": [
+      "丽"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-quality-classroom"
+  },
+  {
+    "id": "imagery-gen-quality-classroom",
+    "trigram": "gen",
+    "category": "quality",
+    "values": [
+      "止"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-quality-classroom"
+  },
+  {
+    "id": "imagery-dui-quality-classroom",
+    "trigram": "dui",
+    "category": "quality",
+    "values": [
+      "悦"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-quality-classroom"
+  },
+  {
+    "id": "imagery-qian-family-classroom",
+    "trigram": "qian",
+    "category": "family",
+    "values": [
+      "父"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-family-classroom"
+  },
+  {
+    "id": "imagery-kun-family-classroom",
+    "trigram": "kun",
+    "category": "family",
+    "values": [
+      "母"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-family-classroom"
+  },
+  {
+    "id": "imagery-zhen-family-classroom",
+    "trigram": "zhen",
+    "category": "family",
+    "values": [
+      "长男"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-family-classroom"
+  },
+  {
+    "id": "imagery-xun-family-classroom",
+    "trigram": "xun",
+    "category": "family",
+    "values": [
+      "长女"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-family-classroom"
+  },
+  {
+    "id": "imagery-kan-family-classroom",
+    "trigram": "kan",
+    "category": "family",
+    "values": [
+      "中男"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-family-classroom"
+  },
+  {
+    "id": "imagery-li-family-classroom",
+    "trigram": "li",
+    "category": "family",
+    "values": [
+      "中女"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-family-classroom"
+  },
+  {
+    "id": "imagery-gen-family-classroom",
+    "trigram": "gen",
+    "category": "family",
+    "values": [
+      "少男"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-family-classroom"
+  },
+  {
+    "id": "imagery-dui-family-classroom",
+    "trigram": "dui",
+    "category": "family",
+    "values": [
+      "少女"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-family-classroom"
+  },
+  {
+    "id": "imagery-qian-animal-classroom",
+    "trigram": "qian",
+    "category": "animal",
+    "values": [
+      "马"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-animal-classroom"
+  },
+  {
+    "id": "imagery-kun-animal-classroom",
+    "trigram": "kun",
+    "category": "animal",
+    "values": [
+      "牛"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-animal-classroom"
+  },
+  {
+    "id": "imagery-zhen-animal-classroom",
+    "trigram": "zhen",
+    "category": "animal",
+    "values": [
+      "龙"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-animal-classroom"
+  },
+  {
+    "id": "imagery-xun-animal-classroom",
+    "trigram": "xun",
+    "category": "animal",
+    "values": [
+      "鸡"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-animal-classroom"
+  },
+  {
+    "id": "imagery-kan-animal-classroom",
+    "trigram": "kan",
+    "category": "animal",
+    "values": [
+      "豕（猪）"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-animal-classroom"
+  },
+  {
+    "id": "imagery-li-animal-classroom",
+    "trigram": "li",
+    "category": "animal",
+    "values": [
+      "雉"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-animal-classroom"
+  },
+  {
+    "id": "imagery-gen-animal-classroom",
+    "trigram": "gen",
+    "category": "animal",
+    "values": [
+      "狗"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-animal-classroom"
+  },
+  {
+    "id": "imagery-dui-animal-classroom",
+    "trigram": "dui",
+    "category": "animal",
+    "values": [
+      "羊"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-animal-classroom"
+  },
+  {
+    "id": "imagery-qian-body-classroom",
+    "trigram": "qian",
+    "category": "body",
+    "values": [
+      "首"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-body-classroom"
+  },
+  {
+    "id": "imagery-kun-body-classroom",
+    "trigram": "kun",
+    "category": "body",
+    "values": [
+      "腹"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-body-classroom"
+  },
+  {
+    "id": "imagery-zhen-body-classroom",
+    "trigram": "zhen",
+    "category": "body",
+    "values": [
+      "足"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-body-classroom"
+  },
+  {
+    "id": "imagery-xun-body-classroom",
+    "trigram": "xun",
+    "category": "body",
+    "values": [
+      "股"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-body-classroom"
+  },
+  {
+    "id": "imagery-kan-body-classroom",
+    "trigram": "kan",
+    "category": "body",
+    "values": [
+      "耳"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-body-classroom"
+  },
+  {
+    "id": "imagery-li-body-classroom",
+    "trigram": "li",
+    "category": "body",
+    "values": [
+      "目"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-body-classroom"
+  },
+  {
+    "id": "imagery-gen-body-classroom",
+    "trigram": "gen",
+    "category": "body",
+    "values": [
+      "手"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-body-classroom"
+  },
+  {
+    "id": "imagery-dui-body-classroom",
+    "trigram": "dui",
+    "category": "body",
+    "values": [
+      "口"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-body-classroom"
+  },
+  {
+    "id": "imagery-qian-later-direction-classroom",
+    "trigram": "qian",
+    "category": "later-direction",
+    "values": [
+      "西北"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-later-direction-classroom"
+  },
+  {
+    "id": "imagery-kun-later-direction-classroom",
+    "trigram": "kun",
+    "category": "later-direction",
+    "values": [
+      "西南"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-later-direction-classroom"
+  },
+  {
+    "id": "imagery-zhen-later-direction-classroom",
+    "trigram": "zhen",
+    "category": "later-direction",
+    "values": [
+      "东"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-later-direction-classroom"
+  },
+  {
+    "id": "imagery-xun-later-direction-classroom",
+    "trigram": "xun",
+    "category": "later-direction",
+    "values": [
+      "东南"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-later-direction-classroom"
+  },
+  {
+    "id": "imagery-kan-later-direction-classroom",
+    "trigram": "kan",
+    "category": "later-direction",
+    "values": [
+      "北"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-later-direction-classroom"
+  },
+  {
+    "id": "imagery-li-later-direction-classroom",
+    "trigram": "li",
+    "category": "later-direction",
+    "values": [
+      "南"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-later-direction-classroom"
+  },
+  {
+    "id": "imagery-gen-later-direction-classroom",
+    "trigram": "gen",
+    "category": "later-direction",
+    "values": [
+      "东北"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-later-direction-classroom"
+  },
+  {
+    "id": "imagery-dui-later-direction-classroom",
+    "trigram": "dui",
+    "category": "later-direction",
+    "values": [
+      "西"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-later-direction-classroom"
+  },
+  {
+    "id": "imagery-qian-gate-qimen",
+    "trigram": "qian",
+    "category": "gate",
+    "values": [
+      "开门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-gate-qimen"
+  },
+  {
+    "id": "imagery-kun-gate-qimen",
+    "trigram": "kun",
+    "category": "gate",
+    "values": [
+      "死门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-gate-qimen"
+  },
+  {
+    "id": "imagery-zhen-gate-qimen",
+    "trigram": "zhen",
+    "category": "gate",
+    "values": [
+      "伤门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-gate-qimen"
+  },
+  {
+    "id": "imagery-xun-gate-qimen",
+    "trigram": "xun",
+    "category": "gate",
+    "values": [
+      "杜门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-gate-qimen"
+  },
+  {
+    "id": "imagery-kan-gate-qimen",
+    "trigram": "kan",
+    "category": "gate",
+    "values": [
+      "休门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-gate-qimen"
+  },
+  {
+    "id": "imagery-li-gate-qimen",
+    "trigram": "li",
+    "category": "gate",
+    "values": [
+      "景门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-gate-qimen"
+  },
+  {
+    "id": "imagery-gen-gate-qimen",
+    "trigram": "gen",
+    "category": "gate",
+    "values": [
+      "生门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-gate-qimen"
+  },
+  {
+    "id": "imagery-dui-gate-qimen",
+    "trigram": "dui",
+    "category": "gate",
+    "values": [
+      "惊门"
+    ],
+    "explanation": "",
+    "tradition": "qimen",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-gate-qimen"
+  },
+  {
+    "id": "imagery-qian-season-classroom",
+    "trigram": "qian",
+    "category": "season",
+    "values": [
+      "秋冬"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-season-classroom"
+  },
+  {
+    "id": "imagery-kun-season-classroom",
+    "trigram": "kun",
+    "category": "season",
+    "values": [
+      "夏秋"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-season-classroom"
+  },
+  {
+    "id": "imagery-zhen-season-classroom",
+    "trigram": "zhen",
+    "category": "season",
+    "values": [
+      "春"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-season-classroom"
+  },
+  {
+    "id": "imagery-xun-season-classroom",
+    "trigram": "xun",
+    "category": "season",
+    "values": [
+      "春夏"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-season-classroom"
+  },
+  {
+    "id": "imagery-kan-season-classroom",
+    "trigram": "kan",
+    "category": "season",
+    "values": [
+      "冬"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-season-classroom"
+  },
+  {
+    "id": "imagery-li-season-classroom",
+    "trigram": "li",
+    "category": "season",
+    "values": [
+      "夏"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-season-classroom"
+  },
+  {
+    "id": "imagery-gen-season-classroom",
+    "trigram": "gen",
+    "category": "season",
+    "values": [
+      "冬春"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-season-classroom"
+  },
+  {
+    "id": "imagery-dui-season-classroom",
+    "trigram": "dui",
+    "category": "season",
+    "values": [
+      "秋"
+    ],
+    "explanation": "",
+    "tradition": "classroom",
+    "refs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-season-classroom"
+  },
+  {
+    "id": "imagery-qian-element-later-xiangshu",
+    "trigram": "qian",
+    "category": "element",
+    "values": [
+      "金"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-qian-number-later-xiangshu",
+    "trigram": "qian",
+    "category": "number",
+    "values": [
+      "1"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-qian-earlier-direction-later-xiangshu",
+    "trigram": "qian",
+    "category": "earlier-direction",
+    "values": [
+      "南"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／乾"
+      }
+    ],
+    "reviewId": "review-imagery-qian-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-qian-color-later-xiangshu",
+    "trigram": "qian",
+    "category": "color",
+    "values": [
+      "大赤色",
+      "玄色"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／乾卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-qian-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-dui-element-later-xiangshu",
+    "trigram": "dui",
+    "category": "element",
+    "values": [
+      "金"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-dui-number-later-xiangshu",
+    "trigram": "dui",
+    "category": "number",
+    "values": [
+      "2"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-dui-earlier-direction-later-xiangshu",
+    "trigram": "dui",
+    "category": "earlier-direction",
+    "values": [
+      "东南"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／兑"
+      }
+    ],
+    "reviewId": "review-imagery-dui-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-dui-color-later-xiangshu",
+    "trigram": "dui",
+    "category": "color",
+    "values": [
+      "白"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／兑卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-dui-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-li-element-later-xiangshu",
+    "trigram": "li",
+    "category": "element",
+    "values": [
+      "火"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-li-number-later-xiangshu",
+    "trigram": "li",
+    "category": "number",
+    "values": [
+      "3"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-li-earlier-direction-later-xiangshu",
+    "trigram": "li",
+    "category": "earlier-direction",
+    "values": [
+      "东"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／离"
+      }
+    ],
+    "reviewId": "review-imagery-li-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-li-color-later-xiangshu",
+    "trigram": "li",
+    "category": "color",
+    "values": [
+      "赤",
+      "紫",
+      "红"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／离卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-li-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-zhen-element-later-xiangshu",
+    "trigram": "zhen",
+    "category": "element",
+    "values": [
+      "木"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-zhen-number-later-xiangshu",
+    "trigram": "zhen",
+    "category": "number",
+    "values": [
+      "4"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-zhen-earlier-direction-later-xiangshu",
+    "trigram": "zhen",
+    "category": "earlier-direction",
+    "values": [
+      "东北"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／震"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-zhen-color-later-xiangshu",
+    "trigram": "zhen",
+    "category": "color",
+    "values": [
+      "青",
+      "绿",
+      "碧"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／震卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-xun-element-later-xiangshu",
+    "trigram": "xun",
+    "category": "element",
+    "values": [
+      "木"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-xun-number-later-xiangshu",
+    "trigram": "xun",
+    "category": "number",
+    "values": [
+      "5"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-xun-earlier-direction-later-xiangshu",
+    "trigram": "xun",
+    "category": "earlier-direction",
+    "values": [
+      "西南"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／巽"
+      }
+    ],
+    "reviewId": "review-imagery-xun-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-xun-color-later-xiangshu",
+    "trigram": "xun",
+    "category": "color",
+    "values": [
+      "青",
+      "绿",
+      "碧",
+      "洁白"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／巽卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-xun-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-kan-element-later-xiangshu",
+    "trigram": "kan",
+    "category": "element",
+    "values": [
+      "水"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-kan-number-later-xiangshu",
+    "trigram": "kan",
+    "category": "number",
+    "values": [
+      "6"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-kan-earlier-direction-later-xiangshu",
+    "trigram": "kan",
+    "category": "earlier-direction",
+    "values": [
+      "西"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／坎"
+      }
+    ],
+    "reviewId": "review-imagery-kan-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-kan-color-later-xiangshu",
+    "trigram": "kan",
+    "category": "color",
+    "values": [
+      "黑"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／坎卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-kan-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-gen-element-later-xiangshu",
+    "trigram": "gen",
+    "category": "element",
+    "values": [
+      "土"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-gen-number-later-xiangshu",
+    "trigram": "gen",
+    "category": "number",
+    "values": [
+      "7"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-gen-earlier-direction-later-xiangshu",
+    "trigram": "gen",
+    "category": "earlier-direction",
+    "values": [
+      "西北"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／艮"
+      }
+    ],
+    "reviewId": "review-imagery-gen-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-gen-color-later-xiangshu",
+    "trigram": "gen",
+    "category": "color",
+    "values": [
+      "黄"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／艮卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-gen-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-kun-element-later-xiangshu",
+    "trigram": "kun",
+    "category": "element",
+    "values": [
+      "土"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-element-later-xiangshu"
+  },
+  {
+    "id": "imagery-kun-number-later-xiangshu",
+    "trigram": "kun",
+    "category": "number",
+    "values": [
+      "8"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-number-later-xiangshu"
+  },
+  {
+    "id": "imagery-kun-earlier-direction-later-xiangshu",
+    "trigram": "kun",
+    "category": "earlier-direction",
+    "values": [
+      "北"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／坤"
+      }
+    ],
+    "reviewId": "review-imagery-kun-earlier-direction-later-xiangshu"
+  },
+  {
+    "id": "imagery-kun-color-later-xiangshu",
+    "trigram": "kun",
+    "category": "color",
+    "values": [
+      "黄",
+      "黑"
+    ],
+    "explanation": "",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／坤卦／五色"
+      }
+    ],
+    "reviewId": "review-imagery-kun-color-later-xiangshu"
+  },
+  {
+    "id": "imagery-qian-color-zhouyi-shuogua",
+    "trigram": "qian",
+    "category": "color",
+    "values": [
+      "大赤"
+    ],
+    "explanation": "",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／乾段"
+      }
+    ],
+    "reviewId": "review-imagery-qian-color-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-kun-color-zhouyi-shuogua",
+    "trigram": "kun",
+    "category": "color",
+    "values": [
+      "黑"
+    ],
+    "explanation": "",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／坤段"
+      }
+    ],
+    "reviewId": "review-imagery-kun-color-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-zhen-color-zhouyi-shuogua",
+    "trigram": "zhen",
+    "category": "color",
+    "values": [
+      "玄黄"
+    ],
+    "explanation": "",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／震段"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-color-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-xun-color-zhouyi-shuogua",
+    "trigram": "xun",
+    "category": "color",
+    "values": [
+      "白"
+    ],
+    "explanation": "",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／巽段"
+      }
+    ],
+    "reviewId": "review-imagery-xun-color-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-kan-color-zhouyi-shuogua",
+    "trigram": "kan",
+    "category": "color",
+    "values": [
+      "赤"
+    ],
+    "explanation": "",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／坎段"
+      }
+    ],
+    "reviewId": "review-imagery-kan-color-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-qian-quality-zhouyi-shuogua",
+    "trigram": "qian",
+    "category": "quality",
+    "values": [
+      "健"
+    ],
+    "explanation": "刚健，有持续行动之意。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／乾的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-qian-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-dui-quality-zhouyi-shuogua",
+    "trigram": "dui",
+    "category": "quality",
+    "values": [
+      "說"
+    ],
+    "explanation": "读作悦，有喜悦之意。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／兑的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-dui-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-li-quality-zhouyi-shuogua",
+    "trigram": "li",
+    "category": "quality",
+    "values": [
+      "麗"
+    ],
+    "explanation": "附丽，依附。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／离的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-li-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-zhen-quality-zhouyi-shuogua",
+    "trigram": "zhen",
+    "category": "quality",
+    "values": [
+      "動"
+    ],
+    "explanation": "发动，行动。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／震的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-zhen-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-xun-quality-zhouyi-shuogua",
+    "trigram": "xun",
+    "category": "quality",
+    "values": [
+      "入"
+    ],
+    "explanation": "进入、渗入。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／巽的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-xun-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-kan-quality-zhouyi-shuogua",
+    "trigram": "kan",
+    "category": "quality",
+    "values": [
+      "陷"
+    ],
+    "explanation": "陷入险处。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／坎的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-kan-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-gen-quality-zhouyi-shuogua",
+    "trigram": "gen",
+    "category": "quality",
+    "values": [
+      "止"
+    ],
+    "explanation": "停止，适时止息。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／艮的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-gen-quality-zhouyi-shuogua"
+  },
+  {
+    "id": "imagery-kun-quality-zhouyi-shuogua",
+    "trigram": "kun",
+    "category": "quality",
+    "values": [
+      "順"
+    ],
+    "explanation": "柔顺，顺势承载。",
+    "tradition": "zhouyi-shuogua",
+    "refs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／坤的卦性"
+      }
+    ],
+    "reviewId": "review-imagery-kun-quality-zhouyi-shuogua"
+  }
+]

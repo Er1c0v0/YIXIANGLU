@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h53-statement", "subjectId": "h53-statement", "method": "electronic-20261022",
+    "subjectHash": "06f2ab867e4f7a43ec78789804fe78abf54042c20b7347ddfd0dc2b0fb793ad6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 卦辞 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-tuan", "subjectId": "h53-tuan", "method": "electronic-20261022",
+    "subjectHash": "bcfea45e051748ca431373a62c23185fddeff5aeed5350005e5be25a28dcae93",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 彖曰 / 0007冊.djvu/490–491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h53-great-image", "subjectId": "h53-great-image", "method": "electronic-20261022",
+    "subjectHash": "79c2155baa255e651698e82730111cb0ed5bf7f4d84c3c7e515e4c93dc973e6a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 整卦大象 / 0007冊.djvu/491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-overview", "subjectId": "h53-overview", "method": "overview-20261022",
+    "subjectHash": "41af955990952c61a2936ece126542c39e114f0df9022186a65898bb756a6c64",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/490–491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-yao-1", "subjectId": "h53-yao-1", "method": "electronic-20261022",
+    "subjectHash": "10f6865789d24b65573d1693be6adca5cf11b59869adec79bd9059dc68c90d9c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 初六 / 0007冊.djvu/491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-image-1", "subjectId": "h53-image-1", "method": "electronic-20261022",
+    "subjectHash": "f7d336ae8c900a93e73079b5900e753765caf01498bd8ecfdde75827995dd4ba",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 初六小象 / 0007冊.djvu/491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-yao-2", "subjectId": "h53-yao-2", "method": "electronic-20261022",
+    "subjectHash": "c2a03971ea4b6c27f863f5753a425321680ad9db15dd768d339cb315948d9124",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 六二 / 0007冊.djvu/491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-image-2", "subjectId": "h53-image-2", "method": "electronic-20261022",
+    "subjectHash": "82fbc3f615564e30f467ffee06a43becf0193a3bda9a31e8d3f83fbc83eae9c2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 六二小象 / 0007冊.djvu/491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-yao-3", "subjectId": "h53-yao-3", "method": "electronic-20261022",
+    "subjectHash": "80e3a3bc1d6a3430dfa041ba1b2ac28d4785a512518383b87fd0da3512bee90c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 九三 / 0007冊.djvu/491"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-image-3", "subjectId": "h53-image-3", "method": "electronic-20261022",
+    "subjectHash": "b6e36caf5375d63d2fe5683ee1e5b1f01b32f03ca87456c6ded9e29f1af23510",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 九三小象 / 0007冊.djvu/492"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·九三；异文仅作对校"}],
+    "issues": ["采用电子录文“羣醜”，普通电子对校页相应为“群丑”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h53-yao-4", "subjectId": "h53-yao-4", "method": "electronic-20261022",
+    "subjectHash": "860feaf1d5f657555df4eb2ca0e95d522960433eb6d3bf1a4a897f61bd2f3924",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 六四 / 0007冊.djvu/492"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-image-4", "subjectId": "h53-image-4", "method": "electronic-20261022",
+    "subjectHash": "3a94d2ba357620dcad98861932f6e1faf5a1e8e1c0e7946d9f0fa5e1543c4a1e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 六四小象 / 0007冊.djvu/492"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-yao-5", "subjectId": "h53-yao-5", "method": "electronic-20261022",
+    "subjectHash": "c9cdbf7cee5f4f453f4183abe924196dd2a8935db4262576106b1de54df81665",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 九五 / 0007冊.djvu/492"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·九五；异文仅作对校"}],
+    "issues": ["采用电子录文“嵗”，普通电子对校页相应为“歲”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h53-image-5", "subjectId": "h53-image-5", "method": "electronic-20261022",
+    "subjectHash": "d9c86be9cbb0f1d163a7116cd49a89578c13d25850f71ad0ebfa54ec148558ef",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 九五小象 / 0007冊.djvu/492"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·九五；异文仅作对校"}],
+    "issues": ["采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h53-yao-6", "subjectId": "h53-yao-6", "method": "electronic-20261022",
+    "subjectHash": "fb90630373dc547e6b32a2222499b1d1d573130730879a6df3d1e26fb54b88d3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 上九 / 0007冊.djvu/492"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h53-image-6", "subjectId": "h53-image-6", "method": "electronic-20261022",
+    "subjectHash": "05df12865ab3a1e7062859dad496b1200c70cd3ca5c80629694746fbb6f540a6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 漸 / 上九小象 / 0007冊.djvu/493"},{"sourceId":"ws-zhouyi-53","locator":"第53卦 漸 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

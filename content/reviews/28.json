@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h28-statement", "subjectId": "h28-statement", "method": "electronic-20261022",
+    "subjectHash": "fea7bc9ad74b88455714a39527c037fd4edcc1876bdc071e92afe23a2df1299e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 卦辞 / 0007冊.djvu/413"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["卦名后的“音相過之過”是音义注文，未并入卦辞。"]
+  },
+  {
+    "id": "review-h28-tuan", "subjectId": "h28-tuan", "method": "electronic-20261022",
+    "subjectHash": "e3ae464a90e8ea93e1ce47e47fef3c1d0091204dd2e1e1bbe1ee51016313df53",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 彖曰 / 0007冊.djvu/414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-great-image", "subjectId": "h28-great-image", "method": "electronic-20261022",
+    "subjectHash": "edc4c1090c8abe976725370ba0e1ab5a1ce37a48c2239796d310d62d2506ad88",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 整卦大象 / 0007冊.djvu/414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-overview", "subjectId": "h28-overview", "method": "overview-20261022",
+    "subjectHash": "0ef114a8ccf364a8494ef1a3251ddb3757529187fa3a8d2aa71ad06dabc8a772",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/413–414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-yao-1", "subjectId": "h28-yao-1", "method": "electronic-20261022",
+    "subjectHash": "613d79d61d0eae1315702487d0cfee087bf8a642eb88087f16f56c8f784bcbbe",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 初六 / 0007冊.djvu/414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-image-1", "subjectId": "h28-image-1", "method": "electronic-20261022",
+    "subjectHash": "717865bf435741dcdf32490b266f29bd4c5687d457969d1c1c8009d2b23e2116",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 初六小象 / 0007冊.djvu/414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-yao-2", "subjectId": "h28-yao-2", "method": "electronic-20261022",
+    "subjectHash": "74bad5eb34732fdd09090d233893d78c0d20b5ab9a865f0fb07037b818c06fb8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九二 / 0007冊.djvu/414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-image-2", "subjectId": "h28-image-2", "method": "electronic-20261022",
+    "subjectHash": "16110ce7740ac4620c101b45f0c6f91f5d08be45ace65cab865347755f1e4ce9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九二小象 / 0007冊.djvu/414"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-yao-3", "subjectId": "h28-yao-3", "method": "electronic-20261022",
+    "subjectHash": "6096c476d34a0163fb6aaeacdf89e312a879e479675608c3e7926e7b673e3bca",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九三 / 0007冊.djvu/415"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-image-3", "subjectId": "h28-image-3", "method": "electronic-20261022",
+    "subjectHash": "9a50073536d66a9904c43adc8f2b127996ad7780955055336189d23269868b88",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九三小象 / 0007冊.djvu/415"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-yao-4", "subjectId": "h28-yao-4", "method": "electronic-20261022",
+    "subjectHash": "aba96ce0ed1aa68f7a79e1b53421ddf379ce505a4112a27133f9dcfd0fdf2bd2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九四 / 0007冊.djvu/415"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-image-4", "subjectId": "h28-image-4", "method": "electronic-20261022",
+    "subjectHash": "a5480fc8ef2eebd9a65652200a7fea443a4ad149c78ed2629742d868520103a8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九四小象 / 0007冊.djvu/415"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-yao-5", "subjectId": "h28-yao-5", "method": "electronic-20261022",
+    "subjectHash": "2e9a98d08cadeb175cb20101b38167748f8aed52f53a506931c21e01120cd849",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九五 / 0007冊.djvu/415"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-image-5", "subjectId": "h28-image-5", "method": "electronic-20261022",
+    "subjectHash": "2755b47205aa8f7bc4dcaa77a8bce189b226fb425ba87c9036a3ca6311c2a91a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 九五小象 / 0007冊.djvu/415"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h28-yao-6", "subjectId": "h28-yao-6", "method": "electronic-20261022",
+    "subjectHash": "3e2320f310bea140c77051004314c85d1d9517ab1e79dcb957d457d6907d44de",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 上六 / 0007冊.djvu/416"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 易經·上六；异文仅作对校"}],
+    "issues": ["保留采用电子录文“渉”字，普通电子对校页作“涉”。"]
+  },
+  {
+    "id": "review-h28-image-6", "subjectId": "h28-image-6", "method": "electronic-20261022",
+    "subjectHash": "22f7c865647551390f1d714a0142238c2b5032476cc519913bc72dc30d16da8f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 大過 / 上六小象 / 0007冊.djvu/416"},{"sourceId":"ws-zhouyi-28","locator":"第28卦 大過 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

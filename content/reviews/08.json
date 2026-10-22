@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h8-statement", "subjectId": "h8-statement", "method": "electronic-20261022",
+    "subjectHash": "0cbb9c7b11a6e33d9d2b2402da6e81fa9cd0865965170cccdce23eee4281f38d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 卦辞 / 0007冊.djvu/356"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-tuan", "subjectId": "h8-tuan", "method": "electronic-20261022",
+    "subjectHash": "3ba3a46ffccbea27e9c56de9645158567b8bc1a7c06f319e088961a453638d3d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 彖曰 / 0007冊.djvu/357"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-great-image", "subjectId": "h8-great-image", "method": "electronic-20261022",
+    "subjectHash": "60498cc8498009fc315d8bd3da49d70f403c484ac56eb2e4da89e3c4db38627e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 整卦大象 / 0007冊.djvu/357"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-overview", "subjectId": "h8-overview", "method": "overview-20261022",
+    "subjectHash": "697e4eba344ad2a8f20237b9eee3566efb10cf9c313ab352e090e5953ab2a421",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/356–357"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-yao-1", "subjectId": "h8-yao-1", "method": "electronic-20261022",
+    "subjectHash": "19ab9272f82c8fa19c712169a146c6cad06ad7db154efcee85791206cb2e780a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 初六 / 0007冊.djvu/357"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-image-1", "subjectId": "h8-image-1", "method": "electronic-20261022",
+    "subjectHash": "45828b7590894ddc1423e190e9e21452726c16c71c02d2db6e8c361d92f5c82b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 初六小象 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-yao-2", "subjectId": "h8-yao-2", "method": "electronic-20261022",
+    "subjectHash": "67496eb64632753d421507bbefb0199f3c9dd67eca1167cd67dcac2a4a5038ca",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 六二 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-image-2", "subjectId": "h8-image-2", "method": "electronic-20261022",
+    "subjectHash": "6ff48bc7f0494eefeb841340d009d39007394c8a15f59a93089123af5b6463c4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 六二小象 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-yao-3", "subjectId": "h8-yao-3", "method": "electronic-20261022",
+    "subjectHash": "e11b12e198e14aff203facc7d4a43fc36d5eefe218c08d288a6403f19649cc31",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 六三 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-image-3", "subjectId": "h8-image-3", "method": "electronic-20261022",
+    "subjectHash": "8de8e92c7dd98820240752553ad711a2fbfa92563c1a7afe8d623f2f7307baf2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 六三小象 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-yao-4", "subjectId": "h8-yao-4", "method": "electronic-20261022",
+    "subjectHash": "449f626a06357f54d8dcf5809c41cf70ed74645d3370ebdf634c0d7dde0d421a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 六四 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-image-4", "subjectId": "h8-image-4", "method": "electronic-20261022",
+    "subjectHash": "49e35ca5ba2a92361c3c4df67736b12d9a09810998f88edf3676aaf74f51815a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 六四小象 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-yao-5", "subjectId": "h8-yao-5", "method": "electronic-20261022",
+    "subjectHash": "d524a34aab88ffb57b2b4f2dd77c90507a9114f27bf09fe99bbdcc77ec8b3f46",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 九五 / 0007冊.djvu/358"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·九五；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“三驅”；普通电子对校页作“三敺”，待影印复核。"]
+  },
+  {
+    "id": "review-h8-image-5", "subjectId": "h8-image-5", "method": "electronic-20261022",
+    "subjectHash": "7835f648dd78d69a8ff1fb0a5e2509c438913805d352b3deb7f2b41cd3ec799c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 九五小象 / 0007冊.djvu/359"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-yao-6", "subjectId": "h8-yao-6", "method": "electronic-20261022",
+    "subjectHash": "3ea40943827b4dbe25bd5cb4385e76cd086f1c47a1aeb15ea915f031bc17cfb2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 上六 / 0007冊.djvu/359"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h8-image-6", "subjectId": "h8-image-6", "method": "electronic-20261022",
+    "subjectHash": "f8653d9d5a0596568b1aa43fcc70e48d851665a36a0eddf0e585567b35282614",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 比 / 上六小象 / 0007冊.djvu/359"},{"sourceId":"ws-zhouyi-8","locator":"第8卦 比 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

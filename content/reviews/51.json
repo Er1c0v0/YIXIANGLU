@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h51-statement", "subjectId": "h51-statement", "method": "electronic-20261022",
+    "subjectHash": "3feab963a43ddcf42829770edcd7a42ffd7bd8204e9fa60e03d8df03143fc67c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 卦辞 / 0007冊.djvu/485"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-tuan", "subjectId": "h51-tuan", "method": "electronic-20261022",
+    "subjectHash": "99eb90a96672fe3fedf655eed7b5fe3af71b909a3a446495270a815c5aa251fa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 彖曰 / 0007冊.djvu/486"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“逺”，普通电子对校页相应为“遠”；采用电子录文“爲”，普通电子对校页相应为“為”；保留所见，影印字形与异文待核。","“不喪匕鬯則已出可以守宗廟”处于王注范围，未混入彖传；其后“出可以守宗廟社稷，以爲祭主也”属主文，已保留。"]
+  },
+  {
+    "id": "review-h51-great-image", "subjectId": "h51-great-image", "method": "electronic-20261022",
+    "subjectHash": "d231c9711c98a943d2c0ea66e4a8a60dbbbaf88c2e6800eb485077853b1bb394",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 整卦大象 / 0007冊.djvu/486"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用电子录文“脩”，普通电子对校页相应为“修”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h51-overview", "subjectId": "h51-overview", "method": "overview-20261022",
+    "subjectHash": "693ec5fc66c0de1d29987c5a258d9d0af71a8b4a136dc54fa4dcdc7d9adc54a2",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/485–486"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-yao-1", "subjectId": "h51-yao-1", "method": "electronic-20261022",
+    "subjectHash": "c19b6ec674ecc19914b4983fd997dfeda379c48414e4f3b71955e7c0825d6082",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 初九 / 0007冊.djvu/486"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-image-1", "subjectId": "h51-image-1", "method": "electronic-20261022",
+    "subjectHash": "16b31a74e087cff8d3e242fc5b1e18dc3da1878840302ea4a99210faf51b3ca4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 初九小象 / 0007冊.djvu/486"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-yao-2", "subjectId": "h51-yao-2", "method": "electronic-20261022",
+    "subjectHash": "b8aedc24d8041bdb454f5a200bd3e7c6e72b632edfabcfd46e1e14046d3f069b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 六二 / 0007冊.djvu/486"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-image-2", "subjectId": "h51-image-2", "method": "electronic-20261022",
+    "subjectHash": "a32223668862a8be8666a25573973f6649ec18da11914ea960150e4f195d4ae0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 六二小象 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·六二；异文仅作对校"}],
+    "issues": ["采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h51-yao-3", "subjectId": "h51-yao-3", "method": "electronic-20261022",
+    "subjectHash": "2c800d4268375e028d7c4a1013aca0ac4aada886095f4d894829ef08388f3179",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 六三 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-image-3", "subjectId": "h51-image-3", "method": "electronic-20261022",
+    "subjectHash": "e737c6ea5238ca4ad1782132b7c54967b382d8ce694886ce994069c4b708b9ba",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 六三小象 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-yao-4", "subjectId": "h51-yao-4", "method": "electronic-20261022",
+    "subjectHash": "1c75d714ea6ea61faf7d7d77a23afd32e36580c35fda29339a96fc376848e04a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 九四 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-image-4", "subjectId": "h51-image-4", "method": "electronic-20261022",
+    "subjectHash": "022cd9b6fd2324086a410681a669e6852568354476c1a0fada660c696767a049",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 九四小象 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h51-yao-5", "subjectId": "h51-yao-5", "method": "electronic-20261022",
+    "subjectHash": "ef89dd05e6f4f5457bf2672fccd6476d3d0bc2004b3c79cc9bce59b00d1118c0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 六五 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·六五；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h51-image-5", "subjectId": "h51-image-5", "method": "electronic-20261022",
+    "subjectHash": "09c3ee738833dea1b19cb2a8c4f978535af74e3a1c36e3abbf8e287864b47e9f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 六五小象 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·六五；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h51-yao-6", "subjectId": "h51-yao-6", "method": "electronic-20261022",
+    "subjectHash": "5aeba9601c0fae9318cde051c701e2fdab037419aaa5567b6605dfd9fe05c4cb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 上六 / 0007冊.djvu/487"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 易經·上六；异文仅作对校"}],
+    "issues": ["采用电子录文“㛰”，普通电子对校页相应为“婚”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h51-image-6", "subjectId": "h51-image-6", "method": "electronic-20261022",
+    "subjectHash": "082c15fef043dff54477a95f2ba98cf90890f488d62baf38c43c583961c6794f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 震 / 上六小象 / 0007冊.djvu/488"},{"sourceId":"ws-zhouyi-51","locator":"第51卦 震 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

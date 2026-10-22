@@ -1,1 +1,11 @@
+.search-row { display: flex; align-items: center; gap: 12rpx; }
+.search-input { flex: 1; min-width: 0; background: #FFFDFA; }
+button.clear { width: 100rpx; flex: 0 0 100rpx; padding: 0; margin: 0; }
+.filters { display: flex; gap: 20rpx; margin-top: 20rpx; }
+.filters picker { flex: 1; min-width: 0; }
+.filter { margin: 0; line-height: 1.7; font-weight: 400; display: flex; align-items: center; justify-content: space-between; padding: 16rpx 22rpx; min-height: 48px; border: 1rpx solid #DDD6C9; border-radius: 12rpx; background: #FFFDFA; }
+.filter text { color: #765535; }
+.result-bar { display: flex; align-items: center; justify-content: space-between; font-size: 27rpx; }
+button.reset { width: auto; padding: 0 12rpx; margin: 0; font-size: 27rpx; }
 .sample { text-align: left; background: #FFFDFA; border: 1rpx solid #DDD6C9; line-height: 1.6; padding: 22rpx 28rpx; }
+.structure { font-size: 25rpx; color: #625D55; margin-top: 6rpx; }

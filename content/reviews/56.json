@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h56-statement", "subjectId": "h56-statement", "method": "electronic-20261022",
+    "subjectHash": "3ab03ec03f5247ab9c31c1a96d5d504617890e9db4087229792555b6f9bce8a8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 卦辞 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-tuan", "subjectId": "h56-tuan", "method": "electronic-20261022",
+    "subjectHash": "a969789199edf4090f5628a147c8367cf3c2f3fdbb2ead95332436ef2a2ff763",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 彖曰 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-great-image", "subjectId": "h56-great-image", "method": "electronic-20261022",
+    "subjectHash": "97259a496fe480c375daa264096c0343f614aeb98ef1918b55c3066a6c1f8082",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 整卦大象 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用电子录文“愼”，普通电子对校页相应为“慎”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h56-overview", "subjectId": "h56-overview", "method": "overview-20261022",
+    "subjectHash": "8bd7e5f7b86f6f9cd0e63112bbb621ed6e434fd99f14e0865d6104f33e35a5ea",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-yao-1", "subjectId": "h56-yao-1", "method": "electronic-20261022",
+    "subjectHash": "12109302c81beb08315fdf8389253837b5e481bb2a1a420713c751494dee4e47",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 初六 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-image-1", "subjectId": "h56-image-1", "method": "electronic-20261022",
+    "subjectHash": "9e00c13ddc973953cefb0e6325c0df2b280c016e2286097bd1999fcedb9ba89a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 初六小象 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-yao-2", "subjectId": "h56-yao-2", "method": "electronic-20261022",
+    "subjectHash": "3e85ef637474446dcc36f5addb0752747fbbc9f9d8294ed7bd32c61fd31b3714",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 六二 / 0007冊.djvu/499"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·六二；异文仅作对校"}],
+    "issues": ["采用电子录文“懐”，普通电子对校页相应为“懷”；采用电子录文“童”，普通电子对校页相应为“僮”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h56-image-2", "subjectId": "h56-image-2", "method": "electronic-20261022",
+    "subjectHash": "c6852406e012f9efe84bc6bebe4750d9949b70a91a88a016b3cdd7d7de7f1e78",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 六二小象 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-yao-3", "subjectId": "h56-yao-3", "method": "electronic-20261022",
+    "subjectHash": "5ff00c3d15795812e652b00c55b624ada978ba395e9c09609f7f406b8286b951",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 九三 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·九三；异文仅作对校"}],
+    "issues": ["采用电子录文“童”，普通电子对校页相应为“僮”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h56-image-3", "subjectId": "h56-image-3", "method": "electronic-20261022",
+    "subjectHash": "ef6665d4679b6cc74652106b39ef8641eefe9d8a51a653dc7b39931ae503347f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 九三小象 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-yao-4", "subjectId": "h56-yao-4", "method": "electronic-20261022",
+    "subjectHash": "5a01c2f09c798fcdcbe0fbb3713f7ab3abb0470a3c968c3336e1752f3bb23bb4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 九四 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-image-4", "subjectId": "h56-image-4", "method": "electronic-20261022",
+    "subjectHash": "c351930e8c2eb4c02b74ba2dac80c1605e53a375566cd6b18de799112cd9035e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 九四小象 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-yao-5", "subjectId": "h56-yao-5", "method": "electronic-20261022",
+    "subjectHash": "779c39c9283d0918779fca68e0bf9158a21add1d61aa99a22f7e2d92a0860db7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 六五 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-image-5", "subjectId": "h56-image-5", "method": "electronic-20261022",
+    "subjectHash": "67531dcdc90bf4c2fe6f98bf84c93f70251d1f61e52428dc2e4997982951411b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 六五小象 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-yao-6", "subjectId": "h56-yao-6", "method": "electronic-20261022",
+    "subjectHash": "b993e7c1a9d17cf42880745681f8fd2e1bd7ec57a66586082d499775e4f5a6c9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 上九 / 0007冊.djvu/500"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h56-image-6", "subjectId": "h56-image-6", "method": "electronic-20261022",
+    "subjectHash": "90f6656feed86943e431ee45a6f8c9dc82d4064e6dd4034cc9b71388f568aea2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 旅 / 上九小象 / 0007冊.djvu/501"},{"sourceId":"ws-zhouyi-56","locator":"第56卦 旅 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

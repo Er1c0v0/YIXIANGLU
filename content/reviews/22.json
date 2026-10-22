@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h22-statement", "subjectId": "h22-statement", "method": "electronic-20261022",
+    "subjectHash": "33d63ead71ac66ec132bbf4a8cf062c821cb88fd2d59f407f69ba8ab5cde9d33",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 卦辞 / 0007冊.djvu/395"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-tuan", "subjectId": "h22-tuan", "method": "electronic-20261022",
+    "subjectHash": "a05d1bdd95fb8e4d0034106e5ae8145da42a0c2092cd28d553183363fe107376",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 彖曰 / 0007冊.djvu/395"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 彖曰；异文仅作对校"}],
+    "issues": ["四库本电子主文在此仅作“天文也”；“剛柔交錯而成文焉”见其注文，普通电子对校页主文有“剛柔交錯”。本条按采用录文分离主文与注，待影印复核。"]
+  },
+  {
+    "id": "review-h22-great-image", "subjectId": "h22-great-image", "method": "electronic-20261022",
+    "subjectHash": "6a7f87cac639e15980e3fbc35cf0847df3c37f923bc21726247d5d47574f3176",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 整卦大象 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-overview", "subjectId": "h22-overview", "method": "overview-20261022",
+    "subjectHash": "9c1eb9275386526af14b19e05e8a84c8985b1ec9ec0bb6af22f27f6341fedf24",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/395–396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-yao-1", "subjectId": "h22-yao-1", "method": "electronic-20261022",
+    "subjectHash": "2e5aed346e1b1208473469283f7d94b29ec7c3ee6c728c34f07d3e7722a53394",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 初九 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·初九；异文仅作对校"}],
+    "issues": ["电子页“舎”为图形字，按其替代文字转写；小象主文作“舍”，保留差别，影印字形待核。"]
+  },
+  {
+    "id": "review-h22-image-1", "subjectId": "h22-image-1", "method": "electronic-20261022",
+    "subjectHash": "251f30257153f364619733f4dc7dc3d99dc4703e5587b265e3d75132aa0617b8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 初九小象 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-yao-2", "subjectId": "h22-yao-2", "method": "electronic-20261022",
+    "subjectHash": "2e31454db7d9e667050e53e36def51ed236de02c34276ad2628ef3dbda69e0be",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 六二 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-image-2", "subjectId": "h22-image-2", "method": "electronic-20261022",
+    "subjectHash": "a05bc76e3c866c0ff4d43144e69483dcd009b5858d109fb426f714cad21b2c79",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 六二小象 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-yao-3", "subjectId": "h22-yao-3", "method": "electronic-20261022",
+    "subjectHash": "d2d7b3696c9aaee90dad2b237900e6628b463c42a3f20a9b3f8628d94533d59d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 九三 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-image-3", "subjectId": "h22-image-3", "method": "electronic-20261022",
+    "subjectHash": "25d1222d3b39b0566d93ebe65602a82e606dfd95b59d67684e4f2c431917fbbf",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 九三小象 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-yao-4", "subjectId": "h22-yao-4", "method": "electronic-20261022",
+    "subjectHash": "07c5f34f37642dfb0a08db47bd667383c880e05cba1095e826919dc304e158e1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 六四 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用电子录文爻辞“宼”、小象“寇”的字形差别。"]
+  },
+  {
+    "id": "review-h22-image-4", "subjectId": "h22-image-4", "method": "electronic-20261022",
+    "subjectHash": "6620c80f75402a55296c72112e7ab31c3db9b5aad5fe1e89f3d0a9c8e105cf01",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 六四小象 / 0007冊.djvu/396"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-yao-5", "subjectId": "h22-yao-5", "method": "electronic-20261022",
+    "subjectHash": "e1e550425b105d4477ca637bb27b4a8dbbe06ef502e4acbfdabafc2014f03b74",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 六五 / 0007冊.djvu/397"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-image-5", "subjectId": "h22-image-5", "method": "electronic-20261022",
+    "subjectHash": "4335d6c191962c21598d2128d32e2e1baa75d80d1aa6d84a1c49ba4d4011027e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 六五小象 / 0007冊.djvu/397"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-yao-6", "subjectId": "h22-yao-6", "method": "electronic-20261022",
+    "subjectHash": "b14d0325a93bf3a8d3bff61aadd6c05d11278fd4b784a0b75cad5ec3e00a1be6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 上九 / 0007冊.djvu/397"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h22-image-6", "subjectId": "h22-image-6", "method": "electronic-20261022",
+    "subjectHash": "b9e6435631f4f75aee40b9b42096da0f41e71a013947b9c91a42e8a1b90798fd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch4","locator":"卷4 / 賁 / 上九小象 / 0007冊.djvu/397"},{"sourceId":"ws-zhouyi-22","locator":"第22卦 賁 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

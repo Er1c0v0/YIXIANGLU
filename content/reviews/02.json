@@ -1,0 +1,177 @@
+[
+  {
+    "id": "review-h2-statement", "subjectId": "h2-statement", "method": "prototype-20261021",
+    "subjectHash": "725b0c1e3510d03850e5ccd473a0a02de14350902da9b812bd022509a9af98d0",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 卦辞"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-tuan", "subjectId": "h2-tuan", "method": "prototype-20261021",
+    "subjectHash": "c52fdaee83c4eb474aaf5ebb951c0bd2d847cfc37d7f9cd4cdf8e49d1a1960ec",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰 / 全段"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-great-image", "subjectId": "h2-great-image", "method": "prototype-20261021",
+    "subjectHash": "91ba85ea5a562e2c2c2861d4004924c47412765288bc2f7bd506151b296a4a9f",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 整卦大象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yao-1", "subjectId": "h2-yao-1", "method": "prototype-20261021",
+    "subjectHash": "009a1888554c8dc4e238a8b82bac23096b6e807e88900e13970677dcec898a6e",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 初六"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-image-1", "subjectId": "h2-image-1", "method": "prototype-20261021",
+    "subjectHash": "2f82dccbd813c42dd768b64963b35aa41e389271e2653ad90381b1204c6f9ef5",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 初六小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yao-2", "subjectId": "h2-yao-2", "method": "prototype-20261021",
+    "subjectHash": "777e6779dc1efa8029228ee08baa868ab7896ae121f8822645ed41da00968abc",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 六二"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-image-2", "subjectId": "h2-image-2", "method": "prototype-20261021",
+    "subjectHash": "820a6eceb20cbc90fd1991fe894f6a369b368ac97e68f3b12c4f9b62f5bd1d4e",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 六二小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yao-3", "subjectId": "h2-yao-3", "method": "prototype-20261021",
+    "subjectHash": "5109e5170cf579ea1cea1c7d700fc0cebede3c0424f7cdb9b19eb0386c6a5d3c",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 六三"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-image-3", "subjectId": "h2-image-3", "method": "prototype-20261021",
+    "subjectHash": "1a687899b1e5bf8b54a2815798dbc32d80bf3c19e6d473ffb561ad61904b2125",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 六三小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yao-4", "subjectId": "h2-yao-4", "method": "prototype-20261021",
+    "subjectHash": "24dc3bda213024965a906b695a290eb2725a04b57695d1c40d2df02273d904b9",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 六四"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-image-4", "subjectId": "h2-image-4", "method": "prototype-20261021",
+    "subjectHash": "6a4e76cbc866abe5c238b1d0aac7762d994ae6460206fdbbe2cd5f00d5636fc3",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 六四小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yao-5", "subjectId": "h2-yao-5", "method": "prototype-20261021",
+    "subjectHash": "1e68ac0fdc3622e91221bb868419a1021bb791a70a2788a8fd65e5c341c5fdf4",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 六五"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-image-5", "subjectId": "h2-image-5", "method": "prototype-20261021",
+    "subjectHash": "fade8f630c33019d23caa65989293e51403371a658d3dca6b7337c456b2dcb83",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 六五小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yao-6", "subjectId": "h2-yao-6", "method": "prototype-20261021",
+    "subjectHash": "ca745d328b35d0b78017a6060798b8ffce81cad14be297b23f54dfa99a8f6192",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 上六"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-image-6", "subjectId": "h2-image-6", "method": "prototype-20261021",
+    "subjectHash": "b92f87c2412d901e9fd7133d001203753c232194169c655ee893d813a7964a79",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 上六小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yong-liu", "subjectId": "h2-yong-liu", "method": "prototype-20261021",
+    "subjectHash": "370eb9c20172c83231b54fd49450d9f6b47f42f6375c84b7ec66e67974462aae",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 用六"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-yong-liu-image", "subjectId": "h2-yong-liu-image", "method": "prototype-20261021",
+    "subjectHash": "3a5968fd1705c421254a06e6b5b23351714500b6bd7e26b575fcb5ba092b4637",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 象曰 / 用六相关象传"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-overview", "subjectId": "h2-overview", "method": "prototype-20261021",
+    "subjectHash": "67abba56da74ebe763a0bde298f19444ac7abee87c0b4965e75c933265a66663",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-position-1", "subjectId": "h2-position-1", "method": "prototype-20261021",
+    "subjectHash": "6f994d2e0b5406cc8706831f23bb60c19bdf4cd3c0741a9f7ff418f8205e8993",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-position-2", "subjectId": "h2-position-2", "method": "prototype-20261021",
+    "subjectHash": "638264aad60a13e16e90046285a104e432a77d6a813a89d326c08bf5d1eb1de9",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-position-3", "subjectId": "h2-position-3", "method": "prototype-20261021",
+    "subjectHash": "388c53d3070946afb8d4b02f3694f42d8d0da0dab972ad42cd99a15bc99bd71b",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-position-4", "subjectId": "h2-position-4", "method": "prototype-20261021",
+    "subjectHash": "e7d2d8c142323420507672cabb11e595a93d5fba078f2d3695fef25542eaaa9c",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-position-5", "subjectId": "h2-position-5", "method": "prototype-20261021",
+    "subjectHash": "802b8492f8c8a2ec7d41cf74473c5935674e4e18a2c8090605e733b52a671315",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-position-6", "subjectId": "h2-position-6", "method": "prototype-20261021",
+    "subjectHash": "e3fe896c7555f3e38e3c6cef2f289a8eaed9ae9f75b515b566d0f5f87dbb3b96",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h2-special-note", "subjectId": "h2-special-note", "method": "prototype-20261021",
+    "subjectHash": "e7467874bde79894aa910e682ba53db3fe690a111e86848779a04a1cb1c71df7",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-2","locator":"第2卦 坤 / 易經 / 用六"}],
+    "issues": []
+  }
+]

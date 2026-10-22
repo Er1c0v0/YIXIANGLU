@@ -1,0 +1,142 @@
+[
+  {
+    "id": "element-generates-wood-fire",
+    "from": "wood",
+    "to": "fire",
+    "relation": "generates",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "reviewId": "review-element-generates-wood-fire"
+  },
+  {
+    "id": "element-generates-fire-earth",
+    "from": "fire",
+    "to": "earth",
+    "relation": "generates",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "reviewId": "review-element-generates-fire-earth"
+  },
+  {
+    "id": "element-generates-earth-metal",
+    "from": "earth",
+    "to": "metal",
+    "relation": "generates",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "reviewId": "review-element-generates-earth-metal"
+  },
+  {
+    "id": "element-generates-metal-water",
+    "from": "metal",
+    "to": "water",
+    "relation": "generates",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "reviewId": "review-element-generates-metal-water"
+  },
+  {
+    "id": "element-generates-water-wood",
+    "from": "water",
+    "to": "wood",
+    "relation": "generates",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "reviewId": "review-element-generates-water-wood"
+  },
+  {
+    "id": "element-controls-wood-earth",
+    "from": "wood",
+    "to": "earth",
+    "relation": "controls",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "reviewId": "review-element-controls-wood-earth"
+  },
+  {
+    "id": "element-controls-earth-water",
+    "from": "earth",
+    "to": "water",
+    "relation": "controls",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "reviewId": "review-element-controls-earth-water"
+  },
+  {
+    "id": "element-controls-water-fire",
+    "from": "water",
+    "to": "fire",
+    "relation": "controls",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "reviewId": "review-element-controls-water-fire"
+  },
+  {
+    "id": "element-controls-fire-metal",
+    "from": "fire",
+    "to": "metal",
+    "relation": "controls",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "reviewId": "review-element-controls-fire-metal"
+  },
+  {
+    "id": "element-controls-metal-wood",
+    "from": "metal",
+    "to": "wood",
+    "relation": "controls",
+    "tradition": "later-xiangshu",
+    "refs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "reviewId": "review-element-controls-metal-wood"
+  }
+]

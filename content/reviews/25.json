@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h25-statement", "subjectId": "h25-statement", "method": "electronic-20261022",
+    "subjectHash": "d3d88831fc2571dfd8fe3e64fd62c5b7c08b3c198a1dff63266704287aabfde9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 卦辞 / 0007冊.djvu/406"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-tuan", "subjectId": "h25-tuan", "method": "electronic-20261022",
+    "subjectHash": "0e9118e3bea910ac7460af9613f6d9dec9a016857d9a407e1cd871560bc285e0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 彖曰 / 0007冊.djvu/406"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 彖曰；异文仅作对校"}],
+    "issues": ["保留采用电子录文“于内”“祐”，普通电子对校页相应作“於內”“佑”。"]
+  },
+  {
+    "id": "review-h25-great-image", "subjectId": "h25-great-image", "method": "electronic-20261022",
+    "subjectHash": "7d463a027231ca5f32e5caa2f841fa95ffde163503d1cadacfae5ee20657f188",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 整卦大象 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-overview", "subjectId": "h25-overview", "method": "overview-20261022",
+    "subjectHash": "dc08ec01323a887e12ab96bfa5203c6cec441a85be687e8471fcf1e46b983e97",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/406–407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-yao-1", "subjectId": "h25-yao-1", "method": "electronic-20261022",
+    "subjectHash": "af100c5edcd8cadc54a8a7ae687d7e76e0ebc734102ec24d85f021788d0401bd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 初九 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-image-1", "subjectId": "h25-image-1", "method": "electronic-20261022",
+    "subjectHash": "e170905cd8920c693f7197cd8fdc18cdd3faefa47f87cf214f1640beb6e09d52",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 初九小象 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-yao-2", "subjectId": "h25-yao-2", "method": "electronic-20261022",
+    "subjectHash": "2235c023f1ed82b0c6e3b19ac52181218d4f81e53dd8480e0a9718ccbef8c0d8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 六二 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-image-2", "subjectId": "h25-image-2", "method": "electronic-20261022",
+    "subjectHash": "aff97f376662b0855a0b6f7a06fe26b86b61bc6412dbb61149b9fa333de036be",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 六二小象 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-yao-3", "subjectId": "h25-yao-3", "method": "electronic-20261022",
+    "subjectHash": "218f9a31203194ff36e8be01ec17911165aae325e9a95db1bafe9b2023579314",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 六三 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“繋”，普通电子对校页作“繫”。"]
+  },
+  {
+    "id": "review-h25-image-3", "subjectId": "h25-image-3", "method": "electronic-20261022",
+    "subjectHash": "91f56dbd7045ff36088b515a87b3cff911f38e30960f00a9283c525ce28e4c5d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 六三小象 / 0007冊.djvu/407"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-yao-4", "subjectId": "h25-yao-4", "method": "electronic-20261022",
+    "subjectHash": "b5719b16d8877b7c4e7cfb28647cf58712c20456ea57afc7558e3485de735a32",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 九四 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-image-4", "subjectId": "h25-image-4", "method": "electronic-20261022",
+    "subjectHash": "6fd7cb782d05dc5c1852e2588df3452f209f08cd94f49c5c188f537c267add90",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 九四小象 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-yao-5", "subjectId": "h25-yao-5", "method": "electronic-20261022",
+    "subjectHash": "4ffdf1efb2eaa43ffa5bbfed0f7c439e8c303fc576e14fb0542ab69492236ef6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 九五 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-image-5", "subjectId": "h25-image-5", "method": "electronic-20261022",
+    "subjectHash": "0acdd670f3415a7140883de3feb74679cb878e45f348c0e9a8383d177ccbdbaf",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 九五小象 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-yao-6", "subjectId": "h25-yao-6", "method": "electronic-20261022",
+    "subjectHash": "175aa39c63868ea7823872076225833b604125c19a484a05d400fa05021ae959",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 上九 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h25-image-6", "subjectId": "h25-image-6", "method": "electronic-20261022",
+    "subjectHash": "7c02385274f9e93e630d9c2f60597b31b53c69ebdd628b27e85414a123d60a3b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 无妄 / 上九小象 / 0007冊.djvu/408"},{"sourceId":"ws-zhouyi-25","locator":"第25卦 无妄 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h52-statement", "subjectId": "h52-statement", "method": "electronic-20261022",
+    "subjectHash": "acf3e5d987fd643f83bfa23b0b6e3a1c3105c0e0e713f909d2686607859d7612",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 卦辞 / 0007冊.djvu/488"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子主文以“艮其背”起首；普通电子对校页作“艮：艮其背”。未向主文重复添加卦名，影印待核。"]
+  },
+  {
+    "id": "review-h52-tuan", "subjectId": "h52-tuan", "method": "glyph-display-20261022",
+    "subjectHash": "251663de291775f09487d667729d639760f9493223ee32c7ea2d2abc6718a882",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 彖曰 / 0007冊.djvu/488–489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“静”，普通电子对校页相应为“靜”；采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形与异文待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=78d49e3542e91de75026d3db1df3da90cf5e8925c41df7778cb036fc20fa6307"]
+  },
+  {
+    "id": "review-h52-great-image", "subjectId": "h52-great-image", "method": "electronic-20261022",
+    "subjectHash": "cf1eac90ce05bdc44e85623bfebedc2a8186e1ffaf2ba756e5dfe6c1aab69d45",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 整卦大象 / 0007冊.djvu/489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-overview", "subjectId": "h52-overview", "method": "overview-20261022",
+    "subjectHash": "e33bcee5f9299626d0b6289f2984109e408ec53c2181919fb2baab3526cc0c14",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/488–489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-yao-1", "subjectId": "h52-yao-1", "method": "electronic-20261022",
+    "subjectHash": "ebe36dcc2092fa8196002db48cb3ff80e45c9c57f9ed90452b7766c9a3053ba2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 初六 / 0007冊.djvu/489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-image-1", "subjectId": "h52-image-1", "method": "electronic-20261022",
+    "subjectHash": "86736751788734d591337207ef0c11f71cf7414895318302d039b38c19691f5f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 初六小象 / 0007冊.djvu/489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-yao-2", "subjectId": "h52-yao-2", "method": "electronic-20261022",
+    "subjectHash": "5b1b1cab2045658e6659f7d072304f8b1ae5108465aea95c60f6e5c8952be7c6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 六二 / 0007冊.djvu/489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-image-2", "subjectId": "h52-image-2", "method": "electronic-20261022",
+    "subjectHash": "f54693e832f00383a11ec92d29fc1cd1b8eb12382420361707eb383216c64869",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 六二小象 / 0007冊.djvu/489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·六二；异文仅作对校"}],
+    "issues": ["采用电子录文“聴”，普通电子对校页相应为“聽”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h52-yao-3", "subjectId": "h52-yao-3", "method": "electronic-20261022",
+    "subjectHash": "7ae3db0ae8caddd555a0e61688edaa66ee5784aebcc6e0a1c19bec012d11f892",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 九三 / 0007冊.djvu/489"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·九三；异文仅作对校"}],
+    "issues": ["采用电子录文“列其夤，厲薰心”，普通电子对校页作“裂其夤，厲閽心”；分别留档，未据对校页改字，影印待核。"]
+  },
+  {
+    "id": "review-h52-image-3", "subjectId": "h52-image-3", "method": "electronic-20261022",
+    "subjectHash": "75a08c1d358a6ffd7edd06bab700fb708291b9b44412e19d1ca33b4cc603fa8a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 九三小象 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-yao-4", "subjectId": "h52-yao-4", "method": "electronic-20261022",
+    "subjectHash": "71b336d02a5d979634df49d56fec13e1f0b27e251f49eaa9c632affd928823fa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 六四 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-image-4", "subjectId": "h52-image-4", "method": "electronic-20261022",
+    "subjectHash": "ebab21aee4a46e4e0a0a281c9c70fcbc77200c95157978852831053294fcb613",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 六四小象 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-yao-5", "subjectId": "h52-yao-5", "method": "electronic-20261022",
+    "subjectHash": "b3b7c2b0855951a42b947a07392b85de18a2dd7d6f659574e996b34a51c27165",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 六五 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·六五；异文仅作对校"}],
+    "issues": ["采用电子录文“言有序”，普通电子对校页作“言有孚”；小象两页均为“以中正也”。保留采用主文，影印待核。"]
+  },
+  {
+    "id": "review-h52-image-5", "subjectId": "h52-image-5", "method": "electronic-20261022",
+    "subjectHash": "6861d8f37905d6e3b008a7ced3cdfb8f582bd68484b246da97eb13248adf6efa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 六五小象 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-yao-6", "subjectId": "h52-yao-6", "method": "electronic-20261022",
+    "subjectHash": "7396c6bc3d185bf7cf093fd5d359305615bdb3b498a328b27a0830676730b75b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 上九 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h52-image-6", "subjectId": "h52-image-6", "method": "electronic-20261022",
+    "subjectHash": "99cab6d0167b596d17cd00c4b4ac865865655bf094d536fbaf1130e75b3cd22b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 艮 / 上九小象 / 0007冊.djvu/490"},{"sourceId":"ws-zhouyi-52","locator":"第52卦 艮 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

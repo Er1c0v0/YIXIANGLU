@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h19-statement", "subjectId": "h19-statement", "method": "electronic-20261022",
+    "subjectHash": "7fa98a888262c352fc4b73d01bb7134622c5d2ae483c7a402d2c0a69e7acdd62",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 卦辞 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-tuan", "subjectId": "h19-tuan", "method": "electronic-20261022",
+    "subjectHash": "34a4d1d809ae930e93631d5c385efc39b6068b50b61dc8ad703c6a24ea67aec1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 彖曰 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-great-image", "subjectId": "h19-great-image", "method": "electronic-20261022",
+    "subjectHash": "fcd3a4ebe5bb6413d6f5219cd5e8db8672ae8671b3ce763039f757cbffcd894a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 整卦大象 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["保留采用电子录文“敎”字，普通电子对校页作“教”。"]
+  },
+  {
+    "id": "review-h19-overview", "subjectId": "h19-overview", "method": "overview-20261022",
+    "subjectHash": "b697204604bbd0493283115d91ee62932726484040e0158e5b1b8b7096689ce1",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/388"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-yao-1", "subjectId": "h19-yao-1", "method": "electronic-20261022",
+    "subjectHash": "8173a295dce207771deca74ce4cd4fdd4e7f46c2934b339cfac620a7a0d41e7f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 初九 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-image-1", "subjectId": "h19-image-1", "method": "electronic-20261022",
+    "subjectHash": "30c6d36ab75d237f04697511b4a372fadd5ac19ce96429e3a9e6a898c5249b99",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 初九小象 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-yao-2", "subjectId": "h19-yao-2", "method": "electronic-20261022",
+    "subjectHash": "6733d0749ff6d10d4f2e8d6213ba141a19fa2fc0cb61d4b55515c0f24b22ebb4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 九二 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-image-2", "subjectId": "h19-image-2", "method": "electronic-20261022",
+    "subjectHash": "eebc68940063234a25706c85bab5cc5ecd041270a516722d2e9cb27e647390b0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 九二小象 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-yao-3", "subjectId": "h19-yao-3", "method": "electronic-20261022",
+    "subjectHash": "ee3bda32a832ca0f8bff8665f10a61578140a492ddc098e4c30b00e22401604a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 六三 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-image-3", "subjectId": "h19-image-3", "method": "electronic-20261022",
+    "subjectHash": "8ada4e2cc21501201fad11fae8d0607f78318d8ca1915c3e5548d701269d370c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 六三小象 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-yao-4", "subjectId": "h19-yao-4", "method": "electronic-20261022",
+    "subjectHash": "7dc51475929d15008e2bb5283bd8b1056fd531af545955d298c666af152c1cf6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 六四 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-image-4", "subjectId": "h19-image-4", "method": "electronic-20261022",
+    "subjectHash": "507aa253e6a323cf489a6b6350257c99a542789126ab2022b70399ee13b6243d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 六四小象 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-yao-5", "subjectId": "h19-yao-5", "method": "electronic-20261022",
+    "subjectHash": "82e48525e92db7736396de57f363788beb1a74eb23d220065f8bf6b83b36ae24",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 六五 / 0007冊.djvu/389"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-image-5", "subjectId": "h19-image-5", "method": "electronic-20261022",
+    "subjectHash": "062c8b1c9e0930ac4400706b30c4057e9638b81f97d97eb8208cdc4ccc51a2ae",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 六五小象 / 0007冊.djvu/390"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-yao-6", "subjectId": "h19-yao-6", "method": "electronic-20261022",
+    "subjectHash": "ec405ef989f7611649fc63babf5c78204d2537fd487c28bb784a493e079e1973",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 上六 / 0007冊.djvu/390"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h19-image-6", "subjectId": "h19-image-6", "method": "electronic-20261022",
+    "subjectHash": "87ec09cd191e5f26c9797012891cd9c9221c4ec7b810e604d937ed946108c565",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 臨 / 上六小象 / 0007冊.djvu/390"},{"sourceId":"ws-zhouyi-19","locator":"第19卦 臨 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

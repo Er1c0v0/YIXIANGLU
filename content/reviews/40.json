@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h40-statement", "subjectId": "h40-statement", "method": "electronic-20261022",
+    "subjectHash": "2c02d20a9857d0222cec7dd117f14af59dc40b0e9d3a1dfdbda1c108537b3ffa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 卦辞 / 0007冊.djvu/448"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-tuan", "subjectId": "h40-tuan", "method": "electronic-20261022",
+    "subjectHash": "05e120ff47d54563f3f5dfb5ebd83af832969d19d4661b1349089fa80da4a2ad",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 彖曰 / 0007冊.djvu/449"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“往得衆也”“解之時大矣哉”，普通电子对校页作“往得眾也”“解之時義大矣哉”；未向主文补入“義”字，影印待核。"]
+  },
+  {
+    "id": "review-h40-great-image", "subjectId": "h40-great-image", "method": "electronic-20261022",
+    "subjectHash": "ea1b6959a46d29caf9b066981b16f2b5a8e8b98e7f123768b6d8497c61915ed4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 整卦大象 / 0007冊.djvu/449"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-overview", "subjectId": "h40-overview", "method": "overview-20261022",
+    "subjectHash": "b22b2558ff8e6c734edc21eb207adef63a615ba5f83eaa8d8f4b51d32fc96163",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/448–449"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-yao-1", "subjectId": "h40-yao-1", "method": "electronic-20261022",
+    "subjectHash": "9e16a679909aacc90b512749039a5f0abc3680b02a632a9757cb306c617d634e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 初六 / 0007冊.djvu/449"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-image-1", "subjectId": "h40-image-1", "method": "electronic-20261022",
+    "subjectHash": "d2a249125a101d020b313c41d201104330fe35bf0cd00f5ec555aa57ca0e60c2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 初六小象 / 0007冊.djvu/449"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-yao-2", "subjectId": "h40-yao-2", "method": "glyph-display-20261022",
+    "subjectHash": "cfa5bc23ceb8dbe569ccbff01befb9f55ba41c132a479518e272ff3d9ecdee9f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 九二 / 0007冊.djvu/449"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=2f77e339b690a26223d5d86b6c8a4443a9adc19b6d8ce8a382800cad06757a8a"]
+  },
+  {
+    "id": "review-h40-image-2", "subjectId": "h40-image-2", "method": "electronic-20261022",
+    "subjectHash": "d983acaac00a4a28999fb2ba5942418a82fa57df6065f0e2d75ea5ed1690ffa7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 九二小象 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-yao-3", "subjectId": "h40-yao-3", "method": "electronic-20261022",
+    "subjectHash": "c7d6456d0137a9559d7f17380ada24c48ca2d1eb031e9c6ba541f65b37dd0240",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 六三 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“宼”，普通电子对校页相应为“寇”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h40-image-3", "subjectId": "h40-image-3", "method": "electronic-20261022",
+    "subjectHash": "312cd70cbe41519b6d6cb6eb9dca36377a654c5ddd70a8dfdbe5faa9a1575a1c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 六三小象 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“醜”，普通电子对校页相应为“丑”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h40-yao-4", "subjectId": "h40-yao-4", "method": "electronic-20261022",
+    "subjectHash": "a46504e6b0cca3a02e7e1f60847bccf3db2813cb0757a7f28356ea4897f17ac4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 九四 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-image-4", "subjectId": "h40-image-4", "method": "electronic-20261022",
+    "subjectHash": "bf72cc8d00659fd31ab4b16656bd31b3410d890161c547845068fce7ba19762a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 九四小象 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-yao-5", "subjectId": "h40-yao-5", "method": "electronic-20261022",
+    "subjectHash": "7f770c85639868f137a74aec65819381502085d69257d53e6d948d7c96b3826c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 六五 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·六五；异文仅作对校"}],
+    "issues": ["采用电子录文“維”，普通电子对校页相应为“惟”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h40-image-5", "subjectId": "h40-image-5", "method": "electronic-20261022",
+    "subjectHash": "6c37f6f4cfc26dbe77fef5dac1ebde7db676ae3f39a81a6e286f23a7ba710686",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 六五小象 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h40-yao-6", "subjectId": "h40-yao-6", "method": "glyph-display-20261022",
+    "subjectHash": "04b534eed1ac9a827478bab00799ad5fe9ebfd6a94fcbf83d4d98a59a4073e53",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 上六 / 0007冊.djvu/450"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 易經·上六；异文仅作对校"}],
+    "issues": ["采用电子录文“髙”、“𫉬”，普通电子对校页相应为“高”、“獲”；保留所见，影印字形待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=10b6dedb3297275d7f1a2661259e7676a27e29148eb0131308c9eb821b4d4b82"]
+  },
+  {
+    "id": "review-h40-image-6", "subjectId": "h40-image-6", "method": "electronic-20261022",
+    "subjectHash": "e5123be836385802d7ed1b5e8244ed9f0d056c72396609e308203e1db990f9dd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-7-batch5","locator":"卷7 / 解 / 上六小象 / 0007冊.djvu/451"},{"sourceId":"ws-zhouyi-40","locator":"第40卦 解 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

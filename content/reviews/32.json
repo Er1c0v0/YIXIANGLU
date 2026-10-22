@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h32-statement", "subjectId": "h32-statement", "method": "electronic-20261022",
+    "subjectHash": "893a3eb3315007745a3cafa52c82763450821e949cde49058c6f860741a44013",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 卦辞 / 0007冊.djvu/429"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-tuan", "subjectId": "h32-tuan", "method": "electronic-20261022",
+    "subjectHash": "1b06a5b597a0ce3d5b11c0042af220b80abb0cd5c6feb0e573b0cf7f91244eaa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 彖曰 / 0007冊.djvu/429"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“久於”“不巳”，普通电子对校页相应为“久于”“不已”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h32-great-image", "subjectId": "h32-great-image", "method": "electronic-20261022",
+    "subjectHash": "b97c99b12fcd6c503ba96a85b932260746247b34963d5ca4f3c34a3a6ce884a5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 整卦大象 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-overview", "subjectId": "h32-overview", "method": "overview-20261022",
+    "subjectHash": "030d8c193a42ce476a2ab10058e306fb0fd7d2e411bd21c8357bda288856cbad",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/429–430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-yao-1", "subjectId": "h32-yao-1", "method": "electronic-20261022",
+    "subjectHash": "442484fe3aa86ec468652670a614df51ed74f2946d4a1765ff2a1ddeb2d234b7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 初六 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-image-1", "subjectId": "h32-image-1", "method": "electronic-20261022",
+    "subjectHash": "60a8107806b6ad8691cc4c53bee7297e728dcd5404727722485d325b802f18e5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 初六小象 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-yao-2", "subjectId": "h32-yao-2", "method": "electronic-20261022",
+    "subjectHash": "3696707d5060f7016fad290dd7e39c825d270d52222b00ed67222a92f791c587",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 九二 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-image-2", "subjectId": "h32-image-2", "method": "electronic-20261022",
+    "subjectHash": "758bffb29a5c6b91063479f1e5f84350cf2237cbf2ea0e40f9bef85af59c90da",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 九二小象 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-yao-3", "subjectId": "h32-yao-3", "method": "electronic-20261022",
+    "subjectHash": "8e6f6a942c2051d6274acb3675768ae3e75fe9720547fd78b56bce57f34dad9e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 九三 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-image-3", "subjectId": "h32-image-3", "method": "electronic-20261022",
+    "subjectHash": "8e58c7be32948c6df8bee097cfcd0965de7e4ba26e0d8f980cfd50c19cf9017c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 九三小象 / 0007冊.djvu/430"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-yao-4", "subjectId": "h32-yao-4", "method": "electronic-20261022",
+    "subjectHash": "a4fd020f971507a42bae777e0704dcb58bacf4e5d019d5e951f8fce24dcd3aec",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 九四 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-image-4", "subjectId": "h32-image-4", "method": "electronic-20261022",
+    "subjectHash": "5d329e2a14049b9c03809096cd1ab1554f4261aafc90979fe56662f4437f88fb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 九四小象 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-yao-5", "subjectId": "h32-yao-5", "method": "glyph-display-20261022",
+    "subjectHash": "2d97039338d4600d99aab4ebcd9f779981d199382e7957b15276a8904c7c2503",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 六五 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·六五；异文仅作对校"}],
+    "issues": ["电子录文六五首字作“𢘆”，其他多作“恒”；普通电子对校页作“恆”，影印字形待核。","2026-10-22显示修正：“𢘆”通写为“恆”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=80676ec91dc3db6e53a214bcb68e59b4237123196352d8c312b037cc92b49572"]
+  },
+  {
+    "id": "review-h32-image-5", "subjectId": "h32-image-5", "method": "electronic-20261022",
+    "subjectHash": "cb8f88968d42f4a2abaf8e8c751b18b6bb3dcd3fe313c5be8eed0a53d5777839",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 六五小象 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h32-yao-6", "subjectId": "h32-yao-6", "method": "electronic-20261022",
+    "subjectHash": "653a1b7fc238c8301d39b09755856f6646185ca283c97618a767faa43f4a7541",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 上六 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 易經·上六；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“振恒”，普通电子对校页爻辞作“震恆”、小象作“振恆”，待影印复核。"]
+  },
+  {
+    "id": "review-h32-image-6", "subjectId": "h32-image-6", "method": "electronic-20261022",
+    "subjectHash": "22c662e29e11aa135a5699a4c754c96ace1074a64d6ea229cb10690b94dca831",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 恒 / 上六小象 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-32","locator":"第32卦 恒 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

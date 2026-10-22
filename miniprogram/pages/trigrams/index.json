@@ -1,4 +1,6 @@
 {
   "navigationBarTitleText": "八卦速查",
-  "usingComponents": {}
+  "usingComponents": {
+    "hexagram-shape": "/components/hexagram-shape/index"
+  }
 }

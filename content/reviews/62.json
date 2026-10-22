@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h62-statement", "subjectId": "h62-statement", "method": "electronic-20261022",
+    "subjectHash": "47ae67120e5a3cca600315c611cbc5a1f2861a31434aabd47021c99f1242aa0a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 卦辞 / 0007冊.djvu/515"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-tuan", "subjectId": "h62-tuan", "method": "electronic-20261022",
+    "subjectHash": "0090883a480bd9fbc2cab064731cc052772ced3a9e818ae31dd3899512eadeee",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 彖曰 / 0007冊.djvu/515"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子主文“有飛鳥之象焉”之后接“飛鳥遺之音”，普通电子对校页后句多一“有”字；未补入主文，影印待核。"]
+  },
+  {
+    "id": "review-h62-great-image", "subjectId": "h62-great-image", "method": "electronic-20261022",
+    "subjectHash": "0f5fcb7f7e9896922a613d00df9ceea1524ef093255a04132a7c74359c35e8ec",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 整卦大象 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-overview", "subjectId": "h62-overview", "method": "overview-20261022",
+    "subjectHash": "0cf101274f15319624008848f2ccf2c7faea92315400ce08ab36788cb274b0d7",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/515–516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-yao-1", "subjectId": "h62-yao-1", "method": "electronic-20261022",
+    "subjectHash": "2a5f24701dcdf8354af18a2d9a87e4723f97c2d8cee75eb4566e9c3c5decb064",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 初六 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-image-1", "subjectId": "h62-image-1", "method": "electronic-20261022",
+    "subjectHash": "5fc1b02dc39d9809dab5c3e08ae8210a1623738af3996d2afcb746aef23fb315",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 初六小象 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-yao-2", "subjectId": "h62-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e53a12479af3513a9ab715a4bd7e709a167e23b481f5a370f45737e8ae8194b7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 六二 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-image-2", "subjectId": "h62-image-2", "method": "electronic-20261022",
+    "subjectHash": "1cc1f9b3c1d13dd0315c37b76e1fd1e926a221bd44102c149436f4fa13b103d4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 六二小象 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-yao-3", "subjectId": "h62-yao-3", "method": "electronic-20261022",
+    "subjectHash": "053ec9057f3103cf2e16d9a2c756ae0bf4afab96292b9b3b16b86534491e7b35",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 九三 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-image-3", "subjectId": "h62-image-3", "method": "electronic-20261022",
+    "subjectHash": "9eab879b4fe2c2acd0a942b5919da9ea8c06fd2a690686f2efbb57dd4c4b1e10",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 九三小象 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-yao-4", "subjectId": "h62-yao-4", "method": "electronic-20261022",
+    "subjectHash": "3d5c34ad24295f9e4c3cd431b587158cc441ffa9e1d9310ae9255a2dd2d856df",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 九四 / 0007冊.djvu/516"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-image-4", "subjectId": "h62-image-4", "method": "electronic-20261022",
+    "subjectHash": "c6470448a29c34c2721ff23d310697b02baaa52b81024a366a201cb4cc096e0d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 九四小象 / 0007冊.djvu/517"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-yao-5", "subjectId": "h62-yao-5", "method": "electronic-20261022",
+    "subjectHash": "d4d384cc90a1962106551915a6f430bb3bc3eb7533523a9cd18f3c5b80841b32",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 六五 / 0007冊.djvu/517"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-image-5", "subjectId": "h62-image-5", "method": "electronic-20261022",
+    "subjectHash": "e63841a8c5a424ee9a9f20d7af0b7472a07ed401841179509361e59fe884fb3b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 六五小象 / 0007冊.djvu/517"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·六五；异文仅作对校"}],
+    "issues": ["采用电子录文“雲”，普通电子对校页相应为“云”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h62-yao-6", "subjectId": "h62-yao-6", "method": "electronic-20261022",
+    "subjectHash": "f185e0d750965de6156eb887cf81ced9b1e8698167fc9cdc69a8abf9ba77d289",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 上六 / 0007冊.djvu/518"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h62-image-6", "subjectId": "h62-image-6", "method": "electronic-20261022",
+    "subjectHash": "d93af5f56de94409d597c48b2f2411bfabe707b043a2a934bf8811ec66fb1276",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 小过 / 上六小象 / 0007冊.djvu/518"},{"sourceId":"ws-zhouyi-62","locator":"第62卦 小过 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

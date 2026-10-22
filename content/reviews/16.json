@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h16-statement", "subjectId": "h16-statement", "method": "electronic-20261022",
+    "subjectHash": "b7d15abfc9a874502f9a9c2955283393b38d7efeba1c3e8492df7ca0e59b955e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 卦辞 / 0007冊.djvu/381"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-tuan", "subjectId": "h16-tuan", "method": "electronic-20261022",
+    "subjectHash": "9878cce08cff85eed5ca37d3043a227fa4ccee25f39270c546353206c584e912",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 彖曰 / 0007冊.djvu/381"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-great-image", "subjectId": "h16-great-image", "method": "electronic-20261022",
+    "subjectHash": "5c80e3233d0af861caedbf38fb353a10f426cd4a2d6beb7b8775e39bce9e0ad0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 整卦大象 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-overview", "subjectId": "h16-overview", "method": "overview-20261022",
+    "subjectHash": "407b61175470d8cdf27898e0aec9095a23911f69548064a384d0d79370d3d8b7",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/381–382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-yao-1", "subjectId": "h16-yao-1", "method": "electronic-20261022",
+    "subjectHash": "6045b454f3495e381c07afd06fef6791bdabff44dd5dd10bec850f7bf71bfc80",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 初六 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-image-1", "subjectId": "h16-image-1", "method": "electronic-20261022",
+    "subjectHash": "5e70f147a327ffaa31e52ab5d33fd24c73ebfe6d11d27de3869d174c3f9137e3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 初六小象 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-yao-2", "subjectId": "h16-yao-2", "method": "electronic-20261022",
+    "subjectHash": "4b7d3442c89beeb4acc46efa973bfd2512b537535aef4c460f4c6a65ff4ce312",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 六二 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-image-2", "subjectId": "h16-image-2", "method": "electronic-20261022",
+    "subjectHash": "1f0bb267cc63d7222553399f1ce86760f79c91e68f1d254868353b4f236d3c44",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 六二小象 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-yao-3", "subjectId": "h16-yao-3", "method": "electronic-20261022",
+    "subjectHash": "e96048e73a447dba328ef9cb88b7346a55a1ba2405c0c72dc35fe3474b3fa25b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 六三 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-image-3", "subjectId": "h16-image-3", "method": "electronic-20261022",
+    "subjectHash": "7aef84d0d292e1e0d1a858a6051f9cef504c84ca04276439df4d86fd5dcacbc6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 六三小象 / 0007冊.djvu/382"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-yao-4", "subjectId": "h16-yao-4", "method": "electronic-20261022",
+    "subjectHash": "475ed6901f09fc79987f9264de811c85a97f3a9282120778dd5ec9b22115de2e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 九四 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·九四；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“朋盍簪”，普通电子对校页作“朋盍戠”。"]
+  },
+  {
+    "id": "review-h16-image-4", "subjectId": "h16-image-4", "method": "electronic-20261022",
+    "subjectHash": "1680ec31281320e9b544f4ace73a73621225ca514d508be69afc386e4778a48e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 九四小象 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-yao-5", "subjectId": "h16-yao-5", "method": "electronic-20261022",
+    "subjectHash": "53b28aa64133df7817211cce07eb9623d056618fb227b484295aef83a97a4810",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 六五 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-image-5", "subjectId": "h16-image-5", "method": "electronic-20261022",
+    "subjectHash": "4ce35110795094880125ffe4431ec7985b556c7ab5224eb7966ed7da10c5b454",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 六五小象 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h16-yao-6", "subjectId": "h16-yao-6", "method": "electronic-20261022",
+    "subjectHash": "4c91bf9277c372e77155152ecb40e815c7a05c73658bfac59dce8ff401420265",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 上六 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 易經·上六；异文仅作对校"}],
+    "issues": ["采用四库本电子录文爻辞“㝠”、小象“冥”的不同字形，普通电子对校页爻辞亦作“冥”；影印待核。"]
+  },
+  {
+    "id": "review-h16-image-6", "subjectId": "h16-image-6", "method": "electronic-20261022",
+    "subjectHash": "83be9547718267d9114c4af33eb37771783286c457e88dd556144c6e7bf283a7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 豫 / 上六小象 / 0007冊.djvu/383"},{"sourceId":"ws-zhouyi-16","locator":"第16卦 豫 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

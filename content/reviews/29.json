@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h29-statement", "subjectId": "h29-statement", "method": "electronic-20261022",
+    "subjectHash": "07649e8084942c0a285b888726079ddde65d34978c455ef4a35115dab1229c9b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 卦辞 / 0007冊.djvu/416"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-tuan", "subjectId": "h29-tuan", "method": "electronic-20261022",
+    "subjectHash": "1d272d69ebfd21047dd6a24033c5a664e263cdd59b888eced911d9b4bf7886c4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 彖曰 / 0007冊.djvu/416–417"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 彖曰；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“險之時用”，普通电子对校页作“坎之時用”，待影印复核。"]
+  },
+  {
+    "id": "review-h29-great-image", "subjectId": "h29-great-image", "method": "electronic-20261022",
+    "subjectHash": "b5de4ab7b037923ac943bb72beb665478ad56be5143fe0e83eb60bec8b625923",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 整卦大象 / 0007冊.djvu/417"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-overview", "subjectId": "h29-overview", "method": "overview-20261022",
+    "subjectHash": "31e7a837b471214e1831f61d847c35519ed4ad0691149603f5a99b8faf5af035",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/416–417"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-yao-1", "subjectId": "h29-yao-1", "method": "electronic-20261022",
+    "subjectHash": "1c95cef94045cacee326a6d83bfb1e5af4c9625c9b1243074826c038dcad7aa1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 初六 / 0007冊.djvu/417"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-image-1", "subjectId": "h29-image-1", "method": "electronic-20261022",
+    "subjectHash": "fe1f8f9790bdeaa30c549b8fba7e265a13c93b1bf14bdee1a917e7af4c7e3632",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 初六小象 / 0007冊.djvu/417"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-yao-2", "subjectId": "h29-yao-2", "method": "electronic-20261022",
+    "subjectHash": "6950346a31d8a91387b91cb5b7f1a165298950981b267ee351ea5978dd378aab",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 九二 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-image-2", "subjectId": "h29-image-2", "method": "electronic-20261022",
+    "subjectHash": "9e0a279ca82519b1509e4c886342daffc80c8f8a1d10189686b5b081afa61bc4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 九二小象 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-yao-3", "subjectId": "h29-yao-3", "method": "electronic-20261022",
+    "subjectHash": "96cdefc9d89af2bc798ff4a4f7bf20f996297ed18676e1ea7b979e1a7f14b99e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 六三 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-image-3", "subjectId": "h29-image-3", "method": "electronic-20261022",
+    "subjectHash": "e4393a4ccf3227459a774c5f7ae8388aba681e375215bc368250c93d2dd39576",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 六三小象 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-yao-4", "subjectId": "h29-yao-4", "method": "electronic-20261022",
+    "subjectHash": "a50140c1a2135b4a38c4b480935f6297ccb6fc00402d1bdc4f27deae544b1cab",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 六四 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用录文“樽酒簋貳”“納約自牖”，普通电子页爻辞为“尊酒簋”“内約自牖”；标点依本篇音义分句，未添加经文字。"]
+  },
+  {
+    "id": "review-h29-image-4", "subjectId": "h29-image-4", "method": "electronic-20261022",
+    "subjectHash": "ec2e012ba08523452496317fe8a084f1f1b9c1900be34544370d66fccbd3a3a0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 六四小象 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·六四；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“剛柔際也”，普通电子对校页作“剛柔济也”。"]
+  },
+  {
+    "id": "review-h29-yao-5", "subjectId": "h29-yao-5", "method": "electronic-20261022",
+    "subjectHash": "7bd8792a187438acbddd78bc410b553bcc0691f51a9a7ae4280e44c51dd8578a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 九五 / 0007冊.djvu/418"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·九五；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“祗”，普通电子对校页作“禔”，待影印核字。"]
+  },
+  {
+    "id": "review-h29-image-5", "subjectId": "h29-image-5", "method": "electronic-20261022",
+    "subjectHash": "fa044a6e301f0aebb97363ed4e829be9add67e1abd10611c777a47c8d506c266",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 九五小象 / 0007冊.djvu/419"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-yao-6", "subjectId": "h29-yao-6", "method": "electronic-20261022",
+    "subjectHash": "74c7ac30323bfa5f1dd2aafde5eac05492b633ba76e1b9b251a2effa064124d7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 上六 / 0007冊.djvu/419"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h29-image-6", "subjectId": "h29-image-6", "method": "electronic-20261022",
+    "subjectHash": "701437e8f1571c407e4d755d7c58d6694223f2ccbff38e43ecbe44f8a59b4100",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 坎 / 上六小象 / 0007冊.djvu/419"},{"sourceId":"ws-zhouyi-29","locator":"第29卦 坎 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

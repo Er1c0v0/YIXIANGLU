@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h21-statement", "subjectId": "h21-statement", "method": "electronic-20261022",
+    "subjectHash": "a205b56339ce1cf7fec4d336107b404d7730dce724e698a6b0c74e1ba7a09789",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 卦辞 / 0007冊.djvu/392"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-tuan", "subjectId": "h21-tuan", "method": "electronic-20261022",
+    "subjectHash": "6d31d910ed9e0ae367485836382ff626a27748bcfc7a95219cf72a1a59789db1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 彖曰 / 0007冊.djvu/392"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-great-image", "subjectId": "h21-great-image", "method": "electronic-20261022",
+    "subjectHash": "2c27b3cffcf7ca1aafce5fc88d843c1f3350fd0d7125a8c54f00a2dfdc6d6544",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 整卦大象 / 0007冊.djvu/393"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“勑”，普通电子对校页作“敕”。"]
+  },
+  {
+    "id": "review-h21-overview", "subjectId": "h21-overview", "method": "overview-20261022",
+    "subjectHash": "68c1772fc8db16fc790e8e41b14f861f09e2215b3e9b3c15b75d83038e82e64c",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/392–393"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-yao-1", "subjectId": "h21-yao-1", "method": "electronic-20261022",
+    "subjectHash": "f47db3713ea1794c8c85b65dbdb6b0e1c38a1af0410207d6f072ba29443b157e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 初九 / 0007冊.djvu/393"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-image-1", "subjectId": "h21-image-1", "method": "electronic-20261022",
+    "subjectHash": "d3f7a53e40c50fd805dad1105a6362de9bdd6b660426a11ffc6a2d70403c5649",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 初九小象 / 0007冊.djvu/393"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-yao-2", "subjectId": "h21-yao-2", "method": "electronic-20261022",
+    "subjectHash": "55fcc34e59636cb4060cfde1c7d21e9a8fd030038a8cc83ef7430726f685f32e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 六二 / 0007冊.djvu/393"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-image-2", "subjectId": "h21-image-2", "method": "electronic-20261022",
+    "subjectHash": "4b3d881d3562864ddd2d719781cb6f414153ae347c75b04b7c75f0499b282c39",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 六二小象 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-yao-3", "subjectId": "h21-yao-3", "method": "electronic-20261022",
+    "subjectHash": "1d88279f28504ecfd82d9ecc1c205c580a6fc8266dcb356c7a21f4aace1651eb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 六三 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“腊肉”，普通电子对校页作“昔肉”，待影印复核。"]
+  },
+  {
+    "id": "review-h21-image-3", "subjectId": "h21-image-3", "method": "electronic-20261022",
+    "subjectHash": "53fadae1fc2cadf58c4754a9e24bf434cb3b34fc7ae340aca5c42bb66597e122",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 六三小象 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-yao-4", "subjectId": "h21-yao-4", "method": "electronic-20261022",
+    "subjectHash": "4c34e29447b0932892f98b8c3750693ef9be4aa3cbfe4ad81dbf2ce2115abac2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 九四 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-image-4", "subjectId": "h21-image-4", "method": "electronic-20261022",
+    "subjectHash": "504b5dda756cf7cf6d1b87d92b11cbb97b164e944707154d7e0834be8a59c7e2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 九四小象 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-yao-5", "subjectId": "h21-yao-5", "method": "electronic-20261022",
+    "subjectHash": "7d20793cf437852f06a3c32de58e34ac2751ac651107d33fb07aa64550cd4729",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 六五 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-image-5", "subjectId": "h21-image-5", "method": "electronic-20261022",
+    "subjectHash": "8987c98f60cc0d3ee5915774fd029c70316d54d3a15bef278dd87d9e7044cec7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 六五小象 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-yao-6", "subjectId": "h21-yao-6", "method": "electronic-20261022",
+    "subjectHash": "08c0efef6f0e6f88a5302544d11d5e1efcefcc61a500353ec386671fc0af7e01",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 上九 / 0007冊.djvu/394"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h21-image-6", "subjectId": "h21-image-6", "method": "electronic-20261022",
+    "subjectHash": "a33edd0ee00265cf5ba7f65ed6dbc8d925cfe85721f48ac2463495b570b89523",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 噬嗑 / 上九小象 / 0007冊.djvu/395"},{"sourceId":"ws-zhouyi-21","locator":"第21卦 噬嗑 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

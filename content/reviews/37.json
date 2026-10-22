@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h37-statement", "subjectId": "h37-statement", "method": "electronic-20261022",
+    "subjectHash": "b91149f76c2b29f11c7f4d01292a205b7495c2c18590528cb9bc568f64aa009d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 卦辞 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-tuan", "subjectId": "h37-tuan", "method": "electronic-20261022",
+    "subjectHash": "73c4c15f353189bb2e3585d53fe9452ca98b108911931359947e915d83ac370a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 彖曰 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h37-great-image", "subjectId": "h37-great-image", "method": "electronic-20261022",
+    "subjectHash": "afae983921214f808e27c43d7b480ae6905457b672ed28985b156d11b3cf62d5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 整卦大象 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h37-overview", "subjectId": "h37-overview", "method": "overview-20261022",
+    "subjectHash": "2566f4b9d3a22cdf101f182d0ed7d6f23d8bb29eff6fe838bec12a166bcf4c00",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-yao-1", "subjectId": "h37-yao-1", "method": "electronic-20261022",
+    "subjectHash": "388389d663342dbcb27d1fcbcbc325050faf4e82404851abc14dee3fce4057c2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 初九 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-image-1", "subjectId": "h37-image-1", "method": "electronic-20261022",
+    "subjectHash": "42b00669f810343168abee0e79138de60fddd0cfe843c97ed83f8973adef4888",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 初九小象 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-yao-2", "subjectId": "h37-yao-2", "method": "electronic-20261022",
+    "subjectHash": "f986f345f0798ec4466f9e119105d8b4d4bafb4c7e30b21ba513f60a2fc793bd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 六二 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-image-2", "subjectId": "h37-image-2", "method": "electronic-20261022",
+    "subjectHash": "4050a03a335df8402864dae166185bd9e967519fbc00ccedc0f36dfc92a7777f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 六二小象 / 0007冊.djvu/440"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-yao-3", "subjectId": "h37-yao-3", "method": "electronic-20261022",
+    "subjectHash": "307b7b8384f633723db8a43e65744da1d9d0f1e52f48728869cb9ab9cd47505a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 九三 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-image-3", "subjectId": "h37-image-3", "method": "electronic-20261022",
+    "subjectHash": "f55112856b0cbb91eb4278735bbff359cf87965d9d5e8446bf4633d93be1afb1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 九三小象 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-yao-4", "subjectId": "h37-yao-4", "method": "electronic-20261022",
+    "subjectHash": "d4ebe3966da942fc8b9c5bc384d11d30fddd39fc25ec8742399257e57f14bd5d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 六四 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-image-4", "subjectId": "h37-image-4", "method": "electronic-20261022",
+    "subjectHash": "64e5b7a089ccdd28034923430517407c4f37d4460eeb3ae2f0db5aad484abd22",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 六四小象 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-yao-5", "subjectId": "h37-yao-5", "method": "electronic-20261022",
+    "subjectHash": "50c35159d8294d622a97a0f6b3f5501e004f3ebd5f31389dfac082de4c9ead2c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 九五 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-image-5", "subjectId": "h37-image-5", "method": "electronic-20261022",
+    "subjectHash": "554c6cc50f5bd8e5c571b5dcf3bc2fba0b14384b9a6121e2f2913bd16bd80487",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 九五小象 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-yao-6", "subjectId": "h37-yao-6", "method": "electronic-20261022",
+    "subjectHash": "a40119e19f8d6ac1e548f0b31ab339e3ecd7aca81a774d300b5c42d44d9dcbad",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 上九 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h37-image-6", "subjectId": "h37-image-6", "method": "electronic-20261022",
+    "subjectHash": "1d6541732236647ee5ea62254f239a341dc85c96540c41f70bf9b02d3d3894ba",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 家人 / 上九小象 / 0007冊.djvu/441"},{"sourceId":"ws-zhouyi-37","locator":"第37卦 家人 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

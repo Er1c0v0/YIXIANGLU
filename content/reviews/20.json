@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h20-statement", "subjectId": "h20-statement", "method": "electronic-20261022",
+    "subjectHash": "1012c475e3f07e1b41c9c9cb0823b8ff873b331acd8d3703bcd58a01043961c7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 卦辞 / 0007冊.djvu/390"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-tuan", "subjectId": "h20-tuan", "method": "electronic-20261022",
+    "subjectHash": "c88d2f7640d4d7caa9e63cfc9cc464de64eb370132628806b9bdce5b1913b34a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 彖曰 / 0007冊.djvu/390"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-great-image", "subjectId": "h20-great-image", "method": "electronic-20261022",
+    "subjectHash": "faa864b89a6e496c2a99016b7196acc8b02b0e539ec79f322b602a1a23bacd5a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 整卦大象 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-overview", "subjectId": "h20-overview", "method": "overview-20261022",
+    "subjectHash": "8aa88a54960d0ebacc22e8bcc93bc31af2440efb5000c90e70c46b8ff93ceba0",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/390–391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-yao-1", "subjectId": "h20-yao-1", "method": "electronic-20261022",
+    "subjectHash": "a6d4e4b20b136bb891da26fe1ccaee531c2b8c12e3c8f17b88f84b2c2017851a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 初六 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-image-1", "subjectId": "h20-image-1", "method": "electronic-20261022",
+    "subjectHash": "2e06e24468e831ea5c1225272c1b1d8079a5e30ffd594c29a762d6e59ee06bb4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 初六小象 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-yao-2", "subjectId": "h20-yao-2", "method": "electronic-20261022",
+    "subjectHash": "467e44ce2af0f6ebbb2a13a0c33de711952639946a44276477513e1f2d711bdd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 六二 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·六二；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“闚”，普通电子对校页作“窺”。"]
+  },
+  {
+    "id": "review-h20-image-2", "subjectId": "h20-image-2", "method": "electronic-20261022",
+    "subjectHash": "2711bca4560e60343654046241c09de4311623dd7b7e935ad90885c2c2915b2a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 六二小象 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·六二；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“闚觀女貞”，此处无“利”字，待影印复核。"]
+  },
+  {
+    "id": "review-h20-yao-3", "subjectId": "h20-yao-3", "method": "electronic-20261022",
+    "subjectHash": "2a5312ad42cdfb39bb3427346dac6aa1cb824f125b512a1351499ce00333d025",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 六三 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-image-3", "subjectId": "h20-image-3", "method": "electronic-20261022",
+    "subjectHash": "0ba1640db020606fc64e9583432a1c8d58a23aaaaa4d3f2157930e034a07c64b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 六三小象 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-yao-4", "subjectId": "h20-yao-4", "method": "electronic-20261022",
+    "subjectHash": "d0afa7d495b6a09472a4f1337f443e049213179b3b227e6a412981dae475a357",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 六四 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-image-4", "subjectId": "h20-image-4", "method": "electronic-20261022",
+    "subjectHash": "2a7b297a5fb96ee989dfb08213c23e4780fd76773aaa0b7eabf701045ae2b5e2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 六四小象 / 0007冊.djvu/391"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-yao-5", "subjectId": "h20-yao-5", "method": "electronic-20261022",
+    "subjectHash": "253946771b64bfe96cfde3514437a809cb0ae56ab194dc6ede5fa248d43a8956",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 九五 / 0007冊.djvu/392"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-image-5", "subjectId": "h20-image-5", "method": "electronic-20261022",
+    "subjectHash": "dfdaeaa5689551dbe2739aedb7216cc1db20d0a68eaf3fd8a85e282401995035",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 九五小象 / 0007冊.djvu/392"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-yao-6", "subjectId": "h20-yao-6", "method": "electronic-20261022",
+    "subjectHash": "be15ae68b20c1cbd8d0cf27f2c1abecdf0406fee179d975e294f1dcb84c49efe",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 上九 / 0007冊.djvu/392"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h20-image-6", "subjectId": "h20-image-6", "method": "electronic-20261022",
+    "subjectHash": "35aa952aa5792fd55c6a7945a0a33bc9af97795b474240102c9915bb600a3b2f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-4-batch3","locator":"卷4 / 觀 / 上九小象 / 0007冊.djvu/392"},{"sourceId":"ws-zhouyi-20","locator":"第20卦 觀 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

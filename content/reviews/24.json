@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h24-statement", "subjectId": "h24-statement", "method": "electronic-20261022",
+    "subjectHash": "ec7efba39cf31c105b58a93a83ed9099d940fab410ac63fa8f1f19a8cfee3536",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 卦辞 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-tuan", "subjectId": "h24-tuan", "method": "electronic-20261022",
+    "subjectHash": "e3361973a0a027ef4da6ba0ae5974da34c4b102d8b4bac2e229708dfa1327aa5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 彖曰 / 0007冊.djvu/403"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-great-image", "subjectId": "h24-great-image", "method": "electronic-20261022",
+    "subjectHash": "266a78237e0ac032952e331e03f900b2e9945379587bcb04655181867b1a9d41",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 整卦大象 / 0007冊.djvu/404"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-overview", "subjectId": "h24-overview", "method": "overview-20261022",
+    "subjectHash": "222fe9ef7bea73b0af6e2c616716e28add6d6edcbde3326c2393fa0138109171",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/403–404"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-yao-1", "subjectId": "h24-yao-1", "method": "electronic-20261022",
+    "subjectHash": "5680924565a9b9fbd0ff2e78983d3a17a4136727267c6a35554d7eb5ea4861cc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 初九 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·初九；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“祗”，普通电子对校页作“祇”；影印待核。"]
+  },
+  {
+    "id": "review-h24-image-1", "subjectId": "h24-image-1", "method": "electronic-20261022",
+    "subjectHash": "67765b14ad85e4f872464f6ca9f8a48b7a6987372ff2e925a00f3b1343dd3892",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 初九小象 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·初九；异文仅作对校"}],
+    "issues": ["保留采用电子录文“脩身”，普通电子对校页作“修身”。"]
+  },
+  {
+    "id": "review-h24-yao-2", "subjectId": "h24-yao-2", "method": "electronic-20261022",
+    "subjectHash": "4e1b285636e2eb3895d666af50da962f749ab7d5acee4b84351816f87434332f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六二 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-image-2", "subjectId": "h24-image-2", "method": "electronic-20261022",
+    "subjectHash": "05ae5a4d21876282f02c461b12fbdfab55eb5ac48e7c1ca81ea3f888ad4d7431",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六二小象 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-yao-3", "subjectId": "h24-yao-3", "method": "electronic-20261022",
+    "subjectHash": "b8962c309b9084661637fbebb35fc84f3a02c5dfb0847c907b203c3129ceaec5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六三 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-image-3", "subjectId": "h24-image-3", "method": "electronic-20261022",
+    "subjectHash": "f3bcbf54274aeab951499314a6240427df722d1a7cdf8c15b41b9a42a9f6beb0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六三小象 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-yao-4", "subjectId": "h24-yao-4", "method": "electronic-20261022",
+    "subjectHash": "4db26aa4ea8168e88bfbf332f441f256d6c760c446878ebc5a3cf7e1abe9ec38",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六四 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-image-4", "subjectId": "h24-image-4", "method": "electronic-20261022",
+    "subjectHash": "50c52f4bb4a0574d330e57eb09eabfa791ed0f906e76c6e969a135783fe979c8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六四小象 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-yao-5", "subjectId": "h24-yao-5", "method": "electronic-20261022",
+    "subjectHash": "08d5d9b77d9b2e599b7402456d5a8d0c1969e3ff7134dc88851e37ddc4f300bd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六五 / 0007冊.djvu/405"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-image-5", "subjectId": "h24-image-5", "method": "electronic-20261022",
+    "subjectHash": "910295d72257c4502fc9b15fec5e37501cd82607af1f99d35d90d8c8236756f5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 六五小象 / 0007冊.djvu/406"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-yao-6", "subjectId": "h24-yao-6", "method": "electronic-20261022",
+    "subjectHash": "715b89cee039cc50ef3753913513fc8479e30f118b87d12e78b4c32777016ee5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 上六 / 0007冊.djvu/406"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h24-image-6", "subjectId": "h24-image-6", "method": "electronic-20261022",
+    "subjectHash": "763a08fc2a3f94e95565ee3ea8a9a477783b97b0f8e9d9c8e8c8d5d6c0fb6444",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 復 / 上六小象 / 0007冊.djvu/406"},{"sourceId":"ws-zhouyi-24","locator":"第24卦 復 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

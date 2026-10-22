@@ -1,1 +1,19 @@
-<view class="page"><view class="title">八卦速查</view><view class="notice">速查资料整理中。</view></view>
+<view class="page">
+  <view class="title">八卦速查</view>
+  <view class="trigram-grid">
+    <button wx:for="{{trigrams}}" wx:key="id" class="trigram {{selected === item.id ? 'selected' : ''}}" data-id="{{item.id}}" bindtap="choose" aria-label="{{item.name}}{{selected === item.id ? '，已选' : ''}}" hover-class="button-pressed" hover-stay-time="80">
+      <hexagram-shape lines="{{item.lines}}" compact /><view>{{item.name}}</view><view class="selected-label">{{selected === item.id ? '✓ 已选' : ' '}}</view>
+    </button>
+  </view>
+  <picker class="category" mode="selector" range="{{categories}}" range-key="name" value="{{categoryIndex}}" bindchange="filter" aria-label="选择速查类别"><button class="category-label" hover-class="button-pressed">类别 · {{categories[categoryIndex].name}} <text>⌄</text></button></picker>
+  <view wx:for="{{groups}}" wx:for-item="group" wx:key="id" class="card">
+    <view class="section-title">{{group.title}}</view>
+    <view wx:if="{{group.id === 'relations'}}" class="relation-columns">
+      <view wx:for="{{relations}}" wx:for-item="relation" wx:key="id" class="relation-column">
+        <view class="relation-title">{{relation.title}}</view>
+        <view wx:for="{{relation.entries}}" wx:key="id" class="value">{{item.text}}</view>
+      </view>
+    </view>
+    <view wx:else class="value">{{group.value}}</view>
+  </view>
+</view>

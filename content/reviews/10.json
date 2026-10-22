@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h10-statement", "subjectId": "h10-statement", "method": "electronic-20261022",
+    "subjectHash": "949a8b59ce42dbffdf5d6db27262fc656515cbbafb338c6a52a54f405a6a3636",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 卦辞 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-tuan", "subjectId": "h10-tuan", "method": "electronic-20261022",
+    "subjectHash": "b00260ccd6db6ec2fd610eafe9ddc670e00368a21ab0b7bf45612119729193d2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 彖曰 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 彖曰；异文仅作对校"}],
+    "issues": ["采用四库本电子录文，彖传“不咥人亨”之后无“利貞”；普通电子对校页多此二字。"]
+  },
+  {
+    "id": "review-h10-great-image", "subjectId": "h10-great-image", "method": "electronic-20261022",
+    "subjectHash": "1d1f0fda1d7ac5b0ea61ec056188be8f627142f8015096709283c978d47734f5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 整卦大象 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["四库本电子录文作“辯上下”，普通电子对校页作“辨上下”。"]
+  },
+  {
+    "id": "review-h10-overview", "subjectId": "h10-overview", "method": "overview-20261022",
+    "subjectHash": "7bde4ae5d2d466981d8a29a70774453d2495796ee08cc4a4b00dbd6ec9849636",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-yao-1", "subjectId": "h10-yao-1", "method": "electronic-20261022",
+    "subjectHash": "db41079ddaacd89fb67a3799e6f56a27815091e6d90591cbeb93c41c7176a2ed",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 初九 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-image-1", "subjectId": "h10-image-1", "method": "electronic-20261022",
+    "subjectHash": "a98d0044f4867bf76c8dd604148a6ae5c8489d3e4bc357c1796af13cd202f438",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 初九小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-yao-2", "subjectId": "h10-yao-2", "method": "electronic-20261022",
+    "subjectHash": "00062fca4cc0c03b113eef776e93a425cba4ac1a0532585f5a02b6bf5b5bad0a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九二 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-image-2", "subjectId": "h10-image-2", "method": "electronic-20261022",
+    "subjectHash": "58434f797da1de0bbcb94a3d875a34b363a4874a28318904399d1423fafd2572",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九二小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-yao-3", "subjectId": "h10-yao-3", "method": "electronic-20261022",
+    "subjectHash": "c851b2ed9090944ccc9c02c3b513deb30e808c5912ce3d63c6ad88a35591a476",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 六三 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-image-3", "subjectId": "h10-image-3", "method": "electronic-20261022",
+    "subjectHash": "22c09ff759462e8397f9c8d2188afc053895ebe013f757b3fdec7d1b626a7860",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 六三小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-yao-4", "subjectId": "h10-yao-4", "method": "electronic-20261022",
+    "subjectHash": "0f7faa46704483ab9b8e5399fd6ddeaa5deeb48294fcec8be6839dacdabaa5b4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九四 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-image-4", "subjectId": "h10-image-4", "method": "electronic-20261022",
+    "subjectHash": "8420962565c3992eab86f21a3c9a5139e4678a617ff80461b112f3e162fc15dc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九四小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-yao-5", "subjectId": "h10-yao-5", "method": "electronic-20261022",
+    "subjectHash": "5578794e69d2de5a2ffa39a87d5abd27c4756cedb157394f726d1ff08a1e9719",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九五 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-image-5", "subjectId": "h10-image-5", "method": "electronic-20261022",
+    "subjectHash": "30a2b9fc760253c100450bec4c956414129ebf347d7638a1f83df02c649c7615",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九五小象 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h10-yao-6", "subjectId": "h10-yao-6", "method": "electronic-20261022",
+    "subjectHash": "416c39f0efd5f564cc51b273bedf3e17b9dec4037e9704abe5ce7407a96f80ad",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 上九 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·上九；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“考祥”，普通电子对校页作“考詳”，待影印核字。"]
+  },
+  {
+    "id": "review-h10-image-6", "subjectId": "h10-image-6", "method": "electronic-20261022",
+    "subjectHash": "f34ed72c38cb085da2b71fac8a69650c38aedcf98633bb6d34c5986d46274412",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 上九小象 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

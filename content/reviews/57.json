@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h57-statement", "subjectId": "h57-statement", "method": "electronic-20261022",
+    "subjectHash": "0dd1b76c1bd57e51119a5ecef173bcb84c8e62f120f69fc6785552c3c1e7d0f5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 卦辞 / 0007冊.djvu/501"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·卦辞；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h57-tuan", "subjectId": "h57-tuan", "method": "electronic-20261022",
+    "subjectHash": "ba220a6bd7f0dbdc257b6f96d3d2575c5c8a967454b9a09cb0b9453257550701",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 彖曰 / 0007冊.djvu/501"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h57-great-image", "subjectId": "h57-great-image", "method": "electronic-20261022",
+    "subjectHash": "130b8ce63ef36502775f41754e38ce002d9f84b3c55be4667fb47128f65e49c4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 整卦大象 / 0007冊.djvu/501"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-overview", "subjectId": "h57-overview", "method": "overview-20261022",
+    "subjectHash": "50e7ab888a95212a61352f69bb75fb03fcd101cceb66c92554ebdb94f0ab47a4",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/501"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-yao-1", "subjectId": "h57-yao-1", "method": "electronic-20261022",
+    "subjectHash": "8d8ccd0ba6160aa751dd353bad18e079034a2c02b6ae78c065d52b051a38590b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 初六 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-image-1", "subjectId": "h57-image-1", "method": "electronic-20261022",
+    "subjectHash": "bdeab105e8795c3f2749e0906a69fb09ebb73e0514f734fb995a699e693afb09",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 初六小象 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-yao-2", "subjectId": "h57-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e3a87e721dfc513819fb2e205619063def074d6d82c4f1c13d2b8bb725803a02",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 九二 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-image-2", "subjectId": "h57-image-2", "method": "electronic-20261022",
+    "subjectHash": "88e6da7d9fe78f1fc3e955b52b60156ad2d7de9b9905f5fb2e0ddb5c015a9761",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 九二小象 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-yao-3", "subjectId": "h57-yao-3", "method": "electronic-20261022",
+    "subjectHash": "4a8d96573e8c7a8b87849306140a52f4457247d31b0d1e8de35dc08affa5a488",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 九三 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-image-3", "subjectId": "h57-image-3", "method": "electronic-20261022",
+    "subjectHash": "4c04c58e3d89020c5ebc0d8f72ccfe2a232f52fe6fdb0aa35e0894b9abc55fdc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 九三小象 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-yao-4", "subjectId": "h57-yao-4", "method": "electronic-20261022",
+    "subjectHash": "3e0f202abfa36942dc75aa7f8d85e64f9df554b6c868e88296bbddcde6455bfd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 六四 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-image-4", "subjectId": "h57-image-4", "method": "electronic-20261022",
+    "subjectHash": "1bd3572346f5cdbf057588b3faf992ff61049906254164a7a3b45e19a74b56f1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 六四小象 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-yao-5", "subjectId": "h57-yao-5", "method": "electronic-20261022",
+    "subjectHash": "48f21b1c2b9a40c23de443f7f7e43c8ab5e645c721261d1ab0ac3a0e701f8ca6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 九五 / 0007冊.djvu/502"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-image-5", "subjectId": "h57-image-5", "method": "electronic-20261022",
+    "subjectHash": "a88faeb53420fd950087bb8241f2925b84262a1eb7a6985ea37ca3fab57f65ac",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 九五小象 / 0007冊.djvu/503"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-yao-6", "subjectId": "h57-yao-6", "method": "electronic-20261022",
+    "subjectHash": "4af97356c55d46e78c5678a6ee2406e909070b8752a1b2c2214519192ce2d758",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 上九 / 0007冊.djvu/503"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h57-image-6", "subjectId": "h57-image-6", "method": "electronic-20261022",
+    "subjectHash": "91630b83a7991ac76310d79738aa86e279514676ec819ab6ad1f302af0210e87",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 巽 / 上九小象 / 0007冊.djvu/503"},{"sourceId":"ws-zhouyi-57","locator":"第57卦 巽 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

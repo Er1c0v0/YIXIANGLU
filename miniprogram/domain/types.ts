@@ -21,6 +21,32 @@ export interface HexagramMeta {
   lines: SixLines
 }
 
+export interface HexagramSearchEntry {
+  id: number; name: string; fullName: string; upper: TrigramId; lower: TrigramId
+  traditionalNames: string[]
+  aliases: { value: string; refs: SourceRef[] }[]
+  pinyin: string; fullNamePinyin: string; pinyinInitials: string[]
+  refs: SourceRef[]; reviewId: string
+}
+
+export interface ImageryEntry {
+  id: string; trigram: TrigramId
+  category: 'nature' | 'quality' | 'family' | 'animal' | 'body'
+    | 'later-direction' | 'earlier-direction' | 'gate' | 'season'
+    | 'element' | 'number' | 'color'
+  values: string[]; explanation: string
+  tradition: 'zhouyi-shuogua' | 'classroom' | 'later-xiangshu' | 'qimen'
+  refs: SourceRef[]; reviewId: string
+}
+
+export interface ElementRelation {
+  id: string
+  from: 'wood' | 'fire' | 'earth' | 'metal' | 'water'
+  to: 'wood' | 'fire' | 'earth' | 'metal' | 'water'
+  relation: 'generates' | 'controls'; tradition: 'later-xiangshu'
+  refs: SourceRef[]; reviewId: string
+}
+
 export interface SourceRef { sourceId: string; locator: string; note?: string }
 export interface SourceDocument {
   id: string; title: string; authorOrCompiler: string; edition: string

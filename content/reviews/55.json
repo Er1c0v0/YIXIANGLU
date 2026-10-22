@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h55-statement", "subjectId": "h55-statement", "method": "electronic-20261022",
+    "subjectHash": "564f439caa4fe3998fbc98d8cb86ccbaefc9c0e207c7552cc7dc9376aa269e04",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 卦辞 / 0007冊.djvu/495"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-tuan", "subjectId": "h55-tuan", "method": "electronic-20261022",
+    "subjectHash": "516f1c459e8460fac72745d5f7eebe982645deb3f5fc90bafc3bf77a5b154aca",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 彖曰 / 0007冊.djvu/496"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“虚”，普通电子对校页相应为“虛”；采用电子录文“况於”，普通电子对校页相应为“況于”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h55-great-image", "subjectId": "h55-great-image", "method": "electronic-20261022",
+    "subjectHash": "0eb9b2943c1f107930c56c87f4876b9f78c2aa00f7512e73eac86808d0b9f016",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 整卦大象 / 0007冊.djvu/496"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-overview", "subjectId": "h55-overview", "method": "overview-20261022",
+    "subjectHash": "a3cb1d3eccf04cfbf37fcf09d1326ee40f421b7e6c69d394be8809b63a19b7ba",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/495–496"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-yao-1", "subjectId": "h55-yao-1", "method": "electronic-20261022",
+    "subjectHash": "2bbc54e087344e2944598efa49f010c48222f0a4877dbe5fdfdd0c4af747c737",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 初九 / 0007冊.djvu/496"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·初九；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h55-image-1", "subjectId": "h55-image-1", "method": "electronic-20261022",
+    "subjectHash": "b05e6359ec71abd5205a3c263954cb0cc54c24d87d983a4daa00a42362d3f17d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 初九小象 / 0007冊.djvu/496–497"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-yao-2", "subjectId": "h55-yao-2", "method": "glyph-display-20261022",
+    "subjectHash": "fc636df2750e50816b52a1611a02664926adebe83799e6db13a7965a50b064bc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 六二 / 0007冊.djvu/497"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·六二；异文仅作对校"}],
+    "issues": ["采用电子录文“徃”，普通电子对校页相应为“往”；采用电子录文“𤼵”，普通电子对校页相应为“發”；保留所见，影印字形与异文待核。","2026-10-22显示修正：“𤼵”通写为“發”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=c876aac66c49ec930d90671b64c68053c94dc2057b54d277fae0c7310a512ec5"]
+  },
+  {
+    "id": "review-h55-image-2", "subjectId": "h55-image-2", "method": "glyph-display-20261022",
+    "subjectHash": "ad44db538b04cbcf7b1ab48993ef5dd8d4b7e311e862d9c9738b8d615159871b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 六二小象 / 0007冊.djvu/497"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·六二；异文仅作对校"}],
+    "issues": ["采用电子录文“𤼵”，普通电子对校页相应为“發”；保留所见，影印字形与异文待核。","2026-10-22显示修正：“𤼵”通写为“發”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=fad4416bfa38b0e03a758c0234d44c4037d526a1485a1fdb45a014044306dcdb"]
+  },
+  {
+    "id": "review-h55-yao-3", "subjectId": "h55-yao-3", "method": "electronic-20261022",
+    "subjectHash": "5bcd469d5ccc95baaeae9ff08d978e6e254f008c5fdd5aade52e08a19fdca4c6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 九三 / 0007冊.djvu/497"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-image-3", "subjectId": "h55-image-3", "method": "electronic-20261022",
+    "subjectHash": "3209ff1096df9b0b6a8c30f549e290cf0d77b4dcc8a5acc747ac131e3dbb4228",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 九三小象 / 0007冊.djvu/497"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-yao-4", "subjectId": "h55-yao-4", "method": "electronic-20261022",
+    "subjectHash": "97fddcb1777444d7aa4ee19c730efb17a61391a0b3d7b9ded92cdcccb13860b5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 九四 / 0007冊.djvu/498"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-image-4", "subjectId": "h55-image-4", "method": "electronic-20261022",
+    "subjectHash": "2eca98ee49026012f42856b5e43031b0d7d8977aff0f67335eb30e8b63336e67",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 九四小象 / 0007冊.djvu/498"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-yao-5", "subjectId": "h55-yao-5", "method": "electronic-20261022",
+    "subjectHash": "3cf5572f5f1ee7faa7e4411ccf83406faf68980cde7947efda49afcbc4c6adc7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 六五 / 0007冊.djvu/498"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-image-5", "subjectId": "h55-image-5", "method": "electronic-20261022",
+    "subjectHash": "a79f4bed310109a5913d5c9ce002f177be170d9e1b8c927eec1ad1c803c0eddc",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 六五小象 / 0007冊.djvu/498"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h55-yao-6", "subjectId": "h55-yao-6", "method": "electronic-20261022",
+    "subjectHash": "029e9e84f8545232cf1399f978a401eacb11d9e2c76aa8b83d4a32d8dfd9fe5b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 上六 / 0007冊.djvu/498"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 易經·上六；异文仅作对校"}],
+    "issues": ["采用电子录文“闚”，普通电子对校页相应为“窺”；采用电子录文“戸”，普通电子对校页相应为“戶”；采用电子录文“嵗”，普通电子对校页相应为“歲”；采用电子录文“覿”，普通电子对校页相应为“觌”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h55-image-6", "subjectId": "h55-image-6", "method": "electronic-20261022",
+    "subjectHash": "09c7562cba5366935e7692a874444177e2760db361bf3646c2fcfc999836354a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-9-batch6","locator":"卷9 / 豐 / 上六小象 / 0007冊.djvu/498"},{"sourceId":"ws-zhouyi-55","locator":"第55卦 豐 / 象曰·上六；异文仅作对校"}],
+    "issues": ["采用电子录文“闚”，普通电子对校页相应为“窺”；采用电子录文“戸”，普通电子对校页相应为“戶”；保留所见，影印字形与异文待核。"]
+  }
+]

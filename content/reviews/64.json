@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h64-statement", "subjectId": "h64-statement", "method": "electronic-20261022",
+    "subjectHash": "c2ecf28b86b9285e65df8880e14fb260f17850acc6fd7969c2c208d6d35ab462",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 卦辞 / 0007冊.djvu/520"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-tuan", "subjectId": "h64-tuan", "method": "electronic-20261022",
+    "subjectHash": "6b669a9273125e807d8624519d2effb29c0d68d7398b80985a6064855a84d8e2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 彖曰 / 0007冊.djvu/520–521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-great-image", "subjectId": "h64-great-image", "method": "electronic-20261022",
+    "subjectHash": "b9c395aa84d7a791642d9f202725a65400588dddd006754fe44eac6c1ba2c795",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 整卦大象 / 0007冊.djvu/521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-overview", "subjectId": "h64-overview", "method": "overview-20261022",
+    "subjectHash": "26b4e35d8fff0d6f9826e4a620c42d73aa201a19fdb1d3b653ce439e96850441",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/520–521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-yao-1", "subjectId": "h64-yao-1", "method": "electronic-20261022",
+    "subjectHash": "8971ffeb2e77ee96629857d90a2fb53f198b511cab2df0e53610349f2912bd14",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 初六 / 0007冊.djvu/521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-image-1", "subjectId": "h64-image-1", "method": "electronic-20261022",
+    "subjectHash": "61e83d1b7ba655a8c0a803d7742b7059be0940cc08cbc6b59e07fde9f5121a82",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 初六小象 / 0007冊.djvu/521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-yao-2", "subjectId": "h64-yao-2", "method": "electronic-20261022",
+    "subjectHash": "3a5aef7bc7216c2864e7da40b8c948f44941fdc5d27395321e4e23fa66b03700",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 九二 / 0007冊.djvu/521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·九二；异文仅作对校"}],
+    "issues": ["采用电子录文“曵”，普通电子对校页相应为“曳”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h64-image-2", "subjectId": "h64-image-2", "method": "electronic-20261022",
+    "subjectHash": "8d73e57a46cc63f416b2bb29384e386b28c5e04e7f33f74a848ca8f3f2232fc5",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 九二小象 / 0007冊.djvu/521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·九二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-yao-3", "subjectId": "h64-yao-3", "method": "electronic-20261022",
+    "subjectHash": "22ebd63e46952c2c38cf17ac5cc8b33b6d793509543a226d3e15e2925d1804a4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 六三 / 0007冊.djvu/521"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·六三；异文仅作对校"}],
+    "issues": ["采用电子录文“渉”，普通电子对校页相应为“涉”；保留所见，影印字形与异文待核。"]
+  },
+  {
+    "id": "review-h64-image-3", "subjectId": "h64-image-3", "method": "electronic-20261022",
+    "subjectHash": "712b97b66ec2ad3ea26ff22419ddcefa55b1589e55dc76dfbc2a8885e654dcc7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 六三小象 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-yao-4", "subjectId": "h64-yao-4", "method": "electronic-20261022",
+    "subjectHash": "3f2f13308d6b5ca0c53fe7d91b7ffdaeedcf01553fff33743ab7770c1d815bd8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 九四 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-image-4", "subjectId": "h64-image-4", "method": "electronic-20261022",
+    "subjectHash": "22a1b8334553c607e09b7080efc6a9ab7b1cb4a066a88881e806afeee676d952",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 九四小象 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-yao-5", "subjectId": "h64-yao-5", "method": "electronic-20261022",
+    "subjectHash": "923cfee18e9604e99287744e844a165fe15fa20d0ac1539f467565f0ed403a5c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 六五 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-image-5", "subjectId": "h64-image-5", "method": "electronic-20261022",
+    "subjectHash": "e989382f746b123f4da46b6c1b019952296ae7a5f2b32c52732bdb1f01242d9d",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 六五小象 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-yao-6", "subjectId": "h64-yao-6", "method": "electronic-20261022",
+    "subjectHash": "4eea6af59805132718174c78439f60772c58a1cceb3ad087ca61f2343e55d717",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 上九 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h64-image-6", "subjectId": "h64-image-6", "method": "electronic-20261022",
+    "subjectHash": "d1dba50fd153facece2998722b9ea844f28775d4a4ccc1fc225db32530122314",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-10-batch6","locator":"卷10 / 未济 / 上九小象 / 0007冊.djvu/522"},{"sourceId":"ws-zhouyi-64","locator":"第64卦 未济 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

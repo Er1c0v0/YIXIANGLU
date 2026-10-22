@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h27-statement", "subjectId": "h27-statement", "method": "electronic-20261022",
+    "subjectHash": "36338b1c0ac370ea243f751419afe0a84977862e7f96e5d6bf6e6763b17ecc8b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 卦辞 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-tuan", "subjectId": "h27-tuan", "method": "electronic-20261022",
+    "subjectHash": "e392065a070884a3a88da0f20bc9a9fb611ec94d8c1b8a7766be6cf806b3e003",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 彖曰 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-great-image", "subjectId": "h27-great-image", "method": "electronic-20261022",
+    "subjectHash": "28fb8faada640160b649e86f890b79cbd513189d7b6331556364d8e080e2293b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 整卦大象 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-overview", "subjectId": "h27-overview", "method": "overview-20261022",
+    "subjectHash": "547f7d3a02ca74114ae073b59371ee91ca53c381104c5d3aeaf8ef7b4baaa715",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-yao-1", "subjectId": "h27-yao-1", "method": "electronic-20261022",
+    "subjectHash": "54feb4060cfd6186333b401ab3c04700ed196c37e72dc63f8327e9bdc0bbd441",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 初九 / 0007冊.djvu/411"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·初九；异文仅作对校"}],
+    "issues": ["采用四库本电子录文“朶”，普通电子对校页作“朵”。"]
+  },
+  {
+    "id": "review-h27-image-1", "subjectId": "h27-image-1", "method": "electronic-20261022",
+    "subjectHash": "df6e1aa6f4d1a1119252f09f38e5e1e4086c7c8eec037051dc361466ef68367b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 初九小象 / 0007冊.djvu/412"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-yao-2", "subjectId": "h27-yao-2", "method": "electronic-20261022",
+    "subjectHash": "1771b771d90577fa9d6c08e107768b7e927fae561344a8fa539a148686fbf22f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六二 / 0007冊.djvu/412"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·六二；异文仅作对校"}],
+    "issues": ["采用录文作“顚”、六四作“顛”；标点按本篇注文“拂經于丘也”“頤征凶”整理，未改经文字序，待影印复核。"]
+  },
+  {
+    "id": "review-h27-image-2", "subjectId": "h27-image-2", "method": "glyph-display-20261022",
+    "subjectHash": "dd1687f922ec3f168a6cfb1de581777f7b60201d38bddd0d6a710a52fb6a7367",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六二小象 / 0007冊.djvu/412"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·六二；异文仅作对校"}],
+    "issues": ["保留采用电子录文“𩔖”，普通电子对校页作“類”，影印字形待核。","2026-10-22显示修正：“𩔖”通写为“類”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=e00149c6c36a8635f756c33cde87c0b64b91f140b0e69e33e017ba1a192b8ac9"]
+  },
+  {
+    "id": "review-h27-yao-3", "subjectId": "h27-yao-3", "method": "electronic-20261022",
+    "subjectHash": "48f71e78998104168d3776c7912b4e98fc630506f11d933de9f6383ec6dd0f4a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六三 / 0007冊.djvu/412"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-image-3", "subjectId": "h27-image-3", "method": "electronic-20261022",
+    "subjectHash": "330866600d553f847ef8dc32a4ebcebd258ba8173552daf54d86a6d3aea74300",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六三小象 / 0007冊.djvu/412"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·六三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-yao-4", "subjectId": "h27-yao-4", "method": "electronic-20261022",
+    "subjectHash": "6c4024c38b24296da73dae63f4f55b6ba7e7bea69912bc3afc8599689aa6321c",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六四 / 0007冊.djvu/412"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-image-4", "subjectId": "h27-image-4", "method": "electronic-20261022",
+    "subjectHash": "948812565a3cea402bf6aecfb912a09e6f669bc42aeac6222f665cb38c9df94e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六四小象 / 0007冊.djvu/413"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·六四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-yao-5", "subjectId": "h27-yao-5", "method": "electronic-20261022",
+    "subjectHash": "a59e8a7cf08d6038f8eee646c3b36b8e2e89996b525761c9fe56da020eee518e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六五 / 0007冊.djvu/413"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-image-5", "subjectId": "h27-image-5", "method": "electronic-20261022",
+    "subjectHash": "05cab8de0547d76185af19a56e4f756cc3bfdd27b7b2412bcce2923260f00842",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 六五小象 / 0007冊.djvu/413"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-yao-6", "subjectId": "h27-yao-6", "method": "electronic-20261022",
+    "subjectHash": "aeba90a01eb975ee1aee1bc86ab44fbdc58db219a1914d42ee1c86fe77f60a95",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 上九 / 0007冊.djvu/413"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h27-image-6", "subjectId": "h27-image-6", "method": "electronic-20261022",
+    "subjectHash": "312669fbe42e40372403213ce5321d20e6ffb00a69e45420a969dcbee217ea0f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-5-batch4","locator":"卷5 / 頤 / 上九小象 / 0007冊.djvu/413"},{"sourceId":"ws-zhouyi-27","locator":"第27卦 頤 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

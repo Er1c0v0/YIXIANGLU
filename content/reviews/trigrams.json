@@ -1,0 +1,1906 @@
+[
+  {
+    "id": "review-imagery-qian-nature-classroom",
+    "subjectId": "imagery-qian-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "ed388e1327c0c476ea06564b610af77cec6325ab5632ab73ff2505e45c297878",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-nature-classroom",
+    "subjectId": "imagery-kun-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "bf9b4f693218551ed9ced47f0b10929027cc2a460ec5f21a0f8428509b538cbc",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-nature-classroom",
+    "subjectId": "imagery-zhen-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "23fb98dd4c00a8f537a3f1413dca0b5b270c9c4872ce70740e6fdc3b5d665cba",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-nature-classroom",
+    "subjectId": "imagery-xun-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "77c85349fdc7d225185cd9a1e0747ff56ee82657a34630cb8dc049edbc963318",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-nature-classroom",
+    "subjectId": "imagery-kan-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "42d0b649ee2c2036d312d89b1bc5a5513f4607b3975d38ef1c0e0fa4a4c4c858",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-nature-classroom",
+    "subjectId": "imagery-li-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "bb091da5541e569c5ba49774a7855619c8a11ec1ab30427ac1beac05b33b7f22",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-nature-classroom",
+    "subjectId": "imagery-gen-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "9b4c7fb56b63ff9373710fdcea07d0fab064ab79a468ff2d711fea77e7bc8303",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-nature-classroom",
+    "subjectId": "imagery-dui-nature-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "87e9c8e7220e9277ac0c101d83e4adc1b0940515504220d0282969559c398d41",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／自然／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-quality-classroom",
+    "subjectId": "imagery-qian-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "35848c19b93e1803d645ec3a2b9d9949aac1fe11361165ff712565c1fb033a34",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-quality-classroom",
+    "subjectId": "imagery-kun-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "961a548080a19db95643c16cf3c022d0f99690070bf8989f50675579013875b9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-quality-classroom",
+    "subjectId": "imagery-zhen-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "14365e8c553745df6928ba7eeab8afdb7a145d34dcfd02d7554869f773d19a98",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-quality-classroom",
+    "subjectId": "imagery-xun-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "ff56f9900c485a78746daea54afbbba1d8c54b4121e7779dc971d2f275d437a4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-quality-classroom",
+    "subjectId": "imagery-kan-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "0aa42a5c7264b033783d7ee477d0be3db618524ccef91421fad6588a8aad87d8",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-quality-classroom",
+    "subjectId": "imagery-li-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "45846f611bb5d9bf6e504377d41d1aaa9f86939fa3a3fbfc597098315a9a43ba",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-quality-classroom",
+    "subjectId": "imagery-gen-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "1b3ff8c5f70bdb687d0593f39bdbbb59f25992f7fcea081b43ee41d7ac5e0c15",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-quality-classroom",
+    "subjectId": "imagery-dui-quality-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "64261adb6e4f3390032ac134df189ea08c9039e196784e441ca93fb25071cbc6",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／卦性／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-family-classroom",
+    "subjectId": "imagery-qian-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "820e9df28b2b8058b2a9af20535d449ea00fae3eb5301799c824e81e45a0f7ef",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-family-classroom",
+    "subjectId": "imagery-kun-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "a81ffdf05dfc858705da7bfb9f6533d7999ce87ef9522b24f525f7f721f693ab",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-family-classroom",
+    "subjectId": "imagery-zhen-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "82de384c7c3be9431782a7c33398b61e132231ab9b376d343e3dd56884e83190",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-family-classroom",
+    "subjectId": "imagery-xun-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "4b511f9aa31d193007b1f27aa1d2cf9a777ee386e352778849e7f0aad49d2c7c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-family-classroom",
+    "subjectId": "imagery-kan-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "14eee673346e6720f8769b335bb5a8877fdedfff3b3a4f27ff6ede6305c11fd2",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-family-classroom",
+    "subjectId": "imagery-li-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "331f6b46232f903f59b7aebe9ee8ef3666fed6b4f73b9105a38033ca373cdcc4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-family-classroom",
+    "subjectId": "imagery-gen-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "64688ab75b8d1443918aab42cfeb451d9edf803de6a878867e1f3e7b4f0d6f44",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-family-classroom",
+    "subjectId": "imagery-dui-family-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "bd6f4095221bf1fedc155ea895d50c5eff435d426520c583a87a6944434bdbce",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／人伦／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-animal-classroom",
+    "subjectId": "imagery-qian-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "bea761fdacefe53572fd95467f8e755573e584ab3ac364e4e3d4d2e2daf88c7e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-animal-classroom",
+    "subjectId": "imagery-kun-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "97f3f6a9f3f10016265923d41118a569218a9bfcff03fb7357bf5c504234eb2e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-animal-classroom",
+    "subjectId": "imagery-zhen-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "aa16d569a2f23ef5ce73fb78150fe42587a68a93e9927d5099d9f05c6c9beadf",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-animal-classroom",
+    "subjectId": "imagery-xun-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "59c3961bae8011ddd43954cab1dfe71bc1b13951c5bba4e3222b38fa92be35fb",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-animal-classroom",
+    "subjectId": "imagery-kan-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "9489dde5605ed91728fac7a3c8b63a7daba909d517f37bbe5c3aea6fbe0b4b3c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-animal-classroom",
+    "subjectId": "imagery-li-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "4635c0df2a7c1c46f8f1e04ec179a60cde697fe9c5a99aaff03068d1ba4bffb4",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-animal-classroom",
+    "subjectId": "imagery-gen-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "715dbc1622439dae71203a73030cf697e62596b70fadfbc9fee30a583036becb",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-animal-classroom",
+    "subjectId": "imagery-dui-animal-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "f7a800f75c84fdc029b9a18eae4bcaa02178c56d754f4caebb2e24e8ed4e4c69",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／动物／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-body-classroom",
+    "subjectId": "imagery-qian-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "1b74a096a80b94535935c0c645ded7f66ea2c7f3e19f2f5af5e19c3b93318276",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-body-classroom",
+    "subjectId": "imagery-kun-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "2df32034dc3bd6c611ea91b096496fc32297dcf3a42db953f6988e8d58748fe1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-body-classroom",
+    "subjectId": "imagery-zhen-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "57e94dac9cac0fca01b28ef16f2dab7ebb142bd2ceb9f64a2745d7cba44cc16c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-body-classroom",
+    "subjectId": "imagery-xun-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "ecaaecf77374259ce55765cf4acfc6d388dc719c7dc28c26a6f383a46ae4ea23",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-body-classroom",
+    "subjectId": "imagery-kan-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "b683ace95953cee3efdec092957dd52c08c2e25021bc7bc34910213a77f90f0c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-body-classroom",
+    "subjectId": "imagery-li-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "76670832aa18d660f4c1f2c9098daf13001754df4fcac95d2e4e4acc1e5cdd52",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-body-classroom",
+    "subjectId": "imagery-gen-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "d51cc33900452dccc5c93d1ec6658c4ec170f0f53a9cb82102f7c7805aae396e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-body-classroom",
+    "subjectId": "imagery-dui-body-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "e65c30fc1605de9ce8699e18aa1c44430befb68b37ab413d7061aaa78938ec37",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／身体／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-later-direction-classroom",
+    "subjectId": "imagery-qian-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "89671213c1402cdbe3794664850d7163012daa3f9ce008b65b072c2c552e1927",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-later-direction-classroom",
+    "subjectId": "imagery-kun-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "396c782a1098c0189716b7dc05fa41bf59b757dd0ec00524df37d2bec0c8a8ab",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-later-direction-classroom",
+    "subjectId": "imagery-zhen-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "90223c25fcccdfacbaa1d186fe8cf905af2a0497daa25ce882db06c7c41e6b4a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-later-direction-classroom",
+    "subjectId": "imagery-xun-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "0cc76225c5dd6d91cb1c5ae4a8f33306293321e6c82e17399b3039f873342be5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-later-direction-classroom",
+    "subjectId": "imagery-kan-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "e9da57a44ba2f5b87cfa7441d99864426c35c2085c918723024b4d5c30e5f817",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-later-direction-classroom",
+    "subjectId": "imagery-li-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "a06a16c5a352ef9fc75fc8bd03a224d16fc7140eaabd206a22540dc35c66ca9d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-later-direction-classroom",
+    "subjectId": "imagery-gen-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "2c127320653a8c45b53edfd39a1fadcc34ded774c85d2ccb44d61bc5204445e1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-later-direction-classroom",
+    "subjectId": "imagery-dui-later-direction-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "b5a3735f813d13017f426162aafab09cead961c979a5943784cda3c8580da9ce",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／后天方位／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-gate-qimen",
+    "subjectId": "imagery-qian-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "70d2fb2ebeb8fee2fe74ae7f6e84995eeb5c000393b14249481f3cafe0d87e64",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-gate-qimen",
+    "subjectId": "imagery-kun-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "a6d9954212be42cf7bc25317589f3a76f96dbbdb4c95913a7759918ddf8b273d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-gate-qimen",
+    "subjectId": "imagery-zhen-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "1d00dd51ea42fa1a3ac2faf9cc92c8a63c40500d4ad5e8ccf1f617fb5d13d783",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-gate-qimen",
+    "subjectId": "imagery-xun-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "4d548332181198aa9f74dbbbab50e26d30d482f9616990006ced0e0165ebfcb1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-gate-qimen",
+    "subjectId": "imagery-kan-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "e0c52da12e1fc0819d3453fb0717ee5d23e1437024200d55aac30565fe7bde8f",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-gate-qimen",
+    "subjectId": "imagery-li-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "d6b595d1a76e8fb12486f5d2623df4cd74503ea948b733e7f13d2b98ae2cd7d9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-gate-qimen",
+    "subjectId": "imagery-gen-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "6ba0a77f6bf267dc937d4cf3d1e781e3c115bd4a750b5c6aaf5e554badc178c5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-gate-qimen",
+    "subjectId": "imagery-dui-gate-qimen",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "22f429db4896d465d60b8a368a025a3776d7bf50bc50fc9191ec3f2eb570feb3",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／八门／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-season-classroom",
+    "subjectId": "imagery-qian-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "4dc53b91f1add7268d42eb71ebba3023451bfed2cf4d9b75ad24f83f3a8366a5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-season-classroom",
+    "subjectId": "imagery-kun-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "dea110605daded6fc5e41a9ef4d27b7db2850704024bc5f5c39ef69c0e8a1029",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-season-classroom",
+    "subjectId": "imagery-zhen-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "63b01b6b41ada05d2d192b0c31d53416a20c0d275de0a6951d59a89bf414803d",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-season-classroom",
+    "subjectId": "imagery-xun-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "e6fb374179c53d65d34ca52bb4f722e80fa0b249c3547c943aca4c4833c837e8",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-season-classroom",
+    "subjectId": "imagery-kan-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "53cf1e8004fa84ffcbab085c6a6b5692badb7b9b1c0a133b986de6ce10b88aee",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-season-classroom",
+    "subjectId": "imagery-li-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "e370cbd34664bfa4b14c2a398f3aa9d161cd48c9bd05da22c045e58829bcb903",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-season-classroom",
+    "subjectId": "imagery-gen-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "055dc119d8065eccc4673fc787a486d20456162cb1857320f5921016c476fae3",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-season-classroom",
+    "subjectId": "imagery-dui-season-classroom",
+    "method": "lookup-classroom-20261022",
+    "subjectHash": "fdbe32556460071ea8adcfc52f43b6e529af8a41a5d6ce0b4aee79fc0435809c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "prd-classroom",
+        "locator": "docs/PRD.md §5.8／季节（课堂表）／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-element-later-xiangshu",
+    "subjectId": "imagery-qian-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "07137bb592e0a72dfe22f3abfd8005b5c82ed005ae7f8a3064405ccde0489c40",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-number-later-xiangshu",
+    "subjectId": "imagery-qian-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "963d32e240c260b34a2829e1d15f4568f96818d6df231f7d9df4f5f359a0ef13",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-qian-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "5e56928d1812dfab411b66cd387205462498aa94af1fca35b4a5e892d75fcc54",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／乾"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-color-later-xiangshu",
+    "subjectId": "imagery-qian-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "28d0cd623ed142d4657020caade0c0a359505346459fa55c678499f5c4990604",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／乾卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-element-later-xiangshu",
+    "subjectId": "imagery-dui-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "7e0353ecf5fb28b5673bd105b93eee4a600f55fe099801feedc83ca04ebe637c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-number-later-xiangshu",
+    "subjectId": "imagery-dui-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "c1e5e1579f3941b237ed7f1269b0b62f5c5cc03976125504b827e757b5ac07b7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-dui-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "4775bad4b357c948b015e363d92c8d0d9d368a271494de91be07d89e57857cf5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／兑"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-color-later-xiangshu",
+    "subjectId": "imagery-dui-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "95e4010dfda880fac1d04c489f3a31d047e7f457ebe9f419df072b768194e19b",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／兑卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-element-later-xiangshu",
+    "subjectId": "imagery-li-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "d587710bdc449f587c941d173e6c46b1dd2a8b382c61715c8f406705943caedd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-number-later-xiangshu",
+    "subjectId": "imagery-li-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "e5982893535cc48daa306dfec456a16c50ca564caab55bd90832c5d754f8c8d7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-li-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "c34f732d95826951cc6fabd6d25080ba486a26533cca9989085406dff1f5d4cd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／离"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-color-later-xiangshu",
+    "subjectId": "imagery-li-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "ce1ca6b4b99c279f327b1e662205a45983a2cf4be3017d130a0675c6d15b232c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／离卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-element-later-xiangshu",
+    "subjectId": "imagery-zhen-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "92463ddae764fd57c862ef9fe2add07cc486dde337c7f098a03fac48b2fb23d3",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-number-later-xiangshu",
+    "subjectId": "imagery-zhen-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "6e982cf019ca11b683745063060b92777a123b3f0b4af54b26076c9f6b4ace49",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-zhen-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "cc1f1ac039dde1f0e960fa90dcf887b3a068772646d5285fbd162a44b2208756",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／震"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-color-later-xiangshu",
+    "subjectId": "imagery-zhen-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "427bf728fe4fdb561559f07b0efd94c66f2020115a87b552d25876622a46f181",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／震卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-element-later-xiangshu",
+    "subjectId": "imagery-xun-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "2b4349b0716ddaca30be9968a23aaee1b9abe4fbc55fe469449d891b66fe06b5",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-number-later-xiangshu",
+    "subjectId": "imagery-xun-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "956a56ea4de86398a6eec40c137f09b2196cb3d55f00ff3eb46a1487f56c47d7",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-xun-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "5925e845acc3cc34392303430671880eb860ae8bd6fe665b3fcefe9f007d60d9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／巽"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-color-later-xiangshu",
+    "subjectId": "imagery-xun-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "5e4271f3b8e6ce8a92c6a5c0356ec05244eb8ad2644568a84e659acb2049a811",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／巽卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-element-later-xiangshu",
+    "subjectId": "imagery-kan-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "3339d7e31c811628b0bcc06d8adcf59ff10f4cf152547250400d4f5ccb4f3e80",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-number-later-xiangshu",
+    "subjectId": "imagery-kan-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "e7ccdd1fc31760979f61736f18d01b854219321dd8156d979fd2137a6f20b55a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-kan-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "3ed27a0496204be178c2d9610da681f5e0a2c9d6493858f1292f49642610a000",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／坎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-color-later-xiangshu",
+    "subjectId": "imagery-kan-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "bfc1dedea269974cc5aa8d4a8d4c985544a3fe828a560c8697c65c7741639cbb",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／坎卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-element-later-xiangshu",
+    "subjectId": "imagery-gen-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "c77591acc857650613573780abc15cc192952ff8fa4e182fcbb926c0dfe82018",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-number-later-xiangshu",
+    "subjectId": "imagery-gen-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "da5bc57e17039fcdcb0eb2765c30e7b71148991630723f004f26a412f83b3aac",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-gen-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "abb03ceab48769f3389354e04f6f0027e2d25b60ad1d8addcddaf80c118fd7e1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／艮"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-color-later-xiangshu",
+    "subjectId": "imagery-gen-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "131b2994626a89512b33fc7da6cd5e72e795b7394f40cc3563a74848bbf832a9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／艮卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-element-later-xiangshu",
+    "subjectId": "imagery-kun-element-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "03596b4841c500095cea66595b907596e5fd8f4db863860f6824664a66606805",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／八宫所属五行／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-number-later-xiangshu",
+    "subjectId": "imagery-kun-number-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "4d4757845a4594a516c40b4286f999ca4384c0b3517fa22b2cdb310da9b568e3",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／周易卦数／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-earlier-direction-later-xiangshu",
+    "subjectId": "imagery-kun-earlier-direction-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "54c02555841fbf0b4fbff79921b40fd540a5f5a55d8143d3d7c5c6b7352446b9",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "shidian-earlier-directions",
+        "locator": "章节1mdw8110qaazq／“邵子曰：乾南坤北”段／坤"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-color-later-xiangshu",
+    "subjectId": "imagery-kun-color-later-xiangshu",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "2be1e0ec18137113f5f519fd7e7bbd845d2d50d7fc0db05aa564e605b7d675cb",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之三／八卦万物属类／坤卦／五色"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-color-zhouyi-shuogua",
+    "subjectId": "imagery-qian-color-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "ea33a952262086dd49d93bcc1cd55fd2734220c865882abe1aaed58850270a1c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／乾段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-color-zhouyi-shuogua",
+    "subjectId": "imagery-kun-color-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "a1b7297c1b4d81dde3a17adc932f3bfaa5d16b024d510449ab0bfab722185a73",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／坤段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-color-zhouyi-shuogua",
+    "subjectId": "imagery-zhen-color-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "2087ac05ff3837a53b5c515b9f5750b40f6a166c0f2591994a895b039046c487",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／震段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-color-zhouyi-shuogua",
+    "subjectId": "imagery-xun-color-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "8195623ee04b38a6b5d9550e791e37d0a1e2a0d837eeaa224b3548032039ae1c",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／巽段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-color-zhouyi-shuogua",
+    "subjectId": "imagery-kan-color-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "11a92c426f55134df484dc941a3cf5a95fc692534eb642a4cbb2cb8ec76005bd",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第十一章／坎段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-qian-quality-zhouyi-shuogua",
+    "subjectId": "imagery-qian-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "386eb5a92b558e9e431c9a24419352cab302535fb07153b06ad987589dc33dd4",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／乾的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-dui-quality-zhouyi-shuogua",
+    "subjectId": "imagery-dui-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "8e3cd82fa6e3a124b956cce0f2d760495d6bb91a3cc6167ccc7bd194bd6cbce5",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／兑的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-li-quality-zhouyi-shuogua",
+    "subjectId": "imagery-li-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "cd29118b0390b45cbbe1dc89946ceae72800009d3bca58ec008229daf8ce5a29",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／离的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-zhen-quality-zhouyi-shuogua",
+    "subjectId": "imagery-zhen-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "7f1aad25d11472f2c5361b1eac84e71c4c0891fb7e1ccaa0ff2b761f2c43014f",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／震的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-xun-quality-zhouyi-shuogua",
+    "subjectId": "imagery-xun-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "93e14479f7658e9bea6c87d781d224f9d1af1da837fa5da31d7f59f65a0a77d8",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／巽的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kan-quality-zhouyi-shuogua",
+    "subjectId": "imagery-kan-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "67de46d9469c0625fd8d56aff790506643561b26c4a9cb4d40f70e6b48570103",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／坎的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-gen-quality-zhouyi-shuogua",
+    "subjectId": "imagery-gen-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "3d01e3d7c686fc58795fba41528b487e9870840fec87ed2aee71de99c24e24de",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／艮的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-imagery-kun-quality-zhouyi-shuogua",
+    "subjectId": "imagery-kun-quality-zhouyi-shuogua",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "f8fadb29afdacd3785f045c04b42b37b1bd9dd5a243d39f66c9fce46f8bd6f9a",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-shuogua-lookup",
+        "locator": "第七章／坤的卦性"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-generates-wood-fire",
+    "subjectId": "element-generates-wood-fire",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "25c07e919721e124558161243a2e017707e23a9caf5093b493ab3227a3c25201",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-generates-fire-earth",
+    "subjectId": "element-generates-fire-earth",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "51398f4b5a369e6f227db287a78bd83649f3027b555c3fe8ca458904bb836059",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-generates-earth-metal",
+    "subjectId": "element-generates-earth-metal",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "a725c8615a7d7114cdded2b5be5f4cdc479ec6850c867c225ea17c56796f8e8e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-generates-metal-water",
+    "subjectId": "element-generates-metal-water",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "d42f9f5935a0f01d61c99609f0b23c17c916856f8923bfa9da1110f935faed02",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-generates-water-wood",
+    "subjectId": "element-generates-water-wood",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "c55ff707331aa58c390136e83f63ec8f0a528a26564e0f8a0030ecfe0941c92a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相生"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-controls-wood-earth",
+    "subjectId": "element-controls-wood-earth",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "5d2db23d5139a3ac7a333369ebaa771568abe6c7bade023164a5df6fbd4c0add",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-controls-earth-water",
+    "subjectId": "element-controls-earth-water",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "50603da1b6af83925d54808d0bd0adae5e023a6d58104c28b9a7cc48abed435a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-controls-water-fire",
+    "subjectId": "element-controls-water-fire",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "fc2fad865441919f896a9883f39e10f1cb5abc06277f3cfc99522c2491f7d38a",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-controls-fire-metal",
+    "subjectId": "element-controls-fire-metal",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "9dba81f9e50b0cc88571cf97226b19a6863945a5e67e8dd7d567c84b52dbac6e",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-element-controls-metal-wood",
+    "subjectId": "element-controls-metal-wood",
+    "method": "lookup-literature-20261022",
+    "subjectHash": "1fe2d8e0e5f99dd2e57c5da2b79bd0706e0a5efaff996f0dfc1fabc0b4fa43e1",
+    "originalStatus": "passed",
+    "explanationStatus": "not-applicable",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-meihua-1",
+        "locator": "卷一／象数易理篇之一／五行生克／相克"
+      }
+    ],
+    "issues": []
+  }
+]

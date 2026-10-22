@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h31-statement", "subjectId": "h31-statement", "method": "electronic-20261022",
+    "subjectHash": "231af249c7eb26f414ecee582d1bb81a2773d017869fcf2e1a34066497706e72",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 卦辞 / 0007冊.djvu/426"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-tuan", "subjectId": "h31-tuan", "method": "electronic-20261022",
+    "subjectHash": "99cfd0d896ac74b1e81a75a137def4bc69f79db971ed0a5fa3d7c18347c6c353",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 彖曰 / 0007冊.djvu/427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-great-image", "subjectId": "h31-great-image", "method": "electronic-20261022",
+    "subjectHash": "545f851873a40227880559382ce01745a7ead14e0b8c50158f8934d6cde57471",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 整卦大象 / 0007冊.djvu/427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·整卦；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-overview", "subjectId": "h31-overview", "method": "overview-20261022",
+    "subjectHash": "de8195286db7dea089e47b7c4ce0d411b8ee77b45babcad46df53fe3dc343a5a",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/426–427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-yao-1", "subjectId": "h31-yao-1", "method": "electronic-20261022",
+    "subjectHash": "3ce1b30c9ca6eb2e6372f7e1c275bcaeaa323a77829021ec867e01eccb2bf5c2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 初六 / 0007冊.djvu/427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-image-1", "subjectId": "h31-image-1", "method": "electronic-20261022",
+    "subjectHash": "f4f44827c4751c22390e7b2980ecaa0432870a4f781d881e443384f741390ab6",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 初六小象 / 0007冊.djvu/427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·初六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-yao-2", "subjectId": "h31-yao-2", "method": "electronic-20261022",
+    "subjectHash": "fef03e21bc390f278660fbd93a150ec359225a98654a69eb3753b32c41e149c9",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 六二 / 0007冊.djvu/427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-image-2", "subjectId": "h31-image-2", "method": "electronic-20261022",
+    "subjectHash": "2e13faf295cf1c51bf4e5b314e3b83c41a0981ef86db3f515ac488addca44e58",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 六二小象 / 0007冊.djvu/427"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-yao-3", "subjectId": "h31-yao-3", "method": "electronic-20261022",
+    "subjectHash": "b9c64a7a44998ffa8d2cd12874048e32a74f7b9cb1e9a21e2d270926f6fa98c1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 九三 / 0007冊.djvu/428"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-image-3", "subjectId": "h31-image-3", "method": "electronic-20261022",
+    "subjectHash": "c9a19a119eb6f4cd435d7e3309aedbb1fe95a3ee37ed0eddfe8d3e4c343856f0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 九三小象 / 0007冊.djvu/428"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-yao-4", "subjectId": "h31-yao-4", "method": "electronic-20261022",
+    "subjectHash": "d72a7f1cfff1ff75c874273c1436a2b5d291c9a4103b03c1e73a0733619d2f08",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 九四 / 0007冊.djvu/428"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-image-4", "subjectId": "h31-image-4", "method": "electronic-20261022",
+    "subjectHash": "3221b53ef2a66d115da0c7551fa718fbd4d3d3fe3e20bff84217d4ac0a49cf50",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 九四小象 / 0007冊.djvu/428"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-yao-5", "subjectId": "h31-yao-5", "method": "electronic-20261022",
+    "subjectHash": "6d2f0e8576489847587f53a1559da123ce0b8a533f26dbbded7befac2a88a6fb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 九五 / 0007冊.djvu/428"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-image-5", "subjectId": "h31-image-5", "method": "electronic-20261022",
+    "subjectHash": "8320432ce2c156c7bb54712b33c49b27fc9f01ff263c701866999f5cf87c9a92",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 九五小象 / 0007冊.djvu/428"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-yao-6", "subjectId": "h31-yao-6", "method": "electronic-20261022",
+    "subjectHash": "fd1fc89d5adc7f7e9c9f87d15c7fdfb965ffb9da10f4d4864152e7ef526b4fba",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 上六 / 0007冊.djvu/429"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h31-image-6", "subjectId": "h31-image-6", "method": "electronic-20261022",
+    "subjectHash": "5158cb061fd157085d1746ec161528c71e99505500b5eec3fa9782f84370433a",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch4","locator":"卷6 / 咸 / 上六小象 / 0007冊.djvu/429"},{"sourceId":"ws-zhouyi-31","locator":"第31卦 咸 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

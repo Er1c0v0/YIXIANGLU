@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h44-statement", "subjectId": "h44-statement", "method": "electronic-20261021",
+    "subjectHash": "08d1d5246d4ff8b321cbe2a48f5b6aa63e5e847bc7c588002b8ab701129a36aa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 卦辞 / 0007冊.djvu/463"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-tuan", "subjectId": "h44-tuan", "method": "electronic-20261021",
+    "subjectHash": "84addcb0491bb8a4b3a3017c6e5dcf38aa46801580a686c8ea0ea84af2f4f824",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 彖曰 / 0007冊.djvu/463"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-great-image", "subjectId": "h44-great-image", "method": "electronic-20261021",
+    "subjectHash": "c120f06d8ccbee6a9fd903e00cf202fb3115278bde7075f144b0df058aff3c75",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 整卦大象 / 0007冊.djvu/464"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-overview", "subjectId": "h44-overview", "method": "overview-20261021",
+    "subjectHash": "66bfd7ef4cf9e6d3611fb54d6ef85dadc85cdd28810a0d3473bc362985d9b77a",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/463–464"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-yao-1", "subjectId": "h44-yao-1", "method": "electronic-20261021",
+    "subjectHash": "ddd9b94c3c7850ba135b13c608309c57d3c37133e1b596766c59239d011e169f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 初六 / 0007冊.djvu/464"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-image-1", "subjectId": "h44-image-1", "method": "electronic-20261021",
+    "subjectHash": "bc357c80711c3db30c306b9ddd04031b745eb8387e98a5f36fe9e5623d0e227f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 初六小象 / 0007冊.djvu/464"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-yao-2", "subjectId": "h44-yao-2", "method": "electronic-20261021",
+    "subjectHash": "02c26826825c29dbd3ba5aad2eff097ba46e3f2fb5dd69c12ff852ad9ff18bfa",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九二 / 0007冊.djvu/464"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-image-2", "subjectId": "h44-image-2", "method": "electronic-20261021",
+    "subjectHash": "7479bd351390f81119449839819cf3ee16991e2d44730f5afa4c5a62a8ce36de",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九二小象 / 0007冊.djvu/464"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-yao-3", "subjectId": "h44-yao-3", "method": "electronic-20261021",
+    "subjectHash": "a237a017b7bbe0d3253da88d308a25076b353daa9d59b79fe81da85359ccb2d3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九三 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-image-3", "subjectId": "h44-image-3", "method": "electronic-20261021",
+    "subjectHash": "dcdae35603cbdbca8ce519b06bf8aa588194ce0b1759d2240c2026857eadb8b4",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九三小象 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-yao-4", "subjectId": "h44-yao-4", "method": "electronic-20261021",
+    "subjectHash": "0e2bfe53e7028312b4ee2c4a11ea2443ebbf5c7efe109fb7d7f5cbd2c9583701",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九四 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-image-4", "subjectId": "h44-image-4", "method": "electronic-20261021",
+    "subjectHash": "e0fd63851aaf77ac8c4d16fadb37b799e5bde141d63e1010abdc0001839ab7f1",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九四小象 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-yao-5", "subjectId": "h44-yao-5", "method": "electronic-20261021",
+    "subjectHash": "69d9dac80308f0731396cfd52d21b78d12f21fe743ac36111f5cd7f77f6225ed",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九五 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-image-5", "subjectId": "h44-image-5", "method": "electronic-20261021",
+    "subjectHash": "a45af56c5b8199a586739f914029768e8f54314270694bc42727e1f6af81665f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 九五小象 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-yao-6", "subjectId": "h44-yao-6", "method": "electronic-20261021",
+    "subjectHash": "386b1083a30755303bf8f7fa91a3bcf2a6c62f3c72a3db33dc8d0734ab83976e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 上九 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h44-image-6", "subjectId": "h44-image-6", "method": "electronic-20261021",
+    "subjectHash": "8c8e0a4ccd6fddbd18af1df29dbbd2cfbac5f8e78152bf7ee0006146f3dd72bb",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-8","locator":"卷8 / 姤 / 上九小象 / 0007冊.djvu/465"},{"sourceId":"ws-zhouyi-44","locator":"第44卦 姤 / 易經、彖曰及象曰；异文仅作对校"}],
+    "issues": []
+  }
+]

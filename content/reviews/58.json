@@ -1,0 +1,156 @@
+[
+  {
+    "id": "review-h58-statement", "subjectId": "h58-statement", "method": "prototype-20261021",
+    "subjectHash": "48d70a7fba8fa8ce8851047b081d062349b1c142c25683db5fb441358e6eb4b6",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 卦辞"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-tuan", "subjectId": "h58-tuan", "method": "prototype-20261021",
+    "subjectHash": "e466c4053b44fe676ee86bc1eb9bd459248b5571ddf8a9ab564d9fc99deeb485",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰 / 全段"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-great-image", "subjectId": "h58-great-image", "method": "prototype-20261021",
+    "subjectHash": "98650867c75e865513f305ca3dd4dc3c0014482b6c04759ecdc366827816f345",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 整卦大象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-yao-1", "subjectId": "h58-yao-1", "method": "prototype-20261021",
+    "subjectHash": "4a7457012a6ef3030cfeae5a322dd504d7820df6571924de80ee8720737c5a74",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 初九"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-image-1", "subjectId": "h58-image-1", "method": "prototype-20261021",
+    "subjectHash": "3cc687d1ae11603261dff9eb7f9e87ff2a289097918d6e4ef9ca1d9950fba44c",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 初九小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-yao-2", "subjectId": "h58-yao-2", "method": "prototype-20261021",
+    "subjectHash": "856b8a64285bac9ce569602fbb5465e9b479a23f700ab89c36d6feeb3cabeed6",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 九二"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-image-2", "subjectId": "h58-image-2", "method": "prototype-20261021",
+    "subjectHash": "c5a7a6807ea29e40bf67f60e2b451036d0d7d9e3bb8a8fdb8a2adb198c41fcf5",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 九二小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-yao-3", "subjectId": "h58-yao-3", "method": "prototype-20261021",
+    "subjectHash": "7513d90008219c7fe865604a64b480ff2407d5af7d4185474398ddee68cc901c",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 六三"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-image-3", "subjectId": "h58-image-3", "method": "prototype-20261021",
+    "subjectHash": "415652c1c11f57ed55865505313a0d79d50a0d78f627569b1c4e4a5fddee6505",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 六三小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-yao-4", "subjectId": "h58-yao-4", "method": "prototype-20261021",
+    "subjectHash": "af740efab3817e1a8c61918e99141c6ec567790a07277f1ba3849c1417475994",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 九四"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-image-4", "subjectId": "h58-image-4", "method": "prototype-20261021",
+    "subjectHash": "c538bba79e6b2f4d4b4b032008b449ccd0fd2e3a3ee532a5fe0da6ca59fa32ee",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 九四小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-yao-5", "subjectId": "h58-yao-5", "method": "prototype-20261021",
+    "subjectHash": "adfd82d65111ccce08f9a4e47d0f4118c113716f5bdd27c0500820582360651b",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 九五"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-image-5", "subjectId": "h58-image-5", "method": "prototype-20261021",
+    "subjectHash": "efb853593ddbdc34270b598666b94d8c32785d4dee3c0dd23c2f228425746bf4",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 九五小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-yao-6", "subjectId": "h58-yao-6", "method": "prototype-20261021",
+    "subjectHash": "21ed5d7a16fed269e39aed601cde024455cb463c8fa7995116e81aedc243658e",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 易經 / 上六"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-image-6", "subjectId": "h58-image-6", "method": "prototype-20261021",
+    "subjectHash": "6d13b8ada9186db8fccda226080f8e349a14e0302a09a387d25c0aa8cc55466b",
+    "originalStatus": "passed", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 象曰 / 上六小象"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-overview", "subjectId": "h58-overview", "method": "prototype-20261021",
+    "subjectHash": "da1685cd0cdf3a69b1be3b6c26e2b5305713dfc497660359b243299a7aa11cb8",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-position-1", "subjectId": "h58-position-1", "method": "prototype-20261021",
+    "subjectHash": "4b3545b1f5f581fe55efd8e5c92e9855883768955dab8843922c030d3edd056d",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-position-2", "subjectId": "h58-position-2", "method": "prototype-20261021",
+    "subjectHash": "38173c658222412b9ab1a9a66d18ec31e12dd70a9cc03e649addaa59218b5f7b",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-position-3", "subjectId": "h58-position-3", "method": "prototype-20261021",
+    "subjectHash": "21fc85264842d3b6e423c8e5730e0c46a8dca4ea2430925f4d61a5af7787c60a",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-position-4", "subjectId": "h58-position-4", "method": "prototype-20261021",
+    "subjectHash": "5332a445996872b57b6979ac05d7d5d1219e7992044de96242d62a8f10d7291f",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-position-5", "subjectId": "h58-position-5", "method": "prototype-20261021",
+    "subjectHash": "e2f5592cac269b679642f4da1f2e539e2176a7eec4bb20be4de0f4e73c251682",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h58-position-6", "subjectId": "h58-position-6", "method": "prototype-20261021",
+    "subjectHash": "ed5b87f4ef960035ea1ef050ca420f8d8693586f2bb224b1b447d1e3e4464168",
+    "originalStatus": "not-applicable", "explanationStatus": "passed",
+    "checkedRefs": [{"sourceId":"ws-zhouyi-58","locator":"第58卦 兌 / 彖曰、象曰与上下卦"}],
+    "issues": []
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h36-statement", "subjectId": "h36-statement", "method": "electronic-20261022",
+    "subjectHash": "2193b30fb859df8800881dffaac77bf90e55a007c6ee5c11e833637b53b68ef0",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 卦辞 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-tuan", "subjectId": "h36-tuan", "method": "electronic-20261022",
+    "subjectHash": "2d798a661051ae229b31d1a50d8e90f1a244a6fd4b4b8dcf705c8ed2dd22c6ec",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 彖曰 / 0007冊.djvu/438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 彖曰；异文仅作对校"}],
+    "issues": ["采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h36-great-image", "subjectId": "h36-great-image", "method": "electronic-20261022",
+    "subjectHash": "a4d4d09015d9b5501a0ec9846e60e58440f234294b1d6af8bc0510e16c09933b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 整卦大象 / 0007冊.djvu/438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["采用电子录文“莅衆”，普通电子对校页相应为“蒞眾”；保留所见，影印字形待核。"]
+  },
+  {
+    "id": "review-h36-overview", "subjectId": "h36-overview", "method": "overview-20261022",
+    "subjectHash": "00eb0d81ca0d1eb3358a6170ec68c9a413f4b622975665b22971d42f71683bee",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/437–438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-yao-1", "subjectId": "h36-yao-1", "method": "electronic-20261022",
+    "subjectHash": "a1aa04452b4a83b683d5b70a54011930a71f2eacbd6d99e757b6e0aa553c5949",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 初九 / 0007冊.djvu/438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-image-1", "subjectId": "h36-image-1", "method": "electronic-20261022",
+    "subjectHash": "ac157ca904bfce7cbcf325711466eb47f547cbc501fb5ac1824b13a527569740",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 初九小象 / 0007冊.djvu/438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-yao-2", "subjectId": "h36-yao-2", "method": "electronic-20261022",
+    "subjectHash": "e34cf9f86720016cd8a5a9b1b26a676bfb4c9e4d2ade7e9e604eb68ac2e4b582",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 六二 / 0007冊.djvu/438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-image-2", "subjectId": "h36-image-2", "method": "electronic-20261022",
+    "subjectHash": "2470d4efe845939c8fcab8e5cc2a2d2793595ebf585084af4a72903242625281",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 六二小象 / 0007冊.djvu/438"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-yao-3", "subjectId": "h36-yao-3", "method": "electronic-20261022",
+    "subjectHash": "47b8f349eb8e09aa35bc9cae84ceb749328d906b0a8eea1fc01fb484593d7f8b",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 九三 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-image-3", "subjectId": "h36-image-3", "method": "electronic-20261022",
+    "subjectHash": "8c0b6aedcc64b9c3e86df5c87b54579ef5e17bf37977ff5d91a42728d1cc4d00",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 九三小象 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-yao-4", "subjectId": "h36-yao-4", "method": "glyph-display-20261022",
+    "subjectHash": "f854875406a068f627e7d599346bdf319ee2c9eab3db74bdb53b435852822cc8",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 六四 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=293746950e2adb57fb273d09ebc259a30419363e26f805f2c65f03ce7b8b1185"]
+  },
+  {
+    "id": "review-h36-image-4", "subjectId": "h36-image-4", "method": "glyph-display-20261022",
+    "subjectHash": "7ef4a7ba49ff3a17d295ab051641b54df22de53d9b38f8b9177808349fc56492",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 六四小象 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·六四；异文仅作对校"}],
+    "issues": ["采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形待核。","2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=60d68c193d7a3ca92c5df02b8e57c77ace0fd17531425979dd4f6400a6ae1762"]
+  },
+  {
+    "id": "review-h36-yao-5", "subjectId": "h36-yao-5", "method": "electronic-20261022",
+    "subjectHash": "6af18bd7750797337de7c3ac212d06d11a22f13fbcebcf53454b48f8d9c91ec2",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 六五 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-image-5", "subjectId": "h36-image-5", "method": "electronic-20261022",
+    "subjectHash": "0bc26bda67bb280b34f3d966f69df9190d45df0c58c63d2acbc3a3e67afa930f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 六五小象 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·六五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-yao-6", "subjectId": "h36-yao-6", "method": "electronic-20261022",
+    "subjectHash": "cea240f2a589fd8bb5cc8bd59fbab41294de03d20b4c6390755f141fac908f60",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 上六 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 易經·上六；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h36-image-6", "subjectId": "h36-image-6", "method": "electronic-20261022",
+    "subjectHash": "a1624ee4132de0408063814cef1d8b533ac795a55c260ba3bd6a8ce65cf01832",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 明夷 / 上六小象 / 0007冊.djvu/439"},{"sourceId":"ws-zhouyi-36","locator":"第36卦 明夷 / 象曰·上六；异文仅作对校"}],
+    "issues": []
+  }
+]

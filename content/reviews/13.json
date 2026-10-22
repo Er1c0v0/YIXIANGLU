@@ -1,0 +1,114 @@
+[
+  {
+    "id": "review-h13-statement", "subjectId": "h13-statement", "method": "electronic-20261022",
+    "subjectHash": "c0dc92a6c18c20ba87f1a30d391787aa64044d118341aaec3035b2f28e3135c3",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 卦辞 / 0007冊.djvu/370"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·卦辞；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-tuan", "subjectId": "h13-tuan", "method": "electronic-20261022",
+    "subjectHash": "dd376dd283ab381ab90379a69c5510863d629705708cc8e89cb2a1a3ee32ac58",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 彖曰 / 0007冊.djvu/370"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 彖曰；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-great-image", "subjectId": "h13-great-image", "method": "glyph-display-20261022",
+    "subjectHash": "7082ac015ff26d7c2c5421a007b69605174685a191be392c056f47665e47af38",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 整卦大象 / 0007冊.djvu/370"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·整卦；异文仅作对校"}],
+    "issues": ["保留采用电子录文“𩔖族辨物”，影印字形待核。","2026-10-22显示修正：“𩔖”通写为“類”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。","修正前原文及审核见提交d6678cb；原subjectHash=428d9ba791616e6bedb67897db19e30b1d49392e32d973abeb0ff213f4b92049"]
+  },
+  {
+    "id": "review-h13-overview", "subjectId": "h13-overview", "method": "overview-20261022",
+    "subjectHash": "e8aabbff03d8e2675dc1e4285be116090e2a41544723e4c80fd4c8ae446f5772",
+    "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/370"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 彖曰、整卦大象与上下卦"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-yao-1", "subjectId": "h13-yao-1", "method": "electronic-20261022",
+    "subjectHash": "1b1d84460414a9ce3b98d144caace414b67293d0e1950c469cc5d9c947a9ce87",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 初九 / 0007冊.djvu/370"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-image-1", "subjectId": "h13-image-1", "method": "electronic-20261022",
+    "subjectHash": "0729de7f2db2cfea308050e0b4d4fd6f88e1f618b1749fddd587fd1893b08717",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 初九小象 / 0007冊.djvu/370"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·初九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-yao-2", "subjectId": "h13-yao-2", "method": "electronic-20261022",
+    "subjectHash": "f150c94b8d9dabc412909e5ae79a3bc950c5f37f64682e8bf0da681d2beab6a7",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 六二 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-image-2", "subjectId": "h13-image-2", "method": "electronic-20261022",
+    "subjectHash": "0911dc724a582b2a523db4c14a9f9a6e178cbb7f873beb33123d4a015b8a70bd",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 六二小象 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·六二；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-yao-3", "subjectId": "h13-yao-3", "method": "electronic-20261022",
+    "subjectHash": "d61ffb4db1db2e4678e6219ef44a38c48695cd88f433652985d68e92b955e875",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 九三 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-image-3", "subjectId": "h13-image-3", "method": "electronic-20261022",
+    "subjectHash": "3ed7b0ccf9d4564f7b68dc289d582c72fdf24421111fadc004f4043e224ed70f",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 九三小象 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·九三；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-yao-4", "subjectId": "h13-yao-4", "method": "electronic-20261022",
+    "subjectHash": "483facf0bb0cb9e4eae2842c16aa65293cecb48806963e39b1dab5fa5fffb442",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 九四 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·九四；异文仅作对校"}],
+    "issues": ["四库本电子录文作“墉”，普通电子对校页作“庸”；依采用录文暂存。"]
+  },
+  {
+    "id": "review-h13-image-4", "subjectId": "h13-image-4", "method": "electronic-20261022",
+    "subjectHash": "11b0dc33e464308e16bc0d2dfb2490b57aac1b519f3738309962b01a25722c1e",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 九四小象 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·九四；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-yao-5", "subjectId": "h13-yao-5", "method": "electronic-20261022",
+    "subjectHash": "40bcdbe838619835c4d0463bc8683a43faec6a36267be4a1efe126b12971e279",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 九五 / 0007冊.djvu/371"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·九五；异文仅作对校"}],
+    "issues": ["四库本电子录文作“號咷”，普通电子对校页作“號啕”；依采用录文暂存。"]
+  },
+  {
+    "id": "review-h13-image-5", "subjectId": "h13-image-5", "method": "electronic-20261022",
+    "subjectHash": "e0af6a0aed7ada1832b671cc0d69c6a1af88b8812383fc141ce12153b7d68229",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 九五小象 / 0007冊.djvu/372"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·九五；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-yao-6", "subjectId": "h13-yao-6", "method": "electronic-20261022",
+    "subjectHash": "3dd8daf84847b748cf7b59de8db7a536990188a4331986f2aa0b4829121e6f07",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 上九 / 0007冊.djvu/372"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 易經·上九；异文仅作对校"}],
+    "issues": []
+  },
+  {
+    "id": "review-h13-image-6", "subjectId": "h13-image-6", "method": "electronic-20261022",
+    "subjectHash": "d751d011ec6f5dd6cfd13c89b011b5f7022d123d0b37b151b5604aad4ba4ba48",
+    "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
+    "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 同人 / 上九小象 / 0007冊.djvu/372"},{"sourceId":"ws-zhouyi-13","locator":"第13卦 同人 / 象曰·上九；异文仅作对校"}],
+    "issues": []
+  }
+]

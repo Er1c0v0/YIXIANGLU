@@ -1,10 +1,11 @@
 <view class="source">
   <button class="link" bindtap="toggle" aria-expanded="{{open}}" hover-class="button-pressed" hover-stay-time="80">来源 <text>{{open ? '−' : '＋'}}</text></button>
   <view wx:if="{{open}}" class="source-body">
-    <view wx:for="{{sources}}" wx:key="locator" class="entry">
+    <view wx:for="{{sources}}" wx:key="key" class="entry">
       <view class="source-title">{{item.title}}</view><view>{{item.locator}}</view>
-      <view>版本 {{item.revision}} · CC BY-SA 4.0 · 标点整理</view>
-      <button class="link copy-link" data-url="{{item.url}}" bindtap="copy" hover-class="button-pressed" hover-stay-time="80">复制来源链接</button>
+      <view>{{item.edition}}</view><view>{{item.rightsNote}}</view>
+      <view wx:if="{{item.note}}">{{item.note}}</view>
+      <button wx:if="{{item.url}}" class="link copy-link" data-url="{{item.url}}" bindtap="copy" hover-class="button-pressed" hover-stay-time="80">复制来源链接</button>
     </view>
   </view>
 </view>
