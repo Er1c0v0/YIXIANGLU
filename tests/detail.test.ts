@@ -98,9 +98,10 @@ test('独立查阅、直接观察、返回续选及会话替代与卸载归属',
   assert.notEqual(restarted, observation)
   assert.deepEqual(restarted, { mode: 'atlas', hexagramId: 1, selected: [] })
 
-  const replacementQuery = query(startSession(replacement))
+  const sameValueReplacement: CastSession = { ...restarted }
+  const replacementQuery = query(startSession(sameValueReplacement))
   detail.onUnload()
-  assert.equal(readSession(replacementQuery), replacement)
+  assert.equal(readSession(replacementQuery), sameValueReplacement)
   const fresh = page('detail')
   fresh.onLoad({ id: '2' })
   fresh.observe()

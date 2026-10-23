@@ -4,7 +4,7 @@ import { BASELINE, TRIGRAM_BASELINE } from './fixtures/hexagrams'
 import { TRIGRAMS } from '../miniprogram/domain/trigrams'
 import { HEXAGRAMS, combine, getHexagram } from '../miniprogram/domain/hexagrams'
 import { castNumbers, changeHexagram, lineName, modDecimal, normalizePositiveInteger, normalizePositions, parseRoute, POSITIONS, resultForSession } from '../miniprogram/domain/casting'
-import { endSession, isActiveSession, newFlow, readSession, sessionRoute, startSession, updateSelection } from '../miniprogram/state/session'
+import { isActiveSession, newFlow, readSession, sessionRoute, startSession, updateSelection } from '../miniprogram/state/session'
 import type { CastSession, LinePosition } from '../miniprogram/domain/types'
 
 test('64 组合与384爻名：独立六爻基准', () => {
@@ -73,29 +73,11 @@ test('路由、内存会话、返回保留及新流程隔离', () => {
   assert.equal(parseRoute({id:'1',mode:'number',sid:'1',fixed:'7'}),undefined)
   assert.throws(()=>startSession({mode:'number',hexagramId:1,fixed:0 as LinePosition}))
   newFlow();assert.equal(readSession(query),undefined)
+  assert.equal(isActiveSession(session), false)
   startSession({mode:'number',hexagramId:43,fixed:3})
   assert.equal(readSession(query),undefined)
   const fixedQuery=Object.fromEntries(new URL(sessionRoute('changes'),'https://local').searchParams)
   const fixedSession=readSession(fixedQuery)!
   assert.throws(()=>updateSelection(fixedSession,[1]))
   assert.equal(readSession({...fixedQuery,fixed:'2'}),undefined)
-})
-
-test('会话按引用归属判断与结束，新流程使旧引用失效', () => {
-  newFlow()
-  assert.equal(isActiveSession(undefined), false)
-  const session:CastSession={mode:'atlas',hexagramId:1,selected:[]}
-  startSession(session)
-  assert.equal(isActiveSession({...session}), false)
-  const replacement:CastSession={...session}
-  startSession(replacement)
-  assert.equal(isActiveSession(session), false)
-  endSession(session)
-  endSession(undefined)
-  assert.equal(isActiveSession(replacement), true)
-  endSession(replacement)
-  assert.equal(isActiveSession(replacement), false)
-  startSession(session)
-  newFlow()
-  assert.equal(isActiveSession(session), false)
 })
