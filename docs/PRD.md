@@ -173,7 +173,7 @@
 - 连续阅读只需要有序结果ID、当前位置、是否筛选及当前页展开／滚动状态，不保存每卦历史，不引入持久化或通用状态框架。
 - 卦编号、路由和外部上下文做入口校验；内部已确定的数据不重复防御，不用默认值掩盖资料或路由错误。
 - 目录面板使用原生`page-container`，关闭及返回遵循§2.3的平台边界。目录关闭、目标展开并完成渲染后，再测量目标位置与实际吸顶条高度并定位；避免硬编码正文高度、延时猜测或重试循环。目录定位使用当前页面内的章节／爻位标识。
-- 本版涉及的原文、卦头摘要、意象与整体含义正文使用原生`text`及`user-select`实现选取，并保持现有换行与段落布局；不能以现有`view selectable`写法作为已支持的依据。属性与限制见[微信官方 text 说明](https://developers.weixin.qq.com/miniprogram/dev/component/text.html)。
+- 本版涉及的原文、卦头摘要、意象与整体含义正文使用原生`text`及`user-select`实现选取，并保留换行与段落分隔；意象与整体含义的全部正文共用一个可选取文本节点，支持跨句、跨段选取复制；不能以现有`view selectable`写法作为已支持的依据。属性与限制见[微信官方 text 说明](https://developers.weixin.qq.com/miniprogram/dev/component/text.html)。
 - 每页首节点使用`page-meta root-font-size="system"`，字号统一用rem跟随用户的微信字体设置；详情页保留原有面板打开时的页面滚动控制。属性依据[微信官方 page-meta 说明](https://developers.weixin.qq.com/miniprogram/dev/component/page-meta.html)，实际字体与各宽度效果分别验证。
 - 同页换卦时，阅读组件及来源组件内部的展开状态一并重置，不能只更新正文和引用而保留上一卦的来源展开状态。
 - 复用现有读取组件时明确区分图鉴详情与生成／分析场景。目录若仅详情使用，留在该页；仅提取实际复用的部分，不引入重型UI库。

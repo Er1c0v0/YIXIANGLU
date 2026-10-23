@@ -5,12 +5,13 @@ import { getContent } from '../../data/repository'
 Component({
   options: { multipleSlots: true },
   properties: { hexagramId: { type: Number, value: 0 }, showYao: { type: Boolean, value: false } },
-  data: { meta: null as ReturnType<typeof getHexagram> | null, content: null as ReturnType<typeof getContent> | null, upperName: '', lowerName: '', statementOpen: true, overviewOpen: true, tuanOpen: false, imageOpen: false, specialOpen: false, yaoOpen: [false, false, false, false, false, false] },
+  data: { meta: null as ReturnType<typeof getHexagram> | null, content: null as ReturnType<typeof getContent> | null, upperName: '', lowerName: '', overviewText: '', statementOpen: true, overviewOpen: true, tuanOpen: false, imageOpen: false, specialOpen: false, yaoOpen: [false, false, false, false, false, false] },
   observers: {
     hexagramId: function(id: number) {
       if (!id) return
       const meta = getHexagram(id)
-      this.setData({ meta, content: getContent(id) || null, upperName: getTrigram(meta.upper).name, lowerName: getTrigram(meta.lower).name, statementOpen: true, overviewOpen: true, tuanOpen: false, imageOpen: false, specialOpen: false, yaoOpen: [false, false, false, false, false, false] })
+      const content = getContent(id) || null
+      this.setData({ meta, content, overviewText: content ? [...content.imagery, content.overallMeaning].join('\n\n') : '', upperName: getTrigram(meta.upper).name, lowerName: getTrigram(meta.lower).name, statementOpen: true, overviewOpen: true, tuanOpen: false, imageOpen: false, specialOpen: false, yaoOpen: [false, false, false, false, false, false] })
     },
   },
   methods: {
