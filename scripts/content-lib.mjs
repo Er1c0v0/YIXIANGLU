@@ -177,7 +177,7 @@ export function validateContent({ contents, sources, reviews, search, imagery, r
   }
   if (imagery.length) for (const trigram of trigrams) {
     for (const category of categories) assert.ok(imagery.some(e => e.trigram === trigram && e.category === category), `意象缺项 ${trigram}/${category}`)
-    for (const category of categories.slice(0,8)) assert.equal(imagery.filter(e => e.trigram === trigram && e.category === category && e.refs.some(ref => ref.sourceId === 'prd-classroom')).length, 1, `课堂资料须完整且不重复 ${trigram}/${category}`)
+    for (const category of categories.slice(0,8)) assert.equal(imagery.filter(e => e.trigram === trigram && e.category === category && e.refs.some(ref => ref.sourceId === 'classroom-table')).length, 1, `课堂资料须完整且不重复 ${trigram}/${category}`)
     const number = imagery.find(e => e.trigram === trigram && e.category === 'number')
     assert.deepEqual(number.values, [String(TRIGRAMS.find(t => t.id === trigram).number)], '先天数与结构数据不符')
   }

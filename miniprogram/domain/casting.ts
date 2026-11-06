@@ -2,8 +2,6 @@ import { CastSession, LinePosition, SixLines } from './types'
 import { combine, fromMask, getHexagram, linesToMask } from './hexagrams'
 import { TRIGRAMS } from './trigrams'
 
-export const POSITIONS: readonly LinePosition[] = [1, 2, 3, 4, 5, 6]
-
 export function normalizePositiveInteger(raw: string): string {
   const value = raw.trim()
   if (!/^[0-9]+$/.test(value) || !/[1-9]/.test(value)) {

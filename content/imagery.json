@@ -10,8 +10,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／乾"
       }
     ],
     "reviewId": "review-imagery-qian-nature-classroom"
@@ -27,8 +27,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／坤"
       }
     ],
     "reviewId": "review-imagery-kun-nature-classroom"
@@ -44,8 +44,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／震"
       }
     ],
     "reviewId": "review-imagery-zhen-nature-classroom"
@@ -61,8 +61,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／巽"
       }
     ],
     "reviewId": "review-imagery-xun-nature-classroom"
@@ -78,8 +78,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／坎"
       }
     ],
     "reviewId": "review-imagery-kan-nature-classroom"
@@ -95,8 +95,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／离"
       }
     ],
     "reviewId": "review-imagery-li-nature-classroom"
@@ -112,8 +112,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／艮"
       }
     ],
     "reviewId": "review-imagery-gen-nature-classroom"
@@ -129,8 +129,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／兑"
       }
     ],
     "reviewId": "review-imagery-dui-nature-classroom"
@@ -146,8 +146,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／乾"
       }
     ],
     "reviewId": "review-imagery-qian-quality-classroom"
@@ -163,8 +163,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／坤"
       }
     ],
     "reviewId": "review-imagery-kun-quality-classroom"
@@ -180,8 +180,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／震"
       }
     ],
     "reviewId": "review-imagery-zhen-quality-classroom"
@@ -197,8 +197,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／巽"
       }
     ],
     "reviewId": "review-imagery-xun-quality-classroom"
@@ -214,8 +214,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／坎"
       }
     ],
     "reviewId": "review-imagery-kan-quality-classroom"
@@ -231,8 +231,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／离"
       }
     ],
     "reviewId": "review-imagery-li-quality-classroom"
@@ -248,8 +248,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／艮"
       }
     ],
     "reviewId": "review-imagery-gen-quality-classroom"
@@ -265,8 +265,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／兑"
       }
     ],
     "reviewId": "review-imagery-dui-quality-classroom"
@@ -282,8 +282,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／乾"
       }
     ],
     "reviewId": "review-imagery-qian-family-classroom"
@@ -299,8 +299,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／坤"
       }
     ],
     "reviewId": "review-imagery-kun-family-classroom"
@@ -316,8 +316,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／震"
       }
     ],
     "reviewId": "review-imagery-zhen-family-classroom"
@@ -333,8 +333,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／巽"
       }
     ],
     "reviewId": "review-imagery-xun-family-classroom"
@@ -350,8 +350,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／坎"
       }
     ],
     "reviewId": "review-imagery-kan-family-classroom"
@@ -367,8 +367,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／离"
       }
     ],
     "reviewId": "review-imagery-li-family-classroom"
@@ -384,8 +384,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／艮"
       }
     ],
     "reviewId": "review-imagery-gen-family-classroom"
@@ -401,8 +401,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／兑"
       }
     ],
     "reviewId": "review-imagery-dui-family-classroom"
@@ -418,8 +418,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／乾"
       }
     ],
     "reviewId": "review-imagery-qian-animal-classroom"
@@ -435,8 +435,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／坤"
       }
     ],
     "reviewId": "review-imagery-kun-animal-classroom"
@@ -452,8 +452,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／震"
       }
     ],
     "reviewId": "review-imagery-zhen-animal-classroom"
@@ -469,8 +469,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／巽"
       }
     ],
     "reviewId": "review-imagery-xun-animal-classroom"
@@ -486,8 +486,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／坎"
       }
     ],
     "reviewId": "review-imagery-kan-animal-classroom"
@@ -503,8 +503,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／离"
       }
     ],
     "reviewId": "review-imagery-li-animal-classroom"
@@ -520,8 +520,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／艮"
       }
     ],
     "reviewId": "review-imagery-gen-animal-classroom"
@@ -537,8 +537,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／兑"
       }
     ],
     "reviewId": "review-imagery-dui-animal-classroom"
@@ -554,8 +554,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／乾"
       }
     ],
     "reviewId": "review-imagery-qian-body-classroom"
@@ -571,8 +571,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／坤"
       }
     ],
     "reviewId": "review-imagery-kun-body-classroom"
@@ -588,8 +588,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／震"
       }
     ],
     "reviewId": "review-imagery-zhen-body-classroom"
@@ -605,8 +605,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／巽"
       }
     ],
     "reviewId": "review-imagery-xun-body-classroom"
@@ -622,8 +622,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／坎"
       }
     ],
     "reviewId": "review-imagery-kan-body-classroom"
@@ -639,8 +639,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／离"
       }
     ],
     "reviewId": "review-imagery-li-body-classroom"
@@ -656,8 +656,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／艮"
       }
     ],
     "reviewId": "review-imagery-gen-body-classroom"
@@ -673,8 +673,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／兑"
       }
     ],
     "reviewId": "review-imagery-dui-body-classroom"
@@ -690,8 +690,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／乾"
       }
     ],
     "reviewId": "review-imagery-qian-later-direction-classroom"
@@ -707,8 +707,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／坤"
       }
     ],
     "reviewId": "review-imagery-kun-later-direction-classroom"
@@ -724,8 +724,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／震"
       }
     ],
     "reviewId": "review-imagery-zhen-later-direction-classroom"
@@ -741,8 +741,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／巽"
       }
     ],
     "reviewId": "review-imagery-xun-later-direction-classroom"
@@ -758,8 +758,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／坎"
       }
     ],
     "reviewId": "review-imagery-kan-later-direction-classroom"
@@ -775,8 +775,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／离"
       }
     ],
     "reviewId": "review-imagery-li-later-direction-classroom"
@@ -792,8 +792,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／艮"
       }
     ],
     "reviewId": "review-imagery-gen-later-direction-classroom"
@@ -809,8 +809,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／兑"
       }
     ],
     "reviewId": "review-imagery-dui-later-direction-classroom"
@@ -826,8 +826,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／乾"
       }
     ],
     "reviewId": "review-imagery-qian-gate-qimen"
@@ -843,8 +843,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／坤"
       }
     ],
     "reviewId": "review-imagery-kun-gate-qimen"
@@ -860,8 +860,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／震"
       }
     ],
     "reviewId": "review-imagery-zhen-gate-qimen"
@@ -877,8 +877,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／巽"
       }
     ],
     "reviewId": "review-imagery-xun-gate-qimen"
@@ -894,8 +894,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／坎"
       }
     ],
     "reviewId": "review-imagery-kan-gate-qimen"
@@ -911,8 +911,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／离"
       }
     ],
     "reviewId": "review-imagery-li-gate-qimen"
@@ -928,8 +928,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／艮"
       }
     ],
     "reviewId": "review-imagery-gen-gate-qimen"
@@ -945,8 +945,8 @@
     "tradition": "qimen",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／兑"
       }
     ],
     "reviewId": "review-imagery-dui-gate-qimen"
@@ -962,8 +962,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／乾"
       }
     ],
     "reviewId": "review-imagery-qian-season-classroom"
@@ -979,8 +979,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／坤"
       }
     ],
     "reviewId": "review-imagery-kun-season-classroom"
@@ -996,8 +996,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／震"
       }
     ],
     "reviewId": "review-imagery-zhen-season-classroom"
@@ -1013,8 +1013,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／巽"
       }
     ],
     "reviewId": "review-imagery-xun-season-classroom"
@@ -1030,8 +1030,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／坎"
       }
     ],
     "reviewId": "review-imagery-kan-season-classroom"
@@ -1047,8 +1047,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／离"
       }
     ],
     "reviewId": "review-imagery-li-season-classroom"
@@ -1064,8 +1064,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／艮"
       }
     ],
     "reviewId": "review-imagery-gen-season-classroom"
@@ -1081,8 +1081,8 @@
     "tradition": "classroom",
     "refs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／兑"
       }
     ],
     "reviewId": "review-imagery-dui-season-classroom"

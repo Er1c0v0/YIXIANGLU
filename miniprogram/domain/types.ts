@@ -28,7 +28,7 @@ export interface HexagramSearchEntry {
 }
 
 export interface ImageryEntry {
-  id: string; trigram: TrigramId
+  trigram: TrigramId
   category: 'nature' | 'quality' | 'family' | 'animal' | 'body'
     | 'later-direction' | 'gate' | 'season' | 'element' | 'color'
   values: string[]
@@ -48,7 +48,7 @@ export interface SourceDocument {
   accessedAt: string; rightsNote: string
 }
 export interface ReviewedText {
-  id: string; original: string; originalRefs: SourceRef[]
+  original: string; originalRefs: SourceRef[]
 }
 export interface YaoEntry {
   position: LinePosition; label: string

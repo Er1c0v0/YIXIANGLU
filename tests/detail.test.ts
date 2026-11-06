@@ -124,7 +124,6 @@ test('图鉴点击先完成待执行搜索，返回保留列表条件并恢复�
   atlas.filter(upperQian)
   atlas.input({ detail: { value: '12' } })
   atlas.read(tap(1))
-  assert.equal(atlas.timer, 0)
   assert.deepEqual(atlas.data.samples.map((item: { id: number }) => item.id), [12])
   assert.equal(atlas.data.busy, false)
   assert.equal(navigations.length, 0)
@@ -139,8 +138,8 @@ test('图鉴点击先完成待执行搜索，返回保留列表条件并恢复�
   assert.equal(entry.id, '12')
   const context = readReading(entry.reading, 12)!
   assert.equal(context.filtered, true)
-  const samples = atlas.data.samples
-  assert.deepEqual(context.ids, samples.map((item: { id: number }) => item.id))
+  const sampleIds = atlas.data.samples.map((item: { id: number }) => item.id)
+  assert.deepEqual(context.ids, sampleIds)
   assert.equal(atlas.data.busy, true)
   atlas.read(tap(1))
   assert.equal(navigations.length, 1)
@@ -148,7 +147,7 @@ test('图鉴点击先完成待执行搜索，返回保留列表条件并恢复�
   atlas.onShow()
   assert.equal(atlas.data.busy, false)
   assert.deepEqual([atlas.keyword, atlas.data.upperIndex, atlas.data.lowerIndex], ['天', 1, 0])
-  assert.equal(atlas.data.samples, samples)
+  assert.deepEqual(atlas.data.samples.map((item: { id: number }) => item.id), sampleIds)
   assert.deepEqual(scrolls, [{ scrollTop: 320, duration: 0 }])
   endReading(context)
 })

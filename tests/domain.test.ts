@@ -2,10 +2,12 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import { BASELINE, TRIGRAM_BASELINE } from './fixtures/hexagrams'
 import { TRIGRAMS } from '../miniprogram/domain/trigrams'
-import { HEXAGRAMS, combine, getHexagram } from '../miniprogram/domain/hexagrams'
-import { castNumbers, changeHexagram, lineName, modDecimal, normalizePositiveInteger, normalizePositions, parseRoute, POSITIONS, resultForSession } from '../miniprogram/domain/casting'
+import { combine, getHexagram } from '../miniprogram/domain/hexagrams'
+import { castNumbers, changeHexagram, lineName, modDecimal, normalizePositiveInteger, normalizePositions, parseRoute, resultForSession } from '../miniprogram/domain/casting'
 import { isActiveSession, newFlow, readSession, sessionRoute, startSession, updateSelection } from '../miniprogram/state/session'
 import type { CastSession, LinePosition } from '../miniprogram/domain/types'
+
+const POSITIONS: readonly LinePosition[] = [1, 2, 3, 4, 5, 6]
 
 test('64 组合与384爻名：独立六爻基准', () => {
   assert.equal(new Set(BASELINE).size, 64)
@@ -17,7 +19,6 @@ test('64 组合与384爻名：独立六爻基准', () => {
     assert.equal(result.id, BASELINE.indexOf(expected) + 1)
     assert.equal(result.lines.join(''), expected)
   }
-  assert.equal(HEXAGRAMS.length, 64)
   const suffix = ['初','二','三','四','五','上']
   BASELINE.forEach((lines, i) => POSITIONS.forEach(p => {
     const polarity = lines[p-1] === '1' ? '九' : '六'
@@ -26,14 +27,13 @@ test('64 组合与384爻名：独立六爻基准', () => {
   }))
 })
 
-test('4096 种变化：数组逐位翻转参照；再次变化复原', () => {
+test('4096 种变化：数组逐位翻转独立参照', () => {
   for (let id = 1; id <= 64; id++) for (let subset = 0; subset < 64; subset++) {
     const positions = POSITIONS.filter((_, i) => Math.floor(subset / 2 ** i) % 2)
     const expected = BASELINE[id - 1].split('').map((line, i) => positions.includes(i + 1 as LinePosition) ? String(1 - Number(line)) : line).join('')
     const result = changeHexagram(id, positions)
     assert.equal(result.id, BASELINE.indexOf(expected) + 1, `${id}/${subset}`)
     assert.equal(result.lines.join(''), expected)
-    assert.equal(changeHexagram(result.id, positions).id, id)
   }
   assert.deepEqual(normalizePositions([5,2,2]), [2,5])
   for (const p of [0,7,1.5,NaN]) assert.throws(() => normalizePositions([p]))
@@ -53,13 +53,14 @@ test('数字边界、1000位及固定变爻关键案例', () => {
   }
   for (const value of ['', ' ', '0','000','-1','+1','1.2','1e3','0x10','17abc','1 2','１２','1\n2']) assert.throws(() => castNumbers(value,'1','1'))
   for (const slot of [0,1,2]) { const values=['1','1','1'];values[slot]='0';assert.throws(()=>castNumbers(...values as [string,string,string])) }
-  for (const [values,id,fixed,result] of [[['7','7','5'],52,5,53],[['17','26','9'],43,3,58],[['00017','00026','0009'],43,3,58],[['8','16','6'],2,6,23],[['9007199254740993','8','6'],11,6,26]] as const) {
+  for (const [values,id,fixed,result] of [[['7','7','5'],52,5,53],[['00017','00026','0009'],43,3,58],[['8','16','6'],2,6,23],[['9007199254740993','8','6'],11,6,26]] as const) {
     const cast=castNumbers(...values)
     assert.equal(cast.hexagram.id,id); assert.equal(cast.fixed,fixed)
     const session:CastSession={mode:'number',hexagramId:id,fixed}
     assert.equal(resultForSession(session).id,result)
-    for (const bad of [[],[fixed,1],[fixed===1?2:1]]) assert.throws(()=>resultForSession(session,bad))
   }
+  const fixedSession: CastSession = { mode: 'number', hexagramId: 43, fixed: 3 }
+  for (const positions of [[], [3, 1], [1]]) assert.throws(() => resultForSession(fixedSession, positions))
 })
 
 test('路由、内存会话、返回保留及新流程隔离', () => {

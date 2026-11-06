@@ -5,7 +5,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 1,
     "statement": {
-      "id": "h1-statement",
       "original": "乾：元亨。利貞。",
       "originalRefs": [
         {
@@ -15,7 +14,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h1-tuan",
       "original": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形，大明終始，六位時成。時乘六龍以御天，乾道變化，各正性命，保合大和，乃利貞。首出庶物，萬國咸寧。",
       "originalRefs": [
         {
@@ -25,7 +23,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h1-great-image",
       "original": "天行健，君子以自強不息。",
       "originalRefs": [
         {
@@ -51,7 +48,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h1-yao-1",
           "original": "潛龍勿用。",
           "originalRefs": [
             {
@@ -61,7 +57,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-image-1",
           "original": "潛龍勿用，陽在下也。",
           "originalRefs": [
             {
@@ -75,7 +70,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h1-yao-2",
           "original": "見龍在田，利見大人。",
           "originalRefs": [
             {
@@ -85,7 +79,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-image-2",
           "original": "見龍在田，德施普也。",
           "originalRefs": [
             {
@@ -99,7 +92,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h1-yao-3",
           "original": "君子終日乾乾，夕惕若；厲，无咎。",
           "originalRefs": [
             {
@@ -109,7 +101,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-image-3",
           "original": "終日乾乾，反復道也。",
           "originalRefs": [
             {
@@ -123,7 +114,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h1-yao-4",
           "original": "或躍在淵，无咎。",
           "originalRefs": [
             {
@@ -133,7 +123,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-image-4",
           "original": "或躍在淵，進无咎也。",
           "originalRefs": [
             {
@@ -147,7 +136,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h1-yao-5",
           "original": "飛龍在天，利見大人。",
           "originalRefs": [
             {
@@ -157,7 +145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-image-5",
           "original": "飛龍在天，大人造也。",
           "originalRefs": [
             {
@@ -171,7 +158,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h1-yao-6",
           "original": "亢龍，有悔。",
           "originalRefs": [
             {
@@ -181,7 +167,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-image-6",
           "original": "亢龍有悔，盈不可久也。",
           "originalRefs": [
             {
@@ -196,7 +181,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       {
         "kind": "yong-jiu",
         "text": {
-          "id": "h1-yong-jiu",
           "original": "見羣龍无首，吉。",
           "originalRefs": [
             {
@@ -206,7 +190,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h1-yong-jiu-image",
           "original": "用九，天德不可為首也。",
           "originalRefs": [
             {
@@ -221,7 +204,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 2,
     "statement": {
-      "id": "h2-statement",
       "original": "坤：元亨。利牝馬之貞。君子有攸往，先迷後得主。利西南得朋，東北喪朋。安貞，吉。",
       "originalRefs": [
         {
@@ -231,7 +213,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h2-tuan",
       "original": "至哉坤元，萬物資生，乃順承天。坤厚載物，德合无疆；含弘光大，品物咸亨。牝馬地類，行地无疆，柔順利貞。君子攸行，先迷失道，後順得常。西南得朋，乃與類行，東北喪朋，乃終有慶。安貞之吉，應地无疆。",
       "originalRefs": [
         {
@@ -241,7 +222,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h2-great-image",
       "original": "地勢坤，君子以厚德載物。",
       "originalRefs": [
         {
@@ -267,7 +247,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h2-yao-1",
           "original": "履霜，堅冰至。",
           "originalRefs": [
             {
@@ -277,7 +256,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-image-1",
           "original": "履霜堅冰，陰始凝也。馴致其道，至堅冰也。",
           "originalRefs": [
             {
@@ -291,7 +269,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h2-yao-2",
           "original": "直方大，不習无不利。",
           "originalRefs": [
             {
@@ -301,7 +278,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-image-2",
           "original": "六二之動，直以方也。不習无不利，地道光也。",
           "originalRefs": [
             {
@@ -315,7 +291,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h2-yao-3",
           "original": "含章，可貞。或從王事，无成有終。",
           "originalRefs": [
             {
@@ -325,7 +300,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-image-3",
           "original": "含章可貞，以時發也。或從王事，知光大也。",
           "originalRefs": [
             {
@@ -339,7 +313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h2-yao-4",
           "original": "括囊，无咎无譽。",
           "originalRefs": [
             {
@@ -349,7 +322,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-image-4",
           "original": "括囊无咎，慎不害也。",
           "originalRefs": [
             {
@@ -363,7 +335,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h2-yao-5",
           "original": "黃裳，元吉。",
           "originalRefs": [
             {
@@ -373,7 +344,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-image-5",
           "original": "黃裳元吉，文在中也。",
           "originalRefs": [
             {
@@ -387,7 +357,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h2-yao-6",
           "original": "龍戰于野，其血玄黃。",
           "originalRefs": [
             {
@@ -397,7 +366,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-image-6",
           "original": "龍戰于野，其道窮也。",
           "originalRefs": [
             {
@@ -412,7 +380,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       {
         "kind": "yong-liu",
         "text": {
-          "id": "h2-yong-liu",
           "original": "利永貞。",
           "originalRefs": [
             {
@@ -422,7 +389,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h2-yong-liu-image",
           "original": "用六永貞，以大終也。",
           "originalRefs": [
             {
@@ -437,7 +403,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 3,
     "statement": {
-      "id": "h3-statement",
       "original": "屯：元亨，利貞。勿用有攸徃，利建侯。",
       "originalRefs": [
         {
@@ -447,7 +412,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h3-tuan",
       "original": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
       "originalRefs": [
         {
@@ -457,7 +421,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h3-great-image",
       "original": "雲雷，屯；君子以經綸。",
       "originalRefs": [
         {
@@ -483,7 +446,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h3-yao-1",
           "original": "磐桓，利居貞，利建侯。",
           "originalRefs": [
             {
@@ -493,7 +455,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h3-image-1",
           "original": "雖磐桓，志行正也。以貴下賤，大得民也。",
           "originalRefs": [
             {
@@ -507,7 +468,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h3-yao-2",
           "original": "屯如邅如，乘馬班如，匪宼婚媾，女子貞不字，十年乃字。",
           "originalRefs": [
             {
@@ -517,7 +477,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h3-image-2",
           "original": "六二之難，乘剛也。十年乃字，反常也。",
           "originalRefs": [
             {
@@ -531,7 +490,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h3-yao-3",
           "original": "卽鹿无虞，惟入于林中，君子幾不如舎，徃吝。",
           "originalRefs": [
             {
@@ -541,7 +499,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h3-image-3",
           "original": "卽鹿无虞，以從禽也。君子舍之，徃吝窮也。",
           "originalRefs": [
             {
@@ -555,7 +512,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h3-yao-4",
           "original": "乘馬班如，求婚媾，徃吉，无不利。",
           "originalRefs": [
             {
@@ -565,7 +521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h3-image-4",
           "original": "求而徃，明也。",
           "originalRefs": [
             {
@@ -579,7 +534,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h3-yao-5",
           "original": "屯其膏，小貞吉，大貞凶。",
           "originalRefs": [
             {
@@ -589,7 +543,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h3-image-5",
           "original": "屯其膏，施未光也。",
           "originalRefs": [
             {
@@ -603,7 +556,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h3-yao-6",
           "original": "乘馬班如，泣血漣如。",
           "originalRefs": [
             {
@@ -613,7 +565,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h3-image-6",
           "original": "泣血漣如，何可長也。",
           "originalRefs": [
             {
@@ -629,7 +580,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 4,
     "statement": {
-      "id": "h4-statement",
       "original": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
       "originalRefs": [
         {
@@ -639,7 +589,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h4-tuan",
       "original": "蒙，山下有險，險而止，蒙。蒙亨，以亨行，時中也。匪我求童蒙，童蒙求我，志應也。初筮告，以剛中也。再三瀆，瀆則不告，瀆蒙也。蒙以養正，聖功也。",
       "originalRefs": [
         {
@@ -649,7 +598,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h4-great-image",
       "original": "山下出泉，蒙；君子以果行育德。",
       "originalRefs": [
         {
@@ -675,7 +623,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h4-yao-1",
           "original": "發蒙，利用刑人，用說桎梏，以徃吝。",
           "originalRefs": [
             {
@@ -685,7 +632,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h4-image-1",
           "original": "利用刑人，以正法也。",
           "originalRefs": [
             {
@@ -699,7 +645,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h4-yao-2",
           "original": "包蒙吉，納婦吉，子克家。",
           "originalRefs": [
             {
@@ -709,7 +654,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h4-image-2",
           "original": "子克家，剛柔接也。",
           "originalRefs": [
             {
@@ -723,7 +667,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h4-yao-3",
           "original": "勿用取女，見金夫，不有躬，无攸利。",
           "originalRefs": [
             {
@@ -733,7 +676,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h4-image-3",
           "original": "勿用取女，行不順也。",
           "originalRefs": [
             {
@@ -747,7 +689,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h4-yao-4",
           "original": "困蒙，吝。",
           "originalRefs": [
             {
@@ -757,7 +698,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h4-image-4",
           "original": "困蒙之吝，獨遠實也。",
           "originalRefs": [
             {
@@ -771,7 +711,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h4-yao-5",
           "original": "童蒙，吉。",
           "originalRefs": [
             {
@@ -781,7 +720,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h4-image-5",
           "original": "童蒙之吉，順以巽也。",
           "originalRefs": [
             {
@@ -795,7 +733,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h4-yao-6",
           "original": "擊蒙，不利爲宼，利禦宼。",
           "originalRefs": [
             {
@@ -805,7 +742,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h4-image-6",
           "original": "利用禦宼，上下順也。",
           "originalRefs": [
             {
@@ -821,7 +757,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 5,
     "statement": {
-      "id": "h5-statement",
       "original": "需：有孚，光亨，貞吉。利涉大川。",
       "originalRefs": [
         {
@@ -831,7 +766,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h5-tuan",
       "original": "需，須也，險在前也。剛健而不䧟，其義不困窮矣。需有孚，光亨，貞吉，位乎天位，以正中也。利涉大川，徃有功也。",
       "originalRefs": [
         {
@@ -841,7 +775,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h5-great-image",
       "original": "雲上於天，需；君子以飲食宴樂。",
       "originalRefs": [
         {
@@ -867,7 +800,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h5-yao-1",
           "original": "需于郊，利用恒，无咎。",
           "originalRefs": [
             {
@@ -877,7 +809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h5-image-1",
           "original": "需于郊，不犯難行也。利用恒，无咎，未失常也。",
           "originalRefs": [
             {
@@ -891,7 +822,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h5-yao-2",
           "original": "需于沙，小有言，終吉。",
           "originalRefs": [
             {
@@ -901,7 +831,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h5-image-2",
           "original": "需于沙，衍在中也。雖小有言，以吉終也。",
           "originalRefs": [
             {
@@ -915,7 +844,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h5-yao-3",
           "original": "需于泥，致宼至。",
           "originalRefs": [
             {
@@ -925,7 +853,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h5-image-3",
           "original": "需于泥，災在外也。自我致宼，敬愼不敗也。",
           "originalRefs": [
             {
@@ -939,7 +866,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h5-yao-4",
           "original": "需于血，出自穴。",
           "originalRefs": [
             {
@@ -949,7 +875,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h5-image-4",
           "original": "需于血，順以聽也。",
           "originalRefs": [
             {
@@ -963,7 +888,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h5-yao-5",
           "original": "需于酒食，貞吉。",
           "originalRefs": [
             {
@@ -973,7 +897,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h5-image-5",
           "original": "酒食貞吉，以中正也。",
           "originalRefs": [
             {
@@ -987,7 +910,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h5-yao-6",
           "original": "入于穴，有不速之客三人來，敬之終吉。",
           "originalRefs": [
             {
@@ -997,7 +919,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h5-image-6",
           "original": "不速之客來，敬之終吉。雖不當位，未大失也。",
           "originalRefs": [
             {
@@ -1013,7 +934,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 6,
     "statement": {
-      "id": "h6-statement",
       "original": "訟：有孚，窒，惕，中吉。終凶。利見大人，不利涉大川。",
       "originalRefs": [
         {
@@ -1023,7 +943,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h6-tuan",
       "original": "訟，上剛下險，險而健，訟。訟有孚，窒，惕，中吉，剛來而得中也。終凶，訟不可成也。利見大人，尚中正也。不利涉大川，入于淵也。",
       "originalRefs": [
         {
@@ -1033,7 +952,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h6-great-image",
       "original": "天與水違行，訟；君子以作事謀始。",
       "originalRefs": [
         {
@@ -1059,7 +977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h6-yao-1",
           "original": "不永所事，小有言，終吉。",
           "originalRefs": [
             {
@@ -1069,7 +986,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h6-image-1",
           "original": "不永所事，訟不可長也。雖小有言，其辯明也。",
           "originalRefs": [
             {
@@ -1083,7 +999,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h6-yao-2",
           "original": "不克訟，歸而逋，其邑人三百户无眚。",
           "originalRefs": [
             {
@@ -1093,7 +1008,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h6-image-2",
           "original": "不克訟，歸逋竄也。自下訟上，患至掇也。",
           "originalRefs": [
             {
@@ -1107,7 +1021,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h6-yao-3",
           "original": "食舊德，貞厲，終吉。或從王事，无成。",
           "originalRefs": [
             {
@@ -1117,7 +1030,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h6-image-3",
           "original": "食舊德，從上吉也。",
           "originalRefs": [
             {
@@ -1131,7 +1043,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h6-yao-4",
           "original": "不克訟，復卽命渝，安貞吉。",
           "originalRefs": [
             {
@@ -1141,7 +1052,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h6-image-4",
           "original": "復卽命渝，安貞，不失也。",
           "originalRefs": [
             {
@@ -1155,7 +1065,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h6-yao-5",
           "original": "訟，元吉。",
           "originalRefs": [
             {
@@ -1165,7 +1074,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h6-image-5",
           "original": "訟元吉，以中正也。",
           "originalRefs": [
             {
@@ -1179,7 +1087,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h6-yao-6",
           "original": "或錫之鞶帶，終朝三禠之。",
           "originalRefs": [
             {
@@ -1189,7 +1096,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h6-image-6",
           "original": "以訟受服，亦不足敬也。",
           "originalRefs": [
             {
@@ -1205,7 +1111,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 7,
     "statement": {
-      "id": "h7-statement",
       "original": "師：貞，丈人吉，无咎。",
       "originalRefs": [
         {
@@ -1215,7 +1120,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h7-tuan",
       "original": "師，衆也。貞，正也。能以衆正，可以王矣。剛中而應，行險而順，以此毒天下而民從之，吉又何咎矣。",
       "originalRefs": [
         {
@@ -1225,7 +1129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h7-great-image",
       "original": "地中有水，師；君子以容民畜衆。",
       "originalRefs": [
         {
@@ -1251,7 +1154,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h7-yao-1",
           "original": "師出以律，否臧，凶。",
           "originalRefs": [
             {
@@ -1261,7 +1163,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h7-image-1",
           "original": "師出以律，失律凶也。",
           "originalRefs": [
             {
@@ -1275,7 +1176,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h7-yao-2",
           "original": "在師中吉，无咎。王三錫命。",
           "originalRefs": [
             {
@@ -1285,7 +1185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h7-image-2",
           "original": "在師中吉，承天寵也。王三錫命，懐萬邦也。",
           "originalRefs": [
             {
@@ -1299,7 +1198,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h7-yao-3",
           "original": "師或輿尸，凶。",
           "originalRefs": [
             {
@@ -1309,7 +1207,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h7-image-3",
           "original": "師或輿尸，大无功也。",
           "originalRefs": [
             {
@@ -1323,7 +1220,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h7-yao-4",
           "original": "師左次，无咎。",
           "originalRefs": [
             {
@@ -1333,7 +1229,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h7-image-4",
           "original": "左次无咎，未失常也。",
           "originalRefs": [
             {
@@ -1347,7 +1242,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h7-yao-5",
           "original": "田有禽，利執言，无咎。長子帥師，弟子輿尸，貞凶。",
           "originalRefs": [
             {
@@ -1357,7 +1251,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h7-image-5",
           "original": "長子帥師，以中行也。弟子輿尸，使不當也。",
           "originalRefs": [
             {
@@ -1371,7 +1264,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h7-yao-6",
           "original": "大君有命，開國承家，小人勿用。",
           "originalRefs": [
             {
@@ -1381,7 +1273,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h7-image-6",
           "original": "大君有命，以正功也。小人勿用，必亂邦也。",
           "originalRefs": [
             {
@@ -1397,7 +1288,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 8,
     "statement": {
-      "id": "h8-statement",
       "original": "比：吉。原筮，元永貞，无咎。不寧方來，後夫凶。",
       "originalRefs": [
         {
@@ -1407,7 +1297,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h8-tuan",
       "original": "比，吉也。比，輔也，下順從也。原筮，元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
       "originalRefs": [
         {
@@ -1417,7 +1306,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h8-great-image",
       "original": "地上有水，比；先王以建萬國，親諸侯。",
       "originalRefs": [
         {
@@ -1443,7 +1331,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h8-yao-1",
           "original": "有孚比之，无咎。有孚盈缶，終來有它吉。",
           "originalRefs": [
             {
@@ -1453,7 +1340,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h8-image-1",
           "original": "比之初六，有它吉也。",
           "originalRefs": [
             {
@@ -1467,7 +1353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h8-yao-2",
           "original": "比之自内，貞吉。",
           "originalRefs": [
             {
@@ -1477,7 +1362,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h8-image-2",
           "original": "比之自内，不自失也。",
           "originalRefs": [
             {
@@ -1491,7 +1375,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h8-yao-3",
           "original": "比之匪人。",
           "originalRefs": [
             {
@@ -1501,7 +1384,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h8-image-3",
           "original": "比之匪人，不亦傷乎。",
           "originalRefs": [
             {
@@ -1515,7 +1397,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h8-yao-4",
           "original": "外比之，貞吉。",
           "originalRefs": [
             {
@@ -1525,7 +1406,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h8-image-4",
           "original": "外比於賢，以從上也。",
           "originalRefs": [
             {
@@ -1539,7 +1419,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h8-yao-5",
           "original": "顯比，王用三驅，失前禽，邑人不誡，吉。",
           "originalRefs": [
             {
@@ -1549,7 +1428,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h8-image-5",
           "original": "顯比之吉，位正中也。舎逆取順，失前禽也。邑人不誡，上使中也。",
           "originalRefs": [
             {
@@ -1563,7 +1441,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h8-yao-6",
           "original": "比之无首，凶。",
           "originalRefs": [
             {
@@ -1573,7 +1450,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h8-image-6",
           "original": "比之无首，无所終也。",
           "originalRefs": [
             {
@@ -1589,7 +1465,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 9,
     "statement": {
-      "id": "h9-statement",
       "original": "小畜：亨。密雲不雨，自我西郊。",
       "originalRefs": [
         {
@@ -1599,7 +1474,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h9-tuan",
       "original": "小畜，柔得位而上下應之，曰小畜。健而巽，剛中而志行，乃亨。密雲不雨，尚往也。自我西郊，施未行也。",
       "originalRefs": [
         {
@@ -1609,7 +1483,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h9-great-image",
       "original": "風行天上，小畜；君子以懿文德。",
       "originalRefs": [
         {
@@ -1635,7 +1508,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h9-yao-1",
           "original": "復自道，何其咎，吉。",
           "originalRefs": [
             {
@@ -1645,7 +1517,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h9-image-1",
           "original": "復自道，其義吉也。",
           "originalRefs": [
             {
@@ -1659,7 +1530,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h9-yao-2",
           "original": "牽復，吉。",
           "originalRefs": [
             {
@@ -1669,7 +1539,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h9-image-2",
           "original": "牽復在中，亦不自失也。",
           "originalRefs": [
             {
@@ -1683,7 +1552,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h9-yao-3",
           "original": "輿說輻，夫妻反目。",
           "originalRefs": [
             {
@@ -1693,7 +1561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h9-image-3",
           "original": "夫妻反目，不能正室也。",
           "originalRefs": [
             {
@@ -1707,7 +1574,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h9-yao-4",
           "original": "有孚，血去惕出，无咎。",
           "originalRefs": [
             {
@@ -1717,7 +1583,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h9-image-4",
           "original": "有孚惕出，上合志也。",
           "originalRefs": [
             {
@@ -1731,7 +1596,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h9-yao-5",
           "original": "有孚攣如，富以其鄰。",
           "originalRefs": [
             {
@@ -1741,7 +1605,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h9-image-5",
           "original": "有孚攣如，不獨富也。",
           "originalRefs": [
             {
@@ -1755,7 +1618,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h9-yao-6",
           "original": "旣雨旣處，尚德載。婦貞厲，月幾望，君子征凶。",
           "originalRefs": [
             {
@@ -1765,7 +1627,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h9-image-6",
           "original": "旣雨旣處，德積載也。君子征凶，有所疑也。",
           "originalRefs": [
             {
@@ -1781,7 +1642,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 10,
     "statement": {
-      "id": "h10-statement",
       "original": "履虎尾，不咥人，亨。",
       "originalRefs": [
         {
@@ -1791,7 +1651,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h10-tuan",
       "original": "履，柔履剛也。說而應乎乾，是以履虎尾，不咥人，亨。剛中正，履帝位而不疚，光明也。",
       "originalRefs": [
         {
@@ -1801,7 +1660,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h10-great-image",
       "original": "上天下澤，履；君子以辯上下，定民志。",
       "originalRefs": [
         {
@@ -1827,7 +1685,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h10-yao-1",
           "original": "素履，往无咎。",
           "originalRefs": [
             {
@@ -1837,7 +1694,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h10-image-1",
           "original": "素履之往，獨行願也。",
           "originalRefs": [
             {
@@ -1851,7 +1707,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h10-yao-2",
           "original": "履道坦坦，幽人貞吉。",
           "originalRefs": [
             {
@@ -1861,7 +1716,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h10-image-2",
           "original": "幽人貞吉，中不自亂也。",
           "originalRefs": [
             {
@@ -1875,7 +1729,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h10-yao-3",
           "original": "眇能視，跛能履，履虎尾，咥人，凶。武人爲于大君。",
           "originalRefs": [
             {
@@ -1885,7 +1738,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h10-image-3",
           "original": "眇能視，不足以有明也。跛能履，不足以與行也。咥人之凶，位不當也。武人爲于大君，志剛也。",
           "originalRefs": [
             {
@@ -1899,7 +1751,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h10-yao-4",
           "original": "履虎尾，愬愬終吉。",
           "originalRefs": [
             {
@@ -1909,7 +1760,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h10-image-4",
           "original": "愬愬終吉，志行也。",
           "originalRefs": [
             {
@@ -1923,7 +1773,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h10-yao-5",
           "original": "夬履，貞厲。",
           "originalRefs": [
             {
@@ -1933,7 +1782,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h10-image-5",
           "original": "夬履貞厲，位正當也。",
           "originalRefs": [
             {
@@ -1947,7 +1795,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h10-yao-6",
           "original": "視履考祥，其旋元吉。",
           "originalRefs": [
             {
@@ -1957,7 +1804,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h10-image-6",
           "original": "元吉在上，大有慶也。",
           "originalRefs": [
             {
@@ -1973,7 +1819,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 11,
     "statement": {
-      "id": "h11-statement",
       "original": "泰：小往大來，吉亨。",
       "originalRefs": [
         {
@@ -1983,7 +1828,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h11-tuan",
       "original": "泰，小往大來，吉亨。則是天地交而萬物通也，上下交而其志同也。内陽而外陰，内健而外順，内君子而外小人，君子道長，小人道消也。",
       "originalRefs": [
         {
@@ -1993,7 +1837,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h11-great-image",
       "original": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
       "originalRefs": [
         {
@@ -2019,7 +1862,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h11-yao-1",
           "original": "拔茅茹，以其彚，征吉。",
           "originalRefs": [
             {
@@ -2029,7 +1871,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h11-image-1",
           "original": "拔茅征吉，志在外也。",
           "originalRefs": [
             {
@@ -2043,7 +1884,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h11-yao-2",
           "original": "包荒，用馮河，不遐遺，朋亡，得尚于中行。",
           "originalRefs": [
             {
@@ -2053,7 +1893,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h11-image-2",
           "original": "包荒，得尚于中行，以光大也。",
           "originalRefs": [
             {
@@ -2067,7 +1906,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h11-yao-3",
           "original": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
           "originalRefs": [
             {
@@ -2077,7 +1915,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h11-image-3",
           "original": "无往不復，天地際也。",
           "originalRefs": [
             {
@@ -2091,7 +1928,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h11-yao-4",
           "original": "翩翩，不富以其鄰，不戒以孚。",
           "originalRefs": [
             {
@@ -2101,7 +1937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h11-image-4",
           "original": "翩翩不富，皆失實也。不戒以孚，中心願也。",
           "originalRefs": [
             {
@@ -2115,7 +1950,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h11-yao-5",
           "original": "帝乙歸妹，以祉元吉。",
           "originalRefs": [
             {
@@ -2125,7 +1959,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h11-image-5",
           "original": "以祉元吉，中以行願也。",
           "originalRefs": [
             {
@@ -2139,7 +1972,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h11-yao-6",
           "original": "城復于隍，勿用師。自邑告命，貞吝。",
           "originalRefs": [
             {
@@ -2149,7 +1981,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h11-image-6",
           "original": "城復于隍，其命亂也。",
           "originalRefs": [
             {
@@ -2165,7 +1996,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 12,
     "statement": {
-      "id": "h12-statement",
       "original": "否之匪人，不利君子貞，大往小來。",
       "originalRefs": [
         {
@@ -2175,7 +2005,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h12-tuan",
       "original": "否之匪人，不利君子貞，大往小來。則是天地不交而萬物不通也，上下不交而天下无邦也。内陰而外陽，内柔而外剛，内小人而外君子，小人道長，君子道消也。",
       "originalRefs": [
         {
@@ -2185,7 +2014,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h12-great-image",
       "original": "天地不交，否；君子以儉德辟難，不可榮以祿。",
       "originalRefs": [
         {
@@ -2211,7 +2039,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h12-yao-1",
           "original": "拔茅茹，以其彚，貞吉亨。",
           "originalRefs": [
             {
@@ -2221,7 +2048,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h12-image-1",
           "original": "拔茅貞吉，志在君也。",
           "originalRefs": [
             {
@@ -2235,7 +2061,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h12-yao-2",
           "original": "包承，小人吉，大人否亨。",
           "originalRefs": [
             {
@@ -2245,7 +2070,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h12-image-2",
           "original": "大人否亨，不亂羣也。",
           "originalRefs": [
             {
@@ -2259,7 +2083,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h12-yao-3",
           "original": "包羞。",
           "originalRefs": [
             {
@@ -2269,7 +2092,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h12-image-3",
           "original": "包羞，位不當也。",
           "originalRefs": [
             {
@@ -2283,7 +2105,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h12-yao-4",
           "original": "有命，无咎，疇離祉。",
           "originalRefs": [
             {
@@ -2293,7 +2114,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h12-image-4",
           "original": "有命无咎，志行也。",
           "originalRefs": [
             {
@@ -2307,7 +2127,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h12-yao-5",
           "original": "休否，大人吉。其亡其亡，繋于苞桑。",
           "originalRefs": [
             {
@@ -2317,7 +2136,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h12-image-5",
           "original": "大人之吉，位正當也。",
           "originalRefs": [
             {
@@ -2331,7 +2149,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h12-yao-6",
           "original": "傾否，先否後喜。",
           "originalRefs": [
             {
@@ -2341,7 +2158,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h12-image-6",
           "original": "否終則傾，何可長也。",
           "originalRefs": [
             {
@@ -2357,7 +2173,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 13,
     "statement": {
-      "id": "h13-statement",
       "original": "同人于野，亨。利渉大川，利君子貞。",
       "originalRefs": [
         {
@@ -2367,7 +2182,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h13-tuan",
       "original": "同人，柔得位得中而應乎乾，曰同人。同人曰，同人于野，亨。利渉大川，乾行也。文明以健，中正而應，君子正也。唯君子爲能通天下之志。",
       "originalRefs": [
         {
@@ -2377,7 +2191,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h13-great-image",
       "original": "天與火，同人；君子以類族辨物。",
       "originalRefs": [
         {
@@ -2403,7 +2216,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h13-yao-1",
           "original": "同人于門，无咎。",
           "originalRefs": [
             {
@@ -2413,7 +2225,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h13-image-1",
           "original": "出門同人，又誰咎也。",
           "originalRefs": [
             {
@@ -2427,7 +2238,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h13-yao-2",
           "original": "同人于宗，吝。",
           "originalRefs": [
             {
@@ -2437,7 +2247,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h13-image-2",
           "original": "同人于宗，吝道也。",
           "originalRefs": [
             {
@@ -2451,7 +2260,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h13-yao-3",
           "original": "伏戎于莽，升其高陵，三歲不興。",
           "originalRefs": [
             {
@@ -2461,7 +2269,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h13-image-3",
           "original": "伏戎于莽，敵剛也。三嵗不興，安行也。",
           "originalRefs": [
             {
@@ -2475,7 +2282,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h13-yao-4",
           "original": "乘其墉，弗克攻，吉。",
           "originalRefs": [
             {
@@ -2485,7 +2291,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h13-image-4",
           "original": "乘其墉，義弗克也。其吉，則困而反則也。",
           "originalRefs": [
             {
@@ -2499,7 +2304,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h13-yao-5",
           "original": "同人先號咷而後笑，大師克相遇。",
           "originalRefs": [
             {
@@ -2509,7 +2313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h13-image-5",
           "original": "同人之先，以中直也。大師相遇，言相克也。",
           "originalRefs": [
             {
@@ -2523,7 +2326,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h13-yao-6",
           "original": "同人于郊，无悔。",
           "originalRefs": [
             {
@@ -2533,7 +2335,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h13-image-6",
           "original": "同人于郊，志未得也。",
           "originalRefs": [
             {
@@ -2549,7 +2350,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 14,
     "statement": {
-      "id": "h14-statement",
       "original": "大有：元亨。",
       "originalRefs": [
         {
@@ -2559,7 +2359,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h14-tuan",
       "original": "大有，柔得尊位，大中而上下應之，曰大有。其徳剛健而文明，應乎天而時行，是以元亨。",
       "originalRefs": [
         {
@@ -2569,7 +2368,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h14-great-image",
       "original": "火在天上，大有；君子以遏惡揚善，順天休命。",
       "originalRefs": [
         {
@@ -2595,7 +2393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h14-yao-1",
           "original": "无交害，匪咎，艱則无咎。",
           "originalRefs": [
             {
@@ -2605,7 +2402,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h14-image-1",
           "original": "大有初九，无交害也。",
           "originalRefs": [
             {
@@ -2619,7 +2415,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h14-yao-2",
           "original": "大車以載，有攸往，无咎。",
           "originalRefs": [
             {
@@ -2629,7 +2424,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h14-image-2",
           "original": "大車以載，積中不敗也。",
           "originalRefs": [
             {
@@ -2643,7 +2437,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h14-yao-3",
           "original": "公用亨于天子，小人弗克。",
           "originalRefs": [
             {
@@ -2653,7 +2446,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h14-image-3",
           "original": "公用亨于天子，小人害也。",
           "originalRefs": [
             {
@@ -2667,7 +2459,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h14-yao-4",
           "original": "匪其彭，无咎。",
           "originalRefs": [
             {
@@ -2677,7 +2468,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h14-image-4",
           "original": "匪其彭无咎，明辯晢也。",
           "originalRefs": [
             {
@@ -2691,7 +2481,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h14-yao-5",
           "original": "厥孚交如，威如，吉。",
           "originalRefs": [
             {
@@ -2701,7 +2490,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h14-image-5",
           "original": "厥孚交如，信以發志也。威如之吉，易而无備也。",
           "originalRefs": [
             {
@@ -2715,7 +2503,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h14-yao-6",
           "original": "自天祐之，吉无不利。",
           "originalRefs": [
             {
@@ -2725,7 +2512,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h14-image-6",
           "original": "大有上吉，自天祐也。",
           "originalRefs": [
             {
@@ -2741,7 +2527,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 15,
     "statement": {
-      "id": "h15-statement",
       "original": "謙：亨，君子有終。",
       "originalRefs": [
         {
@@ -2751,7 +2536,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h15-tuan",
       "original": "謙亨，天道下濟而光明，地道卑而上行。天道虧盈而益謙，地道變盈而流謙，鬼神害盈而福謙，人道惡盈而好謙。謙尊而光，卑而不可踰，君子之終也。",
       "originalRefs": [
         {
@@ -2761,7 +2545,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h15-great-image",
       "original": "地中有山，謙；君子以裒多益寡，稱物平施。",
       "originalRefs": [
         {
@@ -2787,7 +2570,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h15-yao-1",
           "original": "謙謙君子，用渉大川，吉。",
           "originalRefs": [
             {
@@ -2797,7 +2579,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h15-image-1",
           "original": "謙謙君子，卑以自牧也。",
           "originalRefs": [
             {
@@ -2811,7 +2592,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h15-yao-2",
           "original": "鳴謙，貞吉。",
           "originalRefs": [
             {
@@ -2821,7 +2601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h15-image-2",
           "original": "鳴謙貞吉，中心得也。",
           "originalRefs": [
             {
@@ -2835,7 +2614,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h15-yao-3",
           "original": "勞謙君子，有終，吉。",
           "originalRefs": [
             {
@@ -2845,7 +2623,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h15-image-3",
           "original": "勞謙君子，萬民服也。",
           "originalRefs": [
             {
@@ -2859,7 +2636,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h15-yao-4",
           "original": "无不利，撝謙。",
           "originalRefs": [
             {
@@ -2869,7 +2645,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h15-image-4",
           "original": "无不利撝謙，不違則也。",
           "originalRefs": [
             {
@@ -2883,7 +2658,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h15-yao-5",
           "original": "不富以其鄰，利用侵伐，无不利。",
           "originalRefs": [
             {
@@ -2893,7 +2667,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h15-image-5",
           "original": "利用侵伐，征不服也。",
           "originalRefs": [
             {
@@ -2907,7 +2680,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h15-yao-6",
           "original": "鳴謙，利用行師，征邑國。",
           "originalRefs": [
             {
@@ -2917,7 +2689,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h15-image-6",
           "original": "鳴謙，志未得也。可用行師，征邑國也。",
           "originalRefs": [
             {
@@ -2933,7 +2704,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 16,
     "statement": {
-      "id": "h16-statement",
       "original": "豫：利建侯行師。",
       "originalRefs": [
         {
@@ -2943,7 +2713,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h16-tuan",
       "original": "豫，剛應而志行，順以動，豫。豫順以動，故天地如之，而况建侯行師乎。天地以順動，故日月不過而四時不忒；聖人以順動，則刑罰清而民服。豫之時義大矣哉。",
       "originalRefs": [
         {
@@ -2953,7 +2722,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h16-great-image",
       "original": "雷出地奮，豫；先王以作樂崇徳，殷薦之上帝，以配祖考。",
       "originalRefs": [
         {
@@ -2979,7 +2747,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h16-yao-1",
           "original": "鳴豫，凶。",
           "originalRefs": [
             {
@@ -2989,7 +2756,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h16-image-1",
           "original": "初六鳴豫，志窮凶也。",
           "originalRefs": [
             {
@@ -3003,7 +2769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h16-yao-2",
           "original": "介于石，不終日，貞吉。",
           "originalRefs": [
             {
@@ -3013,7 +2778,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h16-image-2",
           "original": "不終日貞吉，以中正也。",
           "originalRefs": [
             {
@@ -3027,7 +2791,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h16-yao-3",
           "original": "盱豫，悔。遲有悔。",
           "originalRefs": [
             {
@@ -3037,7 +2800,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h16-image-3",
           "original": "盱豫有悔，位不當也。",
           "originalRefs": [
             {
@@ -3051,7 +2813,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h16-yao-4",
           "original": "由豫，大有得。勿疑，朋盍簪。",
           "originalRefs": [
             {
@@ -3061,7 +2822,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h16-image-4",
           "original": "由豫大有得，志大行也。",
           "originalRefs": [
             {
@@ -3075,7 +2835,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h16-yao-5",
           "original": "貞疾，恒不死。",
           "originalRefs": [
             {
@@ -3085,7 +2844,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h16-image-5",
           "original": "六五貞疾，乘剛也。恒不死，中未亡也。",
           "originalRefs": [
             {
@@ -3099,7 +2857,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h16-yao-6",
           "original": "㝠豫，成有渝，无咎。",
           "originalRefs": [
             {
@@ -3109,7 +2866,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h16-image-6",
           "original": "冥豫在上，何可長也。",
           "originalRefs": [
             {
@@ -3125,7 +2881,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 17,
     "statement": {
-      "id": "h17-statement",
       "original": "隨：元亨，利貞，无咎。",
       "originalRefs": [
         {
@@ -3135,7 +2890,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h17-tuan",
       "original": "隨，剛來而下柔，動而説，隨。大亨貞，无咎，而天下隨時。隨時之義大矣哉。",
       "originalRefs": [
         {
@@ -3145,7 +2899,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h17-great-image",
       "original": "澤中有雷，隨；君子以嚮晦入宴息。",
       "originalRefs": [
         {
@@ -3171,7 +2924,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h17-yao-1",
           "original": "官有渝，貞吉。出門交有功。",
           "originalRefs": [
             {
@@ -3181,7 +2933,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h17-image-1",
           "original": "官有渝，從正吉也。出門交有功，不失也。",
           "originalRefs": [
             {
@@ -3195,7 +2946,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h17-yao-2",
           "original": "係小子，失丈夫。",
           "originalRefs": [
             {
@@ -3205,7 +2955,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h17-image-2",
           "original": "係小子，弗兼與也。",
           "originalRefs": [
             {
@@ -3219,7 +2968,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h17-yao-3",
           "original": "係丈夫，失小子。隨有求得，利居貞。",
           "originalRefs": [
             {
@@ -3229,7 +2977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h17-image-3",
           "original": "係丈夫，志舎下也。",
           "originalRefs": [
             {
@@ -3243,7 +2990,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h17-yao-4",
           "original": "隨有獲，貞凶。有孚在道，以明何咎。",
           "originalRefs": [
             {
@@ -3253,7 +2999,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h17-image-4",
           "original": "隨有獲，其義凶也。有孚在道，明功也。",
           "originalRefs": [
             {
@@ -3267,7 +3012,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h17-yao-5",
           "original": "孚于嘉，吉。",
           "originalRefs": [
             {
@@ -3277,7 +3021,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h17-image-5",
           "original": "孚于嘉吉，位正中也。",
           "originalRefs": [
             {
@@ -3291,7 +3034,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h17-yao-6",
           "original": "拘係之，乃從維之。王用亨于西山。",
           "originalRefs": [
             {
@@ -3301,7 +3043,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h17-image-6",
           "original": "拘係之，上窮也。",
           "originalRefs": [
             {
@@ -3317,7 +3058,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 18,
     "statement": {
-      "id": "h18-statement",
       "original": "蠱：元亨，利涉大川。先甲三日，後甲三日。",
       "originalRefs": [
         {
@@ -3327,7 +3067,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h18-tuan",
       "original": "蠱，剛上而柔下，巽而止，蠱。蠱元亨，而天下治也。利涉大川，徃有事也。先甲三日，後甲三日，終則有始，天行也。",
       "originalRefs": [
         {
@@ -3337,7 +3076,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h18-great-image",
       "original": "山下有風，蠱；君子以振民育徳。",
       "originalRefs": [
         {
@@ -3363,7 +3101,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h18-yao-1",
           "original": "幹父之蠱，有子，考无咎，厲終吉。",
           "originalRefs": [
             {
@@ -3373,7 +3110,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h18-image-1",
           "original": "幹父之蠱，意承考也。",
           "originalRefs": [
             {
@@ -3387,7 +3123,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h18-yao-2",
           "original": "幹母之蠱，不可貞。",
           "originalRefs": [
             {
@@ -3397,7 +3132,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h18-image-2",
           "original": "幹母之蠱，得中道也。",
           "originalRefs": [
             {
@@ -3411,7 +3145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h18-yao-3",
           "original": "幹父之蠱，小有悔，无大咎。",
           "originalRefs": [
             {
@@ -3421,7 +3154,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h18-image-3",
           "original": "幹父之蠱，終无咎也。",
           "originalRefs": [
             {
@@ -3435,7 +3167,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h18-yao-4",
           "original": "裕父之蠱，徃見吝。",
           "originalRefs": [
             {
@@ -3445,7 +3176,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h18-image-4",
           "original": "裕父之蠱，徃未得也。",
           "originalRefs": [
             {
@@ -3459,7 +3189,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h18-yao-5",
           "original": "幹父之蠱，用譽。",
           "originalRefs": [
             {
@@ -3469,7 +3198,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h18-image-5",
           "original": "幹父用譽，承以徳也。",
           "originalRefs": [
             {
@@ -3483,7 +3211,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h18-yao-6",
           "original": "不事王侯，髙尚其事。",
           "originalRefs": [
             {
@@ -3493,7 +3220,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h18-image-6",
           "original": "不事王侯，志可則也。",
           "originalRefs": [
             {
@@ -3509,7 +3235,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 19,
     "statement": {
-      "id": "h19-statement",
       "original": "臨：元亨，利貞。至于八月有凶。",
       "originalRefs": [
         {
@@ -3519,7 +3244,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h19-tuan",
       "original": "臨，剛浸而長，説而順，剛中而應，大亨以正，天之道也。至于八月有凶，消不久也。",
       "originalRefs": [
         {
@@ -3529,7 +3253,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h19-great-image",
       "original": "澤上有地，臨；君子以敎思无窮，容保民无疆。",
       "originalRefs": [
         {
@@ -3555,7 +3278,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h19-yao-1",
           "original": "咸臨，貞吉。",
           "originalRefs": [
             {
@@ -3565,7 +3287,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h19-image-1",
           "original": "咸臨貞吉，志行正也。",
           "originalRefs": [
             {
@@ -3579,7 +3300,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h19-yao-2",
           "original": "咸臨，吉无不利。",
           "originalRefs": [
             {
@@ -3589,7 +3309,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h19-image-2",
           "original": "咸臨吉无不利，未順命也。",
           "originalRefs": [
             {
@@ -3603,7 +3322,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h19-yao-3",
           "original": "甘臨，无攸利。既憂之，无咎。",
           "originalRefs": [
             {
@@ -3613,7 +3331,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h19-image-3",
           "original": "甘臨，位不當也。既憂之，咎不長也。",
           "originalRefs": [
             {
@@ -3627,7 +3344,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h19-yao-4",
           "original": "至臨，无咎。",
           "originalRefs": [
             {
@@ -3637,7 +3353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h19-image-4",
           "original": "至臨无咎，位當也。",
           "originalRefs": [
             {
@@ -3651,7 +3366,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h19-yao-5",
           "original": "知臨，大君之宜，吉。",
           "originalRefs": [
             {
@@ -3661,7 +3375,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h19-image-5",
           "original": "大君之宜，行中之謂也。",
           "originalRefs": [
             {
@@ -3675,7 +3388,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h19-yao-6",
           "original": "敦臨，吉无咎。",
           "originalRefs": [
             {
@@ -3685,7 +3397,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h19-image-6",
           "original": "敦臨之吉，志在内也。",
           "originalRefs": [
             {
@@ -3701,7 +3412,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 20,
     "statement": {
-      "id": "h20-statement",
       "original": "觀：盥而不薦，有孚顒若。",
       "originalRefs": [
         {
@@ -3711,7 +3421,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h20-tuan",
       "original": "大觀在上，順而巽，中正以觀天下。觀盥而不薦，有孚顒若，下觀而化也。觀天之神道而四時不忒，聖人以神道設敎而天下服矣。",
       "originalRefs": [
         {
@@ -3721,7 +3430,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h20-great-image",
       "original": "風行地上，觀；先王以省方觀民設敎。",
       "originalRefs": [
         {
@@ -3747,7 +3455,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h20-yao-1",
           "original": "童觀，小人无咎，君子吝。",
           "originalRefs": [
             {
@@ -3757,7 +3464,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h20-image-1",
           "original": "初六童觀，小人道也。",
           "originalRefs": [
             {
@@ -3771,7 +3477,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h20-yao-2",
           "original": "闚觀，利女貞。",
           "originalRefs": [
             {
@@ -3781,7 +3486,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h20-image-2",
           "original": "闚觀女貞，亦可醜也。",
           "originalRefs": [
             {
@@ -3795,7 +3499,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h20-yao-3",
           "original": "觀我生，進退。",
           "originalRefs": [
             {
@@ -3805,7 +3508,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h20-image-3",
           "original": "觀我生進退，未失道也。",
           "originalRefs": [
             {
@@ -3819,7 +3521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h20-yao-4",
           "original": "觀國之光，利用賓于王。",
           "originalRefs": [
             {
@@ -3829,7 +3530,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h20-image-4",
           "original": "觀國之光，尚賓也。",
           "originalRefs": [
             {
@@ -3843,7 +3543,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h20-yao-5",
           "original": "觀我生，君子无咎。",
           "originalRefs": [
             {
@@ -3853,7 +3552,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h20-image-5",
           "original": "觀我生，觀民也。",
           "originalRefs": [
             {
@@ -3867,7 +3565,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h20-yao-6",
           "original": "觀其生，君子无咎。",
           "originalRefs": [
             {
@@ -3877,7 +3574,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h20-image-6",
           "original": "觀其生，志未平也。",
           "originalRefs": [
             {
@@ -3893,7 +3589,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 21,
     "statement": {
-      "id": "h21-statement",
       "original": "噬嗑：亨，利用獄。",
       "originalRefs": [
         {
@@ -3903,7 +3598,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h21-tuan",
       "original": "頤中有物，曰噬嗑。噬嗑而亨。剛柔分，動而明，雷電合而章。柔得中而上行，雖不當位，利用獄也。",
       "originalRefs": [
         {
@@ -3913,7 +3607,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h21-great-image",
       "original": "雷電，噬嗑；先王以明罰勑法。",
       "originalRefs": [
         {
@@ -3939,7 +3632,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h21-yao-1",
           "original": "屨校滅趾，无咎。",
           "originalRefs": [
             {
@@ -3949,7 +3641,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h21-image-1",
           "original": "屨校滅趾，不行也。",
           "originalRefs": [
             {
@@ -3963,7 +3654,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h21-yao-2",
           "original": "噬膚滅鼻，无咎。",
           "originalRefs": [
             {
@@ -3973,7 +3663,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h21-image-2",
           "original": "噬膚滅鼻，乘剛也。",
           "originalRefs": [
             {
@@ -3987,7 +3676,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h21-yao-3",
           "original": "噬腊肉，遇毒，小吝，无咎。",
           "originalRefs": [
             {
@@ -3997,7 +3685,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h21-image-3",
           "original": "遇毒，位不當也。",
           "originalRefs": [
             {
@@ -4011,7 +3698,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h21-yao-4",
           "original": "噬乾胏，得金矢，利艱貞，吉。",
           "originalRefs": [
             {
@@ -4021,7 +3707,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h21-image-4",
           "original": "利艱貞吉，未光也。",
           "originalRefs": [
             {
@@ -4035,7 +3720,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h21-yao-5",
           "original": "噬乾肉，得黄金，貞厲，无咎。",
           "originalRefs": [
             {
@@ -4045,7 +3729,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h21-image-5",
           "original": "貞厲无咎，得當也。",
           "originalRefs": [
             {
@@ -4059,7 +3742,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h21-yao-6",
           "original": "何校滅耳，凶。",
           "originalRefs": [
             {
@@ -4069,7 +3751,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h21-image-6",
           "original": "何校滅耳，聰不明也。",
           "originalRefs": [
             {
@@ -4085,7 +3766,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 22,
     "statement": {
-      "id": "h22-statement",
       "original": "賁：亨，小利有攸徃。",
       "originalRefs": [
         {
@@ -4095,7 +3775,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h22-tuan",
       "original": "賁亨，柔來而文剛，故亨。分剛上而文柔，故小利有攸徃。天文也。文明以止，人文也。觀乎天文，以察時變；觀乎人文，以化成天下。",
       "originalRefs": [
         {
@@ -4105,7 +3784,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h22-great-image",
       "original": "山下有火，賁；君子以明庶政，无敢折獄。",
       "originalRefs": [
         {
@@ -4131,7 +3809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h22-yao-1",
           "original": "賁其趾，舎車而徒。",
           "originalRefs": [
             {
@@ -4141,7 +3818,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h22-image-1",
           "original": "舍車而徒，義弗乘也。",
           "originalRefs": [
             {
@@ -4155,7 +3831,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h22-yao-2",
           "original": "賁其須。",
           "originalRefs": [
             {
@@ -4165,7 +3840,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h22-image-2",
           "original": "賁其須，與上興也。",
           "originalRefs": [
             {
@@ -4179,7 +3853,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h22-yao-3",
           "original": "賁如濡如，永貞吉。",
           "originalRefs": [
             {
@@ -4189,7 +3862,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h22-image-3",
           "original": "永貞之吉，終莫之陵也。",
           "originalRefs": [
             {
@@ -4203,7 +3875,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h22-yao-4",
           "original": "賁如皤如，白馬翰如，匪宼婚媾。",
           "originalRefs": [
             {
@@ -4213,7 +3884,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h22-image-4",
           "original": "六四當位疑也。匪寇婚媾，終无尤也。",
           "originalRefs": [
             {
@@ -4227,7 +3897,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h22-yao-5",
           "original": "賁于丘園，束帛戔戔，吝，終吉。",
           "originalRefs": [
             {
@@ -4237,7 +3906,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h22-image-5",
           "original": "六五之吉，有喜也。",
           "originalRefs": [
             {
@@ -4251,7 +3919,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h22-yao-6",
           "original": "白賁，无咎。",
           "originalRefs": [
             {
@@ -4261,7 +3928,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h22-image-6",
           "original": "白賁无咎，上得志也。",
           "originalRefs": [
             {
@@ -4277,7 +3943,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 23,
     "statement": {
-      "id": "h23-statement",
       "original": "剝：不利有攸往。",
       "originalRefs": [
         {
@@ -4287,7 +3952,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h23-tuan",
       "original": "剝，剝也，柔變剛也。不利有攸往，小人長也。順而止之，觀象也。君子尚消息盈虚，天行也。",
       "originalRefs": [
         {
@@ -4297,7 +3961,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h23-great-image",
       "original": "山附于地，剝；上以厚下安宅。",
       "originalRefs": [
         {
@@ -4323,7 +3986,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h23-yao-1",
           "original": "剝牀以足，蔑貞凶。",
           "originalRefs": [
             {
@@ -4333,7 +3995,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h23-image-1",
           "original": "剝牀以足，以滅下也。",
           "originalRefs": [
             {
@@ -4347,7 +4008,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h23-yao-2",
           "original": "剝牀以辨，蔑貞凶。",
           "originalRefs": [
             {
@@ -4357,7 +4017,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h23-image-2",
           "original": "剝牀以辨，未有與也。",
           "originalRefs": [
             {
@@ -4371,7 +4030,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h23-yao-3",
           "original": "剝之，无咎。",
           "originalRefs": [
             {
@@ -4381,7 +4039,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h23-image-3",
           "original": "剝之无咎，失上下也。",
           "originalRefs": [
             {
@@ -4395,7 +4052,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h23-yao-4",
           "original": "剝牀以膚，凶。",
           "originalRefs": [
             {
@@ -4405,7 +4061,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h23-image-4",
           "original": "剝牀以膚，切近災也。",
           "originalRefs": [
             {
@@ -4419,7 +4074,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h23-yao-5",
           "original": "貫魚，以宮人寵，无不利。",
           "originalRefs": [
             {
@@ -4429,7 +4083,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h23-image-5",
           "original": "以宮人寵，終无尤也。",
           "originalRefs": [
             {
@@ -4443,7 +4096,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h23-yao-6",
           "original": "碩果不食，君子得輿，小人剝廬。",
           "originalRefs": [
             {
@@ -4453,7 +4105,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h23-image-6",
           "original": "君子得輿，民所載也。小人剝廬，終不可用也。",
           "originalRefs": [
             {
@@ -4469,7 +4120,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 24,
     "statement": {
-      "id": "h24-statement",
       "original": "復：亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
       "originalRefs": [
         {
@@ -4479,7 +4129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h24-tuan",
       "original": "復亨，剛反，動而以順行，是以出入无疾。朋來无咎。反復其道，七日來復，天行也。利有攸往，剛長也。復其見天地之心乎。",
       "originalRefs": [
         {
@@ -4489,7 +4138,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h24-great-image",
       "original": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
       "originalRefs": [
         {
@@ -4515,7 +4163,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h24-yao-1",
           "original": "不遠復，无祗悔，元吉。",
           "originalRefs": [
             {
@@ -4525,7 +4172,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h24-image-1",
           "original": "不遠之復，以脩身也。",
           "originalRefs": [
             {
@@ -4539,7 +4185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h24-yao-2",
           "original": "休復，吉。",
           "originalRefs": [
             {
@@ -4549,7 +4194,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h24-image-2",
           "original": "休復之吉，以下仁也。",
           "originalRefs": [
             {
@@ -4563,7 +4207,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h24-yao-3",
           "original": "頻復，厲，无咎。",
           "originalRefs": [
             {
@@ -4573,7 +4216,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h24-image-3",
           "original": "頻復之厲，義无咎也。",
           "originalRefs": [
             {
@@ -4587,7 +4229,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h24-yao-4",
           "original": "中行獨復。",
           "originalRefs": [
             {
@@ -4597,7 +4238,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h24-image-4",
           "original": "中行獨復，以從道也。",
           "originalRefs": [
             {
@@ -4611,7 +4251,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h24-yao-5",
           "original": "敦復，无悔。",
           "originalRefs": [
             {
@@ -4621,7 +4260,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h24-image-5",
           "original": "敦復无悔，中以自考也。",
           "originalRefs": [
             {
@@ -4635,7 +4273,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h24-yao-6",
           "original": "迷復，凶，有災眚。用行師，終有大敗，以其國君凶。至于十年，不克征。",
           "originalRefs": [
             {
@@ -4645,7 +4282,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h24-image-6",
           "original": "迷復之凶，反君道也。",
           "originalRefs": [
             {
@@ -4661,7 +4297,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 25,
     "statement": {
-      "id": "h25-statement",
       "original": "无妄：元亨，利貞。其匪正有眚，不利有攸往。",
       "originalRefs": [
         {
@@ -4671,7 +4306,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h25-tuan",
       "original": "无妄，剛自外來而為主于内，動而健，剛中而應，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣。天命不祐，行矣哉。",
       "originalRefs": [
         {
@@ -4681,7 +4315,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h25-great-image",
       "original": "天下雷行，物與无妄；先王以茂對時育萬物。",
       "originalRefs": [
         {
@@ -4707,7 +4340,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h25-yao-1",
           "original": "无妄，往吉。",
           "originalRefs": [
             {
@@ -4717,7 +4349,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h25-image-1",
           "original": "无妄之往，得志也。",
           "originalRefs": [
             {
@@ -4731,7 +4362,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h25-yao-2",
           "original": "不耕穫，不菑畬，則利有攸往。",
           "originalRefs": [
             {
@@ -4741,7 +4371,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h25-image-2",
           "original": "不耕穫，未富也。",
           "originalRefs": [
             {
@@ -4755,7 +4384,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h25-yao-3",
           "original": "无妄之災，或繋之牛，行人之得，邑人之災。",
           "originalRefs": [
             {
@@ -4765,7 +4393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h25-image-3",
           "original": "行人得牛，邑人災也。",
           "originalRefs": [
             {
@@ -4779,7 +4406,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h25-yao-4",
           "original": "可貞，无咎。",
           "originalRefs": [
             {
@@ -4789,7 +4415,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h25-image-4",
           "original": "可貞无咎，固有之也。",
           "originalRefs": [
             {
@@ -4803,7 +4428,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h25-yao-5",
           "original": "无妄之疾，勿藥有喜。",
           "originalRefs": [
             {
@@ -4813,7 +4437,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h25-image-5",
           "original": "无妄之藥，不可試也。",
           "originalRefs": [
             {
@@ -4827,7 +4450,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h25-yao-6",
           "original": "无妄，行有眚，无攸利。",
           "originalRefs": [
             {
@@ -4837,7 +4459,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h25-image-6",
           "original": "无妄之行，窮之災也。",
           "originalRefs": [
             {
@@ -4853,7 +4474,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 26,
     "statement": {
-      "id": "h26-statement",
       "original": "大畜：利貞，不家食吉，利渉大川。",
       "originalRefs": [
         {
@@ -4863,7 +4483,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h26-tuan",
       "original": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利渉大川，應乎天也。",
       "originalRefs": [
         {
@@ -4873,7 +4492,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h26-great-image",
       "original": "天在山中，大畜；君子以多識前言往行，以畜其德。",
       "originalRefs": [
         {
@@ -4899,7 +4517,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h26-yao-1",
           "original": "有厲，利已。",
           "originalRefs": [
             {
@@ -4909,7 +4526,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h26-image-1",
           "original": "有厲利巳，不犯災也。",
           "originalRefs": [
             {
@@ -4923,7 +4539,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h26-yao-2",
           "original": "輿說輹。",
           "originalRefs": [
             {
@@ -4933,7 +4548,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h26-image-2",
           "original": "輿說輹，中无尤也。",
           "originalRefs": [
             {
@@ -4947,7 +4561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h26-yao-3",
           "original": "良馬逐，利艱貞。曰閑輿衛，利有攸徃。",
           "originalRefs": [
             {
@@ -4957,7 +4570,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h26-image-3",
           "original": "利有攸往，上合志也。",
           "originalRefs": [
             {
@@ -4971,7 +4583,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h26-yao-4",
           "original": "童牛之牿，元吉。",
           "originalRefs": [
             {
@@ -4981,7 +4592,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h26-image-4",
           "original": "六四元吉，有喜也。",
           "originalRefs": [
             {
@@ -4995,7 +4605,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h26-yao-5",
           "original": "豶豕之牙，吉。",
           "originalRefs": [
             {
@@ -5005,7 +4614,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h26-image-5",
           "original": "六五之吉，有慶也。",
           "originalRefs": [
             {
@@ -5019,7 +4627,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h26-yao-6",
           "original": "何天之衢，亨。",
           "originalRefs": [
             {
@@ -5029,7 +4636,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h26-image-6",
           "original": "何天之衢，道大行也。",
           "originalRefs": [
             {
@@ -5045,7 +4651,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 27,
     "statement": {
-      "id": "h27-statement",
       "original": "頤：貞吉。觀頤，自求口實。",
       "originalRefs": [
         {
@@ -5055,7 +4660,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h27-tuan",
       "original": "頤貞吉，養正則吉也。觀頤，觀其所養也。自求口實，觀其自養也。天地養萬物，聖人養賢以及萬民。頤之時大矣哉。",
       "originalRefs": [
         {
@@ -5065,7 +4669,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h27-great-image",
       "original": "山下有雷，頤；君子以慎言語，節飲食。",
       "originalRefs": [
         {
@@ -5091,7 +4694,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h27-yao-1",
           "original": "舍爾靈龜，觀我朶頤，凶。",
           "originalRefs": [
             {
@@ -5101,7 +4703,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h27-image-1",
           "original": "觀我朶頤，亦不足貴也。",
           "originalRefs": [
             {
@@ -5115,7 +4716,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h27-yao-2",
           "original": "顚頤，拂經于丘，頤征凶。",
           "originalRefs": [
             {
@@ -5125,7 +4725,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h27-image-2",
           "original": "六二征凶，行失類也。",
           "originalRefs": [
             {
@@ -5139,7 +4738,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h27-yao-3",
           "original": "拂頤，貞凶，十年勿用，无攸利。",
           "originalRefs": [
             {
@@ -5149,7 +4747,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h27-image-3",
           "original": "十年勿用，道大悖也。",
           "originalRefs": [
             {
@@ -5163,7 +4760,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h27-yao-4",
           "original": "顛頤，吉。虎視眈眈，其欲逐逐，无咎。",
           "originalRefs": [
             {
@@ -5173,7 +4769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h27-image-4",
           "original": "顛頤之吉，上施光也。",
           "originalRefs": [
             {
@@ -5187,7 +4782,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h27-yao-5",
           "original": "拂經，居貞吉，不可渉大川。",
           "originalRefs": [
             {
@@ -5197,7 +4791,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h27-image-5",
           "original": "居貞之吉，順以從上也。",
           "originalRefs": [
             {
@@ -5211,7 +4804,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h27-yao-6",
           "original": "由頤，厲吉，利渉大川。",
           "originalRefs": [
             {
@@ -5221,7 +4813,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h27-image-6",
           "original": "由頤厲吉，大有慶也。",
           "originalRefs": [
             {
@@ -5237,7 +4828,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 28,
     "statement": {
-      "id": "h28-statement",
       "original": "大過：棟橈，利有攸往，亨。",
       "originalRefs": [
         {
@@ -5247,7 +4837,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h28-tuan",
       "original": "大過，大者過也。棟橈，本末弱也。剛過而中，巽而說行，利有攸往，乃亨。大過之時大矣哉。",
       "originalRefs": [
         {
@@ -5257,7 +4846,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h28-great-image",
       "original": "澤滅木，大過；君子以獨立不懼，遯世无悶。",
       "originalRefs": [
         {
@@ -5283,7 +4871,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h28-yao-1",
           "original": "藉用白茅，无咎。",
           "originalRefs": [
             {
@@ -5293,7 +4880,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h28-image-1",
           "original": "藉用白茅，柔在下也。",
           "originalRefs": [
             {
@@ -5307,7 +4893,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h28-yao-2",
           "original": "枯楊生稊，老夫得其女妻，无不利。",
           "originalRefs": [
             {
@@ -5317,7 +4902,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h28-image-2",
           "original": "老夫女妻，過以相與也。",
           "originalRefs": [
             {
@@ -5331,7 +4915,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h28-yao-3",
           "original": "棟橈，凶。",
           "originalRefs": [
             {
@@ -5341,7 +4924,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h28-image-3",
           "original": "棟橈之凶，不可以有輔也。",
           "originalRefs": [
             {
@@ -5355,7 +4937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h28-yao-4",
           "original": "棟隆，吉。有它吝。",
           "originalRefs": [
             {
@@ -5365,7 +4946,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h28-image-4",
           "original": "棟隆之吉，不橈乎下也。",
           "originalRefs": [
             {
@@ -5379,7 +4959,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h28-yao-5",
           "original": "枯楊生華，老婦得其士夫，无咎无譽。",
           "originalRefs": [
             {
@@ -5389,7 +4968,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h28-image-5",
           "original": "枯楊生華，何可久也。老婦士夫，亦可醜也。",
           "originalRefs": [
             {
@@ -5403,7 +4981,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h28-yao-6",
           "original": "過渉滅頂，凶，无咎。",
           "originalRefs": [
             {
@@ -5413,7 +4990,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h28-image-6",
           "original": "過渉之凶，不可咎也。",
           "originalRefs": [
             {
@@ -5429,7 +5005,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 29,
     "statement": {
-      "id": "h29-statement",
       "original": "習坎：有孚，維心亨。行有尚。",
       "originalRefs": [
         {
@@ -5439,7 +5014,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h29-tuan",
       "original": "習坎，重險也。水流而不盈，行險而不失其信。維心亨，乃以剛中也。行有尚，往有功也。天險不可升也，地險山川丘陵也。王公設險以守其國。險之時用大矣哉。",
       "originalRefs": [
         {
@@ -5449,7 +5023,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h29-great-image",
       "original": "水洊至，習坎；君子以常德行，習教事。",
       "originalRefs": [
         {
@@ -5475,7 +5048,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h29-yao-1",
           "original": "習坎，入于坎窞，凶。",
           "originalRefs": [
             {
@@ -5485,7 +5057,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h29-image-1",
           "original": "習坎入坎，失道凶也。",
           "originalRefs": [
             {
@@ -5499,7 +5070,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h29-yao-2",
           "original": "坎有險，求小得。",
           "originalRefs": [
             {
@@ -5509,7 +5079,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h29-image-2",
           "original": "求小得，未出中也。",
           "originalRefs": [
             {
@@ -5523,7 +5092,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h29-yao-3",
           "original": "來之坎坎，險且枕，入于坎窞，勿用。",
           "originalRefs": [
             {
@@ -5533,7 +5101,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h29-image-3",
           "original": "來之坎坎，終无功也。",
           "originalRefs": [
             {
@@ -5547,7 +5114,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h29-yao-4",
           "original": "樽酒簋貳，用缶，納約自牖，終无咎。",
           "originalRefs": [
             {
@@ -5557,7 +5123,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h29-image-4",
           "original": "樽酒簋貳，剛柔際也。",
           "originalRefs": [
             {
@@ -5571,7 +5136,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h29-yao-5",
           "original": "坎不盈，祗既平，无咎。",
           "originalRefs": [
             {
@@ -5581,7 +5145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h29-image-5",
           "original": "坎不盈，中未大也。",
           "originalRefs": [
             {
@@ -5595,7 +5158,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h29-yao-6",
           "original": "係用徽纆，寘于叢棘，三嵗不得，凶。",
           "originalRefs": [
             {
@@ -5605,7 +5167,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h29-image-6",
           "original": "上六失道，凶三嵗也。",
           "originalRefs": [
             {
@@ -5621,7 +5182,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 30,
     "statement": {
-      "id": "h30-statement",
       "original": "離：利貞。亨。畜牝牛，吉。",
       "originalRefs": [
         {
@@ -5631,7 +5191,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h30-tuan",
       "original": "離，麗也；日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。柔麗乎中正，故亨；是以畜牝牛吉也。",
       "originalRefs": [
         {
@@ -5641,7 +5200,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h30-great-image",
       "original": "明兩作離，大人以繼明照于四方。",
       "originalRefs": [
         {
@@ -5667,7 +5225,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h30-yao-1",
           "original": "履錯然，敬之无咎。",
           "originalRefs": [
             {
@@ -5677,7 +5234,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h30-image-1",
           "original": "履錯之敬，以辟咎也。",
           "originalRefs": [
             {
@@ -5691,7 +5247,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h30-yao-2",
           "original": "黃離，元吉。",
           "originalRefs": [
             {
@@ -5701,7 +5256,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h30-image-2",
           "original": "黃離元吉，得中道也。",
           "originalRefs": [
             {
@@ -5715,7 +5269,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h30-yao-3",
           "original": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
           "originalRefs": [
             {
@@ -5725,7 +5278,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h30-image-3",
           "original": "日昃之離，何可久也。",
           "originalRefs": [
             {
@@ -5739,7 +5291,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h30-yao-4",
           "original": "突如其來如，焚如，死如，棄如。",
           "originalRefs": [
             {
@@ -5749,7 +5300,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h30-image-4",
           "original": "突如其來如，无所容也。",
           "originalRefs": [
             {
@@ -5763,7 +5313,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h30-yao-5",
           "original": "出涕沱若，戚嗟若，吉。",
           "originalRefs": [
             {
@@ -5773,7 +5322,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h30-image-5",
           "original": "六五之吉，離王公也。",
           "originalRefs": [
             {
@@ -5787,7 +5335,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h30-yao-6",
           "original": "王用出征，有嘉折首，獲匪其醜，无咎。",
           "originalRefs": [
             {
@@ -5797,7 +5344,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h30-image-6",
           "original": "王用出征，以正邦也。",
           "originalRefs": [
             {
@@ -5813,7 +5359,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 31,
     "statement": {
-      "id": "h31-statement",
       "original": "咸：亨，利貞，取女吉。",
       "originalRefs": [
         {
@@ -5823,7 +5368,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h31-tuan",
       "original": "咸，感也。柔上而剛下，二氣感應以相與，止而說，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平。觀其所感而天地萬物之情可見矣。",
       "originalRefs": [
         {
@@ -5833,7 +5377,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h31-great-image",
       "original": "山上有澤，咸；君子以虛受人。",
       "originalRefs": [
         {
@@ -5859,7 +5402,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h31-yao-1",
           "original": "咸其拇。",
           "originalRefs": [
             {
@@ -5869,7 +5411,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h31-image-1",
           "original": "咸其拇，志在外也。",
           "originalRefs": [
             {
@@ -5883,7 +5424,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h31-yao-2",
           "original": "咸其腓，凶，居吉。",
           "originalRefs": [
             {
@@ -5893,7 +5433,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h31-image-2",
           "original": "雖凶居吉，順不害也。",
           "originalRefs": [
             {
@@ -5907,7 +5446,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h31-yao-3",
           "original": "咸其股，執其隨，往吝。",
           "originalRefs": [
             {
@@ -5917,7 +5455,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h31-image-3",
           "original": "咸其股，亦不處也。志在隨人，所執下也。",
           "originalRefs": [
             {
@@ -5931,7 +5468,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h31-yao-4",
           "original": "貞吉悔亡，憧憧往來，朋從爾思。",
           "originalRefs": [
             {
@@ -5941,7 +5477,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h31-image-4",
           "original": "貞吉悔亡，未感害也。憧憧往來，未光大也。",
           "originalRefs": [
             {
@@ -5955,7 +5490,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h31-yao-5",
           "original": "咸其脢，无悔。",
           "originalRefs": [
             {
@@ -5965,7 +5499,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h31-image-5",
           "original": "咸其脢，志末也。",
           "originalRefs": [
             {
@@ -5979,7 +5512,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h31-yao-6",
           "original": "咸其輔頰舌。",
           "originalRefs": [
             {
@@ -5989,7 +5521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h31-image-6",
           "original": "咸其輔頰舌，滕口說也。",
           "originalRefs": [
             {
@@ -6005,7 +5536,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 32,
     "statement": {
-      "id": "h32-statement",
       "original": "恒：亨，无咎，利貞。利有攸往。",
       "originalRefs": [
         {
@@ -6015,7 +5545,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h32-tuan",
       "original": "恒，久也。剛上而柔下，雷風相與，巽而動，剛柔皆應，恒。恒亨无咎利貞，久於其道也。天地之道恒久而不巳也。利有攸往，終則有始也。日月得天而能久照，四時變化而能久成，聖人久於其道而天下化成。觀其所恒而天地萬物之情可見矣。",
       "originalRefs": [
         {
@@ -6025,7 +5554,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h32-great-image",
       "original": "雷風，恒；君子以立不易方。",
       "originalRefs": [
         {
@@ -6051,7 +5579,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h32-yao-1",
           "original": "浚恒，貞凶，无攸利。",
           "originalRefs": [
             {
@@ -6061,7 +5588,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h32-image-1",
           "original": "浚恒之凶，始求深也。",
           "originalRefs": [
             {
@@ -6075,7 +5601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h32-yao-2",
           "original": "悔亡。",
           "originalRefs": [
             {
@@ -6085,7 +5610,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h32-image-2",
           "original": "九二悔亡，能久中也。",
           "originalRefs": [
             {
@@ -6099,7 +5623,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h32-yao-3",
           "original": "不恒其德，或承之羞，貞吝。",
           "originalRefs": [
             {
@@ -6109,7 +5632,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h32-image-3",
           "original": "不恒其德，无所容也。",
           "originalRefs": [
             {
@@ -6123,7 +5645,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h32-yao-4",
           "original": "田无禽。",
           "originalRefs": [
             {
@@ -6133,7 +5654,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h32-image-4",
           "original": "久非其位，安得禽也。",
           "originalRefs": [
             {
@@ -6147,7 +5667,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h32-yao-5",
           "original": "恆其德貞，婦人吉，夫子凶。",
           "originalRefs": [
             {
@@ -6157,7 +5676,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h32-image-5",
           "original": "婦人貞吉，從一而終也。夫子制義，從婦凶也。",
           "originalRefs": [
             {
@@ -6171,7 +5689,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h32-yao-6",
           "original": "振恒，凶。",
           "originalRefs": [
             {
@@ -6181,7 +5698,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h32-image-6",
           "original": "振恒在上，大无功也。",
           "originalRefs": [
             {
@@ -6197,7 +5713,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 33,
     "statement": {
-      "id": "h33-statement",
       "original": "遯：亨，小利貞。",
       "originalRefs": [
         {
@@ -6207,7 +5722,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h33-tuan",
       "original": "遯亨，遯而亨也。剛當位而應，與時行也。小利貞，浸而長也。遯之時義大矣哉！",
       "originalRefs": [
         {
@@ -6217,7 +5731,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h33-great-image",
       "original": "天下有山，遯；君子以逺小人，不惡而嚴。",
       "originalRefs": [
         {
@@ -6243,7 +5756,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h33-yao-1",
           "original": "遯尾，厲，勿用有攸往。",
           "originalRefs": [
             {
@@ -6253,7 +5765,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h33-image-1",
           "original": "遯尾之厲，不往何災也。",
           "originalRefs": [
             {
@@ -6267,7 +5778,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h33-yao-2",
           "original": "執之用黃牛之革，莫之勝說。",
           "originalRefs": [
             {
@@ -6277,7 +5787,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h33-image-2",
           "original": "執用黃牛，固志也。",
           "originalRefs": [
             {
@@ -6291,7 +5800,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h33-yao-3",
           "original": "係遯，有疾厲，畜臣妾吉。",
           "originalRefs": [
             {
@@ -6301,7 +5809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h33-image-3",
           "original": "係遯之厲，有疾憊也。畜臣妾吉，不可大事也。",
           "originalRefs": [
             {
@@ -6315,7 +5822,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h33-yao-4",
           "original": "好遯，君子吉，小人否。",
           "originalRefs": [
             {
@@ -6325,7 +5831,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h33-image-4",
           "original": "君子好遯，小人否也。",
           "originalRefs": [
             {
@@ -6339,7 +5844,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h33-yao-5",
           "original": "嘉遯，貞吉。",
           "originalRefs": [
             {
@@ -6349,7 +5853,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h33-image-5",
           "original": "嘉遯貞吉，以正志也。",
           "originalRefs": [
             {
@@ -6363,7 +5866,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h33-yao-6",
           "original": "肥遯，无不利。",
           "originalRefs": [
             {
@@ -6373,7 +5875,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h33-image-6",
           "original": "肥遯无不利，无所疑也。",
           "originalRefs": [
             {
@@ -6389,7 +5890,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 34,
     "statement": {
-      "id": "h34-statement",
       "original": "大壯：利貞。",
       "originalRefs": [
         {
@@ -6399,7 +5899,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h34-tuan",
       "original": "大壯，大者壯也。剛以動，故壯。大壯利貞，大者正也。正大而天地之情可見矣。",
       "originalRefs": [
         {
@@ -6409,7 +5908,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h34-great-image",
       "original": "雷在天上，大壯；君子以非禮弗履。",
       "originalRefs": [
         {
@@ -6435,7 +5933,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h34-yao-1",
           "original": "壯于趾，征凶，有孚。",
           "originalRefs": [
             {
@@ -6445,7 +5942,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h34-image-1",
           "original": "壯于趾，其孚窮也。",
           "originalRefs": [
             {
@@ -6459,7 +5955,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h34-yao-2",
           "original": "貞吉。",
           "originalRefs": [
             {
@@ -6469,7 +5964,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h34-image-2",
           "original": "九二貞吉，以中也。",
           "originalRefs": [
             {
@@ -6483,7 +5977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h34-yao-3",
           "original": "小人用壯，君子用罔，貞厲。羝羊觸藩，羸其角。",
           "originalRefs": [
             {
@@ -6493,7 +5986,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h34-image-3",
           "original": "小人用壯，君子罔也。",
           "originalRefs": [
             {
@@ -6507,7 +5999,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h34-yao-4",
           "original": "貞吉悔亡，藩決不羸，壯于大輿之輹。",
           "originalRefs": [
             {
@@ -6517,7 +6008,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h34-image-4",
           "original": "藩決不羸，尚往也。",
           "originalRefs": [
             {
@@ -6531,7 +6021,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h34-yao-5",
           "original": "喪羊于易，无悔。",
           "originalRefs": [
             {
@@ -6541,7 +6030,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h34-image-5",
           "original": "喪羊于易，位不當也。",
           "originalRefs": [
             {
@@ -6555,7 +6043,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h34-yao-6",
           "original": "羝羊觸藩，不能退，不能遂，无攸利，艱則吉。",
           "originalRefs": [
             {
@@ -6565,7 +6052,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h34-image-6",
           "original": "不能退，不能遂，不詳也。艱則吉，咎不長也。",
           "originalRefs": [
             {
@@ -6581,7 +6067,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 35,
     "statement": {
-      "id": "h35-statement",
       "original": "晉：康侯用錫馬蕃庶，晝日三接。",
       "originalRefs": [
         {
@@ -6591,7 +6076,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h35-tuan",
       "original": "晉，進也。明出地上，順而麗乎大明，柔進而上行。是以康侯用錫馬蕃庻，晝日三接也。",
       "originalRefs": [
         {
@@ -6601,7 +6085,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h35-great-image",
       "original": "明出地上，晉；君子以自昭明德。",
       "originalRefs": [
         {
@@ -6627,7 +6110,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h35-yao-1",
           "original": "晉如摧如，貞吉。罔孚，裕无咎。",
           "originalRefs": [
             {
@@ -6637,7 +6119,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h35-image-1",
           "original": "晉如摧如，獨行正也。裕无咎，未受命也。",
           "originalRefs": [
             {
@@ -6651,7 +6132,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h35-yao-2",
           "original": "晉如愁如，貞吉。受兹介福，于其王母。",
           "originalRefs": [
             {
@@ -6661,7 +6141,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h35-image-2",
           "original": "受兹介福，以中正也。",
           "originalRefs": [
             {
@@ -6675,7 +6154,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h35-yao-3",
           "original": "衆允，悔亡。",
           "originalRefs": [
             {
@@ -6685,7 +6163,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h35-image-3",
           "original": "衆允之志，上行也。",
           "originalRefs": [
             {
@@ -6699,7 +6176,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h35-yao-4",
           "original": "晉如鼫鼠，貞厲。",
           "originalRefs": [
             {
@@ -6709,7 +6185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h35-image-4",
           "original": "鼫鼠貞厲，位不當也。",
           "originalRefs": [
             {
@@ -6723,7 +6198,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h35-yao-5",
           "original": "悔亡，失得勿恤，往吉，无不利。",
           "originalRefs": [
             {
@@ -6733,7 +6207,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h35-image-5",
           "original": "失得勿恤，往有慶也。",
           "originalRefs": [
             {
@@ -6747,7 +6220,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h35-yao-6",
           "original": "晉其角，維用伐邑，厲吉无咎，貞吝。",
           "originalRefs": [
             {
@@ -6757,7 +6229,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h35-image-6",
           "original": "維用伐邑，道未光也。",
           "originalRefs": [
             {
@@ -6773,7 +6244,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 36,
     "statement": {
-      "id": "h36-statement",
       "original": "明夷：利艱貞。",
       "originalRefs": [
         {
@@ -6783,7 +6253,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h36-tuan",
       "original": "明入地中，明夷。内文明而外柔順，以蒙大難，文王以之。利艱貞，晦其明也。内難而能正其志，箕子以之。",
       "originalRefs": [
         {
@@ -6793,7 +6262,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h36-great-image",
       "original": "明入地中，明夷；君子以莅衆，用晦而明。",
       "originalRefs": [
         {
@@ -6819,7 +6287,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h36-yao-1",
           "original": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
           "originalRefs": [
             {
@@ -6829,7 +6296,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h36-image-1",
           "original": "君子于行，義不食也。",
           "originalRefs": [
             {
@@ -6843,7 +6309,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h36-yao-2",
           "original": "明夷，夷于左股，用拯馬壯，吉。",
           "originalRefs": [
             {
@@ -6853,7 +6318,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h36-image-2",
           "original": "六二之吉，順以則也。",
           "originalRefs": [
             {
@@ -6867,7 +6331,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h36-yao-3",
           "original": "明夷于南狩，得其大首，不可疾貞。",
           "originalRefs": [
             {
@@ -6877,7 +6340,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h36-image-3",
           "original": "南狩之志，乃大得也。",
           "originalRefs": [
             {
@@ -6891,7 +6353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h36-yao-4",
           "original": "入于左腹，獲明夷之心，于出門庭。",
           "originalRefs": [
             {
@@ -6901,7 +6362,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h36-image-4",
           "original": "入于左腹，獲心意也。",
           "originalRefs": [
             {
@@ -6915,7 +6375,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h36-yao-5",
           "original": "箕子之明夷，利貞。",
           "originalRefs": [
             {
@@ -6925,7 +6384,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h36-image-5",
           "original": "箕子之貞，明不可息也。",
           "originalRefs": [
             {
@@ -6939,7 +6397,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h36-yao-6",
           "original": "不明晦，初登于天，後入于地。",
           "originalRefs": [
             {
@@ -6949,7 +6406,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h36-image-6",
           "original": "初登于天，照四國也。後入于地，失則也。",
           "originalRefs": [
             {
@@ -6965,7 +6421,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 37,
     "statement": {
-      "id": "h37-statement",
       "original": "家人：利女貞。",
       "originalRefs": [
         {
@@ -6975,7 +6430,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h37-tuan",
       "original": "家人，女正位乎内，男正位乎外，男女正，天地之大義也。家人有嚴君焉，父母之謂也。父父子子，兄兄弟弟，夫夫婦婦，而家道正；正家而天下定矣。",
       "originalRefs": [
         {
@@ -6985,7 +6439,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h37-great-image",
       "original": "風自火出，家人；君子以言有物而行有恒。",
       "originalRefs": [
         {
@@ -7011,7 +6464,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h37-yao-1",
           "original": "閑有家，悔亡。",
           "originalRefs": [
             {
@@ -7021,7 +6473,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h37-image-1",
           "original": "閑有家，志未變也。",
           "originalRefs": [
             {
@@ -7035,7 +6486,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h37-yao-2",
           "original": "无攸遂，在中饋，貞吉。",
           "originalRefs": [
             {
@@ -7045,7 +6495,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h37-image-2",
           "original": "六二之吉，順以巽也。",
           "originalRefs": [
             {
@@ -7059,7 +6508,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h37-yao-3",
           "original": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
           "originalRefs": [
             {
@@ -7069,7 +6517,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h37-image-3",
           "original": "家人嗃嗃，未失也；婦子嘻嘻，失家節也。",
           "originalRefs": [
             {
@@ -7083,7 +6530,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h37-yao-4",
           "original": "富家，大吉。",
           "originalRefs": [
             {
@@ -7093,7 +6539,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h37-image-4",
           "original": "富家大吉，順在位也。",
           "originalRefs": [
             {
@@ -7107,7 +6552,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h37-yao-5",
           "original": "王假有家，勿恤，吉。",
           "originalRefs": [
             {
@@ -7117,7 +6561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h37-image-5",
           "original": "王假有家，交相愛也。",
           "originalRefs": [
             {
@@ -7131,7 +6574,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h37-yao-6",
           "original": "有孚威如，終吉。",
           "originalRefs": [
             {
@@ -7141,7 +6583,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h37-image-6",
           "original": "威如之吉，反身之謂也。",
           "originalRefs": [
             {
@@ -7157,7 +6598,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 38,
     "statement": {
-      "id": "h38-statement",
       "original": "睽：小事吉。",
       "originalRefs": [
         {
@@ -7167,7 +6607,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h38-tuan",
       "original": "睽，火動而上，澤動而下；二女同居，其志不同行。說而麗乎明，柔進而上行，得中而應乎剛，是以小事吉。天地睽而其事同也，男女睽而其志通也，萬物睽而其事類也。睽之時用大矣哉！",
       "originalRefs": [
         {
@@ -7177,7 +6616,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h38-great-image",
       "original": "上火下澤，睽；君子以同而異。",
       "originalRefs": [
         {
@@ -7203,7 +6641,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h38-yao-1",
           "original": "悔亡，喪馬勿逐，自復；見惡人无咎。",
           "originalRefs": [
             {
@@ -7213,7 +6650,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h38-image-1",
           "original": "見惡人，以辟咎也。",
           "originalRefs": [
             {
@@ -7227,7 +6663,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h38-yao-2",
           "original": "遇主于巷，无咎。",
           "originalRefs": [
             {
@@ -7237,7 +6672,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h38-image-2",
           "original": "遇主于巷，未失道也。",
           "originalRefs": [
             {
@@ -7251,7 +6685,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h38-yao-3",
           "original": "見輿曵，其牛掣，其人天且劓，无初有終。",
           "originalRefs": [
             {
@@ -7261,7 +6694,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h38-image-3",
           "original": "見輿曵，位不當也。无初有終，遇剛也。",
           "originalRefs": [
             {
@@ -7275,7 +6707,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h38-yao-4",
           "original": "睽孤，遇元夫，交孚，厲无咎。",
           "originalRefs": [
             {
@@ -7285,7 +6716,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h38-image-4",
           "original": "交孚无咎，志行也。",
           "originalRefs": [
             {
@@ -7299,7 +6729,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h38-yao-5",
           "original": "悔亡，厥宗噬膚，往何咎。",
           "originalRefs": [
             {
@@ -7309,7 +6738,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h38-image-5",
           "original": "厥宗噬膚，往有慶也。",
           "originalRefs": [
             {
@@ -7323,7 +6751,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h38-yao-6",
           "original": "睽孤，見豕負塗，載鬼一車，先張之弧，後說之弧，匪宼㛰媾，往遇雨則吉。",
           "originalRefs": [
             {
@@ -7333,7 +6760,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h38-image-6",
           "original": "遇雨之吉，羣疑亡也。",
           "originalRefs": [
             {
@@ -7349,7 +6775,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 39,
     "statement": {
-      "id": "h39-statement",
       "original": "蹇：利西南，不利東北；利見大人，貞吉。",
       "originalRefs": [
         {
@@ -7359,7 +6784,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h39-tuan",
       "original": "蹇，難也，險在前也。見險而能止，知矣哉！蹇利西南，往得中也；不利東北，其道窮也。利見大人，往有功也。當位貞吉，以正邦也。蹇之時用大矣哉！",
       "originalRefs": [
         {
@@ -7369,7 +6793,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h39-great-image",
       "original": "山上有水，蹇；君子以反身脩德。",
       "originalRefs": [
         {
@@ -7395,7 +6818,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h39-yao-1",
           "original": "往蹇，來譽。",
           "originalRefs": [
             {
@@ -7405,7 +6827,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h39-image-1",
           "original": "往蹇來譽，宜待也。",
           "originalRefs": [
             {
@@ -7419,7 +6840,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h39-yao-2",
           "original": "王臣蹇蹇，匪躬之故。",
           "originalRefs": [
             {
@@ -7429,7 +6849,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h39-image-2",
           "original": "王臣蹇蹇，終无尤也。",
           "originalRefs": [
             {
@@ -7443,7 +6862,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h39-yao-3",
           "original": "往蹇，來反。",
           "originalRefs": [
             {
@@ -7453,7 +6871,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h39-image-3",
           "original": "往蹇來反，内喜之也。",
           "originalRefs": [
             {
@@ -7467,7 +6884,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h39-yao-4",
           "original": "往蹇，來連。",
           "originalRefs": [
             {
@@ -7477,7 +6893,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h39-image-4",
           "original": "往蹇來連，當位實也。",
           "originalRefs": [
             {
@@ -7491,7 +6906,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h39-yao-5",
           "original": "大蹇，朋來。",
           "originalRefs": [
             {
@@ -7501,7 +6915,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h39-image-5",
           "original": "大蹇朋來，以中節也。",
           "originalRefs": [
             {
@@ -7515,7 +6928,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h39-yao-6",
           "original": "往蹇，來碩，吉；利見大人。",
           "originalRefs": [
             {
@@ -7525,7 +6937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h39-image-6",
           "original": "往蹇來碩，志在内也。利見大人，以從貴也。",
           "originalRefs": [
             {
@@ -7541,7 +6952,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 40,
     "statement": {
-      "id": "h40-statement",
       "original": "解：利西南，无所往，其來復吉；有攸往，夙吉。",
       "originalRefs": [
         {
@@ -7551,7 +6961,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h40-tuan",
       "original": "解，險以動，動而免乎險，解。解利西南，往得衆也。其來復吉，乃得中也。有攸往夙吉，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之時大矣哉！",
       "originalRefs": [
         {
@@ -7561,7 +6970,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h40-great-image",
       "original": "雷雨作，解；君子以赦過宥罪。",
       "originalRefs": [
         {
@@ -7587,7 +6995,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h40-yao-1",
           "original": "无咎。",
           "originalRefs": [
             {
@@ -7597,7 +7004,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h40-image-1",
           "original": "剛柔之際，義无咎也。",
           "originalRefs": [
             {
@@ -7611,7 +7017,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h40-yao-2",
           "original": "田獲三狐，得黃矢，貞吉。",
           "originalRefs": [
             {
@@ -7621,7 +7026,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h40-image-2",
           "original": "九二貞吉，得中道也。",
           "originalRefs": [
             {
@@ -7635,7 +7039,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h40-yao-3",
           "original": "負且乘，致宼至，貞吝。",
           "originalRefs": [
             {
@@ -7645,7 +7048,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h40-image-3",
           "original": "負且乘，亦可醜也；自我致戎，又誰咎也。",
           "originalRefs": [
             {
@@ -7659,7 +7061,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h40-yao-4",
           "original": "解而拇，朋至斯孚。",
           "originalRefs": [
             {
@@ -7669,7 +7070,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h40-image-4",
           "original": "解而拇，未當位也。",
           "originalRefs": [
             {
@@ -7683,7 +7083,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h40-yao-5",
           "original": "君子維有解，吉；有孚于小人。",
           "originalRefs": [
             {
@@ -7693,7 +7092,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h40-image-5",
           "original": "君子有解，小人退也。",
           "originalRefs": [
             {
@@ -7707,7 +7105,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h40-yao-6",
           "original": "公用射隼于髙墉之上，獲之，无不利。",
           "originalRefs": [
             {
@@ -7717,7 +7114,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h40-image-6",
           "original": "公用射隼，以解悖也。",
           "originalRefs": [
             {
@@ -7733,7 +7129,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 41,
     "statement": {
-      "id": "h41-statement",
       "original": "損：有孚，元吉，无咎，可貞，利有攸往。曷之用？二簋可用享。",
       "originalRefs": [
         {
@@ -7743,7 +7138,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h41-tuan",
       "original": "損，損下益上，其道上行。損而有孚，元吉，无咎，可貞，利有攸往。曷之用？二簋可用享。二簋應有時，損剛益柔有時。損益盈虛，與時偕行。",
       "originalRefs": [
         {
@@ -7753,7 +7147,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h41-great-image",
       "original": "山下有澤，損；君子以懲忿窒欲。",
       "originalRefs": [
         {
@@ -7779,7 +7172,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h41-yao-1",
           "original": "已事遄往，无咎，酌損之。",
           "originalRefs": [
             {
@@ -7789,7 +7181,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h41-image-1",
           "original": "已事遄往，尚合志也。",
           "originalRefs": [
             {
@@ -7803,7 +7194,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h41-yao-2",
           "original": "利貞，征凶，弗損益之。",
           "originalRefs": [
             {
@@ -7813,7 +7203,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h41-image-2",
           "original": "九二利貞，中以爲志也。",
           "originalRefs": [
             {
@@ -7827,7 +7216,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h41-yao-3",
           "original": "三人行則損一人，一人行則得其友。",
           "originalRefs": [
             {
@@ -7837,7 +7225,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h41-image-3",
           "original": "一人行，三則疑也。",
           "originalRefs": [
             {
@@ -7851,7 +7238,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h41-yao-4",
           "original": "損其疾，使遄有喜，无咎。",
           "originalRefs": [
             {
@@ -7861,7 +7247,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h41-image-4",
           "original": "損其疾，亦可喜也。",
           "originalRefs": [
             {
@@ -7875,7 +7260,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h41-yao-5",
           "original": "或益之，十朋之龜弗克違，元吉。",
           "originalRefs": [
             {
@@ -7885,7 +7269,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h41-image-5",
           "original": "六五元吉，自上祐也。",
           "originalRefs": [
             {
@@ -7899,7 +7282,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h41-yao-6",
           "original": "弗損益之，无咎，貞吉，利有攸往，得臣无家。",
           "originalRefs": [
             {
@@ -7909,7 +7291,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h41-image-6",
           "original": "弗損益之，大得志也。",
           "originalRefs": [
             {
@@ -7925,7 +7306,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 42,
     "statement": {
-      "id": "h42-statement",
       "original": "益：利有攸往，利渉大川。",
       "originalRefs": [
         {
@@ -7935,7 +7315,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h42-tuan",
       "original": "益，損上益下，民說无疆。自上下下，其道大光。利有攸往，中正有慶。利渉大川，木道乃行。益動而巽，日進无疆。天施地生，其益无方。凡益之道，與時偕行。",
       "originalRefs": [
         {
@@ -7945,7 +7324,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h42-great-image",
       "original": "風雷，益；君子以見善則遷，有過則改。",
       "originalRefs": [
         {
@@ -7971,7 +7349,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h42-yao-1",
           "original": "利用爲大作，元吉，无咎。",
           "originalRefs": [
             {
@@ -7981,7 +7358,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h42-image-1",
           "original": "元吉无咎，下不厚事也。",
           "originalRefs": [
             {
@@ -7995,7 +7371,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h42-yao-2",
           "original": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
           "originalRefs": [
             {
@@ -8005,7 +7380,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h42-image-2",
           "original": "或益之，自外來也。",
           "originalRefs": [
             {
@@ -8019,7 +7393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h42-yao-3",
           "original": "益之用凶事，无咎。有孚中行，告公用圭。",
           "originalRefs": [
             {
@@ -8029,7 +7402,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h42-image-3",
           "original": "益用凶事，固有之也。",
           "originalRefs": [
             {
@@ -8043,7 +7415,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h42-yao-4",
           "original": "中行，告公從，利用爲依遷國。",
           "originalRefs": [
             {
@@ -8053,7 +7424,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h42-image-4",
           "original": "告公從，以益志也。",
           "originalRefs": [
             {
@@ -8067,7 +7437,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h42-yao-5",
           "original": "有孚惠心，勿問元吉。有孚惠我德。",
           "originalRefs": [
             {
@@ -8077,7 +7446,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h42-image-5",
           "original": "有孚惠心，勿問之矣。惠我德，大得志也。",
           "originalRefs": [
             {
@@ -8091,7 +7459,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h42-yao-6",
           "original": "莫益之，或擊之，立心勿恒，凶。",
           "originalRefs": [
             {
@@ -8101,7 +7468,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h42-image-6",
           "original": "莫益之，偏辭也。或擊之，自外來也。",
           "originalRefs": [
             {
@@ -8117,7 +7483,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 43,
     "statement": {
-      "id": "h43-statement",
       "original": "夬：揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
       "originalRefs": [
         {
@@ -8127,7 +7492,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h43-tuan",
       "original": "夬，決也，剛決柔也。健而說，決而和，揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑，不利即戎，所尚乃窮也。利有攸往，剛長乃終也。",
       "originalRefs": [
         {
@@ -8137,7 +7501,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h43-great-image",
       "original": "澤上于天，夬；君子以施祿及下，居德則忌。",
       "originalRefs": [
         {
@@ -8163,7 +7526,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h43-yao-1",
           "original": "壯于前趾，往不勝為咎。",
           "originalRefs": [
             {
@@ -8173,7 +7535,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h43-image-1",
           "original": "不勝而往，咎也。",
           "originalRefs": [
             {
@@ -8187,7 +7548,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h43-yao-2",
           "original": "惕號，莫夜有戎，勿恤。",
           "originalRefs": [
             {
@@ -8197,7 +7557,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h43-image-2",
           "original": "莫夜有戎，得中道也。",
           "originalRefs": [
             {
@@ -8211,7 +7570,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h43-yao-3",
           "original": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，无咎。",
           "originalRefs": [
             {
@@ -8221,7 +7579,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h43-image-3",
           "original": "君子夬夬，終无咎也。",
           "originalRefs": [
             {
@@ -8235,7 +7592,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h43-yao-4",
           "original": "臀无膚，其行次且。牽羊悔亡，聞言不信。",
           "originalRefs": [
             {
@@ -8245,7 +7601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h43-image-4",
           "original": "其行次且，位不當也。聞言不信，聰不明也。",
           "originalRefs": [
             {
@@ -8259,7 +7614,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h43-yao-5",
           "original": "莧陸夬夬，中行无咎。",
           "originalRefs": [
             {
@@ -8269,7 +7623,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h43-image-5",
           "original": "中行无咎，中未光也。",
           "originalRefs": [
             {
@@ -8283,7 +7636,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h43-yao-6",
           "original": "无號，終有凶。",
           "originalRefs": [
             {
@@ -8293,7 +7645,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h43-image-6",
           "original": "无號之凶，終不可長也。",
           "originalRefs": [
             {
@@ -8309,7 +7660,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 44,
     "statement": {
-      "id": "h44-statement",
       "original": "姤：女壯，勿用取女。",
       "originalRefs": [
         {
@@ -8319,7 +7669,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h44-tuan",
       "original": "姤，遇也，柔遇剛也。勿用取女，不可與長也。天地相遇，品物咸章也。剛遇中正，天下大行也。姤之時義大矣哉！",
       "originalRefs": [
         {
@@ -8329,7 +7678,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h44-great-image",
       "original": "天下有風，姤；后以施命誥四方。",
       "originalRefs": [
         {
@@ -8355,7 +7703,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h44-yao-1",
           "original": "繫于金柅，貞吉。有攸往，見凶。羸豕孚蹢躅。",
           "originalRefs": [
             {
@@ -8365,7 +7712,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h44-image-1",
           "original": "繫于金柅，柔道牽也。",
           "originalRefs": [
             {
@@ -8379,7 +7725,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h44-yao-2",
           "original": "包有魚，无咎，不利賓。",
           "originalRefs": [
             {
@@ -8389,7 +7734,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h44-image-2",
           "original": "包有魚，義不及賓也。",
           "originalRefs": [
             {
@@ -8403,7 +7747,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h44-yao-3",
           "original": "臀无膚，其行次且，厲，无大咎。",
           "originalRefs": [
             {
@@ -8413,7 +7756,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h44-image-3",
           "original": "其行次且，行未牽也。",
           "originalRefs": [
             {
@@ -8427,7 +7769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h44-yao-4",
           "original": "包无魚，起凶。",
           "originalRefs": [
             {
@@ -8437,7 +7778,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h44-image-4",
           "original": "无魚之凶，逺民也。",
           "originalRefs": [
             {
@@ -8451,7 +7791,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h44-yao-5",
           "original": "以杞包瓜，含章，有隕自天。",
           "originalRefs": [
             {
@@ -8461,7 +7800,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h44-image-5",
           "original": "九五含章，中正也。有隕自天，志不舎命也。",
           "originalRefs": [
             {
@@ -8475,7 +7813,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h44-yao-6",
           "original": "姤其角，吝，无咎。",
           "originalRefs": [
             {
@@ -8485,7 +7822,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h44-image-6",
           "original": "姤其角，上窮吝也。",
           "originalRefs": [
             {
@@ -8501,7 +7837,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 45,
     "statement": {
-      "id": "h45-statement",
       "original": "萃：亨。王假有廟，利見大人，亨，利貞。用大牲吉，利有攸往。",
       "originalRefs": [
         {
@@ -8511,7 +7846,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h45-tuan",
       "original": "萃，聚也。順以說，剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚而天地萬物之情可見矣。",
       "originalRefs": [
         {
@@ -8521,7 +7855,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h45-great-image",
       "original": "澤上於地，萃；君子以除戎器，戒不虞。",
       "originalRefs": [
         {
@@ -8547,7 +7880,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h45-yao-1",
           "original": "有孚不終，乃亂乃萃，若號一握為笑，勿恤，往无咎。",
           "originalRefs": [
             {
@@ -8557,7 +7889,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h45-image-1",
           "original": "乃亂乃萃，其志亂也。",
           "originalRefs": [
             {
@@ -8571,7 +7902,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h45-yao-2",
           "original": "引吉，无咎，孚乃利用禴。",
           "originalRefs": [
             {
@@ -8581,7 +7911,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h45-image-2",
           "original": "引吉无咎，中未變也。",
           "originalRefs": [
             {
@@ -8595,7 +7924,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h45-yao-3",
           "original": "萃如嗟如，无攸利，往无咎，小吝。",
           "originalRefs": [
             {
@@ -8605,7 +7933,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h45-image-3",
           "original": "往无咎，上巽也。",
           "originalRefs": [
             {
@@ -8619,7 +7946,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h45-yao-4",
           "original": "大吉，无咎。",
           "originalRefs": [
             {
@@ -8629,7 +7955,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h45-image-4",
           "original": "大吉无咎，位不當也。",
           "originalRefs": [
             {
@@ -8643,7 +7968,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h45-yao-5",
           "original": "萃有位，无咎。匪孚，元永貞，悔亡。",
           "originalRefs": [
             {
@@ -8653,7 +7977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h45-image-5",
           "original": "萃有位，志未光也。",
           "originalRefs": [
             {
@@ -8667,7 +7990,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h45-yao-6",
           "original": "齎咨涕洟，无咎。",
           "originalRefs": [
             {
@@ -8677,7 +7999,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h45-image-6",
           "original": "齎咨涕洟，未安上也。",
           "originalRefs": [
             {
@@ -8693,7 +8014,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 46,
     "statement": {
-      "id": "h46-statement",
       "original": "升：元亨，用見大人，勿恤，南征吉。",
       "originalRefs": [
         {
@@ -8703,7 +8023,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h46-tuan",
       "original": "柔以時升。巽而順，剛中而應，是以大亨。用見大人勿恤，有慶也。南征吉，志行也。",
       "originalRefs": [
         {
@@ -8713,7 +8032,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h46-great-image",
       "original": "地中生木，升；君子以順德，積小以高大。",
       "originalRefs": [
         {
@@ -8739,7 +8057,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h46-yao-1",
           "original": "允升，大吉。",
           "originalRefs": [
             {
@@ -8749,7 +8066,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h46-image-1",
           "original": "允升大吉，上合志也。",
           "originalRefs": [
             {
@@ -8763,7 +8079,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h46-yao-2",
           "original": "孚乃利用禴，无咎。",
           "originalRefs": [
             {
@@ -8773,7 +8088,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h46-image-2",
           "original": "九二之孚，有喜也。",
           "originalRefs": [
             {
@@ -8787,7 +8101,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h46-yao-3",
           "original": "升虛邑。",
           "originalRefs": [
             {
@@ -8797,7 +8110,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h46-image-3",
           "original": "升虛邑，无所疑也。",
           "originalRefs": [
             {
@@ -8811,7 +8123,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h46-yao-4",
           "original": "王用亨于岐山，吉，无咎。",
           "originalRefs": [
             {
@@ -8821,7 +8132,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h46-image-4",
           "original": "王用亨于岐山，順事也。",
           "originalRefs": [
             {
@@ -8835,7 +8145,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h46-yao-5",
           "original": "貞吉，升階。",
           "originalRefs": [
             {
@@ -8845,7 +8154,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h46-image-5",
           "original": "貞吉升階，大得志也。",
           "originalRefs": [
             {
@@ -8859,7 +8167,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h46-yao-6",
           "original": "冥升，利于不息之貞。",
           "originalRefs": [
             {
@@ -8869,7 +8176,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h46-image-6",
           "original": "冥升在上，消不富也。",
           "originalRefs": [
             {
@@ -8885,7 +8191,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 47,
     "statement": {
-      "id": "h47-statement",
       "original": "困：亨，貞，大人吉，无咎。有言不信。",
       "originalRefs": [
         {
@@ -8895,7 +8200,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h47-tuan",
       "original": "困，剛揜也。險以説，困而不失其所亨，其惟君子乎！貞，大人吉，以剛中也。有言不信，尚口乃窮也。",
       "originalRefs": [
         {
@@ -8905,7 +8209,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h47-great-image",
       "original": "澤无水，困；君子以致命遂志。",
       "originalRefs": [
         {
@@ -8931,7 +8234,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h47-yao-1",
           "original": "臀困于株木，入于幽谷，三歳不覿。",
           "originalRefs": [
             {
@@ -8941,7 +8243,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h47-image-1",
           "original": "入于幽谷，幽不眀也。",
           "originalRefs": [
             {
@@ -8955,7 +8256,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h47-yao-2",
           "original": "困于酒食，朱紱方來，利用享祀，征凶，无咎。",
           "originalRefs": [
             {
@@ -8965,7 +8265,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h47-image-2",
           "original": "困于酒食，中有慶也。",
           "originalRefs": [
             {
@@ -8979,7 +8278,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h47-yao-3",
           "original": "困于石，據于蒺蔾，入于其宫，不見其妻，凶。",
           "originalRefs": [
             {
@@ -8989,7 +8287,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h47-image-3",
           "original": "據于蒺蔾，乘剛也。入于其宫，不見其妻，不祥也。",
           "originalRefs": [
             {
@@ -9003,7 +8300,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h47-yao-4",
           "original": "來徐徐，困于金車，吝，有終。",
           "originalRefs": [
             {
@@ -9013,7 +8309,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h47-image-4",
           "original": "來徐徐，志在下也。雖不當位，有與也。",
           "originalRefs": [
             {
@@ -9027,7 +8322,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h47-yao-5",
           "original": "劓刖，困于赤紱，乃徐有説，利用祭祀。",
           "originalRefs": [
             {
@@ -9037,7 +8331,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h47-image-5",
           "original": "劓刖，志未得也。乃徐有説，以中直也。利用祭祀，受福也。",
           "originalRefs": [
             {
@@ -9051,7 +8344,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h47-yao-6",
           "original": "困于葛藟，于臲卼，曰動悔，有悔，征吉。",
           "originalRefs": [
             {
@@ -9061,7 +8353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h47-image-6",
           "original": "困于葛藟，未當也。動悔有悔，吉行也。",
           "originalRefs": [
             {
@@ -9077,7 +8368,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 48,
     "statement": {
-      "id": "h48-statement",
       "original": "井：改邑不改井，无喪无得，往來井井。汔至亦未繘井，羸其甁，凶。",
       "originalRefs": [
         {
@@ -9087,7 +8377,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h48-tuan",
       "original": "巽乎水而上水，井；井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
       "originalRefs": [
         {
@@ -9097,7 +8386,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h48-great-image",
       "original": "木上有水，井；君子以勞民勸相。",
       "originalRefs": [
         {
@@ -9123,7 +8411,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h48-yao-1",
           "original": "井泥不食，舊井无禽。",
           "originalRefs": [
             {
@@ -9133,7 +8420,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h48-image-1",
           "original": "井泥不食，下也。舊井无禽，時舍也。",
           "originalRefs": [
             {
@@ -9147,7 +8433,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h48-yao-2",
           "original": "井谷射鮒，甕敝漏。",
           "originalRefs": [
             {
@@ -9157,7 +8442,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h48-image-2",
           "original": "井谷射鮒，无與也。",
           "originalRefs": [
             {
@@ -9171,7 +8455,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h48-yao-3",
           "original": "井渫不食，為我心惻，可用汲，王眀，竝受其福。",
           "originalRefs": [
             {
@@ -9181,7 +8464,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h48-image-3",
           "original": "井渫不食，行惻也。求王眀，受福也。",
           "originalRefs": [
             {
@@ -9195,7 +8477,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h48-yao-4",
           "original": "井甃，无咎。",
           "originalRefs": [
             {
@@ -9205,7 +8486,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h48-image-4",
           "original": "井甃无咎，修井也。",
           "originalRefs": [
             {
@@ -9219,7 +8499,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h48-yao-5",
           "original": "井洌，寒泉食。",
           "originalRefs": [
             {
@@ -9229,7 +8508,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h48-image-5",
           "original": "寒泉之食，中正也。",
           "originalRefs": [
             {
@@ -9243,7 +8521,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h48-yao-6",
           "original": "井收勿幕，有孚元吉。",
           "originalRefs": [
             {
@@ -9253,7 +8530,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h48-image-6",
           "original": "元吉在上，大成也。",
           "originalRefs": [
             {
@@ -9269,7 +8545,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 49,
     "statement": {
-      "id": "h49-statement",
       "original": "革：已日乃孚，元亨利貞，悔亡。",
       "originalRefs": [
         {
@@ -9279,7 +8554,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h49-tuan",
       "original": "革，水火相息，二女同居，其志不相得，曰革。已日乃孚，革而信之。文眀以説，大亨以正，革而當，其悔乃亡。天地革而四時成，湯武革命，順乎天而應乎人。革之時大矣哉！",
       "originalRefs": [
         {
@@ -9289,7 +8563,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h49-great-image",
       "original": "澤中有火，革；君子以治厯眀時。",
       "originalRefs": [
         {
@@ -9315,7 +8588,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h49-yao-1",
           "original": "鞏用黄牛之革。",
           "originalRefs": [
             {
@@ -9325,7 +8597,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h49-image-1",
           "original": "鞏用黄牛，不可以有為也。",
           "originalRefs": [
             {
@@ -9339,7 +8610,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h49-yao-2",
           "original": "已日乃革之，征吉，无咎。",
           "originalRefs": [
             {
@@ -9349,7 +8619,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h49-image-2",
           "original": "已日革之，行有嘉也。",
           "originalRefs": [
             {
@@ -9363,7 +8632,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h49-yao-3",
           "original": "征凶，貞厲，革言三就，有孚。",
           "originalRefs": [
             {
@@ -9373,7 +8641,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h49-image-3",
           "original": "革言三就，又何之矣。",
           "originalRefs": [
             {
@@ -9387,7 +8654,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h49-yao-4",
           "original": "悔亡，有孚改命，吉。",
           "originalRefs": [
             {
@@ -9397,7 +8663,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h49-image-4",
           "original": "改命之吉，信志也。",
           "originalRefs": [
             {
@@ -9411,7 +8676,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h49-yao-5",
           "original": "大人虎變，未占有孚。",
           "originalRefs": [
             {
@@ -9421,7 +8685,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h49-image-5",
           "original": "大人虎變，其文炳也。",
           "originalRefs": [
             {
@@ -9435,7 +8698,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h49-yao-6",
           "original": "君子豹變，小人革面，征凶，居貞吉。",
           "originalRefs": [
             {
@@ -9445,7 +8707,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h49-image-6",
           "original": "君子豹變，其文蔚也。小人革面，順以從君也。",
           "originalRefs": [
             {
@@ -9461,7 +8722,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 50,
     "statement": {
-      "id": "h50-statement",
       "original": "鼎：元吉，亨。",
       "originalRefs": [
         {
@@ -9471,7 +8731,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h50-tuan",
       "original": "鼎，象也。以木巽火，亨飪也。聖人亨以享上帝，而大亨以養聖賢。巽而耳目聰眀，柔進而上行，得中而應乎剛，是以元亨。",
       "originalRefs": [
         {
@@ -9481,7 +8740,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h50-great-image",
       "original": "木上有火，鼎；君子以正位凝命。",
       "originalRefs": [
         {
@@ -9507,7 +8765,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h50-yao-1",
           "original": "鼎顚趾，利出否，得妾以其子，无咎。",
           "originalRefs": [
             {
@@ -9517,7 +8774,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h50-image-1",
           "original": "鼎顚趾，未悖也。利出否，以從貴也。",
           "originalRefs": [
             {
@@ -9531,7 +8787,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h50-yao-2",
           "original": "鼎有實，我仇有疾，不我能即，吉。",
           "originalRefs": [
             {
@@ -9541,7 +8796,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h50-image-2",
           "original": "鼎有實，愼所之也。我仇有疾，終无尤也。",
           "originalRefs": [
             {
@@ -9555,7 +8809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h50-yao-3",
           "original": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
           "originalRefs": [
             {
@@ -9565,7 +8818,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h50-image-3",
           "original": "鼎耳革，失其義也。",
           "originalRefs": [
             {
@@ -9579,7 +8831,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h50-yao-4",
           "original": "鼎折足，覆公餗，其形渥，凶。",
           "originalRefs": [
             {
@@ -9589,7 +8840,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h50-image-4",
           "original": "覆公餗，信如何也。",
           "originalRefs": [
             {
@@ -9603,7 +8853,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h50-yao-5",
           "original": "鼎黄耳金鉉，利貞。",
           "originalRefs": [
             {
@@ -9613,7 +8862,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h50-image-5",
           "original": "鼎黄耳，中以為實也。",
           "originalRefs": [
             {
@@ -9627,7 +8875,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h50-yao-6",
           "original": "鼎玉鉉，大吉，无不利。",
           "originalRefs": [
             {
@@ -9637,7 +8884,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h50-image-6",
           "original": "玉鉉在上，剛柔節也。",
           "originalRefs": [
             {
@@ -9653,7 +8899,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 51,
     "statement": {
-      "id": "h51-statement",
       "original": "震：亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
       "originalRefs": [
         {
@@ -9663,7 +8908,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h51-tuan",
       "original": "震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚逺而懼邇也。出可以守宗廟社稷，以爲祭主也。",
       "originalRefs": [
         {
@@ -9673,7 +8917,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h51-great-image",
       "original": "洊雷，震；君子以恐懼脩省。",
       "originalRefs": [
         {
@@ -9699,7 +8942,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h51-yao-1",
           "original": "震來虩虩，後笑言啞啞，吉。",
           "originalRefs": [
             {
@@ -9709,7 +8951,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h51-image-1",
           "original": "震來虩虩，恐致福也。笑言啞啞，後有則也。",
           "originalRefs": [
             {
@@ -9723,7 +8964,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h51-yao-2",
           "original": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
           "originalRefs": [
             {
@@ -9733,7 +8973,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h51-image-2",
           "original": "震來厲，乗剛也。",
           "originalRefs": [
             {
@@ -9747,7 +8986,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h51-yao-3",
           "original": "震蘇蘇，震行无眚。",
           "originalRefs": [
             {
@@ -9757,7 +8995,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h51-image-3",
           "original": "震蘇蘇，位不當也。",
           "originalRefs": [
             {
@@ -9771,7 +9008,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h51-yao-4",
           "original": "震遂泥。",
           "originalRefs": [
             {
@@ -9781,7 +9017,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h51-image-4",
           "original": "震遂泥，未光也。",
           "originalRefs": [
             {
@@ -9795,7 +9030,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h51-yao-5",
           "original": "震徃來厲，億无喪，有事。",
           "originalRefs": [
             {
@@ -9805,7 +9039,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h51-image-5",
           "original": "震徃來厲，危行也。其事在中，大无喪也。",
           "originalRefs": [
             {
@@ -9819,7 +9052,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h51-yao-6",
           "original": "震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。㛰媾有言。",
           "originalRefs": [
             {
@@ -9829,7 +9061,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h51-image-6",
           "original": "震索索，中未得也。雖凶无咎，畏鄰戒也。",
           "originalRefs": [
             {
@@ -9845,7 +9076,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 52,
     "statement": {
-      "id": "h52-statement",
       "original": "艮其背，不獲其身，行其庭，不見其人，无咎。",
       "originalRefs": [
         {
@@ -9855,7 +9085,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h52-tuan",
       "original": "艮，止也。時止則止，時行則行，動静不失其時，其道光明。艮其止，止其所也。上下敵應，不相與也。是以不獲其身，行其庭不見其人，无咎也。",
       "originalRefs": [
         {
@@ -9865,7 +9094,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h52-great-image",
       "original": "兼山，艮；君子以思不出其位。",
       "originalRefs": [
         {
@@ -9891,7 +9119,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h52-yao-1",
           "original": "艮其趾，无咎，利永貞。",
           "originalRefs": [
             {
@@ -9901,7 +9128,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h52-image-1",
           "original": "艮其趾，未失正也。",
           "originalRefs": [
             {
@@ -9915,7 +9141,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h52-yao-2",
           "original": "艮其腓，不拯其隨，其心不快。",
           "originalRefs": [
             {
@@ -9925,7 +9150,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h52-image-2",
           "original": "不拯其隨，未退聴也。",
           "originalRefs": [
             {
@@ -9939,7 +9163,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h52-yao-3",
           "original": "艮其限，列其夤，厲薰心。",
           "originalRefs": [
             {
@@ -9949,7 +9172,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h52-image-3",
           "original": "艮其限，危薰心也。",
           "originalRefs": [
             {
@@ -9963,7 +9185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h52-yao-4",
           "original": "艮其身，无咎。",
           "originalRefs": [
             {
@@ -9973,7 +9194,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h52-image-4",
           "original": "艮其身，止諸躬也。",
           "originalRefs": [
             {
@@ -9987,7 +9207,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h52-yao-5",
           "original": "艮其輔，言有序，悔亡。",
           "originalRefs": [
             {
@@ -9997,7 +9216,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h52-image-5",
           "original": "艮其輔，以中正也。",
           "originalRefs": [
             {
@@ -10011,7 +9229,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h52-yao-6",
           "original": "敦艮，吉。",
           "originalRefs": [
             {
@@ -10021,7 +9238,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h52-image-6",
           "original": "敦艮之吉，以厚終也。",
           "originalRefs": [
             {
@@ -10037,7 +9253,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 53,
     "statement": {
-      "id": "h53-statement",
       "original": "漸：女歸吉，利貞。",
       "originalRefs": [
         {
@@ -10047,7 +9262,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h53-tuan",
       "original": "漸之進也，女歸吉也。進得位，徃有功也。進以正，可以正邦也。其位剛得中也。止而巽，動不窮也。",
       "originalRefs": [
         {
@@ -10057,7 +9271,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h53-great-image",
       "original": "山上有木，漸；君子以居賢德善俗。",
       "originalRefs": [
         {
@@ -10083,7 +9296,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h53-yao-1",
           "original": "鴻漸于干，小子厲，有言，无咎。",
           "originalRefs": [
             {
@@ -10093,7 +9305,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h53-image-1",
           "original": "小子之厲，義无咎也。",
           "originalRefs": [
             {
@@ -10107,7 +9318,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h53-yao-2",
           "original": "鴻漸于磐，飲食衎衎，吉。",
           "originalRefs": [
             {
@@ -10117,7 +9327,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h53-image-2",
           "original": "飲食衎衎，不素飽也。",
           "originalRefs": [
             {
@@ -10131,7 +9340,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h53-yao-3",
           "original": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
           "originalRefs": [
             {
@@ -10141,7 +9349,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h53-image-3",
           "original": "夫征不復，離羣醜也。婦孕不育，失其道也。利用禦寇，順相保也。",
           "originalRefs": [
             {
@@ -10155,7 +9362,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h53-yao-4",
           "original": "鴻漸于木，或得其桷，无咎。",
           "originalRefs": [
             {
@@ -10165,7 +9371,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h53-image-4",
           "original": "或得其桷，順以巽也。",
           "originalRefs": [
             {
@@ -10179,7 +9384,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h53-yao-5",
           "original": "鴻漸于陵，婦三嵗不孕，終莫之勝，吉。",
           "originalRefs": [
             {
@@ -10189,7 +9393,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h53-image-5",
           "original": "終莫之勝吉，得所願也。",
           "originalRefs": [
             {
@@ -10203,7 +9406,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h53-yao-6",
           "original": "鴻漸于陸，其羽可用為儀，吉。",
           "originalRefs": [
             {
@@ -10213,7 +9415,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h53-image-6",
           "original": "其羽可用為儀吉，不可亂也。",
           "originalRefs": [
             {
@@ -10229,7 +9430,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 54,
     "statement": {
-      "id": "h54-statement",
       "original": "歸妹：征凶，无攸利。",
       "originalRefs": [
         {
@@ -10239,7 +9439,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h54-tuan",
       "original": "歸妹，天地之大義也。天地不交而萬物不興，歸妹，人之終始也。説以動，所歸妹也。征凶，位不當也。无攸利，柔乗剛也。",
       "originalRefs": [
         {
@@ -10249,7 +9448,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h54-great-image",
       "original": "澤上有雷，歸妹；君子以永終知敝。",
       "originalRefs": [
         {
@@ -10275,7 +9473,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h54-yao-1",
           "original": "歸妹以娣，跛能履，征吉。",
           "originalRefs": [
             {
@@ -10285,7 +9482,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h54-image-1",
           "original": "歸妹以娣，以恒也。跛能履吉，相承也。",
           "originalRefs": [
             {
@@ -10299,7 +9495,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h54-yao-2",
           "original": "眇能視，利幽人之貞。",
           "originalRefs": [
             {
@@ -10309,7 +9504,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h54-image-2",
           "original": "利幽人之貞，未變常也。",
           "originalRefs": [
             {
@@ -10323,7 +9517,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h54-yao-3",
           "original": "歸妹以須，反歸以娣。",
           "originalRefs": [
             {
@@ -10333,7 +9526,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h54-image-3",
           "original": "歸妹以須，未當也。",
           "originalRefs": [
             {
@@ -10347,7 +9539,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h54-yao-4",
           "original": "歸妹愆期，遲歸有時。",
           "originalRefs": [
             {
@@ -10357,7 +9548,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h54-image-4",
           "original": "愆期之志，有待而行也。",
           "originalRefs": [
             {
@@ -10371,7 +9561,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h54-yao-5",
           "original": "帝乙歸妹，其君之袂不如其娣之袂良，月幾望，吉。",
           "originalRefs": [
             {
@@ -10381,7 +9570,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h54-image-5",
           "original": "帝乙歸妹，不如其娣之袂良也。其位在中，以貴行也。",
           "originalRefs": [
             {
@@ -10395,7 +9583,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h54-yao-6",
           "original": "女承筐无實，士刲羊无血，无攸利。",
           "originalRefs": [
             {
@@ -10405,7 +9592,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h54-image-6",
           "original": "上六无實，承虚筐也。",
           "originalRefs": [
             {
@@ -10421,7 +9607,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 55,
     "statement": {
-      "id": "h55-statement",
       "original": "豐：亨，王假之。勿憂，宜日中。",
       "originalRefs": [
         {
@@ -10431,7 +9616,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h55-tuan",
       "original": "豐，大也。明以動，故豐。王假之，尚大也。勿憂宜日中，宜照天下也。日中則昃，月盈則食，天地盈虚，與時消息，而况於人乎？况於鬼神乎？",
       "originalRefs": [
         {
@@ -10441,7 +9625,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h55-great-image",
       "original": "雷電皆至，豐；君子以折獄致刑。",
       "originalRefs": [
         {
@@ -10467,7 +9650,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h55-yao-1",
           "original": "遇其配主，雖旬无咎，徃有尚。",
           "originalRefs": [
             {
@@ -10477,7 +9659,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h55-image-1",
           "original": "雖旬无咎，過旬災也。",
           "originalRefs": [
             {
@@ -10491,7 +9672,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h55-yao-2",
           "original": "豐其蔀，日中見斗，徃得疑疾，有孚發若，吉。",
           "originalRefs": [
             {
@@ -10501,7 +9681,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h55-image-2",
           "original": "有孚發若，信以發志也。",
           "originalRefs": [
             {
@@ -10515,7 +9694,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h55-yao-3",
           "original": "豐其沛，日中見沬，折其右肱，无咎。",
           "originalRefs": [
             {
@@ -10525,7 +9703,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h55-image-3",
           "original": "豐其沛，不可大事也。折其右肱，終不可用也。",
           "originalRefs": [
             {
@@ -10539,7 +9716,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h55-yao-4",
           "original": "豐其蔀，日中見斗，遇其夷主，吉。",
           "originalRefs": [
             {
@@ -10549,7 +9725,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h55-image-4",
           "original": "豐其蔀，位不當也。日中見斗，幽不明也。遇其夷主，吉行也。",
           "originalRefs": [
             {
@@ -10563,7 +9738,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h55-yao-5",
           "original": "來章，有慶譽，吉。",
           "originalRefs": [
             {
@@ -10573,7 +9747,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h55-image-5",
           "original": "六五之吉，有慶也。",
           "originalRefs": [
             {
@@ -10587,7 +9760,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h55-yao-6",
           "original": "豐其屋，蔀其家，闚其戸，闃其无人，三嵗不覿，凶。",
           "originalRefs": [
             {
@@ -10597,7 +9769,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h55-image-6",
           "original": "豐其屋，天際翔也。闚其戸，闃其无人，自藏也。",
           "originalRefs": [
             {
@@ -10613,7 +9784,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 56,
     "statement": {
-      "id": "h56-statement",
       "original": "旅：小亨，旅貞吉。",
       "originalRefs": [
         {
@@ -10623,7 +9793,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h56-tuan",
       "original": "旅，小亨，柔得中乎外而順乎剛，止而麗乎明，是以小亨旅貞吉也。旅之時義大矣哉！",
       "originalRefs": [
         {
@@ -10633,7 +9802,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h56-great-image",
       "original": "山上有火，旅；君子以明愼用刑而不留獄。",
       "originalRefs": [
         {
@@ -10659,7 +9827,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h56-yao-1",
           "original": "旅瑣瑣，斯其所取災。",
           "originalRefs": [
             {
@@ -10669,7 +9836,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h56-image-1",
           "original": "旅瑣瑣，志窮災也。",
           "originalRefs": [
             {
@@ -10683,7 +9849,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h56-yao-2",
           "original": "旅即次，懐其資，得童僕貞。",
           "originalRefs": [
             {
@@ -10693,7 +9858,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h56-image-2",
           "original": "得童僕貞，終无尤也。",
           "originalRefs": [
             {
@@ -10707,7 +9871,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h56-yao-3",
           "original": "旅焚其次，喪其童僕，貞厲。",
           "originalRefs": [
             {
@@ -10717,7 +9880,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h56-image-3",
           "original": "旅焚其次，亦以傷矣。以旅與下，其義喪也。",
           "originalRefs": [
             {
@@ -10731,7 +9893,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h56-yao-4",
           "original": "旅于處，得其資斧，我心不快。",
           "originalRefs": [
             {
@@ -10741,7 +9902,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h56-image-4",
           "original": "旅于處，未得位也。得其資斧，心未快也。",
           "originalRefs": [
             {
@@ -10755,7 +9915,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h56-yao-5",
           "original": "射雉一矢亡，終以譽命。",
           "originalRefs": [
             {
@@ -10765,7 +9924,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h56-image-5",
           "original": "終以譽命，上逮也。",
           "originalRefs": [
             {
@@ -10779,7 +9937,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h56-yao-6",
           "original": "鳥焚其巢，旅人先笑後號咷，喪牛于易，凶。",
           "originalRefs": [
             {
@@ -10789,7 +9946,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h56-image-6",
           "original": "以旅在上，其義焚也。喪牛于易，終莫之聞也。",
           "originalRefs": [
             {
@@ -10805,7 +9961,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 57,
     "statement": {
-      "id": "h57-statement",
       "original": "巽：小亨。利有攸徃，利見大人。",
       "originalRefs": [
         {
@@ -10815,7 +9970,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h57-tuan",
       "original": "重巽以申命，剛巽乎中正而志行，柔皆順乎剛，是以小亨，利有攸徃，利見大人。",
       "originalRefs": [
         {
@@ -10825,7 +9979,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h57-great-image",
       "original": "隨風，巽；君子以申命行事。",
       "originalRefs": [
         {
@@ -10851,7 +10004,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h57-yao-1",
           "original": "進退，利武人之貞。",
           "originalRefs": [
             {
@@ -10861,7 +10013,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h57-image-1",
           "original": "進退，志疑也。利武人之貞，志治也。",
           "originalRefs": [
             {
@@ -10875,7 +10026,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h57-yao-2",
           "original": "巽在牀下，用史巫紛若，吉，无咎。",
           "originalRefs": [
             {
@@ -10885,7 +10035,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h57-image-2",
           "original": "紛若之吉，得中也。",
           "originalRefs": [
             {
@@ -10899,7 +10048,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h57-yao-3",
           "original": "頻巽，吝。",
           "originalRefs": [
             {
@@ -10909,7 +10057,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h57-image-3",
           "original": "頻巽之吝，志窮也。",
           "originalRefs": [
             {
@@ -10923,7 +10070,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h57-yao-4",
           "original": "悔亡，田獲三品。",
           "originalRefs": [
             {
@@ -10933,7 +10079,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h57-image-4",
           "original": "田獲三品，有功也。",
           "originalRefs": [
             {
@@ -10947,7 +10092,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h57-yao-5",
           "original": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
           "originalRefs": [
             {
@@ -10957,7 +10101,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h57-image-5",
           "original": "九五之吉，位正中也。",
           "originalRefs": [
             {
@@ -10971,7 +10114,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h57-yao-6",
           "original": "巽在牀下，喪其資斧，貞凶。",
           "originalRefs": [
             {
@@ -10981,7 +10123,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h57-image-6",
           "original": "巽在牀下，上窮也。喪其資斧，正乎凶也。",
           "originalRefs": [
             {
@@ -10997,7 +10138,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 58,
     "statement": {
-      "id": "h58-statement",
       "original": "兌：亨。利貞。",
       "originalRefs": [
         {
@@ -11007,7 +10147,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h58-tuan",
       "original": "兌，說也。剛中而柔外，說以利貞，是以順乎天，而應乎人。說以先民，民忘其勞；說以犯難，民忘其死；說之大，民勸矣哉！",
       "originalRefs": [
         {
@@ -11017,7 +10156,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h58-great-image",
       "original": "麗澤，兌；君子以朋友講習。",
       "originalRefs": [
         {
@@ -11043,7 +10181,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h58-yao-1",
           "original": "和兌，吉。",
           "originalRefs": [
             {
@@ -11053,7 +10190,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h58-image-1",
           "original": "和兌之吉，行未疑也。",
           "originalRefs": [
             {
@@ -11067,7 +10203,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h58-yao-2",
           "original": "孚兌，吉，悔亡。",
           "originalRefs": [
             {
@@ -11077,7 +10212,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h58-image-2",
           "original": "孚兌之吉，信志也。",
           "originalRefs": [
             {
@@ -11091,7 +10225,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h58-yao-3",
           "original": "來兌，凶。",
           "originalRefs": [
             {
@@ -11101,7 +10234,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h58-image-3",
           "original": "來兌之凶，位不當也。",
           "originalRefs": [
             {
@@ -11115,7 +10247,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h58-yao-4",
           "original": "商兌，未寧，介疾有喜。",
           "originalRefs": [
             {
@@ -11125,7 +10256,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h58-image-4",
           "original": "九四之喜，有慶也。",
           "originalRefs": [
             {
@@ -11139,7 +10269,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h58-yao-5",
           "original": "孚于剝，有厲。",
           "originalRefs": [
             {
@@ -11149,7 +10278,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h58-image-5",
           "original": "孚于剝，位正當也。",
           "originalRefs": [
             {
@@ -11163,7 +10291,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h58-yao-6",
           "original": "引兌。",
           "originalRefs": [
             {
@@ -11173,7 +10300,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h58-image-6",
           "original": "上六引兌，未光也。",
           "originalRefs": [
             {
@@ -11189,7 +10315,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 59,
     "statement": {
-      "id": "h59-statement",
       "original": "渙：亨。王假有廟，利渉大川，利貞。",
       "originalRefs": [
         {
@@ -11199,7 +10324,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h59-tuan",
       "original": "渙，亨。剛來而不窮，柔得位乎外而上同。王假有廟，王乃在中也。利渉大川，乗木有功也。",
       "originalRefs": [
         {
@@ -11209,7 +10333,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h59-great-image",
       "original": "風行水上，渙；先王以享于帝立廟。",
       "originalRefs": [
         {
@@ -11235,7 +10358,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h59-yao-1",
           "original": "用拯馬壯，吉。",
           "originalRefs": [
             {
@@ -11245,7 +10367,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h59-image-1",
           "original": "初六之吉，順也。",
           "originalRefs": [
             {
@@ -11259,7 +10380,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h59-yao-2",
           "original": "渙奔其机，悔亡。",
           "originalRefs": [
             {
@@ -11269,7 +10389,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h59-image-2",
           "original": "渙奔其机，得願也。",
           "originalRefs": [
             {
@@ -11283,7 +10402,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h59-yao-3",
           "original": "渙其躬，无悔。",
           "originalRefs": [
             {
@@ -11293,7 +10411,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h59-image-3",
           "original": "渙其躬，志在外也。",
           "originalRefs": [
             {
@@ -11307,7 +10424,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h59-yao-4",
           "original": "渙其羣，元吉。渙有丘，匪夷所思。",
           "originalRefs": [
             {
@@ -11317,7 +10433,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h59-image-4",
           "original": "渙其羣元吉，光大也。",
           "originalRefs": [
             {
@@ -11331,7 +10446,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h59-yao-5",
           "original": "渙汗其大號，渙王居，无咎。",
           "originalRefs": [
             {
@@ -11341,7 +10455,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h59-image-5",
           "original": "王居无咎，正位也。",
           "originalRefs": [
             {
@@ -11355,7 +10468,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h59-yao-6",
           "original": "渙其血，去逖出，无咎。",
           "originalRefs": [
             {
@@ -11365,7 +10477,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h59-image-6",
           "original": "渙其血，逺害也。",
           "originalRefs": [
             {
@@ -11381,7 +10492,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 60,
     "statement": {
-      "id": "h60-statement",
       "original": "節：亨。苦節不可貞。",
       "originalRefs": [
         {
@@ -11391,7 +10501,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h60-tuan",
       "original": "節，亨。剛柔分而剛得中。苦節不可貞，其道窮也。說以行險，當位以節，中正以通。天地節而四時成，節以制度，不傷財，不害民。",
       "originalRefs": [
         {
@@ -11401,7 +10510,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h60-great-image",
       "original": "澤上有水，節；君子以制數度，議德行。",
       "originalRefs": [
         {
@@ -11427,7 +10535,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h60-yao-1",
           "original": "不出户庭，无咎。",
           "originalRefs": [
             {
@@ -11437,7 +10544,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h60-image-1",
           "original": "不出户庭，知通塞也。",
           "originalRefs": [
             {
@@ -11451,7 +10557,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h60-yao-2",
           "original": "不出門庭，凶。",
           "originalRefs": [
             {
@@ -11461,7 +10566,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h60-image-2",
           "original": "不出門庭凶，失時極也。",
           "originalRefs": [
             {
@@ -11475,7 +10579,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h60-yao-3",
           "original": "不節若，則嗟若，无咎。",
           "originalRefs": [
             {
@@ -11485,7 +10588,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h60-image-3",
           "original": "不節之嗟，又誰咎也。",
           "originalRefs": [
             {
@@ -11499,7 +10601,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h60-yao-4",
           "original": "安節，亨。",
           "originalRefs": [
             {
@@ -11509,7 +10610,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h60-image-4",
           "original": "安節之亨，承上道也。",
           "originalRefs": [
             {
@@ -11523,7 +10623,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h60-yao-5",
           "original": "甘節，吉。往有尚。",
           "originalRefs": [
             {
@@ -11533,7 +10632,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h60-image-5",
           "original": "甘節之吉，居位中也。",
           "originalRefs": [
             {
@@ -11547,7 +10645,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h60-yao-6",
           "original": "苦節，貞凶，悔亡。",
           "originalRefs": [
             {
@@ -11557,7 +10654,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h60-image-6",
           "original": "苦節貞凶，其道窮也。",
           "originalRefs": [
             {
@@ -11573,7 +10669,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 61,
     "statement": {
-      "id": "h61-statement",
       "original": "中孚：豚魚吉，利渉大川，利貞。",
       "originalRefs": [
         {
@@ -11583,7 +10678,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h61-tuan",
       "original": "中孚，柔在内而剛得中，說而巽，孚，乃化邦也。豚魚吉，信及豚魚也。利渉大川，乘木舟虛也。中孚以利貞，乃應乎天也。",
       "originalRefs": [
         {
@@ -11593,7 +10687,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h61-great-image",
       "original": "澤上有風，中孚；君子以議獄緩死。",
       "originalRefs": [
         {
@@ -11619,7 +10712,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h61-yao-1",
           "original": "虞吉，有它不燕。",
           "originalRefs": [
             {
@@ -11629,7 +10721,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h61-image-1",
           "original": "初九虞吉，志未變也。",
           "originalRefs": [
             {
@@ -11643,7 +10734,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h61-yao-2",
           "original": "鳴鶴在隂，其子和之。我有好爵，吾與爾靡之。",
           "originalRefs": [
             {
@@ -11653,7 +10743,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h61-image-2",
           "original": "其子和之，中心願也。",
           "originalRefs": [
             {
@@ -11667,7 +10756,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h61-yao-3",
           "original": "得敵，或鼔或罷，或泣或歌。",
           "originalRefs": [
             {
@@ -11677,7 +10765,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h61-image-3",
           "original": "或鼔或罷，位不當也。",
           "originalRefs": [
             {
@@ -11691,7 +10778,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h61-yao-4",
           "original": "月㡬望，馬匹亡，无咎。",
           "originalRefs": [
             {
@@ -11701,7 +10787,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h61-image-4",
           "original": "馬匹亡，絶類上也。",
           "originalRefs": [
             {
@@ -11715,7 +10800,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h61-yao-5",
           "original": "有孚攣如，无咎。",
           "originalRefs": [
             {
@@ -11725,7 +10809,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h61-image-5",
           "original": "有孚攣如，位正當也。",
           "originalRefs": [
             {
@@ -11739,7 +10822,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h61-yao-6",
           "original": "翰音登于天，貞凶。",
           "originalRefs": [
             {
@@ -11749,7 +10831,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h61-image-6",
           "original": "翰音登于天，何可長也。",
           "originalRefs": [
             {
@@ -11765,7 +10846,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 62,
     "statement": {
-      "id": "h62-statement",
       "original": "小過：亨，利貞。可小事，不可大事。飛鳥遺之音，不宜上，宜下，大吉。",
       "originalRefs": [
         {
@@ -11775,7 +10855,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h62-tuan",
       "original": "小過，小者過而亨也。過以利貞，與時行也。柔得中，是以小事吉也；剛失位而不中，是以不可大事也。有飛鳥之象焉。飛鳥遺之音，不宜上，宜下，大吉，上逆而下順也。",
       "originalRefs": [
         {
@@ -11785,7 +10864,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h62-great-image",
       "original": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
       "originalRefs": [
         {
@@ -11811,7 +10889,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h62-yao-1",
           "original": "飛鳥以凶。",
           "originalRefs": [
             {
@@ -11821,7 +10898,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h62-image-1",
           "original": "飛鳥以凶，不可如何也。",
           "originalRefs": [
             {
@@ -11835,7 +10911,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h62-yao-2",
           "original": "過其祖，遇其妣；不及其君，遇其臣，无咎。",
           "originalRefs": [
             {
@@ -11845,7 +10920,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h62-image-2",
           "original": "不及其君，臣不可過也。",
           "originalRefs": [
             {
@@ -11859,7 +10933,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h62-yao-3",
           "original": "弗過防之，從或戕之，凶。",
           "originalRefs": [
             {
@@ -11869,7 +10942,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h62-image-3",
           "original": "從或戕之，凶如何也。",
           "originalRefs": [
             {
@@ -11883,7 +10955,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h62-yao-4",
           "original": "无咎，弗過遇之。往厲必戒，勿用永貞。",
           "originalRefs": [
             {
@@ -11893,7 +10964,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h62-image-4",
           "original": "弗過遇之，位不當也。往厲必戒，終不可長也。",
           "originalRefs": [
             {
@@ -11907,7 +10977,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h62-yao-5",
           "original": "密雲不雨，自我西郊，公弋取彼在穴。",
           "originalRefs": [
             {
@@ -11917,7 +10986,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h62-image-5",
           "original": "密雲不雨，已上也。",
           "originalRefs": [
             {
@@ -11931,7 +10999,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h62-yao-6",
           "original": "弗遇過之，飛鳥離之，凶，是謂災眚。",
           "originalRefs": [
             {
@@ -11941,7 +11008,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h62-image-6",
           "original": "弗遇過之，已亢也。",
           "originalRefs": [
             {
@@ -11957,7 +11023,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 63,
     "statement": {
-      "id": "h63-statement",
       "original": "既濟：亨小，利貞。初吉終亂。",
       "originalRefs": [
         {
@@ -11967,7 +11032,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h63-tuan",
       "original": "既濟，亨，小者亨也。利貞，剛柔正而位當也。初吉，柔得中也。終止則亂，其道窮也。",
       "originalRefs": [
         {
@@ -11977,7 +11041,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h63-great-image",
       "original": "水在火上，既濟；君子以思患而豫防之。",
       "originalRefs": [
         {
@@ -12003,7 +11066,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "id": "h63-yao-1",
           "original": "曵其輪，濡其尾，无咎。",
           "originalRefs": [
             {
@@ -12013,7 +11075,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h63-image-1",
           "original": "曵其輪，義无咎也。",
           "originalRefs": [
             {
@@ -12027,7 +11088,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "id": "h63-yao-2",
           "original": "婦喪其茀，勿逐，七日得。",
           "originalRefs": [
             {
@@ -12037,7 +11097,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h63-image-2",
           "original": "七日得，以中道也。",
           "originalRefs": [
             {
@@ -12051,7 +11110,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "id": "h63-yao-3",
           "original": "髙宗伐鬼方，三年克之，小人勿用。",
           "originalRefs": [
             {
@@ -12061,7 +11119,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h63-image-3",
           "original": "三年克之，憊也。",
           "originalRefs": [
             {
@@ -12075,7 +11132,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "id": "h63-yao-4",
           "original": "繻有衣袽，終日戒。",
           "originalRefs": [
             {
@@ -12085,7 +11141,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h63-image-4",
           "original": "終日戒，有所疑也。",
           "originalRefs": [
             {
@@ -12099,7 +11154,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "id": "h63-yao-5",
           "original": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
           "originalRefs": [
             {
@@ -12109,7 +11163,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h63-image-5",
           "original": "東鄰殺牛，不如西鄰之時也。實受其福，吉大來也。",
           "originalRefs": [
             {
@@ -12123,7 +11176,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "id": "h63-yao-6",
           "original": "濡其首，厲。",
           "originalRefs": [
             {
@@ -12133,7 +11185,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h63-image-6",
           "original": "濡其首厲，何可久也。",
           "originalRefs": [
             {
@@ -12149,7 +11200,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 64,
     "statement": {
-      "id": "h64-statement",
       "original": "未濟：亨。小狐汔濟，濡其尾，无攸利。",
       "originalRefs": [
         {
@@ -12159,7 +11209,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "tuan": {
-      "id": "h64-tuan",
       "original": "未濟，亨，柔得中也。小狐汔濟，未出中也。濡其尾，无攸利，不續終也。雖不當位，剛柔應也。",
       "originalRefs": [
         {
@@ -12169,7 +11218,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "id": "h64-great-image",
       "original": "火在水上，未濟；君子以慎辨物居方。",
       "originalRefs": [
         {
@@ -12195,7 +11243,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "id": "h64-yao-1",
           "original": "濡其尾，吝。",
           "originalRefs": [
             {
@@ -12205,7 +11252,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h64-image-1",
           "original": "濡其尾，亦不知極也。",
           "originalRefs": [
             {
@@ -12219,7 +11265,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "id": "h64-yao-2",
           "original": "曵其輪，貞吉。",
           "originalRefs": [
             {
@@ -12229,7 +11274,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h64-image-2",
           "original": "九二貞吉，中以行正也。",
           "originalRefs": [
             {
@@ -12243,7 +11287,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "id": "h64-yao-3",
           "original": "未濟，征凶，利渉大川。",
           "originalRefs": [
             {
@@ -12253,7 +11296,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h64-image-3",
           "original": "未濟征凶，位不當也。",
           "originalRefs": [
             {
@@ -12267,7 +11309,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "id": "h64-yao-4",
           "original": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
           "originalRefs": [
             {
@@ -12277,7 +11318,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h64-image-4",
           "original": "貞吉悔亡，志行也。",
           "originalRefs": [
             {
@@ -12291,7 +11331,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "id": "h64-yao-5",
           "original": "貞吉，无悔，君子之光，有孚，吉。",
           "originalRefs": [
             {
@@ -12301,7 +11340,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h64-image-5",
           "original": "君子之光，其暉吉也。",
           "originalRefs": [
             {
@@ -12315,7 +11353,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "id": "h64-yao-6",
           "original": "有孚于飲酒，无咎。濡其首，有孚失是。",
           "originalRefs": [
             {
@@ -12325,7 +11362,6 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           ]
         },
         "smallImage": {
-          "id": "h64-image-6",
           "original": "飲酒濡首，亦不知節也。",
           "originalRefs": [
             {

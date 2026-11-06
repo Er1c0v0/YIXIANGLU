@@ -2,15 +2,15 @@
   {
     "id": "review-imagery-qian-nature-classroom",
     "subjectId": "imagery-qian-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "ed388e1327c0c476ea06564b610af77cec6325ab5632ab73ff2505e45c297878",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "f1e8ec4df6d89792b12bdd732dd37647be2f00aa011215f9ff4899addb83fc1c",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／乾"
       }
     ],
     "issues": []
@@ -18,15 +18,15 @@
   {
     "id": "review-imagery-kun-nature-classroom",
     "subjectId": "imagery-kun-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "bf9b4f693218551ed9ced47f0b10929027cc2a460ec5f21a0f8428509b538cbc",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "1d7b0881c72097bce2236dd5d09e67b79ff466992e3240eb739c6932cf1478fe",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／坤"
       }
     ],
     "issues": []
@@ -34,15 +34,15 @@
   {
     "id": "review-imagery-zhen-nature-classroom",
     "subjectId": "imagery-zhen-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "23fb98dd4c00a8f537a3f1413dca0b5b270c9c4872ce70740e6fdc3b5d665cba",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "c30925739a28f8fa8c0bfe68b9d8b12977c0b7b781ce257fbcb87e3f66ab1af8",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／震"
       }
     ],
     "issues": []
@@ -50,15 +50,15 @@
   {
     "id": "review-imagery-xun-nature-classroom",
     "subjectId": "imagery-xun-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "77c85349fdc7d225185cd9a1e0747ff56ee82657a34630cb8dc049edbc963318",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "7e28187b86558907909aa3086ca4abe314c5a9b1d2a3fc763f6403d8a48fca60",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／巽"
       }
     ],
     "issues": []
@@ -66,15 +66,15 @@
   {
     "id": "review-imagery-kan-nature-classroom",
     "subjectId": "imagery-kan-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "42d0b649ee2c2036d312d89b1bc5a5513f4607b3975d38ef1c0e0fa4a4c4c858",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "8b9e1a71ff657427888bf2dbdeecf3ca9e8402e02e74dec6b7e41584696bad17",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／坎"
       }
     ],
     "issues": []
@@ -82,15 +82,15 @@
   {
     "id": "review-imagery-li-nature-classroom",
     "subjectId": "imagery-li-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "bb091da5541e569c5ba49774a7855619c8a11ec1ab30427ac1beac05b33b7f22",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "ddb7aae3ad908f006330d3b912c7dac07ace135426dd75aa6d74fc70c3d6e283",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／离"
       }
     ],
     "issues": []
@@ -98,15 +98,15 @@
   {
     "id": "review-imagery-gen-nature-classroom",
     "subjectId": "imagery-gen-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "9b4c7fb56b63ff9373710fdcea07d0fab064ab79a468ff2d711fea77e7bc8303",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "7e2f81cc104d449cae999bb93ed00c67a0eac912f4b0ce91faf6e323599ac919",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／艮"
       }
     ],
     "issues": []
@@ -114,15 +114,15 @@
   {
     "id": "review-imagery-dui-nature-classroom",
     "subjectId": "imagery-dui-nature-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "87e9c8e7220e9277ac0c101d83e4adc1b0940515504220d0282969559c398d41",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "4e8e8c4981a64960f6d440e9693f18cb2764b478c71aa7e70b0766ecc25e1aef",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／自然／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／自然／兑"
       }
     ],
     "issues": []
@@ -130,15 +130,15 @@
   {
     "id": "review-imagery-qian-quality-classroom",
     "subjectId": "imagery-qian-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "35848c19b93e1803d645ec3a2b9d9949aac1fe11361165ff712565c1fb033a34",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "2fc1201b5e95432cb9525979aacac82d32a51cd3432e8c383cf4a4b5ddb97c66",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／乾"
       }
     ],
     "issues": []
@@ -146,15 +146,15 @@
   {
     "id": "review-imagery-kun-quality-classroom",
     "subjectId": "imagery-kun-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "961a548080a19db95643c16cf3c022d0f99690070bf8989f50675579013875b9",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "fa20539fe11abed27b774f6aa4071ce5a1069c56607cb306da8a10cace5952f4",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／坤"
       }
     ],
     "issues": []
@@ -162,15 +162,15 @@
   {
     "id": "review-imagery-zhen-quality-classroom",
     "subjectId": "imagery-zhen-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "14365e8c553745df6928ba7eeab8afdb7a145d34dcfd02d7554869f773d19a98",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "90cfd95ac05c603f0493aeddcb55462af45d770a6473dc89e827587f0d129dac",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／震"
       }
     ],
     "issues": []
@@ -178,15 +178,15 @@
   {
     "id": "review-imagery-xun-quality-classroom",
     "subjectId": "imagery-xun-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "ff56f9900c485a78746daea54afbbba1d8c54b4121e7779dc971d2f275d437a4",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "b1ac145b5161f464dfef082d9c2703e5d0a752ee6b054acf678829e78181baa0",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／巽"
       }
     ],
     "issues": []
@@ -194,15 +194,15 @@
   {
     "id": "review-imagery-kan-quality-classroom",
     "subjectId": "imagery-kan-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "0aa42a5c7264b033783d7ee477d0be3db618524ccef91421fad6588a8aad87d8",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "612df74744ba5c5282d9275e77f57aba00d373d77547b687dbadc93c4badeaea",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／坎"
       }
     ],
     "issues": []
@@ -210,15 +210,15 @@
   {
     "id": "review-imagery-li-quality-classroom",
     "subjectId": "imagery-li-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "45846f611bb5d9bf6e504377d41d1aaa9f86939fa3a3fbfc597098315a9a43ba",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "c717473e71aefe862b264311cfcc840738fa5537487bc2e19980851126126ce6",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／离"
       }
     ],
     "issues": []
@@ -226,15 +226,15 @@
   {
     "id": "review-imagery-gen-quality-classroom",
     "subjectId": "imagery-gen-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "1b3ff8c5f70bdb687d0593f39bdbbb59f25992f7fcea081b43ee41d7ac5e0c15",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "334dacc4c94ca573f01d8fbc2e0c66d89ed49da766ecb2afaad81a33d01dc08f",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／艮"
       }
     ],
     "issues": []
@@ -242,15 +242,15 @@
   {
     "id": "review-imagery-dui-quality-classroom",
     "subjectId": "imagery-dui-quality-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "64261adb6e4f3390032ac134df189ea08c9039e196784e441ca93fb25071cbc6",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "28b983646b4bfddd077d12e8ab4c8e1ddbb434820a14d7b033a838ed8f582f4d",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／卦性／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／卦性／兑"
       }
     ],
     "issues": []
@@ -258,15 +258,15 @@
   {
     "id": "review-imagery-qian-family-classroom",
     "subjectId": "imagery-qian-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "820e9df28b2b8058b2a9af20535d449ea00fae3eb5301799c824e81e45a0f7ef",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "557a230127414c445aeba2453fc2a45d91a7b0d395f2279fbcf209beeab1b420",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／乾"
       }
     ],
     "issues": []
@@ -274,15 +274,15 @@
   {
     "id": "review-imagery-kun-family-classroom",
     "subjectId": "imagery-kun-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "a81ffdf05dfc858705da7bfb9f6533d7999ce87ef9522b24f525f7f721f693ab",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "cc957be4e00e1a2e6160cfe4edd6856a0652a9518cde5c25884aba54d3c3ee9b",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／坤"
       }
     ],
     "issues": []
@@ -290,15 +290,15 @@
   {
     "id": "review-imagery-zhen-family-classroom",
     "subjectId": "imagery-zhen-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "82de384c7c3be9431782a7c33398b61e132231ab9b376d343e3dd56884e83190",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "9e1be2c17b616ca0bcbd6294ea6ab0a6c978232ad14aaac4cfee0a309a7d8cf7",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／震"
       }
     ],
     "issues": []
@@ -306,15 +306,15 @@
   {
     "id": "review-imagery-xun-family-classroom",
     "subjectId": "imagery-xun-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "4b511f9aa31d193007b1f27aa1d2cf9a777ee386e352778849e7f0aad49d2c7c",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "b6787b0c2ee6d6fe73318a07d7869d1d4c4e0895752420138932ba0eef7c6684",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／巽"
       }
     ],
     "issues": []
@@ -322,15 +322,15 @@
   {
     "id": "review-imagery-kan-family-classroom",
     "subjectId": "imagery-kan-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "14eee673346e6720f8769b335bb5a8877fdedfff3b3a4f27ff6ede6305c11fd2",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "5510183e2d5206d1470f12a74c1c7a71d9e5f4cb3e7929a7a2624d32ad91d1bf",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／坎"
       }
     ],
     "issues": []
@@ -338,15 +338,15 @@
   {
     "id": "review-imagery-li-family-classroom",
     "subjectId": "imagery-li-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "331f6b46232f903f59b7aebe9ee8ef3666fed6b4f73b9105a38033ca373cdcc4",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "1b4d34b0fceda855065b6af189c200a2860904d3647e1b375c457b740d831bcc",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／离"
       }
     ],
     "issues": []
@@ -354,15 +354,15 @@
   {
     "id": "review-imagery-gen-family-classroom",
     "subjectId": "imagery-gen-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "64688ab75b8d1443918aab42cfeb451d9edf803de6a878867e1f3e7b4f0d6f44",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "293da31212074641122f777382edf83300d0fed02b12183c6b6cd120e0f4f488",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／艮"
       }
     ],
     "issues": []
@@ -370,15 +370,15 @@
   {
     "id": "review-imagery-dui-family-classroom",
     "subjectId": "imagery-dui-family-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "bd6f4095221bf1fedc155ea895d50c5eff435d426520c583a87a6944434bdbce",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "3d3ce61b9aff6c465285311f78c5b6de536eca732c900e880ed8100e15f42f3f",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／人伦／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／人伦／兑"
       }
     ],
     "issues": []
@@ -386,15 +386,15 @@
   {
     "id": "review-imagery-qian-animal-classroom",
     "subjectId": "imagery-qian-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "bea761fdacefe53572fd95467f8e755573e584ab3ac364e4e3d4d2e2daf88c7e",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "e7117f74a85ef21da0b57cdade9912d9b8215c9e68ff457dd0ba7ead1d4b48c7",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／乾"
       }
     ],
     "issues": []
@@ -402,15 +402,15 @@
   {
     "id": "review-imagery-kun-animal-classroom",
     "subjectId": "imagery-kun-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "97f3f6a9f3f10016265923d41118a569218a9bfcff03fb7357bf5c504234eb2e",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "1917451dec962e22ff067876dede79fd9602ee037e6e713fae7e31e04f92b123",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／坤"
       }
     ],
     "issues": []
@@ -418,15 +418,15 @@
   {
     "id": "review-imagery-zhen-animal-classroom",
     "subjectId": "imagery-zhen-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "aa16d569a2f23ef5ce73fb78150fe42587a68a93e9927d5099d9f05c6c9beadf",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "afc802944cb9da79a14562c6270a075dedc17e820986742b7eeeaee7a5f3c888",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／震"
       }
     ],
     "issues": []
@@ -434,15 +434,15 @@
   {
     "id": "review-imagery-xun-animal-classroom",
     "subjectId": "imagery-xun-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "59c3961bae8011ddd43954cab1dfe71bc1b13951c5bba4e3222b38fa92be35fb",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "548c0e90c6039f8a91d34fe7110068f477752572e9bc85a335a2b61ddac3cc8f",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／巽"
       }
     ],
     "issues": []
@@ -450,15 +450,15 @@
   {
     "id": "review-imagery-kan-animal-classroom",
     "subjectId": "imagery-kan-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "9489dde5605ed91728fac7a3c8b63a7daba909d517f37bbe5c3aea6fbe0b4b3c",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "42c2d291b74080c57480d3c4049443255fd81108c97aab1e0ff0402910d79df3",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／坎"
       }
     ],
     "issues": []
@@ -466,15 +466,15 @@
   {
     "id": "review-imagery-li-animal-classroom",
     "subjectId": "imagery-li-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "4635c0df2a7c1c46f8f1e04ec179a60cde697fe9c5a99aaff03068d1ba4bffb4",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "3f7a2c46de656b336fd96817145455dc01072482b203f7932b1baa2c0de7cf71",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／离"
       }
     ],
     "issues": []
@@ -482,15 +482,15 @@
   {
     "id": "review-imagery-gen-animal-classroom",
     "subjectId": "imagery-gen-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "715dbc1622439dae71203a73030cf697e62596b70fadfbc9fee30a583036becb",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "3c3e4a698a588d5e53e463d177f32e844cc72bfcb0e2ac803829858cedf44f6b",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／艮"
       }
     ],
     "issues": []
@@ -498,15 +498,15 @@
   {
     "id": "review-imagery-dui-animal-classroom",
     "subjectId": "imagery-dui-animal-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "f7a800f75c84fdc029b9a18eae4bcaa02178c56d754f4caebb2e24e8ed4e4c69",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "d8b61c455ee04e90c12610b5795d5e1c5cb9b5e06dccf3ba3828f45a4a63925e",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／动物／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／动物／兑"
       }
     ],
     "issues": []
@@ -514,15 +514,15 @@
   {
     "id": "review-imagery-qian-body-classroom",
     "subjectId": "imagery-qian-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "1b74a096a80b94535935c0c645ded7f66ea2c7f3e19f2f5af5e19c3b93318276",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "ca17597026b085966f772a6d271f43874baa8a0d7c2e61852617bb7defe9c23b",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／乾"
       }
     ],
     "issues": []
@@ -530,15 +530,15 @@
   {
     "id": "review-imagery-kun-body-classroom",
     "subjectId": "imagery-kun-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "2df32034dc3bd6c611ea91b096496fc32297dcf3a42db953f6988e8d58748fe1",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "ef2c906161b8e0494cfc90696c4f0ad380a8d7244d17bc2c0c252dc8d05ca356",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／坤"
       }
     ],
     "issues": []
@@ -546,15 +546,15 @@
   {
     "id": "review-imagery-zhen-body-classroom",
     "subjectId": "imagery-zhen-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "57e94dac9cac0fca01b28ef16f2dab7ebb142bd2ceb9f64a2745d7cba44cc16c",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "83bdd8135b5f55d4eae32c57322e39037b4aff666008d5da4e9f5cefd448e50e",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／震"
       }
     ],
     "issues": []
@@ -562,15 +562,15 @@
   {
     "id": "review-imagery-xun-body-classroom",
     "subjectId": "imagery-xun-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "ecaaecf77374259ce55765cf4acfc6d388dc719c7dc28c26a6f383a46ae4ea23",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "19a4dd72cbcb9c12740a4928ef9e27fa6b0d0894930ab98e410627555383f269",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／巽"
       }
     ],
     "issues": []
@@ -578,15 +578,15 @@
   {
     "id": "review-imagery-kan-body-classroom",
     "subjectId": "imagery-kan-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "b683ace95953cee3efdec092957dd52c08c2e25021bc7bc34910213a77f90f0c",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "0ccd313b9501ffed0b407c536ad6620e594436ee1a7737eddeb2658d6aa029fc",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／坎"
       }
     ],
     "issues": []
@@ -594,15 +594,15 @@
   {
     "id": "review-imagery-li-body-classroom",
     "subjectId": "imagery-li-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "76670832aa18d660f4c1f2c9098daf13001754df4fcac95d2e4e4acc1e5cdd52",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "6158505e68024406f67b958779793772a336f18deabd8b098b2d9160c1a528c3",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／离"
       }
     ],
     "issues": []
@@ -610,15 +610,15 @@
   {
     "id": "review-imagery-gen-body-classroom",
     "subjectId": "imagery-gen-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "d51cc33900452dccc5c93d1ec6658c4ec170f0f53a9cb82102f7c7805aae396e",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "47f93ae84cb61d66e08852f9b88be366780f1d4c162f7c8859a75366ae879040",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／艮"
       }
     ],
     "issues": []
@@ -626,15 +626,15 @@
   {
     "id": "review-imagery-dui-body-classroom",
     "subjectId": "imagery-dui-body-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "e65c30fc1605de9ce8699e18aa1c44430befb68b37ab413d7061aaa78938ec37",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "b0d4198319b33524eccf03336f3c31d51d0df0161377d7bf843d49aac05799f1",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／身体／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／身体／兑"
       }
     ],
     "issues": []
@@ -642,15 +642,15 @@
   {
     "id": "review-imagery-qian-later-direction-classroom",
     "subjectId": "imagery-qian-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "89671213c1402cdbe3794664850d7163012daa3f9ce008b65b072c2c552e1927",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "5a736e153e9821b8be62b2e6725afc6abe8a9eb7ece4d1604f5b12008a3b3092",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／乾"
       }
     ],
     "issues": []
@@ -658,15 +658,15 @@
   {
     "id": "review-imagery-kun-later-direction-classroom",
     "subjectId": "imagery-kun-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "396c782a1098c0189716b7dc05fa41bf59b757dd0ec00524df37d2bec0c8a8ab",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "7b97b883206453bd28d057cf75f312031a10d0153e31120f64c627539d31a85f",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／坤"
       }
     ],
     "issues": []
@@ -674,15 +674,15 @@
   {
     "id": "review-imagery-zhen-later-direction-classroom",
     "subjectId": "imagery-zhen-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "90223c25fcccdfacbaa1d186fe8cf905af2a0497daa25ce882db06c7c41e6b4a",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "d04f24ef60bcfc776bee29a43564eb5ccb08f92280e4a8a81f4f2b21059de3da",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／震"
       }
     ],
     "issues": []
@@ -690,15 +690,15 @@
   {
     "id": "review-imagery-xun-later-direction-classroom",
     "subjectId": "imagery-xun-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "0cc76225c5dd6d91cb1c5ae4a8f33306293321e6c82e17399b3039f873342be5",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "6d5bdf45c7dba78991a8159e02e9805e84af5f4ed196a8b08067b0d2ae9b0dba",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／巽"
       }
     ],
     "issues": []
@@ -706,15 +706,15 @@
   {
     "id": "review-imagery-kan-later-direction-classroom",
     "subjectId": "imagery-kan-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "e9da57a44ba2f5b87cfa7441d99864426c35c2085c918723024b4d5c30e5f817",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "125acbf3283a5c2586956fa4a0909aa1c43bd1c1c05f7745010658c3da6be660",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／坎"
       }
     ],
     "issues": []
@@ -722,15 +722,15 @@
   {
     "id": "review-imagery-li-later-direction-classroom",
     "subjectId": "imagery-li-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "a06a16c5a352ef9fc75fc8bd03a224d16fc7140eaabd206a22540dc35c66ca9d",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "bd8ed6249c84d03e2057f061bdb645e202be8dce32d86c7ed608308b183af139",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／离"
       }
     ],
     "issues": []
@@ -738,15 +738,15 @@
   {
     "id": "review-imagery-gen-later-direction-classroom",
     "subjectId": "imagery-gen-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "2c127320653a8c45b53edfd39a1fadcc34ded774c85d2ccb44d61bc5204445e1",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "ce0e9da41e3fbade6b8cffece9e96af7f5ca202278ead59f992babe9b2f0fc7f",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／艮"
       }
     ],
     "issues": []
@@ -754,15 +754,15 @@
   {
     "id": "review-imagery-dui-later-direction-classroom",
     "subjectId": "imagery-dui-later-direction-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "b5a3735f813d13017f426162aafab09cead961c979a5943784cda3c8580da9ce",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "9abc43911bac9813da20477c7d978270a20d5235172ded7c9c117f34696b9609",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／后天方位／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／后天方位／兑"
       }
     ],
     "issues": []
@@ -770,15 +770,15 @@
   {
     "id": "review-imagery-qian-gate-qimen",
     "subjectId": "imagery-qian-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "70d2fb2ebeb8fee2fe74ae7f6e84995eeb5c000393b14249481f3cafe0d87e64",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "5c631ee52cb97f240c357d8cd6b00c64ed899ddf950af8bcba56aab8fe8810e9",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／乾"
       }
     ],
     "issues": []
@@ -786,15 +786,15 @@
   {
     "id": "review-imagery-kun-gate-qimen",
     "subjectId": "imagery-kun-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "a6d9954212be42cf7bc25317589f3a76f96dbbdb4c95913a7759918ddf8b273d",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "8a72105b9ddae2c49e17fc08b954447a73e3e24a3c5ad0d17de773fe997fea4b",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／坤"
       }
     ],
     "issues": []
@@ -802,15 +802,15 @@
   {
     "id": "review-imagery-zhen-gate-qimen",
     "subjectId": "imagery-zhen-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "1d00dd51ea42fa1a3ac2faf9cc92c8a63c40500d4ad5e8ccf1f617fb5d13d783",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "8824793256a3a6c5b76036f7cf18b82310f9874b09a87cf21cc7f19d1963e203",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／震"
       }
     ],
     "issues": []
@@ -818,15 +818,15 @@
   {
     "id": "review-imagery-xun-gate-qimen",
     "subjectId": "imagery-xun-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "4d548332181198aa9f74dbbbab50e26d30d482f9616990006ced0e0165ebfcb1",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "0c174627dc5b78bdf97a03eddfa77dd39da1b7b488a422625e230b5b8f6c7602",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／巽"
       }
     ],
     "issues": []
@@ -834,15 +834,15 @@
   {
     "id": "review-imagery-kan-gate-qimen",
     "subjectId": "imagery-kan-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "e0c52da12e1fc0819d3453fb0717ee5d23e1437024200d55aac30565fe7bde8f",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "562cc97fcbf3820a4aaccfca23c34c53ba997c1ab3a53a6577e99b8197e7c80e",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／坎"
       }
     ],
     "issues": []
@@ -850,15 +850,15 @@
   {
     "id": "review-imagery-li-gate-qimen",
     "subjectId": "imagery-li-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "d6b595d1a76e8fb12486f5d2623df4cd74503ea948b733e7f13d2b98ae2cd7d9",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "d7287b67cd244650d0faa977d8c60751ca53d700af6be09de94103abaf9c744e",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／离"
       }
     ],
     "issues": []
@@ -866,15 +866,15 @@
   {
     "id": "review-imagery-gen-gate-qimen",
     "subjectId": "imagery-gen-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "6ba0a77f6bf267dc937d4cf3d1e781e3c115bd4a750b5c6aaf5e554badc178c5",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "f143e06bb758a3d7d1ce011f41d0bf735aa75339da4e8bd82d119d9bf55f49e3",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／艮"
       }
     ],
     "issues": []
@@ -882,15 +882,15 @@
   {
     "id": "review-imagery-dui-gate-qimen",
     "subjectId": "imagery-dui-gate-qimen",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "22f429db4896d465d60b8a368a025a3776d7bf50bc50fc9191ec3f2eb570feb3",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "40854941b2e16716d8cb048845eb91761b1c06e605179e654e52031ecbefd6a1",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／八门／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／八门／兑"
       }
     ],
     "issues": []
@@ -898,15 +898,15 @@
   {
     "id": "review-imagery-qian-season-classroom",
     "subjectId": "imagery-qian-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "4dc53b91f1add7268d42eb71ebba3023451bfed2cf4d9b75ad24f83f3a8366a5",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "fc569f7ee1ea503cabb58a58d96278711d33bb8b517f95a9a923773cc937e1aa",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／乾"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／乾"
       }
     ],
     "issues": []
@@ -914,15 +914,15 @@
   {
     "id": "review-imagery-kun-season-classroom",
     "subjectId": "imagery-kun-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "dea110605daded6fc5e41a9ef4d27b7db2850704024bc5f5c39ef69c0e8a1029",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "cbe8eba202c458d4b761c4f5dc650ab594f826866dba0cf9a95887db0d22e83d",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／坤"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／坤"
       }
     ],
     "issues": []
@@ -930,15 +930,15 @@
   {
     "id": "review-imagery-zhen-season-classroom",
     "subjectId": "imagery-zhen-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "63b01b6b41ada05d2d192b0c31d53416a20c0d275de0a6951d59a89bf414803d",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "7d6c65ad60640a310de54d0bc0b50b8d524c49021b7a3c8a14c59e0003f7bae9",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／震"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／震"
       }
     ],
     "issues": []
@@ -946,15 +946,15 @@
   {
     "id": "review-imagery-xun-season-classroom",
     "subjectId": "imagery-xun-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "e6fb374179c53d65d34ca52bb4f722e80fa0b249c3547c943aca4c4833c837e8",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "86dab08f664baccefdb55e61dfe32b9fb001a4360f7f2ef66c5cda3e30b3077b",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／巽"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／巽"
       }
     ],
     "issues": []
@@ -962,15 +962,15 @@
   {
     "id": "review-imagery-kan-season-classroom",
     "subjectId": "imagery-kan-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "53cf1e8004fa84ffcbab085c6a6b5692badb7b9b1c0a133b986de6ce10b88aee",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "cbb0010a510921e3bfc708942215cd4a25d5e7c7b1cbc5c9efa09177b47a3702",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／坎"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／坎"
       }
     ],
     "issues": []
@@ -978,15 +978,15 @@
   {
     "id": "review-imagery-li-season-classroom",
     "subjectId": "imagery-li-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "e370cbd34664bfa4b14c2a398f3aa9d161cd48c9bd05da22c045e58829bcb903",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "9c45ee723f89ae0819827fc45724c41ade5722e4ed7385ec2fa6480f2df3c5fe",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／离"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／离"
       }
     ],
     "issues": []
@@ -994,15 +994,15 @@
   {
     "id": "review-imagery-gen-season-classroom",
     "subjectId": "imagery-gen-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "055dc119d8065eccc4673fc787a486d20456162cb1857320f5921016c476fae3",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "95017fb579cd5bd0e147327c131ecfccf34616caef792c91be4f86e14b90ed74",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／艮"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／艮"
       }
     ],
     "issues": []
@@ -1010,15 +1010,15 @@
   {
     "id": "review-imagery-dui-season-classroom",
     "subjectId": "imagery-dui-season-classroom",
-    "method": "lookup-classroom-20261022",
-    "subjectHash": "fdbe32556460071ea8adcfc52f43b6e529af8a41a5d6ce0b4aee79fc0435809c",
+    "method": "classroom-migration-20261106",
+    "subjectHash": "052f628c7e7c1f7042b6bfaf0c591812eef1ab9feef8cb1c4363703493e4c69f",
     "originalStatus": "passed",
     "explanationStatus": "not-applicable",
     "independentReviewStatus": "pending",
     "checkedRefs": [
       {
-        "sourceId": "prd-classroom",
-        "locator": "docs/PRD.md §5.8／季节（课堂表）／兑"
+        "sourceId": "classroom-table",
+        "locator": "content/classroom.md／季节（课堂表）／兑"
       }
     ],
     "issues": []

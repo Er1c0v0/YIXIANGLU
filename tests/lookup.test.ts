@@ -41,14 +41,14 @@ test('全部登记检索词、规范化、同音、无结果及数字精确卦�
 
 test('课堂原表与五行生克的独立参照', () => {
   const order: TrigramId[] = ['qian','kun','zhen','xun','kan','li','gen','dui']
-  const rows = readFileSync('docs/PRD.md','utf8').split('\n').filter(line => /^\| (自然|卦性|人伦|动物|身体|后天方位|八门|季节（课堂表）) \|/.test(line))
+  const rows = readFileSync('content/classroom.md','utf8').split('\n').filter(line => /^\| (自然|卦性|人伦|动物|身体|后天方位|八门|季节（课堂表）) \|/.test(line))
   const categories = ['nature','quality','family','animal','body','later-direction','gate','season']
   assert.equal(rows.length, categories.length)
   rows.forEach((row,i) => {
     const cells = row.split('|').slice(2,-1).map(cell => cell.trim())
     assert.equal(cells.length, order.length)
     order.forEach((t,j) => {
-      const entry = dataset.imagery.find(e => e.trigram === t && e.category === categories[i] && e.refs.some(ref => ref.sourceId === 'prd-classroom'))!
+      const entry = dataset.imagery.find(e => e.trigram === t && e.category === categories[i] && e.refs.some(ref => ref.sourceId === 'classroom-table'))!
       assert.deepEqual(entry.values, [cells[j]])
     })
   })
@@ -56,5 +56,21 @@ test('课堂原表与五行生克的独立参照', () => {
   for (const relation of ['generates','controls'] as const) {
     const expected = cycles[relation].map((from,i,a) => `${from}:${a[(i+1)%5]}`).sort()
     assert.deepEqual(ELEMENT_RELATIONS.filter(e => e.relation === relation).map(e => `${e.from}:${e.to}`).sort(), expected)
+  }
+})
+
+test('八卦速查合并课堂与经传卦性，显示单个简体词', async () => {
+  let definition: any
+  Object.assign(globalThis, { Page: (value: any) => { definition = value } })
+  await import('../miniprogram/pages/trigrams/index')
+  // 使用实际页面的合并逻辑，仅模拟 data 更新，不模拟原生渲染。
+  const page = {
+    ...definition, data: structuredClone(definition.data),
+    setData(patch: Record<string, unknown>) { Object.assign(this.data, patch) },
+  }
+  const qualities = { qian: '健', kun: '顺', zhen: '动', xun: '入', kan: '陷', li: '丽', gen: '止', dui: '悦' }
+  for (const [id, quality] of Object.entries(qualities)) {
+    page.choose({ currentTarget: { dataset: { id } } })
+    assert.equal(page.data.groups.find((group: { id: string }) => group.id === 'quality').value, quality, id)
   }
 })

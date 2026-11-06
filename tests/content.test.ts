@@ -35,7 +35,7 @@ test('已复现字形问题回归', () => {
   for (const content of HEXAGRAM_CONTENT) {
     const blocks = [content.statement, content.tuan, content.greatImage, ...content.yao.flatMap(yao => [yao.text, yao.smallImage]), ...content.specialEntries.flatMap(entry => [entry.text, entry.smallImage])]
     // 这些录文字形已在模拟器中复现为卦形；通写正文，原字留在 notes。
-    for (const block of blocks) assert.doesNotMatch(block.original, /[𩔖𤼵𫉬𢘆]/u, `${block.id} 含已确认显示异常的字形`)
+    for (const block of blocks) assert.doesNotMatch(block.original, /[𩔖𤼵𫉬𢘆]/u, `第 ${content.id} 卦含已确认显示异常的字形`)
   }
   assert.ok(getContent(4)?.statement.original.startsWith('蒙：'))
 })

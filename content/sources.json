@@ -891,14 +891,14 @@
     "rightsNote": "古代经传为公有领域；电子录文署名维基文库贡献者，按 CC BY-SA 4.0 及附加条款使用。许可：https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
-    "id": "prd-classroom",
-    "title": "PRD所载课堂资料转录",
-    "authorOrCompiler": "原课堂表作者未详；PRD记录与本项目转录",
-    "edition": "docs/PRD.md §5.8“取象比类”八类表；仅依据PRD转录，未取得原照片或教材页码",
-    "provider": "本项目PRD",
-    "revisionOrSnapshot": "2026-10-22 · §5.8 · 八类×八卦",
-    "accessedAt": "2026-10-22",
-    "rightsNote": "课堂资料权利归原权利人；仅登记PRD中对应关系的转录，不据此宣称具有原照片或教材许可。"
+    "id": "classroom-table",
+    "title": "课堂资料转录：取象比类",
+    "authorOrCompiler": "原课堂表作者未详；本项目转录与独立归档",
+    "edition": "content/classroom.md“取象比类”八类表；从原docs/PRD.md §5.8原样迁移，仅为既有转录，未取得原照片或教材页码",
+    "provider": "本项目课堂资料档案",
+    "revisionOrSnapshot": "2026-10-22 转录 · 2026-11-06 独立归档 · 八类×八卦",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "课堂资料权利归原权利人；仅登记对应关系的转录，不据此宣称具有原照片或教材许可。"
   },
   {
     "id": "editorial-search",

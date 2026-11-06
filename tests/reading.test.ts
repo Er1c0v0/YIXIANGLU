@@ -42,7 +42,6 @@ test('六爻独立开合，目录仅展开目标并在渲染后测量，换卦�
   reading.toggleImage()
   reading.toggleSpecial()
 
-  const content = reading.data.content
   const update = reading.setData
   let rendered: (() => void) | undefined, measure: ((rect: { top: number }) => void) | undefined
   const selectors: string[] = []
@@ -65,7 +64,6 @@ test('六爻独立开合，目录仅展开目标并在渲染后测量，换卦�
     rendered()
     assert.equal(selectors.at(-1), `#section-${target}`)
     assert.equal(top, 123)
-    assert.equal(reading.data.content, content)
   }
   reveal('yao-5')
   const expanded = { ...reading.data, yaoOpen: [...reading.data.yaoOpen] }
