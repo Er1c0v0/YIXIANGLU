@@ -1,42 +1,42 @@
 [
   {
     "id": "review-h43-statement", "subjectId": "h43-statement", "method": "prototype-20261021",
-    "subjectHash": "712e62f90b7d560247b296ee638cc99b1e2c019682045192a658aa846ad6b337",
+    "subjectHash": "22548fde6fca98b20c8a19d069216c18a6a75191e5d19aaf3fde79237eb2f108",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 卦辞"}],
     "issues": []
   },
   {
     "id": "review-h43-tuan", "subjectId": "h43-tuan", "method": "prototype-20261021",
-    "subjectHash": "57048bab07a37d31923ac2dcc4b6bcb3d816419564bcbe4a7c9fc371cfac9169",
+    "subjectHash": "35424d4a1292ee0d4162b2c101d47865fe22ecaa79ab97ce27ef356e0494ed8c",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 彖曰 / 全段"}],
     "issues": []
   },
   {
     "id": "review-h43-great-image", "subjectId": "h43-great-image", "method": "prototype-20261021",
-    "subjectHash": "5d172e66be74e5a0851eb36f8467bce0cde3491e306aa1614e93adb591e626a9",
+    "subjectHash": "5e26990e9de99436449686d9fe33fd56d435fc4ca61bbb6c6a1dc2667ea0ebed",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 象曰 / 整卦大象"}],
     "issues": []
   },
   {
     "id": "review-h43-yao-1", "subjectId": "h43-yao-1", "method": "prototype-20261021",
-    "subjectHash": "b93716e51e8f24815d9145e4303fffe06d0c160333d3ee4d273a262881e5ef56",
+    "subjectHash": "2232cb7bc2d704c3262ea57bce84d57df8aa29525bc348c7bf7fb5dbce43ac95",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 初九"}],
     "issues": []
   },
   {
     "id": "review-h43-image-1", "subjectId": "h43-image-1", "method": "prototype-20261021",
-    "subjectHash": "5c3f09d12bc7158421c4d07e679e1816a3f11b9b4f50b0bdc0fde4537b82c084",
+    "subjectHash": "53cd787fdc31b49de0aa6e33f181e9081c9acca61d2b3a84ece07491c19be7bc",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 象曰 / 初九小象"}],
     "issues": []
   },
   {
     "id": "review-h43-yao-2", "subjectId": "h43-yao-2", "method": "prototype-20261021",
-    "subjectHash": "ad6340d69ef3adaad2de0e1e6c54a4ea062d60f83d61fe98b9b94718a92c4c0c",
+    "subjectHash": "8ba5b8507e7fecc160afa83f14e34a2964fae6370e517dcdc8f8c6c2a6146dcf",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 九二"}],
     "issues": []
@@ -50,35 +50,35 @@
   },
   {
     "id": "review-h43-yao-3", "subjectId": "h43-yao-3", "method": "prototype-20261021",
-    "subjectHash": "4a34e0558492266a8006978dcf36c4e6df4016a05a5678ff9fb2ce17dacce3d6",
+    "subjectHash": "48074b575f7f446c89e5601b1a8b3eb9d4cb01fe6f25f598818f1ad70137ee59",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 九三"}],
     "issues": []
   },
   {
     "id": "review-h43-image-3", "subjectId": "h43-image-3", "method": "prototype-20261021",
-    "subjectHash": "ad4396e4f530370d798c474b2b29483929a3c30015f0f188b21df6b912d032fc",
+    "subjectHash": "c23c2a4f8ee5943f21a2e156f26079e9ff984ac377a7a48d1331c7ce1c40ae8e",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 象曰 / 九三小象"}],
     "issues": []
   },
   {
     "id": "review-h43-yao-4", "subjectId": "h43-yao-4", "method": "prototype-20261021",
-    "subjectHash": "6fddeb370ef940712dc0f0103c7266c68da2dc0e3d4186432d8f31e71ed9b14c",
+    "subjectHash": "29e356d89e147e679ca08f8ba3a87ebff901a5546068f3ca5bdb07f9c80df868",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 九四"}],
     "issues": []
   },
   {
     "id": "review-h43-image-4", "subjectId": "h43-image-4", "method": "prototype-20261021",
-    "subjectHash": "bf97715676c2fcaea6d688f207d7604eaff58440217047b37ee9235154872ac9",
+    "subjectHash": "79fb5418cb2afe2f0d4e32c196732b611f6af31b352b6d6d1a58dc134ed8f934",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 象曰 / 九四小象"}],
     "issues": []
   },
   {
     "id": "review-h43-yao-5", "subjectId": "h43-yao-5", "method": "prototype-20261021",
-    "subjectHash": "006ac817dc3e62dc3b3ff0e85f2268056a26c81dcb4daef2b3f7759d82e3b758",
+    "subjectHash": "8a0e7ffb53a01449380017261956ac5fc5fe8338d4dec00fe205730d597879aa",
     "originalStatus": "passed", "explanationStatus": "pending",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 九五"}],
     "issues": ["莧陸植物取象有分歧，需专门复核"]
@@ -92,14 +92,14 @@
   },
   {
     "id": "review-h43-yao-6", "subjectId": "h43-yao-6", "method": "prototype-20261021",
-    "subjectHash": "8c5644486cd555d1d4504cdabcee717509072f16036fa274c70f3833a60fab30",
+    "subjectHash": "d207ec65b1137c64b0c24636cc2e6712387c7da9273f572c1d045660534c63e1",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 易經 / 上六"}],
     "issues": []
   },
   {
     "id": "review-h43-image-6", "subjectId": "h43-image-6", "method": "prototype-20261021",
-    "subjectHash": "edde338cf66e66739ac4e6af32929e6315a4a358a0ceafc6abda9e2335ecf247",
+    "subjectHash": "2a43496cc6a7f5523caea7d3898171cc58cfc906a14fe19b326fcd6647be381f",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-43","locator":"第43卦 夬 / 象曰 / 上六小象"}],
     "issues": []

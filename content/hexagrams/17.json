@@ -2,36 +2,36 @@
   "id": 17,
   "statement": {
     "id": "h17-statement",
-    "original": "隨：元亨，利貞，无咎。",
+    "original": "随：元亨，利贞，无咎。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 隨 / 卦辞 / 0007冊.djvu/383"
+        "locator": "卷4 / 随 / 卦辞 / 0007册.djvu/383"
       }
     ],
     "reviewId": "review-h17-statement"
   },
   "tuan": {
     "id": "h17-tuan",
-    "original": "隨，剛來而下柔，動而説，隨。大亨貞，无咎，而天下隨時。隨時之義大矣哉。",
+    "original": "随，刚来而下柔，动而说，随。大亨贞，无咎，而天下随时。随时之义大矣哉。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 隨 / 彖曰 / 0007冊.djvu/384"
+        "locator": "卷4 / 随 / 彖曰 / 0007册.djvu/384"
       }
     ],
     "reviewId": "review-h17-tuan"
   },
   "greatImage": {
     "id": "h17-great-image",
-    "original": "澤中有雷，隨；君子以嚮晦入宴息。",
+    "original": "泽中有雷，随；君子以向晦入宴息。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 隨 / 整卦大象 / 0007冊.djvu/384"
+        "locator": "卷4 / 随 / 整卦大象 / 0007册.djvu/384"
       }
     ],
     "reviewId": "review-h17-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-4-batch3",
-      "locator": "卷4 / 隨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/383–384"
+      "locator": "卷4 / 随 / 彖曰、整卦大象与上下卦 / 0007册.djvu/383–384"
     }
   ],
   "overviewReviewId": "review-h17-overview",
@@ -56,24 +56,24 @@
       "label": "初九",
       "text": {
         "id": "h17-yao-1",
-        "original": "官有渝，貞吉。出門交有功。",
+        "original": "官有渝，贞吉。出门交有功。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 初九 / 0007冊.djvu/384"
+            "locator": "卷4 / 随 / 初九 / 0007册.djvu/384"
           }
         ],
         "reviewId": "review-h17-yao-1"
       },
       "smallImage": {
         "id": "h17-image-1",
-        "original": "官有渝，從正吉也。出門交有功，不失也。",
+        "original": "官有渝，从正吉也。出门交有功，不失也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 初九小象 / 0007冊.djvu/384"
+            "locator": "卷4 / 随 / 初九小象 / 0007册.djvu/384"
           }
         ],
         "reviewId": "review-h17-image-1"
@@ -85,24 +85,24 @@
       "label": "六二",
       "text": {
         "id": "h17-yao-2",
-        "original": "係小子，失丈夫。",
+        "original": "系小子，失丈夫。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 六二 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 六二 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-yao-2"
       },
       "smallImage": {
         "id": "h17-image-2",
-        "original": "係小子，弗兼與也。",
+        "original": "系小子，弗兼与也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 六二小象 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 六二小象 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-image-2"
@@ -114,26 +114,26 @@
       "label": "六三",
       "text": {
         "id": "h17-yao-3",
-        "original": "係丈夫，失小子。隨有求得，利居貞。",
+        "original": "系丈夫，失小子。随有求得，利居贞。",
         "notes": [
           "标点依采用录文注文“隨有求得也”“故利居貞也”整理，未改动经文字序。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 六三 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 六三 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-yao-3"
       },
       "smallImage": {
         "id": "h17-image-3",
-        "original": "係丈夫，志舎下也。",
+        "original": "系丈夫，志舎下也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 六三小象 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 六三小象 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-image-3"
@@ -145,7 +145,7 @@
       "label": "九四",
       "text": {
         "id": "h17-yao-4",
-        "original": "隨有獲，貞凶。有孚在道，以明何咎。",
+        "original": "随有获，贞凶。有孚在道，以明何咎。",
         "notes": [
           "采用四库本电子录文“𫉬”，普通电子对校页作“獲”；影印字形待核。",
           "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -153,14 +153,14 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 九四 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 九四 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-yao-4"
       },
       "smallImage": {
         "id": "h17-image-4",
-        "original": "隨有獲，其義凶也。有孚在道，明功也。",
+        "original": "随有获，其义凶也。有孚在道，明功也。",
         "notes": [
           "保留采用电子录文“𫉬”字，影印字形待核。",
           "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -168,7 +168,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 九四小象 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 九四小象 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-image-4"
@@ -185,7 +185,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 九五 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 九五 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-yao-5"
@@ -197,7 +197,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 九五小象 / 0007冊.djvu/385"
+            "locator": "卷4 / 随 / 九五小象 / 0007册.djvu/385"
           }
         ],
         "reviewId": "review-h17-image-5"
@@ -209,24 +209,24 @@
       "label": "上六",
       "text": {
         "id": "h17-yao-6",
-        "original": "拘係之，乃從維之。王用亨于西山。",
+        "original": "拘系之，乃从维之。王用亨于西山。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 上六 / 0007冊.djvu/386"
+            "locator": "卷4 / 随 / 上六 / 0007册.djvu/386"
           }
         ],
         "reviewId": "review-h17-yao-6"
       },
       "smallImage": {
         "id": "h17-image-6",
-        "original": "拘係之，上窮也。",
+        "original": "拘系之，上穷也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch3",
-            "locator": "卷4 / 隨 / 上六小象 / 0007冊.djvu/386"
+            "locator": "卷4 / 随 / 上六小象 / 0007册.djvu/386"
           }
         ],
         "reviewId": "review-h17-image-6"

@@ -2,36 +2,36 @@
   "id": 3,
   "statement": {
     "id": "h3-statement",
-    "original": "屯：元亨，利貞。勿用有攸徃，利建侯。",
+    "original": "屯：元亨，利贞。勿用有攸徃，利建侯。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-2",
-        "locator": "卷2 / 屯 / 卦辞 / 0007冊.djvu/339"
+        "locator": "卷2 / 屯 / 卦辞 / 0007册.djvu/339"
       }
     ],
     "reviewId": "review-h3-statement"
   },
   "tuan": {
     "id": "h3-tuan",
-    "original": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
+    "original": "屯，刚柔始交而难生，动乎险中，大亨贞。雷雨之动满盈，天造草昧，宜建侯而不宁。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-2",
-        "locator": "卷2 / 屯 / 彖曰 / 0007冊.djvu/339"
+        "locator": "卷2 / 屯 / 彖曰 / 0007册.djvu/339"
       }
     ],
     "reviewId": "review-h3-tuan"
   },
   "greatImage": {
     "id": "h3-great-image",
-    "original": "雲雷，屯；君子以經綸。",
+    "original": "云雷，屯；君子以经纶。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-2",
-        "locator": "卷2 / 屯 / 整卦大象 / 0007冊.djvu/339"
+        "locator": "卷2 / 屯 / 整卦大象 / 0007册.djvu/339"
       }
     ],
     "reviewId": "review-h3-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-2",
-      "locator": "卷2 / 屯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/339–339"
+      "locator": "卷2 / 屯 / 彖曰、整卦大象与上下卦 / 0007册.djvu/339–339"
     }
   ],
   "overviewReviewId": "review-h3-overview",
@@ -56,24 +56,24 @@
       "label": "初九",
       "text": {
         "id": "h3-yao-1",
-        "original": "磐桓，利居貞，利建侯。",
+        "original": "磐桓，利居贞，利建侯。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 初九 / 0007冊.djvu/340"
+            "locator": "卷2 / 屯 / 初九 / 0007册.djvu/340"
           }
         ],
         "reviewId": "review-h3-yao-1"
       },
       "smallImage": {
         "id": "h3-image-1",
-        "original": "雖磐桓，志行正也。以貴下賤，大得民也。",
+        "original": "虽磐桓，志行正也。以贵下贱，大得民也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 初九小象 / 0007冊.djvu/340"
+            "locator": "卷2 / 屯 / 初九小象 / 0007册.djvu/340"
           }
         ],
         "reviewId": "review-h3-image-1"
@@ -85,24 +85,24 @@
       "label": "六二",
       "text": {
         "id": "h3-yao-2",
-        "original": "屯如邅如，乘馬班如，匪宼婚媾，女子貞不字，十年乃字。",
+        "original": "屯如邅如，乘马班如，匪宼婚媾，女子贞不字，十年乃字。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 六二 / 0007冊.djvu/340"
+            "locator": "卷2 / 屯 / 六二 / 0007册.djvu/340"
           }
         ],
         "reviewId": "review-h3-yao-2"
       },
       "smallImage": {
         "id": "h3-image-2",
-        "original": "六二之難，乘剛也。十年乃字，反常也。",
+        "original": "六二之难，乘刚也。十年乃字，反常也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 六二小象 / 0007冊.djvu/340"
+            "locator": "卷2 / 屯 / 六二小象 / 0007册.djvu/340"
           }
         ],
         "reviewId": "review-h3-image-2"
@@ -114,26 +114,26 @@
       "label": "六三",
       "text": {
         "id": "h3-yao-3",
-        "original": "卽鹿无虞，惟入于林中，君子幾不如舎，徃吝。",
+        "original": "即鹿无虞，惟入于林中，君子几不如舎，徃吝。",
         "notes": [
           "采用四库本电子录文的“卽”“舎”“徃”；图形字按图像替代文字转写，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 六三 / 0007冊.djvu/341"
+            "locator": "卷2 / 屯 / 六三 / 0007册.djvu/341"
           }
         ],
         "reviewId": "review-h3-yao-3"
       },
       "smallImage": {
         "id": "h3-image-3",
-        "original": "卽鹿无虞，以從禽也。君子舍之，徃吝窮也。",
+        "original": "即鹿无虞，以从禽也。君子舍之，徃吝穷也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 六三小象 / 0007冊.djvu/341"
+            "locator": "卷2 / 屯 / 六三小象 / 0007册.djvu/341"
           }
         ],
         "reviewId": "review-h3-image-3"
@@ -145,12 +145,12 @@
       "label": "六四",
       "text": {
         "id": "h3-yao-4",
-        "original": "乘馬班如，求婚媾，徃吉，无不利。",
+        "original": "乘马班如，求婚媾，徃吉，无不利。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 六四 / 0007冊.djvu/341"
+            "locator": "卷2 / 屯 / 六四 / 0007册.djvu/341"
           }
         ],
         "reviewId": "review-h3-yao-4"
@@ -162,7 +162,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 六四小象 / 0007冊.djvu/341"
+            "locator": "卷2 / 屯 / 六四小象 / 0007册.djvu/341"
           }
         ],
         "reviewId": "review-h3-image-4"
@@ -174,12 +174,12 @@
       "label": "九五",
       "text": {
         "id": "h3-yao-5",
-        "original": "屯其膏，小貞吉，大貞凶。",
+        "original": "屯其膏，小贞吉，大贞凶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 九五 / 0007冊.djvu/341"
+            "locator": "卷2 / 屯 / 九五 / 0007册.djvu/341"
           }
         ],
         "reviewId": "review-h3-yao-5"
@@ -191,7 +191,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 九五小象 / 0007冊.djvu/342"
+            "locator": "卷2 / 屯 / 九五小象 / 0007册.djvu/342"
           }
         ],
         "reviewId": "review-h3-image-5"
@@ -203,24 +203,24 @@
       "label": "上六",
       "text": {
         "id": "h3-yao-6",
-        "original": "乘馬班如，泣血漣如。",
+        "original": "乘马班如，泣血涟如。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 上六 / 0007冊.djvu/342"
+            "locator": "卷2 / 屯 / 上六 / 0007册.djvu/342"
           }
         ],
         "reviewId": "review-h3-yao-6"
       },
       "smallImage": {
         "id": "h3-image-6",
-        "original": "泣血漣如，何可長也。",
+        "original": "泣血涟如，何可长也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2",
-            "locator": "卷2 / 屯 / 上六小象 / 0007冊.djvu/342"
+            "locator": "卷2 / 屯 / 上六小象 / 0007册.djvu/342"
           }
         ],
         "reviewId": "review-h3-image-6"

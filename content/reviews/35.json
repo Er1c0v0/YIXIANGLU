@@ -1,112 +1,112 @@
 [
   {
     "id": "review-h35-statement", "subjectId": "h35-statement", "method": "electronic-20261022",
-    "subjectHash": "ecf05418b379176be2ac14712bebf0f3fff27ece7381d7a17c42b9fb23baf857",
+    "subjectHash": "0e6f568bb1b01efeb136cf4e8ad1892ab7f1408bebebf9e09689cd002450e30e",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 卦辞 / 0007冊.djvu/435"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·卦辞；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-tuan", "subjectId": "h35-tuan", "method": "electronic-20261022",
-    "subjectHash": "eecdd093f5ce7290f329b4bdc2fc9c67ec189cda891bc5523532b163eee7314e",
+    "subjectHash": "85e21d24b7139722d1a16e3ad1a4f360224323726b0d384ebcfaf15c8f101707",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 彖曰 / 0007冊.djvu/435"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 彖曰；异文仅作对校"}],
     "issues": ["采用电子录文“庻”，普通电子对校页相应为“庶”；保留所见，影印字形待核。"]
   },
   {
     "id": "review-h35-great-image", "subjectId": "h35-great-image", "method": "electronic-20261022",
-    "subjectHash": "e529985ebbd04cf4b194cb376661a1ad8c41ae834669b10f1732cea1c776d080",
+    "subjectHash": "da9217c0b2055c69a40d292119c34783620085f60cf50dbcf954c0d14269f014",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 整卦大象 / 0007冊.djvu/436"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·整卦；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-overview", "subjectId": "h35-overview", "method": "overview-20261022",
-    "subjectHash": "bdfdc24d49109d701c4dbccbee8c71b359e29e373985308016776e8f45d442c4",
+    "subjectHash": "0bfb71d8291fb97a55a1995a03a64adfc406766a687bb63e0d5ec22d1976fbb5",
     "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/435–436"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 彖曰、整卦大象与上下卦"}],
     "issues": []
   },
   {
     "id": "review-h35-yao-1", "subjectId": "h35-yao-1", "method": "electronic-20261022",
-    "subjectHash": "81e6a6b8db445b555ebde9412baff3c1741cbf30269dee46cca40ae0e900fe82",
+    "subjectHash": "b8633ba3c4b19a0d2b0fbfcf3f72c31bc61e1234d80ff3d848a9c2df99bcaa33",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 初六 / 0007冊.djvu/436"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·初六；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-image-1", "subjectId": "h35-image-1", "method": "electronic-20261022",
-    "subjectHash": "bbf112317fa3c62714c8950b0074891edc92a3519f8bd805503201c6ffb904aa",
+    "subjectHash": "a23c8e077e487a790fe51fa9446af721cfd5d2aec61c6dee643ac5a3c8a4ce42",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 初六小象 / 0007冊.djvu/436"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·初六；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-yao-2", "subjectId": "h35-yao-2", "method": "electronic-20261022",
-    "subjectHash": "26e4ae2ff80bc57b6b5ad2d70c6d5b1cb257700cf34780a48e87c7e175cb0eeb",
+    "subjectHash": "3e8f93d7263d00f28f0145f3812e80e57cc8486ee41925921da0e3a737dc10a6",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 六二 / 0007冊.djvu/436"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·六二；异文仅作对校"}],
     "issues": ["采用电子录文“兹”，普通电子对校页相应为“茲”；保留所见，影印字形待核。"]
   },
   {
     "id": "review-h35-image-2", "subjectId": "h35-image-2", "method": "electronic-20261022",
-    "subjectHash": "03b6deeb878a752596bb4c47ff95dbb2badd28e8280c2abe5d0646d96b10273d",
+    "subjectHash": "825ccfbd5591a9c49a319d1bc3cca53dcbd84144e7a4f6f724fcd2c272b197d6",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 六二小象 / 0007冊.djvu/436"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·六二；异文仅作对校"}],
     "issues": ["采用电子录文“兹”，普通电子对校页相应为“茲”；保留所见，影印字形待核。"]
   },
   {
     "id": "review-h35-yao-3", "subjectId": "h35-yao-3", "method": "electronic-20261022",
-    "subjectHash": "a220f415de08c3b4726b69f07c480fd73b1c96f4ad59e44c47a3560574d21792",
+    "subjectHash": "81480c95b4b2c474e816210eff92282b1918b3c2dc00816cfc17f55c1e28fad4",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 六三 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·六三；异文仅作对校"}],
     "issues": ["采用电子录文“衆”，普通电子对校页相应为“眾”；保留所见，影印字形待核。"]
   },
   {
     "id": "review-h35-image-3", "subjectId": "h35-image-3", "method": "electronic-20261022",
-    "subjectHash": "ec445c36c7f9541b40cd670fd1dfe112cb5fab354926ff294d0b883461acd5ab",
+    "subjectHash": "66847c995cd37e7ae1c1c5d824c8202e9b10351a30f4cbdb0eefe6fe2cbad10b",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 六三小象 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·六三；异文仅作对校"}],
     "issues": ["采用电子录文“衆”，普通电子对校页相应为“眾”；保留所见，影印字形待核。"]
   },
   {
     "id": "review-h35-yao-4", "subjectId": "h35-yao-4", "method": "electronic-20261022",
-    "subjectHash": "5fd597e3b21ee0dbffc3742fd1681d9d1b525ee35d2588e1208c8fbe3c0a08dd",
+    "subjectHash": "4b848f3d269c13c8cc601767da264298e5e0d4546a1137a50e050d1f05c3cb49",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 九四 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-image-4", "subjectId": "h35-image-4", "method": "electronic-20261022",
-    "subjectHash": "8ee7f892b170cb2032358ca4b3de2f5cd885b52cdea6c1c4bc5a9f7c60429fd3",
+    "subjectHash": "5ac601902e789e7bb72da6c598d94a9089c2d335c7629d3596f34b7328353317",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 九四小象 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-yao-5", "subjectId": "h35-yao-5", "method": "electronic-20261022",
-    "subjectHash": "dc4544109ad944c1b2f4c6df02ccffd5f4520346ec531098dc613b8839c8658c",
+    "subjectHash": "db98db6b40ca7475a857ffbfee908da793c5bead770b4cf540f3c2738c87900f",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 六五 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·六五；异文仅作对校"}],
     "issues": ["采用电子录文“失得勿恤”，普通电子对校页爻辞作“矢得勿恤”、小象仍作“失得勿恤”；保留采用录文，影印待核。"]
   },
   {
     "id": "review-h35-image-5", "subjectId": "h35-image-5", "method": "electronic-20261022",
-    "subjectHash": "61b0e8368f11ebc70f71f3946b1244b43598ec58e2a98c1ece0130d77ad6c80a",
+    "subjectHash": "8f6311595101d28a989d8e1cd992b46db5df401155499e1eb12a24aed2ab7c9c",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 六五小象 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·六五；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-yao-6", "subjectId": "h35-yao-6", "method": "electronic-20261022",
-    "subjectHash": "7e0106ae9b726791696b01efc35d96dba82013a39e2041dcc33e84fecdf52998",
+    "subjectHash": "6faa6f79f7607d0c939fb03be86ba22bfb71b5b3eda5ecb483a01720463624ca",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 上九 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 易經·上九；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h35-image-6", "subjectId": "h35-image-6", "method": "electronic-20261022",
-    "subjectHash": "dbd533a96f89de9075e955a730cba284a8d4eb6c1da7402621b57482b3836ea9",
+    "subjectHash": "2a394d45ec9432b889848f489312b4ff55c38db8aa334cd2b65f4626e45c91c9",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 晉 / 上九小象 / 0007冊.djvu/437"},{"sourceId":"ws-zhouyi-35","locator":"第35卦 晉 / 象曰·上九；异文仅作对校"}],
     "issues": []

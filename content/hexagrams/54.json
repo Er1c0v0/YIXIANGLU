@@ -2,38 +2,38 @@
   "id": 54,
   "statement": {
     "id": "h54-statement",
-    "original": "歸妹：征凶，无攸利。",
+    "original": "归妹：征凶，无攸利。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 歸妹 / 卦辞 / 0007冊.djvu/493"
+        "locator": "卷9 / 归妹 / 卦辞 / 0007册.djvu/493"
       }
     ],
     "reviewId": "review-h54-statement"
   },
   "tuan": {
     "id": "h54-tuan",
-    "original": "歸妹，天地之大義也。天地不交而萬物不興，歸妹，人之終始也。説以動，所歸妹也。征凶，位不當也。无攸利，柔乗剛也。",
+    "original": "归妹，天地之大义也。天地不交而万物不兴，归妹，人之终始也。说以动，所归妹也。征凶，位不当也。无攸利，柔乗刚也。",
     "notes": [
       "采用电子录文“説”，普通电子对校页相应为“說”；采用电子录文“乗”，普通电子对校页相应为“乘”；保留所见，影印字形与异文待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 歸妹 / 彖曰 / 0007冊.djvu/493"
+        "locator": "卷9 / 归妹 / 彖曰 / 0007册.djvu/493"
       }
     ],
     "reviewId": "review-h54-tuan"
   },
   "greatImage": {
     "id": "h54-great-image",
-    "original": "澤上有雷，歸妹；君子以永終知敝。",
+    "original": "泽上有雷，归妹；君子以永终知敝。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 歸妹 / 整卦大象 / 0007冊.djvu/494"
+        "locator": "卷9 / 归妹 / 整卦大象 / 0007册.djvu/494"
       }
     ],
     "reviewId": "review-h54-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-9-batch6",
-      "locator": "卷9 / 歸妹 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/493–494"
+      "locator": "卷9 / 归妹 / 彖曰、整卦大象与上下卦 / 0007册.djvu/493–494"
     }
   ],
   "overviewReviewId": "review-h54-overview",
@@ -58,26 +58,26 @@
       "label": "初九",
       "text": {
         "id": "h54-yao-1",
-        "original": "歸妹以娣，跛能履，征吉。",
+        "original": "归妹以娣，跛能履，征吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 初九 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 初九 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-yao-1"
       },
       "smallImage": {
         "id": "h54-image-1",
-        "original": "歸妹以娣，以恒也。跛能履吉，相承也。",
+        "original": "归妹以娣，以恒也。跛能履吉，相承也。",
         "notes": [
           "采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 初九小象 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 初九小象 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-image-1"
@@ -89,24 +89,24 @@
       "label": "九二",
       "text": {
         "id": "h54-yao-2",
-        "original": "眇能視，利幽人之貞。",
+        "original": "眇能视，利幽人之贞。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 九二 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 九二 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-yao-2"
       },
       "smallImage": {
         "id": "h54-image-2",
-        "original": "利幽人之貞，未變常也。",
+        "original": "利幽人之贞，未变常也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 九二小象 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 九二小象 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-image-2"
@@ -118,24 +118,24 @@
       "label": "六三",
       "text": {
         "id": "h54-yao-3",
-        "original": "歸妹以須，反歸以娣。",
+        "original": "归妹以须，反归以娣。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 六三 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 六三 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-yao-3"
       },
       "smallImage": {
         "id": "h54-image-3",
-        "original": "歸妹以須，未當也。",
+        "original": "归妹以须，未当也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 六三小象 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 六三小象 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-image-3"
@@ -147,12 +147,12 @@
       "label": "九四",
       "text": {
         "id": "h54-yao-4",
-        "original": "歸妹愆期，遲歸有時。",
+        "original": "归妹愆期，迟归有时。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 九四 / 0007冊.djvu/494"
+            "locator": "卷9 / 归妹 / 九四 / 0007册.djvu/494"
           }
         ],
         "reviewId": "review-h54-yao-4"
@@ -164,7 +164,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 九四小象 / 0007冊.djvu/495"
+            "locator": "卷9 / 归妹 / 九四小象 / 0007册.djvu/495"
           }
         ],
         "reviewId": "review-h54-image-4"
@@ -176,24 +176,24 @@
       "label": "六五",
       "text": {
         "id": "h54-yao-5",
-        "original": "帝乙歸妹，其君之袂不如其娣之袂良，月幾望，吉。",
+        "original": "帝乙归妹，其君之袂不如其娣之袂良，月几望，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 六五 / 0007冊.djvu/495"
+            "locator": "卷9 / 归妹 / 六五 / 0007册.djvu/495"
           }
         ],
         "reviewId": "review-h54-yao-5"
       },
       "smallImage": {
         "id": "h54-image-5",
-        "original": "帝乙歸妹，不如其娣之袂良也。其位在中，以貴行也。",
+        "original": "帝乙归妹，不如其娣之袂良也。其位在中，以贵行也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 六五小象 / 0007冊.djvu/495"
+            "locator": "卷9 / 归妹 / 六五小象 / 0007册.djvu/495"
           }
         ],
         "reviewId": "review-h54-image-5"
@@ -205,26 +205,26 @@
       "label": "上六",
       "text": {
         "id": "h54-yao-6",
-        "original": "女承筐无實，士刲羊无血，无攸利。",
+        "original": "女承筐无实，士刲羊无血，无攸利。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 上六 / 0007冊.djvu/495"
+            "locator": "卷9 / 归妹 / 上六 / 0007册.djvu/495"
           }
         ],
         "reviewId": "review-h54-yao-6"
       },
       "smallImage": {
         "id": "h54-image-6",
-        "original": "上六无實，承虚筐也。",
+        "original": "上六无实，承虚筐也。",
         "notes": [
           "采用电子录文“虚”，普通电子对校页相应为“虛”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 歸妹 / 上六小象 / 0007冊.djvu/495"
+            "locator": "卷9 / 归妹 / 上六小象 / 0007册.djvu/495"
           }
         ],
         "reviewId": "review-h54-image-6"

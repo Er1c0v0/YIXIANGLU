@@ -2,36 +2,36 @@
   "id": 24,
   "statement": {
     "id": "h24-statement",
-    "original": "復：亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+    "original": "复：亨。出入无疾，朋来无咎。反复其道，七日来复，利有攸往。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 復 / 卦辞 / 0007冊.djvu/403"
+        "locator": "卷5 / 复 / 卦辞 / 0007册.djvu/403"
       }
     ],
     "reviewId": "review-h24-statement"
   },
   "tuan": {
     "id": "h24-tuan",
-    "original": "復亨，剛反，動而以順行，是以出入无疾。朋來无咎。反復其道，七日來復，天行也。利有攸往，剛長也。復其見天地之心乎。",
+    "original": "复亨，刚反，动而以顺行，是以出入无疾。朋来无咎。反复其道，七日来复，天行也。利有攸往，刚长也。复其见天地之心乎。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 復 / 彖曰 / 0007冊.djvu/403"
+        "locator": "卷5 / 复 / 彖曰 / 0007册.djvu/403"
       }
     ],
     "reviewId": "review-h24-tuan"
   },
   "greatImage": {
     "id": "h24-great-image",
-    "original": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
+    "original": "雷在地中，复；先王以至日闭关，商旅不行，后不省方。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 復 / 整卦大象 / 0007冊.djvu/404"
+        "locator": "卷5 / 复 / 整卦大象 / 0007册.djvu/404"
       }
     ],
     "reviewId": "review-h24-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-5-batch4",
-      "locator": "卷5 / 復 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/403–404"
+      "locator": "卷5 / 复 / 彖曰、整卦大象与上下卦 / 0007册.djvu/403–404"
     }
   ],
   "overviewReviewId": "review-h24-overview",
@@ -56,28 +56,28 @@
       "label": "初九",
       "text": {
         "id": "h24-yao-1",
-        "original": "不遠復，无祗悔，元吉。",
+        "original": "不远复，无祗悔，元吉。",
         "notes": [
           "采用四库本电子录文“祗”，普通电子对校页作“祇”；影印待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 初九 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 初九 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-yao-1"
       },
       "smallImage": {
         "id": "h24-image-1",
-        "original": "不遠之復，以脩身也。",
+        "original": "不远之复，以修身也。",
         "notes": [
           "保留采用电子录文“脩身”，普通电子对校页作“修身”。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 初九小象 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 初九小象 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-image-1"
@@ -89,24 +89,24 @@
       "label": "六二",
       "text": {
         "id": "h24-yao-2",
-        "original": "休復，吉。",
+        "original": "休复，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六二 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六二 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-yao-2"
       },
       "smallImage": {
         "id": "h24-image-2",
-        "original": "休復之吉，以下仁也。",
+        "original": "休复之吉，以下仁也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六二小象 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六二小象 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-image-2"
@@ -118,24 +118,24 @@
       "label": "六三",
       "text": {
         "id": "h24-yao-3",
-        "original": "頻復，厲，无咎。",
+        "original": "频复，厉，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六三 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六三 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-yao-3"
       },
       "smallImage": {
         "id": "h24-image-3",
-        "original": "頻復之厲，義无咎也。",
+        "original": "频复之厉，义无咎也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六三小象 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六三小象 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-image-3"
@@ -147,24 +147,24 @@
       "label": "六四",
       "text": {
         "id": "h24-yao-4",
-        "original": "中行獨復。",
+        "original": "中行独复。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六四 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六四 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-yao-4"
       },
       "smallImage": {
         "id": "h24-image-4",
-        "original": "中行獨復，以從道也。",
+        "original": "中行独复，以从道也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六四小象 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六四小象 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-image-4"
@@ -176,24 +176,24 @@
       "label": "六五",
       "text": {
         "id": "h24-yao-5",
-        "original": "敦復，无悔。",
+        "original": "敦复，无悔。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六五 / 0007冊.djvu/405"
+            "locator": "卷5 / 复 / 六五 / 0007册.djvu/405"
           }
         ],
         "reviewId": "review-h24-yao-5"
       },
       "smallImage": {
         "id": "h24-image-5",
-        "original": "敦復无悔，中以自考也。",
+        "original": "敦复无悔，中以自考也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 六五小象 / 0007冊.djvu/406"
+            "locator": "卷5 / 复 / 六五小象 / 0007册.djvu/406"
           }
         ],
         "reviewId": "review-h24-image-5"
@@ -205,24 +205,24 @@
       "label": "上六",
       "text": {
         "id": "h24-yao-6",
-        "original": "迷復，凶，有災眚。用行師，終有大敗，以其國君凶。至于十年，不克征。",
+        "original": "迷复，凶，有灾眚。用行师，终有大败，以其国君凶。至于十年，不克征。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 上六 / 0007冊.djvu/406"
+            "locator": "卷5 / 复 / 上六 / 0007册.djvu/406"
           }
         ],
         "reviewId": "review-h24-yao-6"
       },
       "smallImage": {
         "id": "h24-image-6",
-        "original": "迷復之凶，反君道也。",
+        "original": "迷复之凶，反君道也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 復 / 上六小象 / 0007冊.djvu/406"
+            "locator": "卷5 / 复 / 上六小象 / 0007册.djvu/406"
           }
         ],
         "reviewId": "review-h24-image-6"

@@ -2,36 +2,36 @@
   "id": 46,
   "statement": {
     "id": "h46-statement",
-    "original": "升：元亨，用見大人，勿恤，南征吉。",
+    "original": "升：元亨，用见大人，勿恤，南征吉。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 升 / 卦辞 / 0007冊.djvu/468"
+        "locator": "卷8 / 升 / 卦辞 / 0007册.djvu/468"
       }
     ],
     "reviewId": "review-h46-statement"
   },
   "tuan": {
     "id": "h46-tuan",
-    "original": "柔以時升。巽而順，剛中而應，是以大亨。用見大人勿恤，有慶也。南征吉，志行也。",
+    "original": "柔以时升。巽而顺，刚中而应，是以大亨。用见大人勿恤，有庆也。南征吉，志行也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 升 / 彖曰 / 0007冊.djvu/468–469"
+        "locator": "卷8 / 升 / 彖曰 / 0007册.djvu/468–469"
       }
     ],
     "reviewId": "review-h46-tuan"
   },
   "greatImage": {
     "id": "h46-great-image",
-    "original": "地中生木，升；君子以順德，積小以高大。",
+    "original": "地中生木，升；君子以顺德，积小以高大。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 升 / 整卦大象 / 0007冊.djvu/469"
+        "locator": "卷8 / 升 / 整卦大象 / 0007册.djvu/469"
       }
     ],
     "reviewId": "review-h46-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-8-batch5",
-      "locator": "卷8 / 升 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/468–469"
+      "locator": "卷8 / 升 / 彖曰、整卦大象与上下卦 / 0007册.djvu/468–469"
     }
   ],
   "overviewReviewId": "review-h46-overview",
@@ -61,7 +61,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 初六 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 初六 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-yao-1"
@@ -73,7 +73,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 初六小象 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 初六小象 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-image-1"
@@ -90,7 +90,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 九二 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 九二 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-yao-2"
@@ -102,7 +102,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 九二小象 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 九二小象 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-image-2"
@@ -114,24 +114,24 @@
       "label": "九三",
       "text": {
         "id": "h46-yao-3",
-        "original": "升虛邑。",
+        "original": "升虚邑。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 九三 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 九三 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-yao-3"
       },
       "smallImage": {
         "id": "h46-image-3",
-        "original": "升虛邑，无所疑也。",
+        "original": "升虚邑，无所疑也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 九三小象 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 九三小象 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-image-3"
@@ -150,19 +150,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 六四 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 六四 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-yao-4"
       },
       "smallImage": {
         "id": "h46-image-4",
-        "original": "王用亨于岐山，順事也。",
+        "original": "王用亨于岐山，顺事也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 六四小象 / 0007冊.djvu/469"
+            "locator": "卷8 / 升 / 六四小象 / 0007册.djvu/469"
           }
         ],
         "reviewId": "review-h46-image-4"
@@ -174,24 +174,24 @@
       "label": "六五",
       "text": {
         "id": "h46-yao-5",
-        "original": "貞吉，升階。",
+        "original": "贞吉，升阶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 六五 / 0007冊.djvu/470"
+            "locator": "卷8 / 升 / 六五 / 0007册.djvu/470"
           }
         ],
         "reviewId": "review-h46-yao-5"
       },
       "smallImage": {
         "id": "h46-image-5",
-        "original": "貞吉升階，大得志也。",
+        "original": "贞吉升阶，大得志也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 六五小象 / 0007冊.djvu/470"
+            "locator": "卷8 / 升 / 六五小象 / 0007册.djvu/470"
           }
         ],
         "reviewId": "review-h46-image-5"
@@ -203,12 +203,12 @@
       "label": "上六",
       "text": {
         "id": "h46-yao-6",
-        "original": "冥升，利于不息之貞。",
+        "original": "冥升，利于不息之贞。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 上六 / 0007冊.djvu/470"
+            "locator": "卷8 / 升 / 上六 / 0007册.djvu/470"
           }
         ],
         "reviewId": "review-h46-yao-6"
@@ -220,7 +220,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 升 / 上六小象 / 0007冊.djvu/470"
+            "locator": "卷8 / 升 / 上六小象 / 0007册.djvu/470"
           }
         ],
         "reviewId": "review-h46-image-6"

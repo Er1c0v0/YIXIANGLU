@@ -2,36 +2,36 @@
   "id": 9,
   "statement": {
     "id": "h9-statement",
-    "original": "小畜：亨。密雲不雨，自我西郊。",
+    "original": "小畜：亨。密云不雨，自我西郊。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 小畜 / 卦辞 / 0007冊.djvu/359"
+        "locator": "卷3 / 小畜 / 卦辞 / 0007册.djvu/359"
       }
     ],
     "reviewId": "review-h9-statement"
   },
   "tuan": {
     "id": "h9-tuan",
-    "original": "小畜，柔得位而上下應之，曰小畜。健而巽，剛中而志行，乃亨。密雲不雨，尚往也。自我西郊，施未行也。",
+    "original": "小畜，柔得位而上下应之，曰小畜。健而巽，刚中而志行，乃亨。密云不雨，尚往也。自我西郊，施未行也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 小畜 / 彖曰 / 0007冊.djvu/360"
+        "locator": "卷3 / 小畜 / 彖曰 / 0007册.djvu/360"
       }
     ],
     "reviewId": "review-h9-tuan"
   },
   "greatImage": {
     "id": "h9-great-image",
-    "original": "風行天上，小畜；君子以懿文德。",
+    "original": "风行天上，小畜；君子以懿文德。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 小畜 / 整卦大象 / 0007冊.djvu/361"
+        "locator": "卷3 / 小畜 / 整卦大象 / 0007册.djvu/361"
       }
     ],
     "reviewId": "review-h9-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-3-batch2",
-      "locator": "卷3 / 小畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/359–361"
+      "locator": "卷3 / 小畜 / 彖曰、整卦大象与上下卦 / 0007册.djvu/359–361"
     }
   ],
   "overviewReviewId": "review-h9-overview",
@@ -56,24 +56,24 @@
       "label": "初九",
       "text": {
         "id": "h9-yao-1",
-        "original": "復自道，何其咎，吉。",
+        "original": "复自道，何其咎，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 初九 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 初九 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-yao-1"
       },
       "smallImage": {
         "id": "h9-image-1",
-        "original": "復自道，其義吉也。",
+        "original": "复自道，其义吉也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 初九小象 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 初九小象 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-image-1"
@@ -85,24 +85,24 @@
       "label": "九二",
       "text": {
         "id": "h9-yao-2",
-        "original": "牽復，吉。",
+        "original": "牵复，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 九二 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 九二 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-yao-2"
       },
       "smallImage": {
         "id": "h9-image-2",
-        "original": "牽復在中，亦不自失也。",
+        "original": "牵复在中，亦不自失也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 九二小象 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 九二小象 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-image-2"
@@ -114,14 +114,14 @@
       "label": "九三",
       "text": {
         "id": "h9-yao-3",
-        "original": "輿說輻，夫妻反目。",
+        "original": "舆说辐，夫妻反目。",
         "notes": [
           "采用四库本电子录文“輿說輻”；普通电子对校页作“車說輹”。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 九三 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 九三 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-yao-3"
@@ -133,7 +133,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 九三小象 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 九三小象 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-image-3"
@@ -150,7 +150,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 六四 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 六四 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-yao-4"
@@ -162,7 +162,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 六四小象 / 0007冊.djvu/361"
+            "locator": "卷3 / 小畜 / 六四小象 / 0007册.djvu/361"
           }
         ],
         "reviewId": "review-h9-image-4"
@@ -174,24 +174,24 @@
       "label": "九五",
       "text": {
         "id": "h9-yao-5",
-        "original": "有孚攣如，富以其鄰。",
+        "original": "有孚挛如，富以其邻。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 九五 / 0007冊.djvu/362"
+            "locator": "卷3 / 小畜 / 九五 / 0007册.djvu/362"
           }
         ],
         "reviewId": "review-h9-yao-5"
       },
       "smallImage": {
         "id": "h9-image-5",
-        "original": "有孚攣如，不獨富也。",
+        "original": "有孚挛如，不独富也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 九五小象 / 0007冊.djvu/362"
+            "locator": "卷3 / 小畜 / 九五小象 / 0007册.djvu/362"
           }
         ],
         "reviewId": "review-h9-image-5"
@@ -203,26 +203,26 @@
       "label": "上九",
       "text": {
         "id": "h9-yao-6",
-        "original": "旣雨旣處，尚德載。婦貞厲，月幾望，君子征凶。",
+        "original": "既雨既处，尚德载。妇贞厉，月几望，君子征凶。",
         "notes": [
           "采用四库本电子录文“旣雨旣處”“尚德載”；普通电子对校页作“既雨既處”“尚得載”，待影印复核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 上九 / 0007冊.djvu/362"
+            "locator": "卷3 / 小畜 / 上九 / 0007册.djvu/362"
           }
         ],
         "reviewId": "review-h9-yao-6"
       },
       "smallImage": {
         "id": "h9-image-6",
-        "original": "旣雨旣處，德積載也。君子征凶，有所疑也。",
+        "original": "既雨既处，德积载也。君子征凶，有所疑也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 小畜 / 上九小象 / 0007冊.djvu/362"
+            "locator": "卷3 / 小畜 / 上九小象 / 0007册.djvu/362"
           }
         ],
         "reviewId": "review-h9-image-6"

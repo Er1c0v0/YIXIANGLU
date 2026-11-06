@@ -2,38 +2,38 @@
   "id": 33,
   "statement": {
     "id": "h33-statement",
-    "original": "遯：亨，小利貞。",
+    "original": "遯：亨，小利贞。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 遯 / 卦辞 / 0007冊.djvu/431"
+        "locator": "卷6 / 遯 / 卦辞 / 0007册.djvu/431"
       }
     ],
     "reviewId": "review-h33-statement"
   },
   "tuan": {
     "id": "h33-tuan",
-    "original": "遯亨，遯而亨也。剛當位而應，與時行也。小利貞，浸而長也。遯之時義大矣哉！",
+    "original": "遯亨，遯而亨也。刚当位而应，与时行也。小利贞，浸而长也。遯之时义大矣哉！",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 遯 / 彖曰 / 0007冊.djvu/431"
+        "locator": "卷6 / 遯 / 彖曰 / 0007册.djvu/431"
       }
     ],
     "reviewId": "review-h33-tuan"
   },
   "greatImage": {
     "id": "h33-great-image",
-    "original": "天下有山，遯；君子以逺小人，不惡而嚴。",
+    "original": "天下有山，遯；君子以逺小人，不恶而严。",
     "notes": [
       "采用电子录文“逺”，普通电子对校页相应为“遠”；保留所见，影印字形待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 遯 / 整卦大象 / 0007冊.djvu/432"
+        "locator": "卷6 / 遯 / 整卦大象 / 0007册.djvu/432"
       }
     ],
     "reviewId": "review-h33-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-6-batch5",
-      "locator": "卷6 / 遯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/431–432"
+      "locator": "卷6 / 遯 / 彖曰、整卦大象与上下卦 / 0007册.djvu/431–432"
     }
   ],
   "overviewReviewId": "review-h33-overview",
@@ -58,24 +58,24 @@
       "label": "初六",
       "text": {
         "id": "h33-yao-1",
-        "original": "遯尾，厲，勿用有攸往。",
+        "original": "遯尾，厉，勿用有攸往。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 初六 / 0007冊.djvu/432"
+            "locator": "卷6 / 遯 / 初六 / 0007册.djvu/432"
           }
         ],
         "reviewId": "review-h33-yao-1"
       },
       "smallImage": {
         "id": "h33-image-1",
-        "original": "遯尾之厲，不往何災也。",
+        "original": "遯尾之厉，不往何灾也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 初六小象 / 0007冊.djvu/432"
+            "locator": "卷6 / 遯 / 初六小象 / 0007册.djvu/432"
           }
         ],
         "reviewId": "review-h33-image-1"
@@ -87,24 +87,24 @@
       "label": "六二",
       "text": {
         "id": "h33-yao-2",
-        "original": "執之用黃牛之革，莫之勝說。",
+        "original": "执之用黄牛之革，莫之胜说。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 六二 / 0007冊.djvu/432"
+            "locator": "卷6 / 遯 / 六二 / 0007册.djvu/432"
           }
         ],
         "reviewId": "review-h33-yao-2"
       },
       "smallImage": {
         "id": "h33-image-2",
-        "original": "執用黃牛，固志也。",
+        "original": "执用黄牛，固志也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 六二小象 / 0007冊.djvu/432"
+            "locator": "卷6 / 遯 / 六二小象 / 0007册.djvu/432"
           }
         ],
         "reviewId": "review-h33-image-2"
@@ -116,24 +116,24 @@
       "label": "九三",
       "text": {
         "id": "h33-yao-3",
-        "original": "係遯，有疾厲，畜臣妾吉。",
+        "original": "系遯，有疾厉，畜臣妾吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 九三 / 0007冊.djvu/432"
+            "locator": "卷6 / 遯 / 九三 / 0007册.djvu/432"
           }
         ],
         "reviewId": "review-h33-yao-3"
       },
       "smallImage": {
         "id": "h33-image-3",
-        "original": "係遯之厲，有疾憊也。畜臣妾吉，不可大事也。",
+        "original": "系遯之厉，有疾惫也。畜臣妾吉，不可大事也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 九三小象 / 0007冊.djvu/432"
+            "locator": "卷6 / 遯 / 九三小象 / 0007册.djvu/432"
           }
         ],
         "reviewId": "review-h33-image-3"
@@ -150,7 +150,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 九四 / 0007冊.djvu/433"
+            "locator": "卷6 / 遯 / 九四 / 0007册.djvu/433"
           }
         ],
         "reviewId": "review-h33-yao-4"
@@ -162,7 +162,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 九四小象 / 0007冊.djvu/433"
+            "locator": "卷6 / 遯 / 九四小象 / 0007册.djvu/433"
           }
         ],
         "reviewId": "review-h33-image-4"
@@ -174,24 +174,24 @@
       "label": "九五",
       "text": {
         "id": "h33-yao-5",
-        "original": "嘉遯，貞吉。",
+        "original": "嘉遯，贞吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 九五 / 0007冊.djvu/433"
+            "locator": "卷6 / 遯 / 九五 / 0007册.djvu/433"
           }
         ],
         "reviewId": "review-h33-yao-5"
       },
       "smallImage": {
         "id": "h33-image-5",
-        "original": "嘉遯貞吉，以正志也。",
+        "original": "嘉遯贞吉，以正志也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 九五小象 / 0007冊.djvu/433"
+            "locator": "卷6 / 遯 / 九五小象 / 0007册.djvu/433"
           }
         ],
         "reviewId": "review-h33-image-5"
@@ -208,7 +208,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 上九 / 0007冊.djvu/433"
+            "locator": "卷6 / 遯 / 上九 / 0007册.djvu/433"
           }
         ],
         "reviewId": "review-h33-yao-6"
@@ -220,7 +220,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 遯 / 上九小象 / 0007冊.djvu/433"
+            "locator": "卷6 / 遯 / 上九小象 / 0007册.djvu/433"
           }
         ],
         "reviewId": "review-h33-image-6"

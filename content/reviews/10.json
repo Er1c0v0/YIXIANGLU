@@ -1,112 +1,112 @@
 [
   {
     "id": "review-h10-statement", "subjectId": "h10-statement", "method": "electronic-20261022",
-    "subjectHash": "949a8b59ce42dbffdf5d6db27262fc656515cbbafb338c6a52a54f405a6a3636",
+    "subjectHash": "2f61da47912ed862b382fa1def9ae489809623f97b6dde3f6ed395116af4667b",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 卦辞 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·卦辞；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-tuan", "subjectId": "h10-tuan", "method": "electronic-20261022",
-    "subjectHash": "b00260ccd6db6ec2fd610eafe9ddc670e00368a21ab0b7bf45612119729193d2",
+    "subjectHash": "a25ccfceef7c533d8c82465af3295204b1a5dd418ac7c7b128d24a04234effe9",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 彖曰 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 彖曰；异文仅作对校"}],
     "issues": ["采用四库本电子录文，彖传“不咥人亨”之后无“利貞”；普通电子对校页多此二字。"]
   },
   {
     "id": "review-h10-great-image", "subjectId": "h10-great-image", "method": "electronic-20261022",
-    "subjectHash": "1d1f0fda1d7ac5b0ea61ec056188be8f627142f8015096709283c978d47734f5",
+    "subjectHash": "2a9d9c0c99ed7277fa395be7c1bcd765796502c8997a2203d0df0c6782816682",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 整卦大象 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·整卦；异文仅作对校"}],
     "issues": ["四库本电子录文作“辯上下”，普通电子对校页作“辨上下”。"]
   },
   {
     "id": "review-h10-overview", "subjectId": "h10-overview", "method": "overview-20261022",
-    "subjectHash": "7bde4ae5d2d466981d8a29a70774453d2495796ee08cc4a4b00dbd6ec9849636",
+    "subjectHash": "5658359b4c18be9d2d24a5d314847da41a34e4c0db89f3ac9f5a8f66c61f7c8d",
     "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/363"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 彖曰、整卦大象与上下卦"}],
     "issues": []
   },
   {
     "id": "review-h10-yao-1", "subjectId": "h10-yao-1", "method": "electronic-20261022",
-    "subjectHash": "db41079ddaacd89fb67a3799e6f56a27815091e6d90591cbeb93c41c7176a2ed",
+    "subjectHash": "cea54005357ff1003bd32fa330bb2cfe12d77cd3bc3fb23612a75ea7934b27cd",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 初九 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·初九；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-image-1", "subjectId": "h10-image-1", "method": "electronic-20261022",
-    "subjectHash": "a98d0044f4867bf76c8dd604148a6ae5c8489d3e4bc357c1796af13cd202f438",
+    "subjectHash": "f1b19995786e7e9b733fac1e98d9a36d0d3785fa30eca9fcc7a7cd569d124fed",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 初九小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·初九；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-yao-2", "subjectId": "h10-yao-2", "method": "electronic-20261022",
-    "subjectHash": "00062fca4cc0c03b113eef776e93a425cba4ac1a0532585f5a02b6bf5b5bad0a",
+    "subjectHash": "8ec24efb6e2ec7e8f1d93f35322b810976b51f3260c8b02c651682b0431adcd3",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九二 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·九二；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-image-2", "subjectId": "h10-image-2", "method": "electronic-20261022",
-    "subjectHash": "58434f797da1de0bbcb94a3d875a34b363a4874a28318904399d1423fafd2572",
+    "subjectHash": "fb821459e9da15a30b96a53b9e9706ec0249bb66e380804dfb74673a269da4c3",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九二小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·九二；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-yao-3", "subjectId": "h10-yao-3", "method": "electronic-20261022",
-    "subjectHash": "c851b2ed9090944ccc9c02c3b513deb30e808c5912ce3d63c6ad88a35591a476",
+    "subjectHash": "a90f131afe4fee775177c4d4e12af8b80ca0e732b71fab55d89e69d0a35071b6",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 六三 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·六三；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-image-3", "subjectId": "h10-image-3", "method": "electronic-20261022",
-    "subjectHash": "22c09ff759462e8397f9c8d2188afc053895ebe013f757b3fdec7d1b626a7860",
+    "subjectHash": "b7047c8f9aba068352df86f5e098af8fe92ad4d037ff5a3c1761f52dff5de21b",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 六三小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·六三；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-yao-4", "subjectId": "h10-yao-4", "method": "electronic-20261022",
-    "subjectHash": "0f7faa46704483ab9b8e5399fd6ddeaa5deeb48294fcec8be6839dacdabaa5b4",
+    "subjectHash": "2b87cadd444ed7cb83265a4fad7f13f15998c699ab3d5ae99678d560e59f5449",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九四 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-image-4", "subjectId": "h10-image-4", "method": "electronic-20261022",
-    "subjectHash": "8420962565c3992eab86f21a3c9a5139e4678a617ff80461b112f3e162fc15dc",
+    "subjectHash": "1bd1b12c784ec48e70703b3af0aec751cc6bb936495f32c2a62ff0dc3eb8c6ee",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九四小象 / 0007冊.djvu/364"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-yao-5", "subjectId": "h10-yao-5", "method": "electronic-20261022",
-    "subjectHash": "5578794e69d2de5a2ffa39a87d5abd27c4756cedb157394f726d1ff08a1e9719",
+    "subjectHash": "102c1e86f0f6088ca2445cd4025376f1c79c83c1186fb1ab1203d3c67fab357c",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九五 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·九五；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-image-5", "subjectId": "h10-image-5", "method": "electronic-20261022",
-    "subjectHash": "30a2b9fc760253c100450bec4c956414129ebf347d7638a1f83df02c649c7615",
+    "subjectHash": "e22b0a8a47c863069359c474b2ed715763703f19429b243ec3904154606043a8",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 九五小象 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·九五；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h10-yao-6", "subjectId": "h10-yao-6", "method": "electronic-20261022",
-    "subjectHash": "416c39f0efd5f564cc51b273bedf3e17b9dec4037e9704abe5ce7407a96f80ad",
+    "subjectHash": "426d0fbaaf66da00559ad6fd5b418db95b6200510acfb708e572b297e96efe2a",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 上九 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 易經·上九；异文仅作对校"}],
     "issues": ["采用四库本电子录文“考祥”，普通电子对校页作“考詳”，待影印核字。"]
   },
   {
     "id": "review-h10-image-6", "subjectId": "h10-image-6", "method": "electronic-20261022",
-    "subjectHash": "f34ed72c38cb085da2b71fac8a69650c38aedcf98633bb6d34c5986d46274412",
+    "subjectHash": "0e2a0389f5dfc0224714587679b1e002e2419a83f274f2614a7ea3f338fb118e",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-3-batch2","locator":"卷3 / 履 / 上九小象 / 0007冊.djvu/365"},{"sourceId":"ws-zhouyi-10","locator":"第10卦 履 / 象曰·上九；异文仅作对校"}],
     "issues": []

@@ -2,38 +2,38 @@
   "id": 53,
   "statement": {
     "id": "h53-statement",
-    "original": "漸：女歸吉，利貞。",
+    "original": "渐：女归吉，利贞。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 漸 / 卦辞 / 0007冊.djvu/490"
+        "locator": "卷9 / 渐 / 卦辞 / 0007册.djvu/490"
       }
     ],
     "reviewId": "review-h53-statement"
   },
   "tuan": {
     "id": "h53-tuan",
-    "original": "漸之進也，女歸吉也。進得位，徃有功也。進以正，可以正邦也。其位剛得中也。止而巽，動不窮也。",
+    "original": "渐之进也，女归吉也。进得位，徃有功也。进以正，可以正邦也。其位刚得中也。止而巽，动不穷也。",
     "notes": [
       "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 漸 / 彖曰 / 0007冊.djvu/490–491"
+        "locator": "卷9 / 渐 / 彖曰 / 0007册.djvu/490–491"
       }
     ],
     "reviewId": "review-h53-tuan"
   },
   "greatImage": {
     "id": "h53-great-image",
-    "original": "山上有木，漸；君子以居賢德善俗。",
+    "original": "山上有木，渐；君子以居贤德善俗。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 漸 / 整卦大象 / 0007冊.djvu/491"
+        "locator": "卷9 / 渐 / 整卦大象 / 0007册.djvu/491"
       }
     ],
     "reviewId": "review-h53-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-9-batch6",
-      "locator": "卷9 / 漸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/490–491"
+      "locator": "卷9 / 渐 / 彖曰、整卦大象与上下卦 / 0007册.djvu/490–491"
     }
   ],
   "overviewReviewId": "review-h53-overview",
@@ -58,24 +58,24 @@
       "label": "初六",
       "text": {
         "id": "h53-yao-1",
-        "original": "鴻漸于干，小子厲，有言，无咎。",
+        "original": "鸿渐于干，小子厉，有言，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 初六 / 0007冊.djvu/491"
+            "locator": "卷9 / 渐 / 初六 / 0007册.djvu/491"
           }
         ],
         "reviewId": "review-h53-yao-1"
       },
       "smallImage": {
         "id": "h53-image-1",
-        "original": "小子之厲，義无咎也。",
+        "original": "小子之厉，义无咎也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 初六小象 / 0007冊.djvu/491"
+            "locator": "卷9 / 渐 / 初六小象 / 0007册.djvu/491"
           }
         ],
         "reviewId": "review-h53-image-1"
@@ -87,24 +87,24 @@
       "label": "六二",
       "text": {
         "id": "h53-yao-2",
-        "original": "鴻漸于磐，飲食衎衎，吉。",
+        "original": "鸿渐于磐，饮食衎衎，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 六二 / 0007冊.djvu/491"
+            "locator": "卷9 / 渐 / 六二 / 0007册.djvu/491"
           }
         ],
         "reviewId": "review-h53-yao-2"
       },
       "smallImage": {
         "id": "h53-image-2",
-        "original": "飲食衎衎，不素飽也。",
+        "original": "饮食衎衎，不素饱也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 六二小象 / 0007冊.djvu/491"
+            "locator": "卷9 / 渐 / 六二小象 / 0007册.djvu/491"
           }
         ],
         "reviewId": "review-h53-image-2"
@@ -116,26 +116,26 @@
       "label": "九三",
       "text": {
         "id": "h53-yao-3",
-        "original": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
+        "original": "鸿渐于陆，夫征不复，妇孕不育，凶；利御寇。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 九三 / 0007冊.djvu/491"
+            "locator": "卷9 / 渐 / 九三 / 0007册.djvu/491"
           }
         ],
         "reviewId": "review-h53-yao-3"
       },
       "smallImage": {
         "id": "h53-image-3",
-        "original": "夫征不復，離羣醜也。婦孕不育，失其道也。利用禦寇，順相保也。",
+        "original": "夫征不复，离群丑也。妇孕不育，失其道也。利用御寇，顺相保也。",
         "notes": [
           "采用电子录文“羣醜”，普通电子对校页相应为“群丑”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 九三小象 / 0007冊.djvu/492"
+            "locator": "卷9 / 渐 / 九三小象 / 0007册.djvu/492"
           }
         ],
         "reviewId": "review-h53-image-3"
@@ -147,24 +147,24 @@
       "label": "六四",
       "text": {
         "id": "h53-yao-4",
-        "original": "鴻漸于木，或得其桷，无咎。",
+        "original": "鸿渐于木，或得其桷，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 六四 / 0007冊.djvu/492"
+            "locator": "卷9 / 渐 / 六四 / 0007册.djvu/492"
           }
         ],
         "reviewId": "review-h53-yao-4"
       },
       "smallImage": {
         "id": "h53-image-4",
-        "original": "或得其桷，順以巽也。",
+        "original": "或得其桷，顺以巽也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 六四小象 / 0007冊.djvu/492"
+            "locator": "卷9 / 渐 / 六四小象 / 0007册.djvu/492"
           }
         ],
         "reviewId": "review-h53-image-4"
@@ -176,28 +176,28 @@
       "label": "九五",
       "text": {
         "id": "h53-yao-5",
-        "original": "鴻漸于陵，婦三嵗不孕，終莫之勝，吉。",
+        "original": "鸿渐于陵，妇三岁不孕，终莫之胜，吉。",
         "notes": [
           "采用电子录文“嵗”，普通电子对校页相应为“歲”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 九五 / 0007冊.djvu/492"
+            "locator": "卷9 / 渐 / 九五 / 0007册.djvu/492"
           }
         ],
         "reviewId": "review-h53-yao-5"
       },
       "smallImage": {
         "id": "h53-image-5",
-        "original": "終莫之勝吉，得所願也。",
+        "original": "终莫之胜吉，得所愿也。",
         "notes": [
           "采用电子录文“願”，普通电子对校页相应为“愿”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 九五小象 / 0007冊.djvu/492"
+            "locator": "卷9 / 渐 / 九五小象 / 0007册.djvu/492"
           }
         ],
         "reviewId": "review-h53-image-5"
@@ -209,24 +209,24 @@
       "label": "上九",
       "text": {
         "id": "h53-yao-6",
-        "original": "鴻漸于陸，其羽可用為儀，吉。",
+        "original": "鸿渐于陆，其羽可用为仪，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 上九 / 0007冊.djvu/492"
+            "locator": "卷9 / 渐 / 上九 / 0007册.djvu/492"
           }
         ],
         "reviewId": "review-h53-yao-6"
       },
       "smallImage": {
         "id": "h53-image-6",
-        "original": "其羽可用為儀吉，不可亂也。",
+        "original": "其羽可用为仪吉，不可乱也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 漸 / 上九小象 / 0007冊.djvu/493"
+            "locator": "卷9 / 渐 / 上九小象 / 0007册.djvu/493"
           }
         ],
         "reviewId": "review-h53-image-6"

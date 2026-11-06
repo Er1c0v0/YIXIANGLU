@@ -2,38 +2,38 @@
   "id": 48,
   "statement": {
     "id": "h48-statement",
-    "original": "井：改邑不改井，无喪无得，往來井井。汔至亦未繘井，羸其甁，凶。",
+    "original": "井：改邑不改井，无丧无得，往来井井。汔至亦未繘井，羸其甁，凶。",
     "notes": [
       "采用电子录文卦辞作“甁”、彖传作“瓶”，普通电子对校页均作“瓶”；保留所见字形，影印待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 井 / 卦辞 / 0007冊.djvu/473"
+        "locator": "卷8 / 井 / 卦辞 / 0007册.djvu/473"
       }
     ],
     "reviewId": "review-h48-statement"
   },
   "tuan": {
     "id": "h48-tuan",
-    "original": "巽乎水而上水，井；井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
+    "original": "巽乎水而上水，井；井养而不穷也。改邑不改井，乃以刚中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 井 / 彖曰 / 0007冊.djvu/474"
+        "locator": "卷8 / 井 / 彖曰 / 0007册.djvu/474"
       }
     ],
     "reviewId": "review-h48-tuan"
   },
   "greatImage": {
     "id": "h48-great-image",
-    "original": "木上有水，井；君子以勞民勸相。",
+    "original": "木上有水，井；君子以劳民劝相。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 井 / 整卦大象 / 0007冊.djvu/474"
+        "locator": "卷8 / 井 / 整卦大象 / 0007册.djvu/474"
       }
     ],
     "reviewId": "review-h48-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-8-batch5",
-      "locator": "卷8 / 井 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/473–474"
+      "locator": "卷8 / 井 / 彖曰、整卦大象与上下卦 / 0007册.djvu/473–474"
     }
   ],
   "overviewReviewId": "review-h48-overview",
@@ -58,24 +58,24 @@
       "label": "初六",
       "text": {
         "id": "h48-yao-1",
-        "original": "井泥不食，舊井无禽。",
+        "original": "井泥不食，旧井无禽。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 初六 / 0007冊.djvu/474"
+            "locator": "卷8 / 井 / 初六 / 0007册.djvu/474"
           }
         ],
         "reviewId": "review-h48-yao-1"
       },
       "smallImage": {
         "id": "h48-image-1",
-        "original": "井泥不食，下也。舊井无禽，時舍也。",
+        "original": "井泥不食，下也。旧井无禽，时舍也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 初六小象 / 0007冊.djvu/474"
+            "locator": "卷8 / 井 / 初六小象 / 0007册.djvu/474"
           }
         ],
         "reviewId": "review-h48-image-1"
@@ -87,26 +87,26 @@
       "label": "九二",
       "text": {
         "id": "h48-yao-2",
-        "original": "井谷射鮒，甕敝漏。",
+        "original": "井谷射鲋，瓮敝漏。",
         "notes": [
           "采用电子录文“甕”，普通电子对校页相应为“瓮”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 九二 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 九二 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-yao-2"
       },
       "smallImage": {
         "id": "h48-image-2",
-        "original": "井谷射鮒，无與也。",
+        "original": "井谷射鲋，无与也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 九二小象 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 九二小象 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-image-2"
@@ -118,28 +118,28 @@
       "label": "九三",
       "text": {
         "id": "h48-yao-3",
-        "original": "井渫不食，為我心惻，可用汲，王眀，竝受其福。",
+        "original": "井渫不食，为我心恻，可用汲，王眀，竝受其福。",
         "notes": [
           "采用电子录文“眀竝”，普通电子对校页相应为“明並”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 九三 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 九三 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-yao-3"
       },
       "smallImage": {
         "id": "h48-image-3",
-        "original": "井渫不食，行惻也。求王眀，受福也。",
+        "original": "井渫不食，行恻也。求王眀，受福也。",
         "notes": [
           "采用电子录文“眀”，普通电子对校页相应为“明”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 九三小象 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 九三小象 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-image-3"
@@ -156,7 +156,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 六四 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 六四 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-yao-4"
@@ -168,7 +168,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 六四小象 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 六四小象 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-image-4"
@@ -187,7 +187,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 九五 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 九五 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-yao-5"
@@ -199,7 +199,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 九五小象 / 0007冊.djvu/475"
+            "locator": "卷8 / 井 / 九五小象 / 0007册.djvu/475"
           }
         ],
         "reviewId": "review-h48-image-5"
@@ -216,7 +216,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 上六 / 0007冊.djvu/476"
+            "locator": "卷8 / 井 / 上六 / 0007册.djvu/476"
           }
         ],
         "reviewId": "review-h48-yao-6"
@@ -228,7 +228,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch5",
-            "locator": "卷8 / 井 / 上六小象 / 0007冊.djvu/476"
+            "locator": "卷8 / 井 / 上六小象 / 0007册.djvu/476"
           }
         ],
         "reviewId": "review-h48-image-6"

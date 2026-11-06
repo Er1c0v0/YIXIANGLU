@@ -2,40 +2,40 @@
   "id": 57,
   "statement": {
     "id": "h57-statement",
-    "original": "巽：小亨。利有攸徃，利見大人。",
+    "original": "巽：小亨。利有攸徃，利见大人。",
     "notes": [
       "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 巽 / 卦辞 / 0007冊.djvu/501"
+        "locator": "卷9 / 巽 / 卦辞 / 0007册.djvu/501"
       }
     ],
     "reviewId": "review-h57-statement"
   },
   "tuan": {
     "id": "h57-tuan",
-    "original": "重巽以申命，剛巽乎中正而志行，柔皆順乎剛，是以小亨，利有攸徃，利見大人。",
+    "original": "重巽以申命，刚巽乎中正而志行，柔皆顺乎刚，是以小亨，利有攸徃，利见大人。",
     "notes": [
       "采用电子录文“徃”，普通电子对校页相应为“往”；保留所见，影印字形与异文待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 巽 / 彖曰 / 0007冊.djvu/501"
+        "locator": "卷9 / 巽 / 彖曰 / 0007册.djvu/501"
       }
     ],
     "reviewId": "review-h57-tuan"
   },
   "greatImage": {
     "id": "h57-great-image",
-    "original": "隨風，巽；君子以申命行事。",
+    "original": "随风，巽；君子以申命行事。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 巽 / 整卦大象 / 0007冊.djvu/501"
+        "locator": "卷9 / 巽 / 整卦大象 / 0007册.djvu/501"
       }
     ],
     "reviewId": "review-h57-great-image"
@@ -49,7 +49,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-9-batch6",
-      "locator": "卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/501"
+      "locator": "卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007册.djvu/501"
     }
   ],
   "overviewReviewId": "review-h57-overview",
@@ -60,24 +60,24 @@
       "label": "初六",
       "text": {
         "id": "h57-yao-1",
-        "original": "進退，利武人之貞。",
+        "original": "进退，利武人之贞。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 初六 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 初六 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-yao-1"
       },
       "smallImage": {
         "id": "h57-image-1",
-        "original": "進退，志疑也。利武人之貞，志治也。",
+        "original": "进退，志疑也。利武人之贞，志治也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 初六小象 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 初六小象 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-image-1"
@@ -89,24 +89,24 @@
       "label": "九二",
       "text": {
         "id": "h57-yao-2",
-        "original": "巽在牀下，用史巫紛若，吉，无咎。",
+        "original": "巽在床下，用史巫纷若，吉，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 九二 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 九二 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-yao-2"
       },
       "smallImage": {
         "id": "h57-image-2",
-        "original": "紛若之吉，得中也。",
+        "original": "纷若之吉，得中也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 九二小象 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 九二小象 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-image-2"
@@ -118,24 +118,24 @@
       "label": "九三",
       "text": {
         "id": "h57-yao-3",
-        "original": "頻巽，吝。",
+        "original": "频巽，吝。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 九三 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 九三 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-yao-3"
       },
       "smallImage": {
         "id": "h57-image-3",
-        "original": "頻巽之吝，志窮也。",
+        "original": "频巽之吝，志穷也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 九三小象 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 九三小象 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-image-3"
@@ -147,24 +147,24 @@
       "label": "六四",
       "text": {
         "id": "h57-yao-4",
-        "original": "悔亡，田獲三品。",
+        "original": "悔亡，田获三品。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 六四 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 六四 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-yao-4"
       },
       "smallImage": {
         "id": "h57-image-4",
-        "original": "田獲三品，有功也。",
+        "original": "田获三品，有功也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 六四小象 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 六四小象 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-image-4"
@@ -176,12 +176,12 @@
       "label": "九五",
       "text": {
         "id": "h57-yao-5",
-        "original": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
+        "original": "贞吉悔亡，无不利。无初有终，先庚三日，后庚三日，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 九五 / 0007冊.djvu/502"
+            "locator": "卷9 / 巽 / 九五 / 0007册.djvu/502"
           }
         ],
         "reviewId": "review-h57-yao-5"
@@ -193,7 +193,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 九五小象 / 0007冊.djvu/503"
+            "locator": "卷9 / 巽 / 九五小象 / 0007册.djvu/503"
           }
         ],
         "reviewId": "review-h57-image-5"
@@ -205,24 +205,24 @@
       "label": "上九",
       "text": {
         "id": "h57-yao-6",
-        "original": "巽在牀下，喪其資斧，貞凶。",
+        "original": "巽在床下，丧其资斧，贞凶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 上九 / 0007冊.djvu/503"
+            "locator": "卷9 / 巽 / 上九 / 0007册.djvu/503"
           }
         ],
         "reviewId": "review-h57-yao-6"
       },
       "smallImage": {
         "id": "h57-image-6",
-        "original": "巽在牀下，上窮也。喪其資斧，正乎凶也。",
+        "original": "巽在床下，上穷也。丧其资斧，正乎凶也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 巽 / 上九小象 / 0007冊.djvu/503"
+            "locator": "卷9 / 巽 / 上九小象 / 0007册.djvu/503"
           }
         ],
         "reviewId": "review-h57-image-6"

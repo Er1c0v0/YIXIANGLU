@@ -7,31 +7,31 @@
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch3",
-        "locator": "卷3 / 大有 / 卦辞 / 0007冊.djvu/372"
+        "locator": "卷3 / 大有 / 卦辞 / 0007册.djvu/372"
       }
     ],
     "reviewId": "review-h14-statement"
   },
   "tuan": {
     "id": "h14-tuan",
-    "original": "大有，柔得尊位，大中而上下應之，曰大有。其徳剛健而文明，應乎天而時行，是以元亨。",
+    "original": "大有，柔得尊位，大中而上下应之，曰大有。其徳刚健而文明，应乎天而时行，是以元亨。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch3",
-        "locator": "卷3 / 大有 / 彖曰 / 0007冊.djvu/372"
+        "locator": "卷3 / 大有 / 彖曰 / 0007册.djvu/372"
       }
     ],
     "reviewId": "review-h14-tuan"
   },
   "greatImage": {
     "id": "h14-great-image",
-    "original": "火在天上，大有；君子以遏惡揚善，順天休命。",
+    "original": "火在天上，大有；君子以遏恶扬善，顺天休命。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch3",
-        "locator": "卷3 / 大有 / 整卦大象 / 0007冊.djvu/373"
+        "locator": "卷3 / 大有 / 整卦大象 / 0007册.djvu/373"
       }
     ],
     "reviewId": "review-h14-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-3-batch3",
-      "locator": "卷3 / 大有 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/372–373"
+      "locator": "卷3 / 大有 / 彖曰、整卦大象与上下卦 / 0007册.djvu/372–373"
     }
   ],
   "overviewReviewId": "review-h14-overview",
@@ -56,12 +56,12 @@
       "label": "初九",
       "text": {
         "id": "h14-yao-1",
-        "original": "无交害，匪咎，艱則无咎。",
+        "original": "无交害，匪咎，艰则无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 初九 / 0007冊.djvu/373"
+            "locator": "卷3 / 大有 / 初九 / 0007册.djvu/373"
           }
         ],
         "reviewId": "review-h14-yao-1"
@@ -73,7 +73,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 初九小象 / 0007冊.djvu/373"
+            "locator": "卷3 / 大有 / 初九小象 / 0007册.djvu/373"
           }
         ],
         "reviewId": "review-h14-image-1"
@@ -85,26 +85,26 @@
       "label": "九二",
       "text": {
         "id": "h14-yao-2",
-        "original": "大車以載，有攸往，无咎。",
+        "original": "大车以载，有攸往，无咎。",
         "notes": [
           "采用四库本电子录文“大車”，普通电子对校页作“大轝”。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 九二 / 0007冊.djvu/373"
+            "locator": "卷3 / 大有 / 九二 / 0007册.djvu/373"
           }
         ],
         "reviewId": "review-h14-yao-2"
       },
       "smallImage": {
         "id": "h14-image-2",
-        "original": "大車以載，積中不敗也。",
+        "original": "大车以载，积中不败也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 九二小象 / 0007冊.djvu/373"
+            "locator": "卷3 / 大有 / 九二小象 / 0007册.djvu/373"
           }
         ],
         "reviewId": "review-h14-image-2"
@@ -121,7 +121,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 九三 / 0007冊.djvu/373"
+            "locator": "卷3 / 大有 / 九三 / 0007册.djvu/373"
           }
         ],
         "reviewId": "review-h14-yao-3"
@@ -133,7 +133,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 九三小象 / 0007冊.djvu/373"
+            "locator": "卷3 / 大有 / 九三小象 / 0007册.djvu/373"
           }
         ],
         "reviewId": "review-h14-image-3"
@@ -152,21 +152,21 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 九四 / 0007冊.djvu/374"
+            "locator": "卷3 / 大有 / 九四 / 0007册.djvu/374"
           }
         ],
         "reviewId": "review-h14-yao-4"
       },
       "smallImage": {
         "id": "h14-image-4",
-        "original": "匪其彭无咎，明辯晢也。",
+        "original": "匪其彭无咎，明辩晢也。",
         "notes": [
           "采用四库本电子录文“明辯晢也”，普通电子对校页作“明辨晰也”。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 九四小象 / 0007冊.djvu/374"
+            "locator": "卷3 / 大有 / 九四小象 / 0007册.djvu/374"
           }
         ],
         "reviewId": "review-h14-image-4"
@@ -183,14 +183,14 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 六五 / 0007冊.djvu/374"
+            "locator": "卷3 / 大有 / 六五 / 0007册.djvu/374"
           }
         ],
         "reviewId": "review-h14-yao-5"
       },
       "smallImage": {
         "id": "h14-image-5",
-        "original": "厥孚交如，信以發志也。威如之吉，易而无備也。",
+        "original": "厥孚交如，信以发志也。威如之吉，易而无备也。",
         "notes": [
           "保留采用电子录文“𤼵”字，普通电子对校页作“發”，影印字形待核。",
           "2026-10-22显示修正：“𤼵”通写为“發”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -198,7 +198,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 六五小象 / 0007冊.djvu/374"
+            "locator": "卷3 / 大有 / 六五小象 / 0007册.djvu/374"
           }
         ],
         "reviewId": "review-h14-image-5"
@@ -215,7 +215,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 上九 / 0007冊.djvu/374"
+            "locator": "卷3 / 大有 / 上九 / 0007册.djvu/374"
           }
         ],
         "reviewId": "review-h14-yao-6"
@@ -227,7 +227,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch3",
-            "locator": "卷3 / 大有 / 上九小象 / 0007冊.djvu/374"
+            "locator": "卷3 / 大有 / 上九小象 / 0007册.djvu/374"
           }
         ],
         "reviewId": "review-h14-image-6"

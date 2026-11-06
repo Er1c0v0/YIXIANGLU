@@ -2,36 +2,36 @@
   "id": 8,
   "statement": {
     "id": "h8-statement",
-    "original": "比：吉。原筮，元永貞，无咎。不寧方來，後夫凶。",
+    "original": "比：吉。原筮，元永贞，无咎。不宁方来，后夫凶。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 比 / 卦辞 / 0007冊.djvu/356"
+        "locator": "卷3 / 比 / 卦辞 / 0007册.djvu/356"
       }
     ],
     "reviewId": "review-h8-statement"
   },
   "tuan": {
     "id": "h8-tuan",
-    "original": "比，吉也。比，輔也，下順從也。原筮，元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
+    "original": "比，吉也。比，辅也，下顺从也。原筮，元永贞，无咎，以刚中也。不宁方来，上下应也。后夫凶，其道穷也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 比 / 彖曰 / 0007冊.djvu/357"
+        "locator": "卷3 / 比 / 彖曰 / 0007册.djvu/357"
       }
     ],
     "reviewId": "review-h8-tuan"
   },
   "greatImage": {
     "id": "h8-great-image",
-    "original": "地上有水，比；先王以建萬國，親諸侯。",
+    "original": "地上有水，比；先王以建万国，亲诸侯。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 比 / 整卦大象 / 0007冊.djvu/357"
+        "locator": "卷3 / 比 / 整卦大象 / 0007册.djvu/357"
       }
     ],
     "reviewId": "review-h8-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-3-batch2",
-      "locator": "卷3 / 比 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/356–357"
+      "locator": "卷3 / 比 / 彖曰、整卦大象与上下卦 / 0007册.djvu/356–357"
     }
   ],
   "overviewReviewId": "review-h8-overview",
@@ -56,12 +56,12 @@
       "label": "初六",
       "text": {
         "id": "h8-yao-1",
-        "original": "有孚比之，无咎。有孚盈缶，終來有它吉。",
+        "original": "有孚比之，无咎。有孚盈缶，终来有它吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 初六 / 0007冊.djvu/357"
+            "locator": "卷3 / 比 / 初六 / 0007册.djvu/357"
           }
         ],
         "reviewId": "review-h8-yao-1"
@@ -73,7 +73,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 初六小象 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 初六小象 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-image-1"
@@ -85,12 +85,12 @@
       "label": "六二",
       "text": {
         "id": "h8-yao-2",
-        "original": "比之自内，貞吉。",
+        "original": "比之自内，贞吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 六二 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 六二 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-yao-2"
@@ -102,7 +102,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 六二小象 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 六二小象 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-image-2"
@@ -119,19 +119,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 六三 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 六三 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-yao-3"
       },
       "smallImage": {
         "id": "h8-image-3",
-        "original": "比之匪人，不亦傷乎。",
+        "original": "比之匪人，不亦伤乎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 六三小象 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 六三小象 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-image-3"
@@ -143,24 +143,24 @@
       "label": "六四",
       "text": {
         "id": "h8-yao-4",
-        "original": "外比之，貞吉。",
+        "original": "外比之，贞吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 六四 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 六四 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-yao-4"
       },
       "smallImage": {
         "id": "h8-image-4",
-        "original": "外比於賢，以從上也。",
+        "original": "外比于贤，以从上也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 六四小象 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 六四小象 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-image-4"
@@ -172,26 +172,26 @@
       "label": "九五",
       "text": {
         "id": "h8-yao-5",
-        "original": "顯比，王用三驅，失前禽，邑人不誡，吉。",
+        "original": "显比，王用三驱，失前禽，邑人不诫，吉。",
         "notes": [
           "采用四库本电子录文“三驅”；普通电子对校页作“三敺”，待影印复核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 九五 / 0007冊.djvu/358"
+            "locator": "卷3 / 比 / 九五 / 0007册.djvu/358"
           }
         ],
         "reviewId": "review-h8-yao-5"
       },
       "smallImage": {
         "id": "h8-image-5",
-        "original": "顯比之吉，位正中也。舎逆取順，失前禽也。邑人不誡，上使中也。",
+        "original": "显比之吉，位正中也。舎逆取顺，失前禽也。邑人不诫，上使中也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 九五小象 / 0007冊.djvu/359"
+            "locator": "卷3 / 比 / 九五小象 / 0007册.djvu/359"
           }
         ],
         "reviewId": "review-h8-image-5"
@@ -208,19 +208,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 上六 / 0007冊.djvu/359"
+            "locator": "卷3 / 比 / 上六 / 0007册.djvu/359"
           }
         ],
         "reviewId": "review-h8-yao-6"
       },
       "smallImage": {
         "id": "h8-image-6",
-        "original": "比之无首，无所終也。",
+        "original": "比之无首，无所终也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3-batch2",
-            "locator": "卷3 / 比 / 上六小象 / 0007冊.djvu/359"
+            "locator": "卷3 / 比 / 上六小象 / 0007册.djvu/359"
           }
         ],
         "reviewId": "review-h8-image-6"

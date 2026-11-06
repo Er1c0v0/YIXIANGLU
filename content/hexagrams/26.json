@@ -2,36 +2,36 @@
   "id": 26,
   "statement": {
     "id": "h26-statement",
-    "original": "大畜：利貞，不家食吉，利渉大川。",
+    "original": "大畜：利贞，不家食吉，利渉大川。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 大畜 / 卦辞 / 0007冊.djvu/408"
+        "locator": "卷5 / 大畜 / 卦辞 / 0007册.djvu/408"
       }
     ],
     "reviewId": "review-h26-statement"
   },
   "tuan": {
     "id": "h26-tuan",
-    "original": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利渉大川，應乎天也。",
+    "original": "大畜，刚健笃实辉光，日新其德，刚上而尚贤。能止健，大正也。不家食吉，养贤也。利渉大川，应乎天也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 大畜 / 彖曰 / 0007冊.djvu/409"
+        "locator": "卷5 / 大畜 / 彖曰 / 0007册.djvu/409"
       }
     ],
     "reviewId": "review-h26-tuan"
   },
   "greatImage": {
     "id": "h26-great-image",
-    "original": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+    "original": "天在山中，大畜；君子以多识前言往行，以畜其德。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 大畜 / 整卦大象 / 0007冊.djvu/409"
+        "locator": "卷5 / 大畜 / 整卦大象 / 0007册.djvu/409"
       }
     ],
     "reviewId": "review-h26-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-5",
-      "locator": "卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/408–409"
+      "locator": "卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007册.djvu/408–409"
     }
   ],
   "overviewReviewId": "review-h26-overview",
@@ -56,26 +56,26 @@
       "label": "初九",
       "text": {
         "id": "h26-yao-1",
-        "original": "有厲，利已。",
+        "original": "有厉，利已。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 初九 / 0007冊.djvu/409"
+            "locator": "卷5 / 大畜 / 初九 / 0007册.djvu/409"
           }
         ],
         "reviewId": "review-h26-yao-1"
       },
       "smallImage": {
         "id": "h26-image-1",
-        "original": "有厲利巳，不犯災也。",
+        "original": "有厉利巳，不犯灾也。",
         "notes": [
           "四库本电子录文小象作“利巳”，爻辞作“利已”；保留录文差别，待影印字形复核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 初九小象 / 0007冊.djvu/409"
+            "locator": "卷5 / 大畜 / 初九小象 / 0007册.djvu/409"
           }
         ],
         "reviewId": "review-h26-image-1"
@@ -87,24 +87,24 @@
       "label": "九二",
       "text": {
         "id": "h26-yao-2",
-        "original": "輿說輹。",
+        "original": "舆说輹。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 九二 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 九二 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-yao-2"
       },
       "smallImage": {
         "id": "h26-image-2",
-        "original": "輿說輹，中无尤也。",
+        "original": "舆说輹，中无尤也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 九二小象 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 九二小象 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-image-2"
@@ -116,14 +116,14 @@
       "label": "九三",
       "text": {
         "id": "h26-yao-3",
-        "original": "良馬逐，利艱貞。曰閑輿衛，利有攸徃。",
+        "original": "良马逐，利艰贞。曰闲舆卫，利有攸徃。",
         "notes": [
           "采用四库本电子录文“曰閑輿衛”，其音义列“曰音越”；普通《周易》电子页作“日閑輿衛”且多一“吉”字，待影印复核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 九三 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 九三 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-yao-3"
@@ -135,7 +135,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 九三小象 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 九三小象 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-image-3"
@@ -152,7 +152,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 六四 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 六四 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-yao-4"
@@ -164,7 +164,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 六四小象 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 六四小象 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-image-4"
@@ -176,24 +176,24 @@
       "label": "六五",
       "text": {
         "id": "h26-yao-5",
-        "original": "豶豕之牙，吉。",
+        "original": "豮豕之牙，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 六五 / 0007冊.djvu/410"
+            "locator": "卷5 / 大畜 / 六五 / 0007册.djvu/410"
           }
         ],
         "reviewId": "review-h26-yao-5"
       },
       "smallImage": {
         "id": "h26-image-5",
-        "original": "六五之吉，有慶也。",
+        "original": "六五之吉，有庆也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 六五小象 / 0007冊.djvu/410–411"
+            "locator": "卷5 / 大畜 / 六五小象 / 0007册.djvu/410–411"
           }
         ],
         "reviewId": "review-h26-image-5"
@@ -210,7 +210,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 上九 / 0007冊.djvu/411"
+            "locator": "卷5 / 大畜 / 上九 / 0007册.djvu/411"
           }
         ],
         "reviewId": "review-h26-yao-6"
@@ -222,7 +222,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 大畜 / 上九小象 / 0007冊.djvu/411"
+            "locator": "卷5 / 大畜 / 上九小象 / 0007册.djvu/411"
           }
         ],
         "reviewId": "review-h26-image-6"

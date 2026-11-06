@@ -2,13 +2,13 @@
   "id": 30,
   "statement": {
     "id": "h30-statement",
-    "original": "離：利貞。亨。畜牝牛，吉。",
+    "original": "离：利贞。亨。畜牝牛，吉。",
     "explanation": "利于守正而亨通，蓄养母牛则吉；借母牛的柔顺说明内柔而有依附的德性。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "ws-zhouyi-30",
-        "locator": "第30卦 離 / 易經 / 卦辞"
+        "locator": "第30卦 离 / 易经 / 卦辞"
       }
     ],
     "explanationRefs": [
@@ -21,13 +21,13 @@
   },
   "tuan": {
     "id": "h30-tuan",
-    "original": "離，麗也；日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。柔麗乎中正，故亨；是以畜牝牛吉也。",
+    "original": "离，丽也；日月丽乎天，百谷草木丽乎土，重明以丽乎正，乃化成天下。柔丽乎中正，故亨；是以畜牝牛吉也。",
     "explanation": "离有依附之义：日月依附于天，百谷草木依附于土。光明相继而依于正道，才能化育天下。柔顺依于中正，所以亨通；因此用蓄养母牛来说明这一德性。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "ws-zhouyi-30",
-        "locator": "第30卦 離 / 彖曰 / 全段"
+        "locator": "第30卦 离 / 彖曰 / 全段"
       }
     ],
     "explanationRefs": [
@@ -40,13 +40,13 @@
   },
   "greatImage": {
     "id": "h30-great-image",
-    "original": "明兩作離，大人以繼明照于四方。",
+    "original": "明两作离，大人以继明照于四方。",
     "explanation": "光明相继而起为离，有德有位的人由此持续发扬光明，照及四方。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "ws-zhouyi-30",
-        "locator": "第30卦 離 / 象曰 / 整卦大象"
+        "locator": "第30卦 离 / 象曰 / 整卦大象"
       }
     ],
     "explanationRefs": [
@@ -66,7 +66,7 @@
   "overviewRefs": [
     {
       "sourceId": "ws-zhouyi-30",
-      "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+      "locator": "第30卦 离 / 彖曰、象曰与上下卦"
     }
   ],
   "overviewReviewId": "review-h30-overview",
@@ -77,13 +77,13 @@
       "label": "初九",
       "text": {
         "id": "h30-yao-1",
-        "original": "履錯然，敬之无咎。",
+        "original": "履错然，敬之无咎。",
         "explanation": "脚步交错纷然，保持敬慎就能避免过失。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 易經 / 初九"
+            "locator": "第30卦 离 / 易经 / 初九"
           }
         ],
         "explanationRefs": [
@@ -96,13 +96,13 @@
       },
       "smallImage": {
         "id": "h30-image-1",
-        "original": "履錯之敬，以辟咎也。",
+        "original": "履错之敬，以辟咎也。",
         "explanation": "纷杂的行进之中保持敬慎，是为了避开过失。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 象曰 / 初九小象"
+            "locator": "第30卦 离 / 象曰 / 初九小象"
           }
         ],
         "explanationRefs": [
@@ -122,13 +122,13 @@
       "label": "六二",
       "text": {
         "id": "h30-yao-2",
-        "original": "黃離，元吉。",
+        "original": "黄离，元吉。",
         "explanation": "黄色的光明，原文称大吉；黄取居中之意，说明光明合于中道。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 易經 / 六二"
+            "locator": "第30卦 离 / 易经 / 六二"
           }
         ],
         "explanationRefs": [
@@ -141,13 +141,13 @@
       },
       "smallImage": {
         "id": "h30-image-2",
-        "original": "黃離元吉，得中道也。",
+        "original": "黄离元吉，得中道也。",
         "explanation": "黄离所以大吉，是因为得到了中道。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 象曰 / 六二小象"
+            "locator": "第30卦 离 / 象曰 / 六二小象"
           }
         ],
         "explanationRefs": [
@@ -167,7 +167,7 @@
       "label": "九三",
       "text": {
         "id": "h30-yao-3",
-        "original": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
+        "original": "日昃之离，不鼓缶而歌，则大耋之差，凶。",
         "explanation": "夕阳西斜的光明之中，若不能击缶歌唱而坦然面对，便只剩老境的嗟叹，原文称凶。",
         "notes": [
           "电子底本文字为“差”，页面另注一作“嗟”；这里不直接替换原字，白话按嗟叹义说明。"
@@ -175,7 +175,7 @@
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 易經 / 九三"
+            "locator": "第30卦 离 / 易经 / 九三"
           }
         ],
         "explanationRefs": [
@@ -188,13 +188,13 @@
       },
       "smallImage": {
         "id": "h30-image-3",
-        "original": "日昃之離，何可久也。",
+        "original": "日昃之离，何可久也。",
         "explanation": "日已西斜的光明，哪里能够长久维持；说明盛衰有时。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 象曰 / 九三小象"
+            "locator": "第30卦 离 / 象曰 / 九三小象"
           }
         ],
         "explanationRefs": [
@@ -214,13 +214,13 @@
       "label": "九四",
       "text": {
         "id": "h30-yao-4",
-        "original": "突如其來如，焚如，死如，棄如。",
+        "original": "突如其来如，焚如，死如，弃如。",
         "explanation": "突然冲来，如焚烧、如死亡、如被抛弃；用强烈意象描述躁进带来的破坏。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 易經 / 九四"
+            "locator": "第30卦 离 / 易经 / 九四"
           }
         ],
         "explanationRefs": [
@@ -233,13 +233,13 @@
       },
       "smallImage": {
         "id": "h30-image-4",
-        "original": "突如其來如，无所容也。",
+        "original": "突如其来如，无所容也。",
         "explanation": "突然冲进而破坏常序，以至无处容身。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 象曰 / 九四小象"
+            "locator": "第30卦 离 / 象曰 / 九四小象"
           }
         ],
         "explanationRefs": [
@@ -265,7 +265,7 @@
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 易經 / 六五"
+            "locator": "第30卦 离 / 易经 / 六五"
           }
         ],
         "explanationRefs": [
@@ -278,13 +278,13 @@
       },
       "smallImage": {
         "id": "h30-image-5",
-        "original": "六五之吉，離王公也。",
+        "original": "六五之吉，离王公也。",
         "explanation": "六五之吉，与其依附于王公之位有关；“离”在这里有依附义。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 象曰 / 六五小象"
+            "locator": "第30卦 离 / 象曰 / 六五小象"
           }
         ],
         "explanationRefs": [
@@ -304,13 +304,13 @@
       "label": "上九",
       "text": {
         "id": "h30-yao-6",
-        "original": "王用出征，有嘉折首，獲匪其醜，无咎。",
+        "original": "王用出征，有嘉折首，获匪其丑，无咎。",
         "explanation": "王者出征，嘉奖斩获首恶者，所擒不滥及无辜同类，可以无咎；这是古代征伐语境。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 易經 / 上九"
+            "locator": "第30卦 离 / 易经 / 上九"
           }
         ],
         "explanationRefs": [
@@ -329,7 +329,7 @@
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-30",
-            "locator": "第30卦 離 / 象曰 / 上九小象"
+            "locator": "第30卦 离 / 象曰 / 上九小象"
           }
         ],
         "explanationRefs": [

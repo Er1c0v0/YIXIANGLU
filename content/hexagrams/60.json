@@ -2,36 +2,36 @@
   "id": 60,
   "statement": {
     "id": "h60-statement",
-    "original": "節：亨。苦節不可貞。",
+    "original": "节：亨。苦节不可贞。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 节 / 卦辞 / 0007冊.djvu/511"
+        "locator": "卷10 / 节 / 卦辞 / 0007册.djvu/511"
       }
     ],
     "reviewId": "review-h60-statement"
   },
   "tuan": {
     "id": "h60-tuan",
-    "original": "節，亨。剛柔分而剛得中。苦節不可貞，其道窮也。說以行險，當位以節，中正以通。天地節而四時成，節以制度，不傷財，不害民。",
+    "original": "节，亨。刚柔分而刚得中。苦节不可贞，其道穷也。说以行险，当位以节，中正以通。天地节而四时成，节以制度，不伤财，不害民。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 节 / 彖曰 / 0007冊.djvu/511"
+        "locator": "卷10 / 节 / 彖曰 / 0007册.djvu/511"
       }
     ],
     "reviewId": "review-h60-tuan"
   },
   "greatImage": {
     "id": "h60-great-image",
-    "original": "澤上有水，節；君子以制數度，議德行。",
+    "original": "泽上有水，节；君子以制数度，议德行。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 节 / 整卦大象 / 0007冊.djvu/511"
+        "locator": "卷10 / 节 / 整卦大象 / 0007册.djvu/511"
       }
     ],
     "reviewId": "review-h60-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-10-batch6",
-      "locator": "卷10 / 节 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/511"
+      "locator": "卷10 / 节 / 彖曰、整卦大象与上下卦 / 0007册.djvu/511"
     }
   ],
   "overviewReviewId": "review-h60-overview",
@@ -63,7 +63,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 初九 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 初九 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-yao-1"
@@ -77,7 +77,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 初九小象 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 初九小象 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-image-1"
@@ -89,26 +89,26 @@
       "label": "九二",
       "text": {
         "id": "h60-yao-2",
-        "original": "不出門庭，凶。",
+        "original": "不出门庭，凶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 九二 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 九二 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-yao-2"
       },
       "smallImage": {
         "id": "h60-image-2",
-        "original": "不出門庭凶，失時極也。",
+        "original": "不出门庭凶，失时极也。",
         "notes": [
           "采用电子录文“不出門庭凶，失時極也”，普通电子对校页作“不出門庭，失時極也”；保留主文“凶”字，影印待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 九二小象 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 九二小象 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-image-2"
@@ -120,24 +120,24 @@
       "label": "六三",
       "text": {
         "id": "h60-yao-3",
-        "original": "不節若，則嗟若，无咎。",
+        "original": "不节若，则嗟若，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 六三 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 六三 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-yao-3"
       },
       "smallImage": {
         "id": "h60-image-3",
-        "original": "不節之嗟，又誰咎也。",
+        "original": "不节之嗟，又谁咎也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 六三小象 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 六三小象 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-image-3"
@@ -149,24 +149,24 @@
       "label": "六四",
       "text": {
         "id": "h60-yao-4",
-        "original": "安節，亨。",
+        "original": "安节，亨。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 六四 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 六四 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-yao-4"
       },
       "smallImage": {
         "id": "h60-image-4",
-        "original": "安節之亨，承上道也。",
+        "original": "安节之亨，承上道也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 六四小象 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 六四小象 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-image-4"
@@ -178,24 +178,24 @@
       "label": "九五",
       "text": {
         "id": "h60-yao-5",
-        "original": "甘節，吉。往有尚。",
+        "original": "甘节，吉。往有尚。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 九五 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 九五 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-yao-5"
       },
       "smallImage": {
         "id": "h60-image-5",
-        "original": "甘節之吉，居位中也。",
+        "original": "甘节之吉，居位中也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 九五小象 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 九五小象 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-image-5"
@@ -207,24 +207,24 @@
       "label": "上六",
       "text": {
         "id": "h60-yao-6",
-        "original": "苦節，貞凶，悔亡。",
+        "original": "苦节，贞凶，悔亡。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 上六 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 上六 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-yao-6"
       },
       "smallImage": {
         "id": "h60-image-6",
-        "original": "苦節貞凶，其道窮也。",
+        "original": "苦节贞凶，其道穷也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-10-batch6",
-            "locator": "卷10 / 节 / 上六小象 / 0007冊.djvu/512"
+            "locator": "卷10 / 节 / 上六小象 / 0007册.djvu/512"
           }
         ],
         "reviewId": "review-h60-image-6"

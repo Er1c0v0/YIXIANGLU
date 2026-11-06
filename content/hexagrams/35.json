@@ -2,38 +2,38 @@
   "id": 35,
   "statement": {
     "id": "h35-statement",
-    "original": "晉：康侯用錫馬蕃庶，晝日三接。",
+    "original": "晋：康侯用锡马蕃庶，昼日三接。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 晉 / 卦辞 / 0007冊.djvu/435"
+        "locator": "卷6 / 晋 / 卦辞 / 0007册.djvu/435"
       }
     ],
     "reviewId": "review-h35-statement"
   },
   "tuan": {
     "id": "h35-tuan",
-    "original": "晉，進也。明出地上，順而麗乎大明，柔進而上行。是以康侯用錫馬蕃庻，晝日三接也。",
+    "original": "晋，进也。明出地上，顺而丽乎大明，柔进而上行。是以康侯用锡马蕃庻，昼日三接也。",
     "notes": [
       "采用电子录文“庻”，普通电子对校页相应为“庶”；保留所见，影印字形待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 晉 / 彖曰 / 0007冊.djvu/435"
+        "locator": "卷6 / 晋 / 彖曰 / 0007册.djvu/435"
       }
     ],
     "reviewId": "review-h35-tuan"
   },
   "greatImage": {
     "id": "h35-great-image",
-    "original": "明出地上，晉；君子以自昭明德。",
+    "original": "明出地上，晋；君子以自昭明德。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 晉 / 整卦大象 / 0007冊.djvu/436"
+        "locator": "卷6 / 晋 / 整卦大象 / 0007册.djvu/436"
       }
     ],
     "reviewId": "review-h35-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-6-batch5",
-      "locator": "卷6 / 晉 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/435–436"
+      "locator": "卷6 / 晋 / 彖曰、整卦大象与上下卦 / 0007册.djvu/435–436"
     }
   ],
   "overviewReviewId": "review-h35-overview",
@@ -58,24 +58,24 @@
       "label": "初六",
       "text": {
         "id": "h35-yao-1",
-        "original": "晉如摧如，貞吉。罔孚，裕无咎。",
+        "original": "晋如摧如，贞吉。罔孚，裕无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 初六 / 0007冊.djvu/436"
+            "locator": "卷6 / 晋 / 初六 / 0007册.djvu/436"
           }
         ],
         "reviewId": "review-h35-yao-1"
       },
       "smallImage": {
         "id": "h35-image-1",
-        "original": "晉如摧如，獨行正也。裕无咎，未受命也。",
+        "original": "晋如摧如，独行正也。裕无咎，未受命也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 初六小象 / 0007冊.djvu/436"
+            "locator": "卷6 / 晋 / 初六小象 / 0007册.djvu/436"
           }
         ],
         "reviewId": "review-h35-image-1"
@@ -87,14 +87,14 @@
       "label": "六二",
       "text": {
         "id": "h35-yao-2",
-        "original": "晉如愁如，貞吉。受兹介福，于其王母。",
+        "original": "晋如愁如，贞吉。受兹介福，于其王母。",
         "notes": [
           "采用电子录文“兹”，普通电子对校页相应为“茲”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 六二 / 0007冊.djvu/436"
+            "locator": "卷6 / 晋 / 六二 / 0007册.djvu/436"
           }
         ],
         "reviewId": "review-h35-yao-2"
@@ -108,7 +108,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 六二小象 / 0007冊.djvu/436"
+            "locator": "卷6 / 晋 / 六二小象 / 0007册.djvu/436"
           }
         ],
         "reviewId": "review-h35-image-2"
@@ -120,28 +120,28 @@
       "label": "六三",
       "text": {
         "id": "h35-yao-3",
-        "original": "衆允，悔亡。",
+        "original": "众允，悔亡。",
         "notes": [
           "采用电子录文“衆”，普通电子对校页相应为“眾”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 六三 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 六三 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-yao-3"
       },
       "smallImage": {
         "id": "h35-image-3",
-        "original": "衆允之志，上行也。",
+        "original": "众允之志，上行也。",
         "notes": [
           "采用电子录文“衆”，普通电子对校页相应为“眾”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 六三小象 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 六三小象 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-image-3"
@@ -153,24 +153,24 @@
       "label": "九四",
       "text": {
         "id": "h35-yao-4",
-        "original": "晉如鼫鼠，貞厲。",
+        "original": "晋如鼫鼠，贞厉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 九四 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 九四 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-yao-4"
       },
       "smallImage": {
         "id": "h35-image-4",
-        "original": "鼫鼠貞厲，位不當也。",
+        "original": "鼫鼠贞厉，位不当也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 九四小象 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 九四小象 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-image-4"
@@ -189,19 +189,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 六五 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 六五 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-yao-5"
       },
       "smallImage": {
         "id": "h35-image-5",
-        "original": "失得勿恤，往有慶也。",
+        "original": "失得勿恤，往有庆也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 六五小象 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 六五小象 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-image-5"
@@ -213,24 +213,24 @@
       "label": "上九",
       "text": {
         "id": "h35-yao-6",
-        "original": "晉其角，維用伐邑，厲吉无咎，貞吝。",
+        "original": "晋其角，维用伐邑，厉吉无咎，贞吝。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 上九 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 上九 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-yao-6"
       },
       "smallImage": {
         "id": "h35-image-6",
-        "original": "維用伐邑，道未光也。",
+        "original": "维用伐邑，道未光也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 晉 / 上九小象 / 0007冊.djvu/437"
+            "locator": "卷6 / 晋 / 上九小象 / 0007册.djvu/437"
           }
         ],
         "reviewId": "review-h35-image-6"

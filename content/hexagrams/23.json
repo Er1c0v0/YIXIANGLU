@@ -2,38 +2,38 @@
   "id": 23,
   "statement": {
     "id": "h23-statement",
-    "original": "剝：不利有攸往。",
+    "original": "剥：不利有攸往。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 剝 / 卦辞 / 0007冊.djvu/401"
+        "locator": "卷5 / 剥 / 卦辞 / 0007册.djvu/401"
       }
     ],
     "reviewId": "review-h23-statement"
   },
   "tuan": {
     "id": "h23-tuan",
-    "original": "剝，剝也，柔變剛也。不利有攸往，小人長也。順而止之，觀象也。君子尚消息盈虚，天行也。",
+    "original": "剥，剥也，柔变刚也。不利有攸往，小人长也。顺而止之，观象也。君子尚消息盈虚，天行也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 剝 / 彖曰 / 0007冊.djvu/401"
+        "locator": "卷5 / 剥 / 彖曰 / 0007册.djvu/401"
       }
     ],
     "reviewId": "review-h23-tuan"
   },
   "greatImage": {
     "id": "h23-great-image",
-    "original": "山附于地，剝；上以厚下安宅。",
+    "original": "山附于地，剥；上以厚下安宅。",
     "notes": [
       "采用四库本电子录文“山附于地”，普通《周易》电子页作“山附地上”。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 剝 / 整卦大象 / 0007冊.djvu/402"
+        "locator": "卷5 / 剥 / 整卦大象 / 0007册.djvu/402"
       }
     ],
     "reviewId": "review-h23-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-5",
-      "locator": "卷5 / 剝 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/401–402"
+      "locator": "卷5 / 剥 / 彖曰、整卦大象与上下卦 / 0007册.djvu/401–402"
     }
   ],
   "overviewReviewId": "review-h23-overview",
@@ -58,24 +58,24 @@
       "label": "初六",
       "text": {
         "id": "h23-yao-1",
-        "original": "剝牀以足，蔑貞凶。",
+        "original": "剥床以足，蔑贞凶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 初六 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 初六 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-yao-1"
       },
       "smallImage": {
         "id": "h23-image-1",
-        "original": "剝牀以足，以滅下也。",
+        "original": "剥床以足，以灭下也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 初六小象 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 初六小象 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-image-1"
@@ -87,24 +87,24 @@
       "label": "六二",
       "text": {
         "id": "h23-yao-2",
-        "original": "剝牀以辨，蔑貞凶。",
+        "original": "剥床以辨，蔑贞凶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六二 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 六二 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-yao-2"
       },
       "smallImage": {
         "id": "h23-image-2",
-        "original": "剝牀以辨，未有與也。",
+        "original": "剥床以辨，未有与也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六二小象 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 六二小象 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-image-2"
@@ -116,24 +116,24 @@
       "label": "六三",
       "text": {
         "id": "h23-yao-3",
-        "original": "剝之，无咎。",
+        "original": "剥之，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六三 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 六三 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-yao-3"
       },
       "smallImage": {
         "id": "h23-image-3",
-        "original": "剝之无咎，失上下也。",
+        "original": "剥之无咎，失上下也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六三小象 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 六三小象 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-image-3"
@@ -145,24 +145,24 @@
       "label": "六四",
       "text": {
         "id": "h23-yao-4",
-        "original": "剝牀以膚，凶。",
+        "original": "剥床以肤，凶。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六四 / 0007冊.djvu/402"
+            "locator": "卷5 / 剥 / 六四 / 0007册.djvu/402"
           }
         ],
         "reviewId": "review-h23-yao-4"
       },
       "smallImage": {
         "id": "h23-image-4",
-        "original": "剝牀以膚，切近災也。",
+        "original": "剥床以肤，切近灾也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六四小象 / 0007冊.djvu/403"
+            "locator": "卷5 / 剥 / 六四小象 / 0007册.djvu/403"
           }
         ],
         "reviewId": "review-h23-image-4"
@@ -174,24 +174,24 @@
       "label": "六五",
       "text": {
         "id": "h23-yao-5",
-        "original": "貫魚，以宮人寵，无不利。",
+        "original": "贯鱼，以宫人宠，无不利。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六五 / 0007冊.djvu/403"
+            "locator": "卷5 / 剥 / 六五 / 0007册.djvu/403"
           }
         ],
         "reviewId": "review-h23-yao-5"
       },
       "smallImage": {
         "id": "h23-image-5",
-        "original": "以宮人寵，終无尤也。",
+        "original": "以宫人宠，终无尤也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 六五小象 / 0007冊.djvu/403"
+            "locator": "卷5 / 剥 / 六五小象 / 0007册.djvu/403"
           }
         ],
         "reviewId": "review-h23-image-5"
@@ -203,26 +203,26 @@
       "label": "上九",
       "text": {
         "id": "h23-yao-6",
-        "original": "碩果不食，君子得輿，小人剝廬。",
+        "original": "硕果不食，君子得舆，小人剥庐。",
         "notes": [
           "采用四库本电子录文“君子得輿”，普通《周易》电子页主文作“君子德車”并列异文。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 上九 / 0007冊.djvu/403"
+            "locator": "卷5 / 剥 / 上九 / 0007册.djvu/403"
           }
         ],
         "reviewId": "review-h23-yao-6"
       },
       "smallImage": {
         "id": "h23-image-6",
-        "original": "君子得輿，民所載也。小人剝廬，終不可用也。",
+        "original": "君子得舆，民所载也。小人剥庐，终不可用也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5",
-            "locator": "卷5 / 剝 / 上九小象 / 0007冊.djvu/403"
+            "locator": "卷5 / 剥 / 上九小象 / 0007册.djvu/403"
           }
         ],
         "reviewId": "review-h23-image-6"

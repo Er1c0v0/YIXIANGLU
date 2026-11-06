@@ -2,21 +2,21 @@
   "id": 52,
   "statement": {
     "id": "h52-statement",
-    "original": "艮其背，不獲其身，行其庭，不見其人，无咎。",
+    "original": "艮其背，不获其身，行其庭，不见其人，无咎。",
     "notes": [
       "采用电子主文以“艮其背”起首；普通电子对校页作“艮：艮其背”。未向主文重复添加卦名，影印待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 艮 / 卦辞 / 0007冊.djvu/488"
+        "locator": "卷9 / 艮 / 卦辞 / 0007册.djvu/488"
       }
     ],
     "reviewId": "review-h52-statement"
   },
   "tuan": {
     "id": "h52-tuan",
-    "original": "艮，止也。時止則止，時行則行，動静不失其時，其道光明。艮其止，止其所也。上下敵應，不相與也。是以不獲其身，行其庭不見其人，无咎也。",
+    "original": "艮，止也。时止则止，时行则行，动静不失其时，其道光明。艮其止，止其所也。上下敌应，不相与也。是以不获其身，行其庭不见其人，无咎也。",
     "notes": [
       "采用电子录文“静”，普通电子对校页相应为“靜”；采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形与异文待核。",
       "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -24,7 +24,7 @@
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 艮 / 彖曰 / 0007冊.djvu/488–489"
+        "locator": "卷9 / 艮 / 彖曰 / 0007册.djvu/488–489"
       }
     ],
     "reviewId": "review-h52-tuan"
@@ -36,7 +36,7 @@
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 艮 / 整卦大象 / 0007冊.djvu/489"
+        "locator": "卷9 / 艮 / 整卦大象 / 0007册.djvu/489"
       }
     ],
     "reviewId": "review-h52-great-image"
@@ -50,7 +50,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-9-batch6",
-      "locator": "卷9 / 艮 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/488–489"
+      "locator": "卷9 / 艮 / 彖曰、整卦大象与上下卦 / 0007册.djvu/488–489"
     }
   ],
   "overviewReviewId": "review-h52-overview",
@@ -61,12 +61,12 @@
       "label": "初六",
       "text": {
         "id": "h52-yao-1",
-        "original": "艮其趾，无咎，利永貞。",
+        "original": "艮其趾，无咎，利永贞。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 初六 / 0007冊.djvu/489"
+            "locator": "卷9 / 艮 / 初六 / 0007册.djvu/489"
           }
         ],
         "reviewId": "review-h52-yao-1"
@@ -78,7 +78,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 初六小象 / 0007冊.djvu/489"
+            "locator": "卷9 / 艮 / 初六小象 / 0007册.djvu/489"
           }
         ],
         "reviewId": "review-h52-image-1"
@@ -90,26 +90,26 @@
       "label": "六二",
       "text": {
         "id": "h52-yao-2",
-        "original": "艮其腓，不拯其隨，其心不快。",
+        "original": "艮其腓，不拯其随，其心不快。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 六二 / 0007冊.djvu/489"
+            "locator": "卷9 / 艮 / 六二 / 0007册.djvu/489"
           }
         ],
         "reviewId": "review-h52-yao-2"
       },
       "smallImage": {
         "id": "h52-image-2",
-        "original": "不拯其隨，未退聴也。",
+        "original": "不拯其随，未退聴也。",
         "notes": [
           "采用电子录文“聴”，普通电子对校页相应为“聽”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 六二小象 / 0007冊.djvu/489"
+            "locator": "卷9 / 艮 / 六二小象 / 0007册.djvu/489"
           }
         ],
         "reviewId": "review-h52-image-2"
@@ -121,14 +121,14 @@
       "label": "九三",
       "text": {
         "id": "h52-yao-3",
-        "original": "艮其限，列其夤，厲薰心。",
+        "original": "艮其限，列其夤，厉薰心。",
         "notes": [
           "采用电子录文“列其夤，厲薰心”，普通电子对校页作“裂其夤，厲閽心”；分别留档，未据对校页改字，影印待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 九三 / 0007冊.djvu/489"
+            "locator": "卷9 / 艮 / 九三 / 0007册.djvu/489"
           }
         ],
         "reviewId": "review-h52-yao-3"
@@ -140,7 +140,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 九三小象 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 九三小象 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-image-3"
@@ -157,19 +157,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 六四 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 六四 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-yao-4"
       },
       "smallImage": {
         "id": "h52-image-4",
-        "original": "艮其身，止諸躬也。",
+        "original": "艮其身，止诸躬也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 六四小象 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 六四小象 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-image-4"
@@ -181,26 +181,26 @@
       "label": "六五",
       "text": {
         "id": "h52-yao-5",
-        "original": "艮其輔，言有序，悔亡。",
+        "original": "艮其辅，言有序，悔亡。",
         "notes": [
           "采用电子录文“言有序”，普通电子对校页作“言有孚”；小象两页均为“以中正也”。保留采用主文，影印待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 六五 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 六五 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-yao-5"
       },
       "smallImage": {
         "id": "h52-image-5",
-        "original": "艮其輔，以中正也。",
+        "original": "艮其辅，以中正也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 六五小象 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 六五小象 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-image-5"
@@ -217,19 +217,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 上九 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 上九 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-yao-6"
       },
       "smallImage": {
         "id": "h52-image-6",
-        "original": "敦艮之吉，以厚終也。",
+        "original": "敦艮之吉，以厚终也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-9-batch6",
-            "locator": "卷9 / 艮 / 上九小象 / 0007冊.djvu/490"
+            "locator": "卷9 / 艮 / 上九小象 / 0007册.djvu/490"
           }
         ],
         "reviewId": "review-h52-image-6"

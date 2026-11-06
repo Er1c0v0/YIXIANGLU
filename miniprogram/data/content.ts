@@ -5,16 +5,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 1,
     "statement": {
-      "original": "乾：元亨。利貞。",
+      "original": "乾：元亨。利贞。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-1",
-          "locator": "第1卦 乾 / 易經 / 卦辞"
+          "locator": "第1卦 乾 / 易经 / 卦辞"
         }
       ]
     },
     "tuan": {
-      "original": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形，大明終始，六位時成。時乘六龍以御天，乾道變化，各正性命，保合大和，乃利貞。首出庶物，萬國咸寧。",
+      "original": "大哉乾元，万物资始，乃统天。云行雨施，品物流形，大明终始，六位时成。时乘六龙以御天，乾道变化，各正性命，保合大和，乃利贞。首出庶物，万国咸宁。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-1",
@@ -23,7 +23,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "original": "天行健，君子以自強不息。",
+      "original": "天行健，君子以自强不息。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-1",
@@ -48,16 +48,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "潛龍勿用。",
+          "original": "潜龙勿用。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 初九"
+              "locator": "第1卦 乾 / 易经 / 初九"
             }
           ]
         },
         "smallImage": {
-          "original": "潛龍勿用，陽在下也。",
+          "original": "潜龙勿用，阳在下也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -70,16 +70,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "見龍在田，利見大人。",
+          "original": "见龙在田，利见大人。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 九二"
+              "locator": "第1卦 乾 / 易经 / 九二"
             }
           ]
         },
         "smallImage": {
-          "original": "見龍在田，德施普也。",
+          "original": "见龙在田，德施普也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -92,16 +92,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "君子終日乾乾，夕惕若；厲，无咎。",
+          "original": "君子终日乾乾，夕惕若；厉，无咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 九三"
+              "locator": "第1卦 乾 / 易经 / 九三"
             }
           ]
         },
         "smallImage": {
-          "original": "終日乾乾，反復道也。",
+          "original": "终日乾乾，反复道也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -114,16 +114,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "或躍在淵，无咎。",
+          "original": "或跃在渊，无咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 九四"
+              "locator": "第1卦 乾 / 易经 / 九四"
             }
           ]
         },
         "smallImage": {
-          "original": "或躍在淵，進无咎也。",
+          "original": "或跃在渊，进无咎也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -136,16 +136,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "飛龍在天，利見大人。",
+          "original": "飞龙在天，利见大人。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 九五"
+              "locator": "第1卦 乾 / 易经 / 九五"
             }
           ]
         },
         "smallImage": {
-          "original": "飛龍在天，大人造也。",
+          "original": "飞龙在天，大人造也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -158,16 +158,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "亢龍，有悔。",
+          "original": "亢龙，有悔。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 上九"
+              "locator": "第1卦 乾 / 易经 / 上九"
             }
           ]
         },
         "smallImage": {
-          "original": "亢龍有悔，盈不可久也。",
+          "original": "亢龙有悔，盈不可久也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -181,16 +181,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       {
         "kind": "yong-jiu",
         "text": {
-          "original": "見羣龍无首，吉。",
+          "original": "见群龙无首，吉。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
-              "locator": "第1卦 乾 / 易經 / 用九"
+              "locator": "第1卦 乾 / 易经 / 用九"
             }
           ]
         },
         "smallImage": {
-          "original": "用九，天德不可為首也。",
+          "original": "用九，天德不可为首也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-1",
@@ -204,16 +204,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 2,
     "statement": {
-      "original": "坤：元亨。利牝馬之貞。君子有攸往，先迷後得主。利西南得朋，東北喪朋。安貞，吉。",
+      "original": "坤：元亨。利牝马之贞。君子有攸往，先迷后得主。利西南得朋，东北丧朋。安贞，吉。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-2",
-          "locator": "第2卦 坤 / 易經 / 卦辞"
+          "locator": "第2卦 坤 / 易经 / 卦辞"
         }
       ]
     },
     "tuan": {
-      "original": "至哉坤元，萬物資生，乃順承天。坤厚載物，德合无疆；含弘光大，品物咸亨。牝馬地類，行地无疆，柔順利貞。君子攸行，先迷失道，後順得常。西南得朋，乃與類行，東北喪朋，乃終有慶。安貞之吉，應地无疆。",
+      "original": "至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆；含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子攸行，先迷失道，后顺得常。西南得朋，乃与类行，东北丧朋，乃终有庆。安贞之吉，应地无疆。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-2",
@@ -222,7 +222,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "original": "地勢坤，君子以厚德載物。",
+      "original": "地势坤，君子以厚德载物。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-2",
@@ -247,16 +247,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "履霜，堅冰至。",
+          "original": "履霜，坚冰至。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 初六"
+              "locator": "第2卦 坤 / 易经 / 初六"
             }
           ]
         },
         "smallImage": {
-          "original": "履霜堅冰，陰始凝也。馴致其道，至堅冰也。",
+          "original": "履霜坚冰，阴始凝也。驯致其道，至坚冰也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
@@ -269,16 +269,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "直方大，不習无不利。",
+          "original": "直方大，不习无不利。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 六二"
+              "locator": "第2卦 坤 / 易经 / 六二"
             }
           ]
         },
         "smallImage": {
-          "original": "六二之動，直以方也。不習无不利，地道光也。",
+          "original": "六二之动，直以方也。不习无不利，地道光也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
@@ -291,16 +291,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "含章，可貞。或從王事，无成有終。",
+          "original": "含章，可贞。或从王事，无成有终。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 六三"
+              "locator": "第2卦 坤 / 易经 / 六三"
             }
           ]
         },
         "smallImage": {
-          "original": "含章可貞，以時發也。或從王事，知光大也。",
+          "original": "含章可贞，以时发也。或从王事，知光大也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
@@ -313,11 +313,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "括囊，无咎无譽。",
+          "original": "括囊，无咎无誉。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 六四"
+              "locator": "第2卦 坤 / 易经 / 六四"
             }
           ]
         },
@@ -335,16 +335,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "黃裳，元吉。",
+          "original": "黄裳，元吉。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 六五"
+              "locator": "第2卦 坤 / 易经 / 六五"
             }
           ]
         },
         "smallImage": {
-          "original": "黃裳元吉，文在中也。",
+          "original": "黄裳元吉，文在中也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
@@ -357,16 +357,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "龍戰于野，其血玄黃。",
+          "original": "龙战于野，其血玄黄。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 上六"
+              "locator": "第2卦 坤 / 易经 / 上六"
             }
           ]
         },
         "smallImage": {
-          "original": "龍戰于野，其道窮也。",
+          "original": "龙战于野，其道穷也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
@@ -380,16 +380,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       {
         "kind": "yong-liu",
         "text": {
-          "original": "利永貞。",
+          "original": "利永贞。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
-              "locator": "第2卦 坤 / 易經 / 用六"
+              "locator": "第2卦 坤 / 易经 / 用六"
             }
           ]
         },
         "smallImage": {
-          "original": "用六永貞，以大終也。",
+          "original": "用六永贞，以大终也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-2",
@@ -403,29 +403,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 3,
     "statement": {
-      "original": "屯：元亨，利貞。勿用有攸徃，利建侯。",
+      "original": "屯：元亨，利贞。勿用有攸徃，利建侯。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2",
-          "locator": "卷2 / 屯 / 卦辞 / 0007冊.djvu/339"
+          "locator": "卷2 / 屯 / 卦辞 / 0007册.djvu/339"
         }
       ]
     },
     "tuan": {
-      "original": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
+      "original": "屯，刚柔始交而难生，动乎险中，大亨贞。雷雨之动满盈，天造草昧，宜建侯而不宁。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2",
-          "locator": "卷2 / 屯 / 彖曰 / 0007冊.djvu/339"
+          "locator": "卷2 / 屯 / 彖曰 / 0007册.djvu/339"
         }
       ]
     },
     "greatImage": {
-      "original": "雲雷，屯；君子以經綸。",
+      "original": "云雷，屯；君子以经纶。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2",
-          "locator": "卷2 / 屯 / 整卦大象 / 0007冊.djvu/339"
+          "locator": "卷2 / 屯 / 整卦大象 / 0007册.djvu/339"
         }
       ]
     },
@@ -438,7 +438,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-2",
-        "locator": "卷2 / 屯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/339–339"
+        "locator": "卷2 / 屯 / 彖曰、整卦大象与上下卦 / 0007册.djvu/339–339"
       }
     ],
     "yao": [
@@ -446,20 +446,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "磐桓，利居貞，利建侯。",
+          "original": "磐桓，利居贞，利建侯。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 初九 / 0007冊.djvu/340"
+              "locator": "卷2 / 屯 / 初九 / 0007册.djvu/340"
             }
           ]
         },
         "smallImage": {
-          "original": "雖磐桓，志行正也。以貴下賤，大得民也。",
+          "original": "虽磐桓，志行正也。以贵下贱，大得民也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 初九小象 / 0007冊.djvu/340"
+              "locator": "卷2 / 屯 / 初九小象 / 0007册.djvu/340"
             }
           ]
         }
@@ -468,20 +468,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "屯如邅如，乘馬班如，匪宼婚媾，女子貞不字，十年乃字。",
+          "original": "屯如邅如，乘马班如，匪宼婚媾，女子贞不字，十年乃字。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 六二 / 0007冊.djvu/340"
+              "locator": "卷2 / 屯 / 六二 / 0007册.djvu/340"
             }
           ]
         },
         "smallImage": {
-          "original": "六二之難，乘剛也。十年乃字，反常也。",
+          "original": "六二之难，乘刚也。十年乃字，反常也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 六二小象 / 0007冊.djvu/340"
+              "locator": "卷2 / 屯 / 六二小象 / 0007册.djvu/340"
             }
           ]
         }
@@ -490,20 +490,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "卽鹿无虞，惟入于林中，君子幾不如舎，徃吝。",
+          "original": "即鹿无虞，惟入于林中，君子几不如舎，徃吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 六三 / 0007冊.djvu/341"
+              "locator": "卷2 / 屯 / 六三 / 0007册.djvu/341"
             }
           ]
         },
         "smallImage": {
-          "original": "卽鹿无虞，以從禽也。君子舍之，徃吝窮也。",
+          "original": "即鹿无虞，以从禽也。君子舍之，徃吝穷也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 六三小象 / 0007冊.djvu/341"
+              "locator": "卷2 / 屯 / 六三小象 / 0007册.djvu/341"
             }
           ]
         }
@@ -512,11 +512,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "乘馬班如，求婚媾，徃吉，无不利。",
+          "original": "乘马班如，求婚媾，徃吉，无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 六四 / 0007冊.djvu/341"
+              "locator": "卷2 / 屯 / 六四 / 0007册.djvu/341"
             }
           ]
         },
@@ -525,7 +525,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 六四小象 / 0007冊.djvu/341"
+              "locator": "卷2 / 屯 / 六四小象 / 0007册.djvu/341"
             }
           ]
         }
@@ -534,11 +534,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "屯其膏，小貞吉，大貞凶。",
+          "original": "屯其膏，小贞吉，大贞凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 九五 / 0007冊.djvu/341"
+              "locator": "卷2 / 屯 / 九五 / 0007册.djvu/341"
             }
           ]
         },
@@ -547,7 +547,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 九五小象 / 0007冊.djvu/342"
+              "locator": "卷2 / 屯 / 九五小象 / 0007册.djvu/342"
             }
           ]
         }
@@ -556,20 +556,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "乘馬班如，泣血漣如。",
+          "original": "乘马班如，泣血涟如。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 上六 / 0007冊.djvu/342"
+              "locator": "卷2 / 屯 / 上六 / 0007册.djvu/342"
             }
           ]
         },
         "smallImage": {
-          "original": "泣血漣如，何可長也。",
+          "original": "泣血涟如，何可长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2",
-              "locator": "卷2 / 屯 / 上六小象 / 0007冊.djvu/342"
+              "locator": "卷2 / 屯 / 上六小象 / 0007册.djvu/342"
             }
           ]
         }
@@ -580,20 +580,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 4,
     "statement": {
-      "original": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+      "original": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 蒙 / 卦辞 / 0007冊.djvu/342"
+          "locator": "卷2 / 蒙 / 卦辞 / 0007册.djvu/342"
         }
       ]
     },
     "tuan": {
-      "original": "蒙，山下有險，險而止，蒙。蒙亨，以亨行，時中也。匪我求童蒙，童蒙求我，志應也。初筮告，以剛中也。再三瀆，瀆則不告，瀆蒙也。蒙以養正，聖功也。",
+      "original": "蒙，山下有险，险而止，蒙。蒙亨，以亨行，时中也。匪我求童蒙，童蒙求我，志应也。初筮告，以刚中也。再三渎，渎则不告，渎蒙也。蒙以养正，圣功也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 蒙 / 彖曰 / 0007冊.djvu/342–343"
+          "locator": "卷2 / 蒙 / 彖曰 / 0007册.djvu/342–343"
         }
       ]
     },
@@ -602,7 +602,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 蒙 / 整卦大象 / 0007冊.djvu/343"
+          "locator": "卷2 / 蒙 / 整卦大象 / 0007册.djvu/343"
         }
       ]
     },
@@ -615,7 +615,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-2-batch2",
-        "locator": "卷2 / 蒙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/342–343"
+        "locator": "卷2 / 蒙 / 彖曰、整卦大象与上下卦 / 0007册.djvu/342–343"
       }
     ],
     "yao": [
@@ -623,11 +623,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "發蒙，利用刑人，用說桎梏，以徃吝。",
+          "original": "发蒙，利用刑人，用说桎梏，以徃吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 初六 / 0007冊.djvu/343"
+              "locator": "卷2 / 蒙 / 初六 / 0007册.djvu/343"
             }
           ]
         },
@@ -636,7 +636,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 初六小象 / 0007冊.djvu/343"
+              "locator": "卷2 / 蒙 / 初六小象 / 0007册.djvu/343"
             }
           ]
         }
@@ -645,20 +645,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "包蒙吉，納婦吉，子克家。",
+          "original": "包蒙吉，纳妇吉，子克家。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 九二 / 0007冊.djvu/343"
+              "locator": "卷2 / 蒙 / 九二 / 0007册.djvu/343"
             }
           ]
         },
         "smallImage": {
-          "original": "子克家，剛柔接也。",
+          "original": "子克家，刚柔接也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 九二小象 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 九二小象 / 0007册.djvu/344"
             }
           ]
         }
@@ -667,20 +667,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "勿用取女，見金夫，不有躬，无攸利。",
+          "original": "勿用取女，见金夫，不有躬，无攸利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 六三 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 六三 / 0007册.djvu/344"
             }
           ]
         },
         "smallImage": {
-          "original": "勿用取女，行不順也。",
+          "original": "勿用取女，行不顺也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 六三小象 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 六三小象 / 0007册.djvu/344"
             }
           ]
         }
@@ -693,16 +693,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 六四 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 六四 / 0007册.djvu/344"
             }
           ]
         },
         "smallImage": {
-          "original": "困蒙之吝，獨遠實也。",
+          "original": "困蒙之吝，独远实也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 六四小象 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 六四小象 / 0007册.djvu/344"
             }
           ]
         }
@@ -715,16 +715,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 六五 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 六五 / 0007册.djvu/344"
             }
           ]
         },
         "smallImage": {
-          "original": "童蒙之吉，順以巽也。",
+          "original": "童蒙之吉，顺以巽也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 六五小象 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 六五小象 / 0007册.djvu/344"
             }
           ]
         }
@@ -733,20 +733,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "擊蒙，不利爲宼，利禦宼。",
+          "original": "击蒙，不利为宼，利御宼。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 上九 / 0007冊.djvu/344"
+              "locator": "卷2 / 蒙 / 上九 / 0007册.djvu/344"
             }
           ]
         },
         "smallImage": {
-          "original": "利用禦宼，上下順也。",
+          "original": "利用御宼，上下顺也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 蒙 / 上九小象 / 0007冊.djvu/345"
+              "locator": "卷2 / 蒙 / 上九小象 / 0007册.djvu/345"
             }
           ]
         }
@@ -757,29 +757,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 5,
     "statement": {
-      "original": "需：有孚，光亨，貞吉。利涉大川。",
+      "original": "需：有孚，光亨，贞吉。利涉大川。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 需 / 卦辞 / 0007冊.djvu/345"
+          "locator": "卷2 / 需 / 卦辞 / 0007册.djvu/345"
         }
       ]
     },
     "tuan": {
-      "original": "需，須也，險在前也。剛健而不䧟，其義不困窮矣。需有孚，光亨，貞吉，位乎天位，以正中也。利涉大川，徃有功也。",
+      "original": "需，须也，险在前也。刚健而不䧟，其义不困穷矣。需有孚，光亨，贞吉，位乎天位，以正中也。利涉大川，徃有功也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 需 / 彖曰 / 0007冊.djvu/345"
+          "locator": "卷2 / 需 / 彖曰 / 0007册.djvu/345"
         }
       ]
     },
     "greatImage": {
-      "original": "雲上於天，需；君子以飲食宴樂。",
+      "original": "云上于天，需；君子以饮食宴乐。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 需 / 整卦大象 / 0007冊.djvu/345"
+          "locator": "卷2 / 需 / 整卦大象 / 0007册.djvu/345"
         }
       ]
     },
@@ -792,7 +792,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-2-batch2",
-        "locator": "卷2 / 需 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/345"
+        "locator": "卷2 / 需 / 彖曰、整卦大象与上下卦 / 0007册.djvu/345"
       }
     ],
     "yao": [
@@ -804,16 +804,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 初九 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 初九 / 0007册.djvu/346"
             }
           ]
         },
         "smallImage": {
-          "original": "需于郊，不犯難行也。利用恒，无咎，未失常也。",
+          "original": "需于郊，不犯难行也。利用恒，无咎，未失常也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 初九小象 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 初九小象 / 0007册.djvu/346"
             }
           ]
         }
@@ -822,20 +822,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "需于沙，小有言，終吉。",
+          "original": "需于沙，小有言，终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 九二 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 九二 / 0007册.djvu/346"
             }
           ]
         },
         "smallImage": {
-          "original": "需于沙，衍在中也。雖小有言，以吉終也。",
+          "original": "需于沙，衍在中也。虽小有言，以吉终也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 九二小象 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 九二小象 / 0007册.djvu/346"
             }
           ]
         }
@@ -848,16 +848,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 九三 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 九三 / 0007册.djvu/346"
             }
           ]
         },
         "smallImage": {
-          "original": "需于泥，災在外也。自我致宼，敬愼不敗也。",
+          "original": "需于泥，灾在外也。自我致宼，敬愼不败也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 九三小象 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 九三小象 / 0007册.djvu/346"
             }
           ]
         }
@@ -870,16 +870,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 六四 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 六四 / 0007册.djvu/346"
             }
           ]
         },
         "smallImage": {
-          "original": "需于血，順以聽也。",
+          "original": "需于血，顺以听也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 六四小象 / 0007冊.djvu/346"
+              "locator": "卷2 / 需 / 六四小象 / 0007册.djvu/346"
             }
           ]
         }
@@ -888,20 +888,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "需于酒食，貞吉。",
+          "original": "需于酒食，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 九五 / 0007冊.djvu/347"
+              "locator": "卷2 / 需 / 九五 / 0007册.djvu/347"
             }
           ]
         },
         "smallImage": {
-          "original": "酒食貞吉，以中正也。",
+          "original": "酒食贞吉，以中正也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 九五小象 / 0007冊.djvu/347"
+              "locator": "卷2 / 需 / 九五小象 / 0007册.djvu/347"
             }
           ]
         }
@@ -910,20 +910,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "入于穴，有不速之客三人來，敬之終吉。",
+          "original": "入于穴，有不速之客三人来，敬之终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 上六 / 0007冊.djvu/347"
+              "locator": "卷2 / 需 / 上六 / 0007册.djvu/347"
             }
           ]
         },
         "smallImage": {
-          "original": "不速之客來，敬之終吉。雖不當位，未大失也。",
+          "original": "不速之客来，敬之终吉。虽不当位，未大失也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 需 / 上六小象 / 0007冊.djvu/347"
+              "locator": "卷2 / 需 / 上六小象 / 0007册.djvu/347"
             }
           ]
         }
@@ -934,29 +934,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 6,
     "statement": {
-      "original": "訟：有孚，窒，惕，中吉。終凶。利見大人，不利涉大川。",
+      "original": "讼：有孚，窒，惕，中吉。终凶。利见大人，不利涉大川。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 訟 / 卦辞 / 0007冊.djvu/347"
+          "locator": "卷2 / 讼 / 卦辞 / 0007册.djvu/347"
         }
       ]
     },
     "tuan": {
-      "original": "訟，上剛下險，險而健，訟。訟有孚，窒，惕，中吉，剛來而得中也。終凶，訟不可成也。利見大人，尚中正也。不利涉大川，入于淵也。",
+      "original": "讼，上刚下险，险而健，讼。讼有孚，窒，惕，中吉，刚来而得中也。终凶，讼不可成也。利见大人，尚中正也。不利涉大川，入于渊也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 訟 / 彖曰 / 0007冊.djvu/347–348"
+          "locator": "卷2 / 讼 / 彖曰 / 0007册.djvu/347–348"
         }
       ]
     },
     "greatImage": {
-      "original": "天與水違行，訟；君子以作事謀始。",
+      "original": "天与水违行，讼；君子以作事谋始。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-2-batch2",
-          "locator": "卷2 / 訟 / 整卦大象 / 0007冊.djvu/348"
+          "locator": "卷2 / 讼 / 整卦大象 / 0007册.djvu/348"
         }
       ]
     },
@@ -969,7 +969,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-2-batch2",
-        "locator": "卷2 / 訟 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/347–348"
+        "locator": "卷2 / 讼 / 彖曰、整卦大象与上下卦 / 0007册.djvu/347–348"
       }
     ],
     "yao": [
@@ -977,20 +977,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "不永所事，小有言，終吉。",
+          "original": "不永所事，小有言，终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 初六 / 0007冊.djvu/348"
+              "locator": "卷2 / 讼 / 初六 / 0007册.djvu/348"
             }
           ]
         },
         "smallImage": {
-          "original": "不永所事，訟不可長也。雖小有言，其辯明也。",
+          "original": "不永所事，讼不可长也。虽小有言，其辩明也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 初六小象 / 0007冊.djvu/349"
+              "locator": "卷2 / 讼 / 初六小象 / 0007册.djvu/349"
             }
           ]
         }
@@ -999,20 +999,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "不克訟，歸而逋，其邑人三百户无眚。",
+          "original": "不克讼，归而逋，其邑人三百户无眚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 九二 / 0007冊.djvu/349"
+              "locator": "卷2 / 讼 / 九二 / 0007册.djvu/349"
             }
           ]
         },
         "smallImage": {
-          "original": "不克訟，歸逋竄也。自下訟上，患至掇也。",
+          "original": "不克讼，归逋窜也。自下讼上，患至掇也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 九二小象 / 0007冊.djvu/349"
+              "locator": "卷2 / 讼 / 九二小象 / 0007册.djvu/349"
             }
           ]
         }
@@ -1021,20 +1021,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "食舊德，貞厲，終吉。或從王事，无成。",
+          "original": "食旧德，贞厉，终吉。或从王事，无成。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 六三 / 0007冊.djvu/349"
+              "locator": "卷2 / 讼 / 六三 / 0007册.djvu/349"
             }
           ]
         },
         "smallImage": {
-          "original": "食舊德，從上吉也。",
+          "original": "食旧德，从上吉也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 六三小象 / 0007冊.djvu/349"
+              "locator": "卷2 / 讼 / 六三小象 / 0007册.djvu/349"
             }
           ]
         }
@@ -1043,20 +1043,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "不克訟，復卽命渝，安貞吉。",
+          "original": "不克讼，复即命渝，安贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 九四 / 0007冊.djvu/349"
+              "locator": "卷2 / 讼 / 九四 / 0007册.djvu/349"
             }
           ]
         },
         "smallImage": {
-          "original": "復卽命渝，安貞，不失也。",
+          "original": "复即命渝，安贞，不失也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 九四小象 / 0007冊.djvu/350"
+              "locator": "卷2 / 讼 / 九四小象 / 0007册.djvu/350"
             }
           ]
         }
@@ -1065,20 +1065,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "訟，元吉。",
+          "original": "讼，元吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 九五 / 0007冊.djvu/350"
+              "locator": "卷2 / 讼 / 九五 / 0007册.djvu/350"
             }
           ]
         },
         "smallImage": {
-          "original": "訟元吉，以中正也。",
+          "original": "讼元吉，以中正也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 九五小象 / 0007冊.djvu/350"
+              "locator": "卷2 / 讼 / 九五小象 / 0007册.djvu/350"
             }
           ]
         }
@@ -1087,20 +1087,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "或錫之鞶帶，終朝三禠之。",
+          "original": "或锡之鞶带，终朝三禠之。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 上九 / 0007冊.djvu/350"
+              "locator": "卷2 / 讼 / 上九 / 0007册.djvu/350"
             }
           ]
         },
         "smallImage": {
-          "original": "以訟受服，亦不足敬也。",
+          "original": "以讼受服，亦不足敬也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-2-batch2",
-              "locator": "卷2 / 訟 / 上九小象 / 0007冊.djvu/350"
+              "locator": "卷2 / 讼 / 上九小象 / 0007册.djvu/350"
             }
           ]
         }
@@ -1111,29 +1111,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 7,
     "statement": {
-      "original": "師：貞，丈人吉，无咎。",
+      "original": "师：贞，丈人吉，无咎。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 師 / 卦辞 / 0007冊.djvu/354"
+          "locator": "卷3 / 师 / 卦辞 / 0007册.djvu/354"
         }
       ]
     },
     "tuan": {
-      "original": "師，衆也。貞，正也。能以衆正，可以王矣。剛中而應，行險而順，以此毒天下而民從之，吉又何咎矣。",
+      "original": "师，众也。贞，正也。能以众正，可以王矣。刚中而应，行险而顺，以此毒天下而民从之，吉又何咎矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 師 / 彖曰 / 0007冊.djvu/354"
+          "locator": "卷3 / 师 / 彖曰 / 0007册.djvu/354"
         }
       ]
     },
     "greatImage": {
-      "original": "地中有水，師；君子以容民畜衆。",
+      "original": "地中有水，师；君子以容民畜众。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 師 / 整卦大象 / 0007冊.djvu/355"
+          "locator": "卷3 / 师 / 整卦大象 / 0007册.djvu/355"
         }
       ]
     },
@@ -1146,7 +1146,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 師 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/354–355"
+        "locator": "卷3 / 师 / 彖曰、整卦大象与上下卦 / 0007册.djvu/354–355"
       }
     ],
     "yao": [
@@ -1154,20 +1154,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "師出以律，否臧，凶。",
+          "original": "师出以律，否臧，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 初六 / 0007冊.djvu/355"
+              "locator": "卷3 / 师 / 初六 / 0007册.djvu/355"
             }
           ]
         },
         "smallImage": {
-          "original": "師出以律，失律凶也。",
+          "original": "师出以律，失律凶也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 初六小象 / 0007冊.djvu/355"
+              "locator": "卷3 / 师 / 初六小象 / 0007册.djvu/355"
             }
           ]
         }
@@ -1176,20 +1176,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "在師中吉，无咎。王三錫命。",
+          "original": "在师中吉，无咎。王三锡命。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 九二 / 0007冊.djvu/355"
+              "locator": "卷3 / 师 / 九二 / 0007册.djvu/355"
             }
           ]
         },
         "smallImage": {
-          "original": "在師中吉，承天寵也。王三錫命，懐萬邦也。",
+          "original": "在师中吉，承天宠也。王三锡命，懐万邦也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 九二小象 / 0007冊.djvu/355"
+              "locator": "卷3 / 师 / 九二小象 / 0007册.djvu/355"
             }
           ]
         }
@@ -1198,20 +1198,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "師或輿尸，凶。",
+          "original": "师或舆尸，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 六三 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 六三 / 0007册.djvu/356"
             }
           ]
         },
         "smallImage": {
-          "original": "師或輿尸，大无功也。",
+          "original": "师或舆尸，大无功也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 六三小象 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 六三小象 / 0007册.djvu/356"
             }
           ]
         }
@@ -1220,11 +1220,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "師左次，无咎。",
+          "original": "师左次，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 六四 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 六四 / 0007册.djvu/356"
             }
           ]
         },
@@ -1233,7 +1233,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 六四小象 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 六四小象 / 0007册.djvu/356"
             }
           ]
         }
@@ -1242,20 +1242,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "田有禽，利執言，无咎。長子帥師，弟子輿尸，貞凶。",
+          "original": "田有禽，利执言，无咎。长子帅师，弟子舆尸，贞凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 六五 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 六五 / 0007册.djvu/356"
             }
           ]
         },
         "smallImage": {
-          "original": "長子帥師，以中行也。弟子輿尸，使不當也。",
+          "original": "长子帅师，以中行也。弟子舆尸，使不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 六五小象 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 六五小象 / 0007册.djvu/356"
             }
           ]
         }
@@ -1264,20 +1264,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "大君有命，開國承家，小人勿用。",
+          "original": "大君有命，开国承家，小人勿用。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 上六 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 上六 / 0007册.djvu/356"
             }
           ]
         },
         "smallImage": {
-          "original": "大君有命，以正功也。小人勿用，必亂邦也。",
+          "original": "大君有命，以正功也。小人勿用，必乱邦也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 師 / 上六小象 / 0007冊.djvu/356"
+              "locator": "卷3 / 师 / 上六小象 / 0007册.djvu/356"
             }
           ]
         }
@@ -1288,29 +1288,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 8,
     "statement": {
-      "original": "比：吉。原筮，元永貞，无咎。不寧方來，後夫凶。",
+      "original": "比：吉。原筮，元永贞，无咎。不宁方来，后夫凶。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 比 / 卦辞 / 0007冊.djvu/356"
+          "locator": "卷3 / 比 / 卦辞 / 0007册.djvu/356"
         }
       ]
     },
     "tuan": {
-      "original": "比，吉也。比，輔也，下順從也。原筮，元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
+      "original": "比，吉也。比，辅也，下顺从也。原筮，元永贞，无咎，以刚中也。不宁方来，上下应也。后夫凶，其道穷也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 比 / 彖曰 / 0007冊.djvu/357"
+          "locator": "卷3 / 比 / 彖曰 / 0007册.djvu/357"
         }
       ]
     },
     "greatImage": {
-      "original": "地上有水，比；先王以建萬國，親諸侯。",
+      "original": "地上有水，比；先王以建万国，亲诸侯。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 比 / 整卦大象 / 0007冊.djvu/357"
+          "locator": "卷3 / 比 / 整卦大象 / 0007册.djvu/357"
         }
       ]
     },
@@ -1323,7 +1323,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 比 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/356–357"
+        "locator": "卷3 / 比 / 彖曰、整卦大象与上下卦 / 0007册.djvu/356–357"
       }
     ],
     "yao": [
@@ -1331,11 +1331,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "有孚比之，无咎。有孚盈缶，終來有它吉。",
+          "original": "有孚比之，无咎。有孚盈缶，终来有它吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 初六 / 0007冊.djvu/357"
+              "locator": "卷3 / 比 / 初六 / 0007册.djvu/357"
             }
           ]
         },
@@ -1344,7 +1344,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 初六小象 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 初六小象 / 0007册.djvu/358"
             }
           ]
         }
@@ -1353,11 +1353,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "比之自内，貞吉。",
+          "original": "比之自内，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 六二 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 六二 / 0007册.djvu/358"
             }
           ]
         },
@@ -1366,7 +1366,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 六二小象 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 六二小象 / 0007册.djvu/358"
             }
           ]
         }
@@ -1379,16 +1379,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 六三 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 六三 / 0007册.djvu/358"
             }
           ]
         },
         "smallImage": {
-          "original": "比之匪人，不亦傷乎。",
+          "original": "比之匪人，不亦伤乎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 六三小象 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 六三小象 / 0007册.djvu/358"
             }
           ]
         }
@@ -1397,20 +1397,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "外比之，貞吉。",
+          "original": "外比之，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 六四 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 六四 / 0007册.djvu/358"
             }
           ]
         },
         "smallImage": {
-          "original": "外比於賢，以從上也。",
+          "original": "外比于贤，以从上也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 六四小象 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 六四小象 / 0007册.djvu/358"
             }
           ]
         }
@@ -1419,20 +1419,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "顯比，王用三驅，失前禽，邑人不誡，吉。",
+          "original": "显比，王用三驱，失前禽，邑人不诫，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 九五 / 0007冊.djvu/358"
+              "locator": "卷3 / 比 / 九五 / 0007册.djvu/358"
             }
           ]
         },
         "smallImage": {
-          "original": "顯比之吉，位正中也。舎逆取順，失前禽也。邑人不誡，上使中也。",
+          "original": "显比之吉，位正中也。舎逆取顺，失前禽也。邑人不诫，上使中也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 九五小象 / 0007冊.djvu/359"
+              "locator": "卷3 / 比 / 九五小象 / 0007册.djvu/359"
             }
           ]
         }
@@ -1445,16 +1445,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 上六 / 0007冊.djvu/359"
+              "locator": "卷3 / 比 / 上六 / 0007册.djvu/359"
             }
           ]
         },
         "smallImage": {
-          "original": "比之无首，无所終也。",
+          "original": "比之无首，无所终也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 比 / 上六小象 / 0007冊.djvu/359"
+              "locator": "卷3 / 比 / 上六小象 / 0007册.djvu/359"
             }
           ]
         }
@@ -1465,29 +1465,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 9,
     "statement": {
-      "original": "小畜：亨。密雲不雨，自我西郊。",
+      "original": "小畜：亨。密云不雨，自我西郊。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 小畜 / 卦辞 / 0007冊.djvu/359"
+          "locator": "卷3 / 小畜 / 卦辞 / 0007册.djvu/359"
         }
       ]
     },
     "tuan": {
-      "original": "小畜，柔得位而上下應之，曰小畜。健而巽，剛中而志行，乃亨。密雲不雨，尚往也。自我西郊，施未行也。",
+      "original": "小畜，柔得位而上下应之，曰小畜。健而巽，刚中而志行，乃亨。密云不雨，尚往也。自我西郊，施未行也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 小畜 / 彖曰 / 0007冊.djvu/360"
+          "locator": "卷3 / 小畜 / 彖曰 / 0007册.djvu/360"
         }
       ]
     },
     "greatImage": {
-      "original": "風行天上，小畜；君子以懿文德。",
+      "original": "风行天上，小畜；君子以懿文德。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 小畜 / 整卦大象 / 0007冊.djvu/361"
+          "locator": "卷3 / 小畜 / 整卦大象 / 0007册.djvu/361"
         }
       ]
     },
@@ -1500,7 +1500,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 小畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/359–361"
+        "locator": "卷3 / 小畜 / 彖曰、整卦大象与上下卦 / 0007册.djvu/359–361"
       }
     ],
     "yao": [
@@ -1508,20 +1508,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "復自道，何其咎，吉。",
+          "original": "复自道，何其咎，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 初九 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 初九 / 0007册.djvu/361"
             }
           ]
         },
         "smallImage": {
-          "original": "復自道，其義吉也。",
+          "original": "复自道，其义吉也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 初九小象 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 初九小象 / 0007册.djvu/361"
             }
           ]
         }
@@ -1530,20 +1530,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "牽復，吉。",
+          "original": "牵复，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 九二 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 九二 / 0007册.djvu/361"
             }
           ]
         },
         "smallImage": {
-          "original": "牽復在中，亦不自失也。",
+          "original": "牵复在中，亦不自失也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 九二小象 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 九二小象 / 0007册.djvu/361"
             }
           ]
         }
@@ -1552,11 +1552,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "輿說輻，夫妻反目。",
+          "original": "舆说辐，夫妻反目。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 九三 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 九三 / 0007册.djvu/361"
             }
           ]
         },
@@ -1565,7 +1565,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 九三小象 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 九三小象 / 0007册.djvu/361"
             }
           ]
         }
@@ -1578,7 +1578,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 六四 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 六四 / 0007册.djvu/361"
             }
           ]
         },
@@ -1587,7 +1587,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 六四小象 / 0007冊.djvu/361"
+              "locator": "卷3 / 小畜 / 六四小象 / 0007册.djvu/361"
             }
           ]
         }
@@ -1596,20 +1596,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "有孚攣如，富以其鄰。",
+          "original": "有孚挛如，富以其邻。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 九五 / 0007冊.djvu/362"
+              "locator": "卷3 / 小畜 / 九五 / 0007册.djvu/362"
             }
           ]
         },
         "smallImage": {
-          "original": "有孚攣如，不獨富也。",
+          "original": "有孚挛如，不独富也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 九五小象 / 0007冊.djvu/362"
+              "locator": "卷3 / 小畜 / 九五小象 / 0007册.djvu/362"
             }
           ]
         }
@@ -1618,20 +1618,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "旣雨旣處，尚德載。婦貞厲，月幾望，君子征凶。",
+          "original": "既雨既处，尚德载。妇贞厉，月几望，君子征凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 上九 / 0007冊.djvu/362"
+              "locator": "卷3 / 小畜 / 上九 / 0007册.djvu/362"
             }
           ]
         },
         "smallImage": {
-          "original": "旣雨旣處，德積載也。君子征凶，有所疑也。",
+          "original": "既雨既处，德积载也。君子征凶，有所疑也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 小畜 / 上九小象 / 0007冊.djvu/362"
+              "locator": "卷3 / 小畜 / 上九小象 / 0007册.djvu/362"
             }
           ]
         }
@@ -1646,25 +1646,25 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 履 / 卦辞 / 0007冊.djvu/363"
+          "locator": "卷3 / 履 / 卦辞 / 0007册.djvu/363"
         }
       ]
     },
     "tuan": {
-      "original": "履，柔履剛也。說而應乎乾，是以履虎尾，不咥人，亨。剛中正，履帝位而不疚，光明也。",
+      "original": "履，柔履刚也。说而应乎乾，是以履虎尾，不咥人，亨。刚中正，履帝位而不疚，光明也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 履 / 彖曰 / 0007冊.djvu/363"
+          "locator": "卷3 / 履 / 彖曰 / 0007册.djvu/363"
         }
       ]
     },
     "greatImage": {
-      "original": "上天下澤，履；君子以辯上下，定民志。",
+      "original": "上天下泽，履；君子以辩上下，定民志。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 履 / 整卦大象 / 0007冊.djvu/363"
+          "locator": "卷3 / 履 / 整卦大象 / 0007册.djvu/363"
         }
       ]
     },
@@ -1677,7 +1677,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 履 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/363"
+        "locator": "卷3 / 履 / 彖曰、整卦大象与上下卦 / 0007册.djvu/363"
       }
     ],
     "yao": [
@@ -1689,16 +1689,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 初九 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 初九 / 0007册.djvu/364"
             }
           ]
         },
         "smallImage": {
-          "original": "素履之往，獨行願也。",
+          "original": "素履之往，独行愿也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 初九小象 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 初九小象 / 0007册.djvu/364"
             }
           ]
         }
@@ -1707,20 +1707,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "履道坦坦，幽人貞吉。",
+          "original": "履道坦坦，幽人贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 九二 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 九二 / 0007册.djvu/364"
             }
           ]
         },
         "smallImage": {
-          "original": "幽人貞吉，中不自亂也。",
+          "original": "幽人贞吉，中不自乱也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 九二小象 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 九二小象 / 0007册.djvu/364"
             }
           ]
         }
@@ -1729,20 +1729,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "眇能視，跛能履，履虎尾，咥人，凶。武人爲于大君。",
+          "original": "眇能视，跛能履，履虎尾，咥人，凶。武人为于大君。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 六三 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 六三 / 0007册.djvu/364"
             }
           ]
         },
         "smallImage": {
-          "original": "眇能視，不足以有明也。跛能履，不足以與行也。咥人之凶，位不當也。武人爲于大君，志剛也。",
+          "original": "眇能视，不足以有明也。跛能履，不足以与行也。咥人之凶，位不当也。武人为于大君，志刚也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 六三小象 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 六三小象 / 0007册.djvu/364"
             }
           ]
         }
@@ -1751,20 +1751,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "履虎尾，愬愬終吉。",
+          "original": "履虎尾，愬愬终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 九四 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 九四 / 0007册.djvu/364"
             }
           ]
         },
         "smallImage": {
-          "original": "愬愬終吉，志行也。",
+          "original": "愬愬终吉，志行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 九四小象 / 0007冊.djvu/364"
+              "locator": "卷3 / 履 / 九四小象 / 0007册.djvu/364"
             }
           ]
         }
@@ -1773,20 +1773,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "夬履，貞厲。",
+          "original": "夬履，贞厉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 九五 / 0007冊.djvu/365"
+              "locator": "卷3 / 履 / 九五 / 0007册.djvu/365"
             }
           ]
         },
         "smallImage": {
-          "original": "夬履貞厲，位正當也。",
+          "original": "夬履贞厉，位正当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 九五小象 / 0007冊.djvu/365"
+              "locator": "卷3 / 履 / 九五小象 / 0007册.djvu/365"
             }
           ]
         }
@@ -1795,20 +1795,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "視履考祥，其旋元吉。",
+          "original": "视履考祥，其旋元吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 上九 / 0007冊.djvu/365"
+              "locator": "卷3 / 履 / 上九 / 0007册.djvu/365"
             }
           ]
         },
         "smallImage": {
-          "original": "元吉在上，大有慶也。",
+          "original": "元吉在上，大有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 履 / 上九小象 / 0007冊.djvu/365"
+              "locator": "卷3 / 履 / 上九小象 / 0007册.djvu/365"
             }
           ]
         }
@@ -1819,29 +1819,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 11,
     "statement": {
-      "original": "泰：小往大來，吉亨。",
+      "original": "泰：小往大来，吉亨。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3",
-          "locator": "卷3 / 泰 / 卦辞 / 0007冊.djvu/365"
+          "locator": "卷3 / 泰 / 卦辞 / 0007册.djvu/365"
         }
       ]
     },
     "tuan": {
-      "original": "泰，小往大來，吉亨。則是天地交而萬物通也，上下交而其志同也。内陽而外陰，内健而外順，内君子而外小人，君子道長，小人道消也。",
+      "original": "泰，小往大来，吉亨。则是天地交而万物通也，上下交而其志同也。内阳而外阴，内健而外顺，内君子而外小人，君子道长，小人道消也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3",
-          "locator": "卷3 / 泰 / 彖曰 / 0007冊.djvu/365"
+          "locator": "卷3 / 泰 / 彖曰 / 0007册.djvu/365"
         }
       ]
     },
     "greatImage": {
-      "original": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
+      "original": "天地交，泰；后以财成天地之道，辅相天地之宜，以左右民。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3",
-          "locator": "卷3 / 泰 / 整卦大象 / 0007冊.djvu/365"
+          "locator": "卷3 / 泰 / 整卦大象 / 0007册.djvu/365"
         }
       ]
     },
@@ -1854,7 +1854,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3",
-        "locator": "卷3 / 泰 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/365–365"
+        "locator": "卷3 / 泰 / 彖曰、整卦大象与上下卦 / 0007册.djvu/365–365"
       }
     ],
     "yao": [
@@ -1866,7 +1866,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 初九 / 0007冊.djvu/366"
+              "locator": "卷3 / 泰 / 初九 / 0007册.djvu/366"
             }
           ]
         },
@@ -1875,7 +1875,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 初九小象 / 0007冊.djvu/366"
+              "locator": "卷3 / 泰 / 初九小象 / 0007册.djvu/366"
             }
           ]
         }
@@ -1884,11 +1884,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "包荒，用馮河，不遐遺，朋亡，得尚于中行。",
+          "original": "包荒，用冯河，不遐遗，朋亡，得尚于中行。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 九二 / 0007冊.djvu/366"
+              "locator": "卷3 / 泰 / 九二 / 0007册.djvu/366"
             }
           ]
         },
@@ -1897,7 +1897,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 九二小象 / 0007冊.djvu/366"
+              "locator": "卷3 / 泰 / 九二小象 / 0007册.djvu/366"
             }
           ]
         }
@@ -1906,20 +1906,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
+          "original": "无平不陂，无往不复，艰贞无咎。勿恤其孚，于食有福。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 九三 / 0007冊.djvu/366"
+              "locator": "卷3 / 泰 / 九三 / 0007册.djvu/366"
             }
           ]
         },
         "smallImage": {
-          "original": "无往不復，天地際也。",
+          "original": "无往不复，天地际也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 九三小象 / 0007冊.djvu/366–367"
+              "locator": "卷3 / 泰 / 九三小象 / 0007册.djvu/366–367"
             }
           ]
         }
@@ -1928,20 +1928,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "翩翩，不富以其鄰，不戒以孚。",
+          "original": "翩翩，不富以其邻，不戒以孚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 六四 / 0007冊.djvu/367"
+              "locator": "卷3 / 泰 / 六四 / 0007册.djvu/367"
             }
           ]
         },
         "smallImage": {
-          "original": "翩翩不富，皆失實也。不戒以孚，中心願也。",
+          "original": "翩翩不富，皆失实也。不戒以孚，中心愿也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 六四小象 / 0007冊.djvu/367"
+              "locator": "卷3 / 泰 / 六四小象 / 0007册.djvu/367"
             }
           ]
         }
@@ -1950,20 +1950,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "帝乙歸妹，以祉元吉。",
+          "original": "帝乙归妹，以祉元吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 六五 / 0007冊.djvu/367"
+              "locator": "卷3 / 泰 / 六五 / 0007册.djvu/367"
             }
           ]
         },
         "smallImage": {
-          "original": "以祉元吉，中以行願也。",
+          "original": "以祉元吉，中以行愿也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 六五小象 / 0007冊.djvu/367"
+              "locator": "卷3 / 泰 / 六五小象 / 0007册.djvu/367"
             }
           ]
         }
@@ -1972,20 +1972,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "城復于隍，勿用師。自邑告命，貞吝。",
+          "original": "城复于隍，勿用师。自邑告命，贞吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 上六 / 0007冊.djvu/367"
+              "locator": "卷3 / 泰 / 上六 / 0007册.djvu/367"
             }
           ]
         },
         "smallImage": {
-          "original": "城復于隍，其命亂也。",
+          "original": "城复于隍，其命乱也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 泰 / 上六小象 / 0007冊.djvu/368"
+              "locator": "卷3 / 泰 / 上六小象 / 0007册.djvu/368"
             }
           ]
         }
@@ -1996,29 +1996,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 12,
     "statement": {
-      "original": "否之匪人，不利君子貞，大往小來。",
+      "original": "否之匪人，不利君子贞，大往小来。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3",
-          "locator": "卷3 / 否 / 卦辞 / 0007冊.djvu/368"
+          "locator": "卷3 / 否 / 卦辞 / 0007册.djvu/368"
         }
       ]
     },
     "tuan": {
-      "original": "否之匪人，不利君子貞，大往小來。則是天地不交而萬物不通也，上下不交而天下无邦也。内陰而外陽，内柔而外剛，内小人而外君子，小人道長，君子道消也。",
+      "original": "否之匪人，不利君子贞，大往小来。则是天地不交而万物不通也，上下不交而天下无邦也。内阴而外阳，内柔而外刚，内小人而外君子，小人道长，君子道消也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3",
-          "locator": "卷3 / 否 / 彖曰 / 0007冊.djvu/368"
+          "locator": "卷3 / 否 / 彖曰 / 0007册.djvu/368"
         }
       ]
     },
     "greatImage": {
-      "original": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+      "original": "天地不交，否；君子以俭德辟难，不可荣以禄。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3",
-          "locator": "卷3 / 否 / 整卦大象 / 0007冊.djvu/368"
+          "locator": "卷3 / 否 / 整卦大象 / 0007册.djvu/368"
         }
       ]
     },
@@ -2031,7 +2031,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3",
-        "locator": "卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/368–368"
+        "locator": "卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007册.djvu/368–368"
       }
     ],
     "yao": [
@@ -2039,20 +2039,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "拔茅茹，以其彚，貞吉亨。",
+          "original": "拔茅茹，以其彚，贞吉亨。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 初六 / 0007冊.djvu/368"
+              "locator": "卷3 / 否 / 初六 / 0007册.djvu/368"
             }
           ]
         },
         "smallImage": {
-          "original": "拔茅貞吉，志在君也。",
+          "original": "拔茅贞吉，志在君也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 初六小象 / 0007冊.djvu/368"
+              "locator": "卷3 / 否 / 初六小象 / 0007册.djvu/368"
             }
           ]
         }
@@ -2065,16 +2065,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 六二 / 0007冊.djvu/368"
+              "locator": "卷3 / 否 / 六二 / 0007册.djvu/368"
             }
           ]
         },
         "smallImage": {
-          "original": "大人否亨，不亂羣也。",
+          "original": "大人否亨，不乱群也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 六二小象 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 六二小象 / 0007册.djvu/369"
             }
           ]
         }
@@ -2087,16 +2087,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 六三 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 六三 / 0007册.djvu/369"
             }
           ]
         },
         "smallImage": {
-          "original": "包羞，位不當也。",
+          "original": "包羞，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 六三小象 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 六三小象 / 0007册.djvu/369"
             }
           ]
         }
@@ -2105,11 +2105,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "有命，无咎，疇離祉。",
+          "original": "有命，无咎，畴离祉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 九四 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 九四 / 0007册.djvu/369"
             }
           ]
         },
@@ -2118,7 +2118,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 九四小象 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 九四小象 / 0007册.djvu/369"
             }
           ]
         }
@@ -2131,16 +2131,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 九五 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 九五 / 0007册.djvu/369"
             }
           ]
         },
         "smallImage": {
-          "original": "大人之吉，位正當也。",
+          "original": "大人之吉，位正当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 九五小象 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 九五小象 / 0007册.djvu/369"
             }
           ]
         }
@@ -2149,20 +2149,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "傾否，先否後喜。",
+          "original": "倾否，先否后喜。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 上九 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 上九 / 0007册.djvu/369"
             }
           ]
         },
         "smallImage": {
-          "original": "否終則傾，何可長也。",
+          "original": "否终则倾，何可长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3",
-              "locator": "卷3 / 否 / 上九小象 / 0007冊.djvu/369"
+              "locator": "卷3 / 否 / 上九小象 / 0007册.djvu/369"
             }
           ]
         }
@@ -2173,29 +2173,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 13,
     "statement": {
-      "original": "同人于野，亨。利渉大川，利君子貞。",
+      "original": "同人于野，亨。利渉大川，利君子贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 同人 / 卦辞 / 0007冊.djvu/370"
+          "locator": "卷3 / 同人 / 卦辞 / 0007册.djvu/370"
         }
       ]
     },
     "tuan": {
-      "original": "同人，柔得位得中而應乎乾，曰同人。同人曰，同人于野，亨。利渉大川，乾行也。文明以健，中正而應，君子正也。唯君子爲能通天下之志。",
+      "original": "同人，柔得位得中而应乎乾，曰同人。同人曰，同人于野，亨。利渉大川，乾行也。文明以健，中正而应，君子正也。唯君子为能通天下之志。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 同人 / 彖曰 / 0007冊.djvu/370"
+          "locator": "卷3 / 同人 / 彖曰 / 0007册.djvu/370"
         }
       ]
     },
     "greatImage": {
-      "original": "天與火，同人；君子以類族辨物。",
+      "original": "天与火，同人；君子以类族辨物。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch2",
-          "locator": "卷3 / 同人 / 整卦大象 / 0007冊.djvu/370"
+          "locator": "卷3 / 同人 / 整卦大象 / 0007册.djvu/370"
         }
       ]
     },
@@ -2208,7 +2208,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch2",
-        "locator": "卷3 / 同人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/370"
+        "locator": "卷3 / 同人 / 彖曰、整卦大象与上下卦 / 0007册.djvu/370"
       }
     ],
     "yao": [
@@ -2216,20 +2216,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "同人于門，无咎。",
+          "original": "同人于门，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 初九 / 0007冊.djvu/370"
+              "locator": "卷3 / 同人 / 初九 / 0007册.djvu/370"
             }
           ]
         },
         "smallImage": {
-          "original": "出門同人，又誰咎也。",
+          "original": "出门同人，又谁咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 初九小象 / 0007冊.djvu/370"
+              "locator": "卷3 / 同人 / 初九小象 / 0007册.djvu/370"
             }
           ]
         }
@@ -2242,7 +2242,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 六二 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 六二 / 0007册.djvu/371"
             }
           ]
         },
@@ -2251,7 +2251,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 六二小象 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 六二小象 / 0007册.djvu/371"
             }
           ]
         }
@@ -2260,20 +2260,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "伏戎于莽，升其高陵，三歲不興。",
+          "original": "伏戎于莽，升其高陵，三岁不兴。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 九三 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 九三 / 0007册.djvu/371"
             }
           ]
         },
         "smallImage": {
-          "original": "伏戎于莽，敵剛也。三嵗不興，安行也。",
+          "original": "伏戎于莽，敌刚也。三岁不兴，安行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 九三小象 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 九三小象 / 0007册.djvu/371"
             }
           ]
         }
@@ -2286,16 +2286,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 九四 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 九四 / 0007册.djvu/371"
             }
           ]
         },
         "smallImage": {
-          "original": "乘其墉，義弗克也。其吉，則困而反則也。",
+          "original": "乘其墉，义弗克也。其吉，则困而反则也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 九四小象 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 九四小象 / 0007册.djvu/371"
             }
           ]
         }
@@ -2304,20 +2304,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "同人先號咷而後笑，大師克相遇。",
+          "original": "同人先号咷而后笑，大师克相遇。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 九五 / 0007冊.djvu/371"
+              "locator": "卷3 / 同人 / 九五 / 0007册.djvu/371"
             }
           ]
         },
         "smallImage": {
-          "original": "同人之先，以中直也。大師相遇，言相克也。",
+          "original": "同人之先，以中直也。大师相遇，言相克也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 九五小象 / 0007冊.djvu/372"
+              "locator": "卷3 / 同人 / 九五小象 / 0007册.djvu/372"
             }
           ]
         }
@@ -2330,7 +2330,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 上九 / 0007冊.djvu/372"
+              "locator": "卷3 / 同人 / 上九 / 0007册.djvu/372"
             }
           ]
         },
@@ -2339,7 +2339,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch2",
-              "locator": "卷3 / 同人 / 上九小象 / 0007冊.djvu/372"
+              "locator": "卷3 / 同人 / 上九小象 / 0007册.djvu/372"
             }
           ]
         }
@@ -2354,25 +2354,25 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch3",
-          "locator": "卷3 / 大有 / 卦辞 / 0007冊.djvu/372"
+          "locator": "卷3 / 大有 / 卦辞 / 0007册.djvu/372"
         }
       ]
     },
     "tuan": {
-      "original": "大有，柔得尊位，大中而上下應之，曰大有。其徳剛健而文明，應乎天而時行，是以元亨。",
+      "original": "大有，柔得尊位，大中而上下应之，曰大有。其徳刚健而文明，应乎天而时行，是以元亨。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch3",
-          "locator": "卷3 / 大有 / 彖曰 / 0007冊.djvu/372"
+          "locator": "卷3 / 大有 / 彖曰 / 0007册.djvu/372"
         }
       ]
     },
     "greatImage": {
-      "original": "火在天上，大有；君子以遏惡揚善，順天休命。",
+      "original": "火在天上，大有；君子以遏恶扬善，顺天休命。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-3-batch3",
-          "locator": "卷3 / 大有 / 整卦大象 / 0007冊.djvu/373"
+          "locator": "卷3 / 大有 / 整卦大象 / 0007册.djvu/373"
         }
       ]
     },
@@ -2385,7 +2385,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-3-batch3",
-        "locator": "卷3 / 大有 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/372–373"
+        "locator": "卷3 / 大有 / 彖曰、整卦大象与上下卦 / 0007册.djvu/372–373"
       }
     ],
     "yao": [
@@ -2393,11 +2393,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "无交害，匪咎，艱則无咎。",
+          "original": "无交害，匪咎，艰则无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 初九 / 0007冊.djvu/373"
+              "locator": "卷3 / 大有 / 初九 / 0007册.djvu/373"
             }
           ]
         },
@@ -2406,7 +2406,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 初九小象 / 0007冊.djvu/373"
+              "locator": "卷3 / 大有 / 初九小象 / 0007册.djvu/373"
             }
           ]
         }
@@ -2415,20 +2415,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "大車以載，有攸往，无咎。",
+          "original": "大车以载，有攸往，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 九二 / 0007冊.djvu/373"
+              "locator": "卷3 / 大有 / 九二 / 0007册.djvu/373"
             }
           ]
         },
         "smallImage": {
-          "original": "大車以載，積中不敗也。",
+          "original": "大车以载，积中不败也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 九二小象 / 0007冊.djvu/373"
+              "locator": "卷3 / 大有 / 九二小象 / 0007册.djvu/373"
             }
           ]
         }
@@ -2441,7 +2441,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 九三 / 0007冊.djvu/373"
+              "locator": "卷3 / 大有 / 九三 / 0007册.djvu/373"
             }
           ]
         },
@@ -2450,7 +2450,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 九三小象 / 0007冊.djvu/373"
+              "locator": "卷3 / 大有 / 九三小象 / 0007册.djvu/373"
             }
           ]
         }
@@ -2463,16 +2463,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 九四 / 0007冊.djvu/374"
+              "locator": "卷3 / 大有 / 九四 / 0007册.djvu/374"
             }
           ]
         },
         "smallImage": {
-          "original": "匪其彭无咎，明辯晢也。",
+          "original": "匪其彭无咎，明辩晢也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 九四小象 / 0007冊.djvu/374"
+              "locator": "卷3 / 大有 / 九四小象 / 0007册.djvu/374"
             }
           ]
         }
@@ -2485,16 +2485,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 六五 / 0007冊.djvu/374"
+              "locator": "卷3 / 大有 / 六五 / 0007册.djvu/374"
             }
           ]
         },
         "smallImage": {
-          "original": "厥孚交如，信以發志也。威如之吉，易而无備也。",
+          "original": "厥孚交如，信以发志也。威如之吉，易而无备也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 六五小象 / 0007冊.djvu/374"
+              "locator": "卷3 / 大有 / 六五小象 / 0007册.djvu/374"
             }
           ]
         }
@@ -2507,7 +2507,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 上九 / 0007冊.djvu/374"
+              "locator": "卷3 / 大有 / 上九 / 0007册.djvu/374"
             }
           ]
         },
@@ -2516,7 +2516,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-3-batch3",
-              "locator": "卷3 / 大有 / 上九小象 / 0007冊.djvu/374"
+              "locator": "卷3 / 大有 / 上九小象 / 0007册.djvu/374"
             }
           ]
         }
@@ -2527,29 +2527,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 15,
     "statement": {
-      "original": "謙：亨，君子有終。",
+      "original": "谦：亨，君子有终。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 謙 / 卦辞 / 0007冊.djvu/378"
+          "locator": "卷4 / 谦 / 卦辞 / 0007册.djvu/378"
         }
       ]
     },
     "tuan": {
-      "original": "謙亨，天道下濟而光明，地道卑而上行。天道虧盈而益謙，地道變盈而流謙，鬼神害盈而福謙，人道惡盈而好謙。謙尊而光，卑而不可踰，君子之終也。",
+      "original": "谦亨，天道下济而光明，地道卑而上行。天道亏盈而益谦，地道变盈而流谦，鬼神害盈而福谦，人道恶盈而好谦。谦尊而光，卑而不可逾，君子之终也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 謙 / 彖曰 / 0007冊.djvu/379"
+          "locator": "卷4 / 谦 / 彖曰 / 0007册.djvu/379"
         }
       ]
     },
     "greatImage": {
-      "original": "地中有山，謙；君子以裒多益寡，稱物平施。",
+      "original": "地中有山，谦；君子以裒多益寡，称物平施。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 謙 / 整卦大象 / 0007冊.djvu/379"
+          "locator": "卷4 / 谦 / 整卦大象 / 0007册.djvu/379"
         }
       ]
     },
@@ -2562,7 +2562,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 謙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/378–379"
+        "locator": "卷4 / 谦 / 彖曰、整卦大象与上下卦 / 0007册.djvu/378–379"
       }
     ],
     "yao": [
@@ -2570,20 +2570,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "謙謙君子，用渉大川，吉。",
+          "original": "谦谦君子，用渉大川，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 初六 / 0007冊.djvu/379"
+              "locator": "卷4 / 谦 / 初六 / 0007册.djvu/379"
             }
           ]
         },
         "smallImage": {
-          "original": "謙謙君子，卑以自牧也。",
+          "original": "谦谦君子，卑以自牧也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 初六小象 / 0007冊.djvu/379"
+              "locator": "卷4 / 谦 / 初六小象 / 0007册.djvu/379"
             }
           ]
         }
@@ -2592,20 +2592,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "鳴謙，貞吉。",
+          "original": "鸣谦，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 六二 / 0007冊.djvu/379"
+              "locator": "卷4 / 谦 / 六二 / 0007册.djvu/379"
             }
           ]
         },
         "smallImage": {
-          "original": "鳴謙貞吉，中心得也。",
+          "original": "鸣谦贞吉，中心得也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 六二小象 / 0007冊.djvu/379"
+              "locator": "卷4 / 谦 / 六二小象 / 0007册.djvu/379"
             }
           ]
         }
@@ -2614,20 +2614,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "勞謙君子，有終，吉。",
+          "original": "劳谦君子，有终，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 九三 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 九三 / 0007册.djvu/380"
             }
           ]
         },
         "smallImage": {
-          "original": "勞謙君子，萬民服也。",
+          "original": "劳谦君子，万民服也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 九三小象 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 九三小象 / 0007册.djvu/380"
             }
           ]
         }
@@ -2636,20 +2636,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "无不利，撝謙。",
+          "original": "无不利，㧑谦。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 六四 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 六四 / 0007册.djvu/380"
             }
           ]
         },
         "smallImage": {
-          "original": "无不利撝謙，不違則也。",
+          "original": "无不利㧑谦，不违则也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 六四小象 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 六四小象 / 0007册.djvu/380"
             }
           ]
         }
@@ -2658,11 +2658,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "不富以其鄰，利用侵伐，无不利。",
+          "original": "不富以其邻，利用侵伐，无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 六五 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 六五 / 0007册.djvu/380"
             }
           ]
         },
@@ -2671,7 +2671,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 六五小象 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 六五小象 / 0007册.djvu/380"
             }
           ]
         }
@@ -2680,20 +2680,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "鳴謙，利用行師，征邑國。",
+          "original": "鸣谦，利用行师，征邑国。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 上六 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 上六 / 0007册.djvu/380"
             }
           ]
         },
         "smallImage": {
-          "original": "鳴謙，志未得也。可用行師，征邑國也。",
+          "original": "鸣谦，志未得也。可用行师，征邑国也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 謙 / 上六小象 / 0007冊.djvu/380"
+              "locator": "卷4 / 谦 / 上六小象 / 0007册.djvu/380"
             }
           ]
         }
@@ -2704,29 +2704,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 16,
     "statement": {
-      "original": "豫：利建侯行師。",
+      "original": "豫：利建侯行师。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 豫 / 卦辞 / 0007冊.djvu/381"
+          "locator": "卷4 / 豫 / 卦辞 / 0007册.djvu/381"
         }
       ]
     },
     "tuan": {
-      "original": "豫，剛應而志行，順以動，豫。豫順以動，故天地如之，而况建侯行師乎。天地以順動，故日月不過而四時不忒；聖人以順動，則刑罰清而民服。豫之時義大矣哉。",
+      "original": "豫，刚应而志行，顺以动，豫。豫顺以动，故天地如之，而况建侯行师乎。天地以顺动，故日月不过而四时不忒；圣人以顺动，则刑罚清而民服。豫之时义大矣哉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 豫 / 彖曰 / 0007冊.djvu/381"
+          "locator": "卷4 / 豫 / 彖曰 / 0007册.djvu/381"
         }
       ]
     },
     "greatImage": {
-      "original": "雷出地奮，豫；先王以作樂崇徳，殷薦之上帝，以配祖考。",
+      "original": "雷出地奋，豫；先王以作乐崇徳，殷荐之上帝，以配祖考。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 豫 / 整卦大象 / 0007冊.djvu/382"
+          "locator": "卷4 / 豫 / 整卦大象 / 0007册.djvu/382"
         }
       ]
     },
@@ -2739,7 +2739,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 豫 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/381–382"
+        "locator": "卷4 / 豫 / 彖曰、整卦大象与上下卦 / 0007册.djvu/381–382"
       }
     ],
     "yao": [
@@ -2747,20 +2747,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "鳴豫，凶。",
+          "original": "鸣豫，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 初六 / 0007冊.djvu/382"
+              "locator": "卷4 / 豫 / 初六 / 0007册.djvu/382"
             }
           ]
         },
         "smallImage": {
-          "original": "初六鳴豫，志窮凶也。",
+          "original": "初六鸣豫，志穷凶也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 初六小象 / 0007冊.djvu/382"
+              "locator": "卷4 / 豫 / 初六小象 / 0007册.djvu/382"
             }
           ]
         }
@@ -2769,20 +2769,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "介于石，不終日，貞吉。",
+          "original": "介于石，不终日，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 六二 / 0007冊.djvu/382"
+              "locator": "卷4 / 豫 / 六二 / 0007册.djvu/382"
             }
           ]
         },
         "smallImage": {
-          "original": "不終日貞吉，以中正也。",
+          "original": "不终日贞吉，以中正也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 六二小象 / 0007冊.djvu/382"
+              "locator": "卷4 / 豫 / 六二小象 / 0007册.djvu/382"
             }
           ]
         }
@@ -2791,20 +2791,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "盱豫，悔。遲有悔。",
+          "original": "盱豫，悔。迟有悔。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 六三 / 0007冊.djvu/382"
+              "locator": "卷4 / 豫 / 六三 / 0007册.djvu/382"
             }
           ]
         },
         "smallImage": {
-          "original": "盱豫有悔，位不當也。",
+          "original": "盱豫有悔，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 六三小象 / 0007冊.djvu/382"
+              "locator": "卷4 / 豫 / 六三小象 / 0007册.djvu/382"
             }
           ]
         }
@@ -2817,7 +2817,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 九四 / 0007冊.djvu/383"
+              "locator": "卷4 / 豫 / 九四 / 0007册.djvu/383"
             }
           ]
         },
@@ -2826,7 +2826,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 九四小象 / 0007冊.djvu/383"
+              "locator": "卷4 / 豫 / 九四小象 / 0007册.djvu/383"
             }
           ]
         }
@@ -2835,20 +2835,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "貞疾，恒不死。",
+          "original": "贞疾，恒不死。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 六五 / 0007冊.djvu/383"
+              "locator": "卷4 / 豫 / 六五 / 0007册.djvu/383"
             }
           ]
         },
         "smallImage": {
-          "original": "六五貞疾，乘剛也。恒不死，中未亡也。",
+          "original": "六五贞疾，乘刚也。恒不死，中未亡也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 六五小象 / 0007冊.djvu/383"
+              "locator": "卷4 / 豫 / 六五小象 / 0007册.djvu/383"
             }
           ]
         }
@@ -2861,16 +2861,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 上六 / 0007冊.djvu/383"
+              "locator": "卷4 / 豫 / 上六 / 0007册.djvu/383"
             }
           ]
         },
         "smallImage": {
-          "original": "冥豫在上，何可長也。",
+          "original": "冥豫在上，何可长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 豫 / 上六小象 / 0007冊.djvu/383"
+              "locator": "卷4 / 豫 / 上六小象 / 0007册.djvu/383"
             }
           ]
         }
@@ -2881,29 +2881,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 17,
     "statement": {
-      "original": "隨：元亨，利貞，无咎。",
+      "original": "随：元亨，利贞，无咎。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 隨 / 卦辞 / 0007冊.djvu/383"
+          "locator": "卷4 / 随 / 卦辞 / 0007册.djvu/383"
         }
       ]
     },
     "tuan": {
-      "original": "隨，剛來而下柔，動而説，隨。大亨貞，无咎，而天下隨時。隨時之義大矣哉。",
+      "original": "随，刚来而下柔，动而说，随。大亨贞，无咎，而天下随时。随时之义大矣哉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 隨 / 彖曰 / 0007冊.djvu/384"
+          "locator": "卷4 / 随 / 彖曰 / 0007册.djvu/384"
         }
       ]
     },
     "greatImage": {
-      "original": "澤中有雷，隨；君子以嚮晦入宴息。",
+      "original": "泽中有雷，随；君子以向晦入宴息。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 隨 / 整卦大象 / 0007冊.djvu/384"
+          "locator": "卷4 / 随 / 整卦大象 / 0007册.djvu/384"
         }
       ]
     },
@@ -2916,7 +2916,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 隨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/383–384"
+        "locator": "卷4 / 随 / 彖曰、整卦大象与上下卦 / 0007册.djvu/383–384"
       }
     ],
     "yao": [
@@ -2924,20 +2924,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "官有渝，貞吉。出門交有功。",
+          "original": "官有渝，贞吉。出门交有功。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 初九 / 0007冊.djvu/384"
+              "locator": "卷4 / 随 / 初九 / 0007册.djvu/384"
             }
           ]
         },
         "smallImage": {
-          "original": "官有渝，從正吉也。出門交有功，不失也。",
+          "original": "官有渝，从正吉也。出门交有功，不失也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 初九小象 / 0007冊.djvu/384"
+              "locator": "卷4 / 随 / 初九小象 / 0007册.djvu/384"
             }
           ]
         }
@@ -2946,20 +2946,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "係小子，失丈夫。",
+          "original": "系小子，失丈夫。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 六二 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 六二 / 0007册.djvu/385"
             }
           ]
         },
         "smallImage": {
-          "original": "係小子，弗兼與也。",
+          "original": "系小子，弗兼与也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 六二小象 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 六二小象 / 0007册.djvu/385"
             }
           ]
         }
@@ -2968,20 +2968,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "係丈夫，失小子。隨有求得，利居貞。",
+          "original": "系丈夫，失小子。随有求得，利居贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 六三 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 六三 / 0007册.djvu/385"
             }
           ]
         },
         "smallImage": {
-          "original": "係丈夫，志舎下也。",
+          "original": "系丈夫，志舎下也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 六三小象 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 六三小象 / 0007册.djvu/385"
             }
           ]
         }
@@ -2990,20 +2990,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "隨有獲，貞凶。有孚在道，以明何咎。",
+          "original": "随有获，贞凶。有孚在道，以明何咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 九四 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 九四 / 0007册.djvu/385"
             }
           ]
         },
         "smallImage": {
-          "original": "隨有獲，其義凶也。有孚在道，明功也。",
+          "original": "随有获，其义凶也。有孚在道，明功也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 九四小象 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 九四小象 / 0007册.djvu/385"
             }
           ]
         }
@@ -3016,7 +3016,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 九五 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 九五 / 0007册.djvu/385"
             }
           ]
         },
@@ -3025,7 +3025,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 九五小象 / 0007冊.djvu/385"
+              "locator": "卷4 / 随 / 九五小象 / 0007册.djvu/385"
             }
           ]
         }
@@ -3034,20 +3034,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "拘係之，乃從維之。王用亨于西山。",
+          "original": "拘系之，乃从维之。王用亨于西山。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 上六 / 0007冊.djvu/386"
+              "locator": "卷4 / 随 / 上六 / 0007册.djvu/386"
             }
           ]
         },
         "smallImage": {
-          "original": "拘係之，上窮也。",
+          "original": "拘系之，上穷也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 隨 / 上六小象 / 0007冊.djvu/386"
+              "locator": "卷4 / 随 / 上六小象 / 0007册.djvu/386"
             }
           ]
         }
@@ -3058,29 +3058,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 18,
     "statement": {
-      "original": "蠱：元亨，利涉大川。先甲三日，後甲三日。",
+      "original": "蛊：元亨，利涉大川。先甲三日，后甲三日。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 蠱 / 卦辞 / 0007冊.djvu/386"
+          "locator": "卷4 / 蛊 / 卦辞 / 0007册.djvu/386"
         }
       ]
     },
     "tuan": {
-      "original": "蠱，剛上而柔下，巽而止，蠱。蠱元亨，而天下治也。利涉大川，徃有事也。先甲三日，後甲三日，終則有始，天行也。",
+      "original": "蛊，刚上而柔下，巽而止，蛊。蛊元亨，而天下治也。利涉大川，徃有事也。先甲三日，后甲三日，终则有始，天行也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 蠱 / 彖曰 / 0007冊.djvu/386"
+          "locator": "卷4 / 蛊 / 彖曰 / 0007册.djvu/386"
         }
       ]
     },
     "greatImage": {
-      "original": "山下有風，蠱；君子以振民育徳。",
+      "original": "山下有风，蛊；君子以振民育徳。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 蠱 / 整卦大象 / 0007冊.djvu/387"
+          "locator": "卷4 / 蛊 / 整卦大象 / 0007册.djvu/387"
         }
       ]
     },
@@ -3093,7 +3093,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 蠱 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/386–387"
+        "locator": "卷4 / 蛊 / 彖曰、整卦大象与上下卦 / 0007册.djvu/386–387"
       }
     ],
     "yao": [
@@ -3101,20 +3101,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "幹父之蠱，有子，考无咎，厲終吉。",
+          "original": "干父之蛊，有子，考无咎，厉终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 初六 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 初六 / 0007册.djvu/387"
             }
           ]
         },
         "smallImage": {
-          "original": "幹父之蠱，意承考也。",
+          "original": "干父之蛊，意承考也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 初六小象 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 初六小象 / 0007册.djvu/387"
             }
           ]
         }
@@ -3123,20 +3123,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "幹母之蠱，不可貞。",
+          "original": "干母之蛊，不可贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 九二 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 九二 / 0007册.djvu/387"
             }
           ]
         },
         "smallImage": {
-          "original": "幹母之蠱，得中道也。",
+          "original": "干母之蛊，得中道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 九二小象 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 九二小象 / 0007册.djvu/387"
             }
           ]
         }
@@ -3145,20 +3145,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "幹父之蠱，小有悔，无大咎。",
+          "original": "干父之蛊，小有悔，无大咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 九三 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 九三 / 0007册.djvu/387"
             }
           ]
         },
         "smallImage": {
-          "original": "幹父之蠱，終无咎也。",
+          "original": "干父之蛊，终无咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 九三小象 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 九三小象 / 0007册.djvu/387"
             }
           ]
         }
@@ -3167,20 +3167,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "裕父之蠱，徃見吝。",
+          "original": "裕父之蛊，徃见吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 六四 / 0007冊.djvu/387"
+              "locator": "卷4 / 蛊 / 六四 / 0007册.djvu/387"
             }
           ]
         },
         "smallImage": {
-          "original": "裕父之蠱，徃未得也。",
+          "original": "裕父之蛊，徃未得也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 六四小象 / 0007冊.djvu/388"
+              "locator": "卷4 / 蛊 / 六四小象 / 0007册.djvu/388"
             }
           ]
         }
@@ -3189,20 +3189,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "幹父之蠱，用譽。",
+          "original": "干父之蛊，用誉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 六五 / 0007冊.djvu/388"
+              "locator": "卷4 / 蛊 / 六五 / 0007册.djvu/388"
             }
           ]
         },
         "smallImage": {
-          "original": "幹父用譽，承以徳也。",
+          "original": "干父用誉，承以徳也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 六五小象 / 0007冊.djvu/388"
+              "locator": "卷4 / 蛊 / 六五小象 / 0007册.djvu/388"
             }
           ]
         }
@@ -3215,16 +3215,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 上九 / 0007冊.djvu/388"
+              "locator": "卷4 / 蛊 / 上九 / 0007册.djvu/388"
             }
           ]
         },
         "smallImage": {
-          "original": "不事王侯，志可則也。",
+          "original": "不事王侯，志可则也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 蠱 / 上九小象 / 0007冊.djvu/388"
+              "locator": "卷4 / 蛊 / 上九小象 / 0007册.djvu/388"
             }
           ]
         }
@@ -3235,29 +3235,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 19,
     "statement": {
-      "original": "臨：元亨，利貞。至于八月有凶。",
+      "original": "临：元亨，利贞。至于八月有凶。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 臨 / 卦辞 / 0007冊.djvu/388"
+          "locator": "卷4 / 临 / 卦辞 / 0007册.djvu/388"
         }
       ]
     },
     "tuan": {
-      "original": "臨，剛浸而長，説而順，剛中而應，大亨以正，天之道也。至于八月有凶，消不久也。",
+      "original": "临，刚浸而长，说而顺，刚中而应，大亨以正，天之道也。至于八月有凶，消不久也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 臨 / 彖曰 / 0007冊.djvu/388"
+          "locator": "卷4 / 临 / 彖曰 / 0007册.djvu/388"
         }
       ]
     },
     "greatImage": {
-      "original": "澤上有地，臨；君子以敎思无窮，容保民无疆。",
+      "original": "泽上有地，临；君子以教思无穷，容保民无疆。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 臨 / 整卦大象 / 0007冊.djvu/388"
+          "locator": "卷4 / 临 / 整卦大象 / 0007册.djvu/388"
         }
       ]
     },
@@ -3270,7 +3270,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 臨 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/388"
+        "locator": "卷4 / 临 / 彖曰、整卦大象与上下卦 / 0007册.djvu/388"
       }
     ],
     "yao": [
@@ -3278,20 +3278,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "咸臨，貞吉。",
+          "original": "咸临，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 初九 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 初九 / 0007册.djvu/389"
             }
           ]
         },
         "smallImage": {
-          "original": "咸臨貞吉，志行正也。",
+          "original": "咸临贞吉，志行正也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 初九小象 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 初九小象 / 0007册.djvu/389"
             }
           ]
         }
@@ -3300,20 +3300,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "咸臨，吉无不利。",
+          "original": "咸临，吉无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 九二 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 九二 / 0007册.djvu/389"
             }
           ]
         },
         "smallImage": {
-          "original": "咸臨吉无不利，未順命也。",
+          "original": "咸临吉无不利，未顺命也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 九二小象 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 九二小象 / 0007册.djvu/389"
             }
           ]
         }
@@ -3322,20 +3322,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "甘臨，无攸利。既憂之，无咎。",
+          "original": "甘临，无攸利。既忧之，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 六三 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 六三 / 0007册.djvu/389"
             }
           ]
         },
         "smallImage": {
-          "original": "甘臨，位不當也。既憂之，咎不長也。",
+          "original": "甘临，位不当也。既忧之，咎不长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 六三小象 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 六三小象 / 0007册.djvu/389"
             }
           ]
         }
@@ -3344,20 +3344,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "至臨，无咎。",
+          "original": "至临，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 六四 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 六四 / 0007册.djvu/389"
             }
           ]
         },
         "smallImage": {
-          "original": "至臨无咎，位當也。",
+          "original": "至临无咎，位当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 六四小象 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 六四小象 / 0007册.djvu/389"
             }
           ]
         }
@@ -3366,20 +3366,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "知臨，大君之宜，吉。",
+          "original": "知临，大君之宜，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 六五 / 0007冊.djvu/389"
+              "locator": "卷4 / 临 / 六五 / 0007册.djvu/389"
             }
           ]
         },
         "smallImage": {
-          "original": "大君之宜，行中之謂也。",
+          "original": "大君之宜，行中之谓也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 六五小象 / 0007冊.djvu/390"
+              "locator": "卷4 / 临 / 六五小象 / 0007册.djvu/390"
             }
           ]
         }
@@ -3388,20 +3388,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "敦臨，吉无咎。",
+          "original": "敦临，吉无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 上六 / 0007冊.djvu/390"
+              "locator": "卷4 / 临 / 上六 / 0007册.djvu/390"
             }
           ]
         },
         "smallImage": {
-          "original": "敦臨之吉，志在内也。",
+          "original": "敦临之吉，志在内也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 臨 / 上六小象 / 0007冊.djvu/390"
+              "locator": "卷4 / 临 / 上六小象 / 0007册.djvu/390"
             }
           ]
         }
@@ -3412,29 +3412,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 20,
     "statement": {
-      "original": "觀：盥而不薦，有孚顒若。",
+      "original": "观：盥而不荐，有孚颙若。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 觀 / 卦辞 / 0007冊.djvu/390"
+          "locator": "卷4 / 观 / 卦辞 / 0007册.djvu/390"
         }
       ]
     },
     "tuan": {
-      "original": "大觀在上，順而巽，中正以觀天下。觀盥而不薦，有孚顒若，下觀而化也。觀天之神道而四時不忒，聖人以神道設敎而天下服矣。",
+      "original": "大观在上，顺而巽，中正以观天下。观盥而不荐，有孚颙若，下观而化也。观天之神道而四时不忒，圣人以神道设教而天下服矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 觀 / 彖曰 / 0007冊.djvu/390"
+          "locator": "卷4 / 观 / 彖曰 / 0007册.djvu/390"
         }
       ]
     },
     "greatImage": {
-      "original": "風行地上，觀；先王以省方觀民設敎。",
+      "original": "风行地上，观；先王以省方观民设教。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 觀 / 整卦大象 / 0007冊.djvu/391"
+          "locator": "卷4 / 观 / 整卦大象 / 0007册.djvu/391"
         }
       ]
     },
@@ -3447,7 +3447,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 觀 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/390–391"
+        "locator": "卷4 / 观 / 彖曰、整卦大象与上下卦 / 0007册.djvu/390–391"
       }
     ],
     "yao": [
@@ -3455,20 +3455,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "童觀，小人无咎，君子吝。",
+          "original": "童观，小人无咎，君子吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 初六 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 初六 / 0007册.djvu/391"
             }
           ]
         },
         "smallImage": {
-          "original": "初六童觀，小人道也。",
+          "original": "初六童观，小人道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 初六小象 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 初六小象 / 0007册.djvu/391"
             }
           ]
         }
@@ -3477,20 +3477,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "闚觀，利女貞。",
+          "original": "闚观，利女贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 六二 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 六二 / 0007册.djvu/391"
             }
           ]
         },
         "smallImage": {
-          "original": "闚觀女貞，亦可醜也。",
+          "original": "闚观女贞，亦可丑也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 六二小象 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 六二小象 / 0007册.djvu/391"
             }
           ]
         }
@@ -3499,20 +3499,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "觀我生，進退。",
+          "original": "观我生，进退。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 六三 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 六三 / 0007册.djvu/391"
             }
           ]
         },
         "smallImage": {
-          "original": "觀我生進退，未失道也。",
+          "original": "观我生进退，未失道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 六三小象 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 六三小象 / 0007册.djvu/391"
             }
           ]
         }
@@ -3521,20 +3521,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "觀國之光，利用賓于王。",
+          "original": "观国之光，利用宾于王。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 六四 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 六四 / 0007册.djvu/391"
             }
           ]
         },
         "smallImage": {
-          "original": "觀國之光，尚賓也。",
+          "original": "观国之光，尚宾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 六四小象 / 0007冊.djvu/391"
+              "locator": "卷4 / 观 / 六四小象 / 0007册.djvu/391"
             }
           ]
         }
@@ -3543,20 +3543,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "觀我生，君子无咎。",
+          "original": "观我生，君子无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 九五 / 0007冊.djvu/392"
+              "locator": "卷4 / 观 / 九五 / 0007册.djvu/392"
             }
           ]
         },
         "smallImage": {
-          "original": "觀我生，觀民也。",
+          "original": "观我生，观民也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 九五小象 / 0007冊.djvu/392"
+              "locator": "卷4 / 观 / 九五小象 / 0007册.djvu/392"
             }
           ]
         }
@@ -3565,20 +3565,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "觀其生，君子无咎。",
+          "original": "观其生，君子无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 上九 / 0007冊.djvu/392"
+              "locator": "卷4 / 观 / 上九 / 0007册.djvu/392"
             }
           ]
         },
         "smallImage": {
-          "original": "觀其生，志未平也。",
+          "original": "观其生，志未平也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 觀 / 上九小象 / 0007冊.djvu/392"
+              "locator": "卷4 / 观 / 上九小象 / 0007册.djvu/392"
             }
           ]
         }
@@ -3589,29 +3589,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 21,
     "statement": {
-      "original": "噬嗑：亨，利用獄。",
+      "original": "噬嗑：亨，利用狱。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 噬嗑 / 卦辞 / 0007冊.djvu/392"
+          "locator": "卷4 / 噬嗑 / 卦辞 / 0007册.djvu/392"
         }
       ]
     },
     "tuan": {
-      "original": "頤中有物，曰噬嗑。噬嗑而亨。剛柔分，動而明，雷電合而章。柔得中而上行，雖不當位，利用獄也。",
+      "original": "颐中有物，曰噬嗑。噬嗑而亨。刚柔分，动而明，雷电合而章。柔得中而上行，虽不当位，利用狱也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 噬嗑 / 彖曰 / 0007冊.djvu/392"
+          "locator": "卷4 / 噬嗑 / 彖曰 / 0007册.djvu/392"
         }
       ]
     },
     "greatImage": {
-      "original": "雷電，噬嗑；先王以明罰勑法。",
+      "original": "雷电，噬嗑；先王以明罚勑法。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch3",
-          "locator": "卷4 / 噬嗑 / 整卦大象 / 0007冊.djvu/393"
+          "locator": "卷4 / 噬嗑 / 整卦大象 / 0007册.djvu/393"
         }
       ]
     },
@@ -3624,7 +3624,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch3",
-        "locator": "卷4 / 噬嗑 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/392–393"
+        "locator": "卷4 / 噬嗑 / 彖曰、整卦大象与上下卦 / 0007册.djvu/392–393"
       }
     ],
     "yao": [
@@ -3632,20 +3632,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "屨校滅趾，无咎。",
+          "original": "屦校灭趾，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 初九 / 0007冊.djvu/393"
+              "locator": "卷4 / 噬嗑 / 初九 / 0007册.djvu/393"
             }
           ]
         },
         "smallImage": {
-          "original": "屨校滅趾，不行也。",
+          "original": "屦校灭趾，不行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 初九小象 / 0007冊.djvu/393"
+              "locator": "卷4 / 噬嗑 / 初九小象 / 0007册.djvu/393"
             }
           ]
         }
@@ -3654,20 +3654,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "噬膚滅鼻，无咎。",
+          "original": "噬肤灭鼻，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 六二 / 0007冊.djvu/393"
+              "locator": "卷4 / 噬嗑 / 六二 / 0007册.djvu/393"
             }
           ]
         },
         "smallImage": {
-          "original": "噬膚滅鼻，乘剛也。",
+          "original": "噬肤灭鼻，乘刚也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 六二小象 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 六二小象 / 0007册.djvu/394"
             }
           ]
         }
@@ -3680,16 +3680,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 六三 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 六三 / 0007册.djvu/394"
             }
           ]
         },
         "smallImage": {
-          "original": "遇毒，位不當也。",
+          "original": "遇毒，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 六三小象 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 六三小象 / 0007册.djvu/394"
             }
           ]
         }
@@ -3698,20 +3698,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "噬乾胏，得金矢，利艱貞，吉。",
+          "original": "噬干胏，得金矢，利艰贞，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 九四 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 九四 / 0007册.djvu/394"
             }
           ]
         },
         "smallImage": {
-          "original": "利艱貞吉，未光也。",
+          "original": "利艰贞吉，未光也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 九四小象 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 九四小象 / 0007册.djvu/394"
             }
           ]
         }
@@ -3720,20 +3720,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "噬乾肉，得黄金，貞厲，无咎。",
+          "original": "噬干肉，得黄金，贞厉，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 六五 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 六五 / 0007册.djvu/394"
             }
           ]
         },
         "smallImage": {
-          "original": "貞厲无咎，得當也。",
+          "original": "贞厉无咎，得当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 六五小象 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 六五小象 / 0007册.djvu/394"
             }
           ]
         }
@@ -3742,20 +3742,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "何校滅耳，凶。",
+          "original": "何校灭耳，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 上九 / 0007冊.djvu/394"
+              "locator": "卷4 / 噬嗑 / 上九 / 0007册.djvu/394"
             }
           ]
         },
         "smallImage": {
-          "original": "何校滅耳，聰不明也。",
+          "original": "何校灭耳，聪不明也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch3",
-              "locator": "卷4 / 噬嗑 / 上九小象 / 0007冊.djvu/395"
+              "locator": "卷4 / 噬嗑 / 上九小象 / 0007册.djvu/395"
             }
           ]
         }
@@ -3766,29 +3766,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 22,
     "statement": {
-      "original": "賁：亨，小利有攸徃。",
+      "original": "贲：亨，小利有攸徃。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch4",
-          "locator": "卷4 / 賁 / 卦辞 / 0007冊.djvu/395"
+          "locator": "卷4 / 贲 / 卦辞 / 0007册.djvu/395"
         }
       ]
     },
     "tuan": {
-      "original": "賁亨，柔來而文剛，故亨。分剛上而文柔，故小利有攸徃。天文也。文明以止，人文也。觀乎天文，以察時變；觀乎人文，以化成天下。",
+      "original": "贲亨，柔来而文刚，故亨。分刚上而文柔，故小利有攸徃。天文也。文明以止，人文也。观乎天文，以察时变；观乎人文，以化成天下。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch4",
-          "locator": "卷4 / 賁 / 彖曰 / 0007冊.djvu/395"
+          "locator": "卷4 / 贲 / 彖曰 / 0007册.djvu/395"
         }
       ]
     },
     "greatImage": {
-      "original": "山下有火，賁；君子以明庶政，无敢折獄。",
+      "original": "山下有火，贲；君子以明庶政，无敢折狱。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-4-batch4",
-          "locator": "卷4 / 賁 / 整卦大象 / 0007冊.djvu/396"
+          "locator": "卷4 / 贲 / 整卦大象 / 0007册.djvu/396"
         }
       ]
     },
@@ -3801,7 +3801,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch4",
-        "locator": "卷4 / 賁 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/395–396"
+        "locator": "卷4 / 贲 / 彖曰、整卦大象与上下卦 / 0007册.djvu/395–396"
       }
     ],
     "yao": [
@@ -3809,20 +3809,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "賁其趾，舎車而徒。",
+          "original": "贲其趾，舎车而徒。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 初九 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 初九 / 0007册.djvu/396"
             }
           ]
         },
         "smallImage": {
-          "original": "舍車而徒，義弗乘也。",
+          "original": "舍车而徒，义弗乘也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 初九小象 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 初九小象 / 0007册.djvu/396"
             }
           ]
         }
@@ -3831,20 +3831,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "賁其須。",
+          "original": "贲其须。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 六二 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 六二 / 0007册.djvu/396"
             }
           ]
         },
         "smallImage": {
-          "original": "賁其須，與上興也。",
+          "original": "贲其须，与上兴也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 六二小象 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 六二小象 / 0007册.djvu/396"
             }
           ]
         }
@@ -3853,20 +3853,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "賁如濡如，永貞吉。",
+          "original": "贲如濡如，永贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 九三 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 九三 / 0007册.djvu/396"
             }
           ]
         },
         "smallImage": {
-          "original": "永貞之吉，終莫之陵也。",
+          "original": "永贞之吉，终莫之陵也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 九三小象 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 九三小象 / 0007册.djvu/396"
             }
           ]
         }
@@ -3875,20 +3875,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "賁如皤如，白馬翰如，匪宼婚媾。",
+          "original": "贲如皤如，白马翰如，匪宼婚媾。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 六四 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 六四 / 0007册.djvu/396"
             }
           ]
         },
         "smallImage": {
-          "original": "六四當位疑也。匪寇婚媾，終无尤也。",
+          "original": "六四当位疑也。匪寇婚媾，终无尤也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 六四小象 / 0007冊.djvu/396"
+              "locator": "卷4 / 贲 / 六四小象 / 0007册.djvu/396"
             }
           ]
         }
@@ -3897,11 +3897,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "賁于丘園，束帛戔戔，吝，終吉。",
+          "original": "贲于丘园，束帛戋戋，吝，终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 六五 / 0007冊.djvu/397"
+              "locator": "卷4 / 贲 / 六五 / 0007册.djvu/397"
             }
           ]
         },
@@ -3910,7 +3910,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 六五小象 / 0007冊.djvu/397"
+              "locator": "卷4 / 贲 / 六五小象 / 0007册.djvu/397"
             }
           ]
         }
@@ -3919,20 +3919,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "白賁，无咎。",
+          "original": "白贲，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 上九 / 0007冊.djvu/397"
+              "locator": "卷4 / 贲 / 上九 / 0007册.djvu/397"
             }
           ]
         },
         "smallImage": {
-          "original": "白賁无咎，上得志也。",
+          "original": "白贲无咎，上得志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-4-batch4",
-              "locator": "卷4 / 賁 / 上九小象 / 0007冊.djvu/397"
+              "locator": "卷4 / 贲 / 上九小象 / 0007册.djvu/397"
             }
           ]
         }
@@ -3943,29 +3943,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 23,
     "statement": {
-      "original": "剝：不利有攸往。",
+      "original": "剥：不利有攸往。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5",
-          "locator": "卷5 / 剝 / 卦辞 / 0007冊.djvu/401"
+          "locator": "卷5 / 剥 / 卦辞 / 0007册.djvu/401"
         }
       ]
     },
     "tuan": {
-      "original": "剝，剝也，柔變剛也。不利有攸往，小人長也。順而止之，觀象也。君子尚消息盈虚，天行也。",
+      "original": "剥，剥也，柔变刚也。不利有攸往，小人长也。顺而止之，观象也。君子尚消息盈虚，天行也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5",
-          "locator": "卷5 / 剝 / 彖曰 / 0007冊.djvu/401"
+          "locator": "卷5 / 剥 / 彖曰 / 0007册.djvu/401"
         }
       ]
     },
     "greatImage": {
-      "original": "山附于地，剝；上以厚下安宅。",
+      "original": "山附于地，剥；上以厚下安宅。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5",
-          "locator": "卷5 / 剝 / 整卦大象 / 0007冊.djvu/402"
+          "locator": "卷5 / 剥 / 整卦大象 / 0007册.djvu/402"
         }
       ]
     },
@@ -3978,7 +3978,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 剝 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/401–402"
+        "locator": "卷5 / 剥 / 彖曰、整卦大象与上下卦 / 0007册.djvu/401–402"
       }
     ],
     "yao": [
@@ -3986,20 +3986,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "剝牀以足，蔑貞凶。",
+          "original": "剥床以足，蔑贞凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 初六 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 初六 / 0007册.djvu/402"
             }
           ]
         },
         "smallImage": {
-          "original": "剝牀以足，以滅下也。",
+          "original": "剥床以足，以灭下也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 初六小象 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 初六小象 / 0007册.djvu/402"
             }
           ]
         }
@@ -4008,20 +4008,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "剝牀以辨，蔑貞凶。",
+          "original": "剥床以辨，蔑贞凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六二 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 六二 / 0007册.djvu/402"
             }
           ]
         },
         "smallImage": {
-          "original": "剝牀以辨，未有與也。",
+          "original": "剥床以辨，未有与也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六二小象 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 六二小象 / 0007册.djvu/402"
             }
           ]
         }
@@ -4030,20 +4030,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "剝之，无咎。",
+          "original": "剥之，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六三 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 六三 / 0007册.djvu/402"
             }
           ]
         },
         "smallImage": {
-          "original": "剝之无咎，失上下也。",
+          "original": "剥之无咎，失上下也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六三小象 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 六三小象 / 0007册.djvu/402"
             }
           ]
         }
@@ -4052,20 +4052,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "剝牀以膚，凶。",
+          "original": "剥床以肤，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六四 / 0007冊.djvu/402"
+              "locator": "卷5 / 剥 / 六四 / 0007册.djvu/402"
             }
           ]
         },
         "smallImage": {
-          "original": "剝牀以膚，切近災也。",
+          "original": "剥床以肤，切近灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六四小象 / 0007冊.djvu/403"
+              "locator": "卷5 / 剥 / 六四小象 / 0007册.djvu/403"
             }
           ]
         }
@@ -4074,20 +4074,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "貫魚，以宮人寵，无不利。",
+          "original": "贯鱼，以宫人宠，无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六五 / 0007冊.djvu/403"
+              "locator": "卷5 / 剥 / 六五 / 0007册.djvu/403"
             }
           ]
         },
         "smallImage": {
-          "original": "以宮人寵，終无尤也。",
+          "original": "以宫人宠，终无尤也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 六五小象 / 0007冊.djvu/403"
+              "locator": "卷5 / 剥 / 六五小象 / 0007册.djvu/403"
             }
           ]
         }
@@ -4096,20 +4096,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "碩果不食，君子得輿，小人剝廬。",
+          "original": "硕果不食，君子得舆，小人剥庐。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 上九 / 0007冊.djvu/403"
+              "locator": "卷5 / 剥 / 上九 / 0007册.djvu/403"
             }
           ]
         },
         "smallImage": {
-          "original": "君子得輿，民所載也。小人剝廬，終不可用也。",
+          "original": "君子得舆，民所载也。小人剥庐，终不可用也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 剝 / 上九小象 / 0007冊.djvu/403"
+              "locator": "卷5 / 剥 / 上九小象 / 0007册.djvu/403"
             }
           ]
         }
@@ -4120,29 +4120,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 24,
     "statement": {
-      "original": "復：亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+      "original": "复：亨。出入无疾，朋来无咎。反复其道，七日来复，利有攸往。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 復 / 卦辞 / 0007冊.djvu/403"
+          "locator": "卷5 / 复 / 卦辞 / 0007册.djvu/403"
         }
       ]
     },
     "tuan": {
-      "original": "復亨，剛反，動而以順行，是以出入无疾。朋來无咎。反復其道，七日來復，天行也。利有攸往，剛長也。復其見天地之心乎。",
+      "original": "复亨，刚反，动而以顺行，是以出入无疾。朋来无咎。反复其道，七日来复，天行也。利有攸往，刚长也。复其见天地之心乎。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 復 / 彖曰 / 0007冊.djvu/403"
+          "locator": "卷5 / 复 / 彖曰 / 0007册.djvu/403"
         }
       ]
     },
     "greatImage": {
-      "original": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
+      "original": "雷在地中，复；先王以至日闭关，商旅不行，后不省方。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 復 / 整卦大象 / 0007冊.djvu/404"
+          "locator": "卷5 / 复 / 整卦大象 / 0007册.djvu/404"
         }
       ]
     },
@@ -4155,7 +4155,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 復 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/403–404"
+        "locator": "卷5 / 复 / 彖曰、整卦大象与上下卦 / 0007册.djvu/403–404"
       }
     ],
     "yao": [
@@ -4163,20 +4163,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "不遠復，无祗悔，元吉。",
+          "original": "不远复，无祗悔，元吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 初九 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 初九 / 0007册.djvu/405"
             }
           ]
         },
         "smallImage": {
-          "original": "不遠之復，以脩身也。",
+          "original": "不远之复，以修身也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 初九小象 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 初九小象 / 0007册.djvu/405"
             }
           ]
         }
@@ -4185,20 +4185,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "休復，吉。",
+          "original": "休复，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六二 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六二 / 0007册.djvu/405"
             }
           ]
         },
         "smallImage": {
-          "original": "休復之吉，以下仁也。",
+          "original": "休复之吉，以下仁也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六二小象 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六二小象 / 0007册.djvu/405"
             }
           ]
         }
@@ -4207,20 +4207,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "頻復，厲，无咎。",
+          "original": "频复，厉，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六三 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六三 / 0007册.djvu/405"
             }
           ]
         },
         "smallImage": {
-          "original": "頻復之厲，義无咎也。",
+          "original": "频复之厉，义无咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六三小象 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六三小象 / 0007册.djvu/405"
             }
           ]
         }
@@ -4229,20 +4229,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "中行獨復。",
+          "original": "中行独复。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六四 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六四 / 0007册.djvu/405"
             }
           ]
         },
         "smallImage": {
-          "original": "中行獨復，以從道也。",
+          "original": "中行独复，以从道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六四小象 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六四小象 / 0007册.djvu/405"
             }
           ]
         }
@@ -4251,20 +4251,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "敦復，无悔。",
+          "original": "敦复，无悔。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六五 / 0007冊.djvu/405"
+              "locator": "卷5 / 复 / 六五 / 0007册.djvu/405"
             }
           ]
         },
         "smallImage": {
-          "original": "敦復无悔，中以自考也。",
+          "original": "敦复无悔，中以自考也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 六五小象 / 0007冊.djvu/406"
+              "locator": "卷5 / 复 / 六五小象 / 0007册.djvu/406"
             }
           ]
         }
@@ -4273,20 +4273,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "迷復，凶，有災眚。用行師，終有大敗，以其國君凶。至于十年，不克征。",
+          "original": "迷复，凶，有灾眚。用行师，终有大败，以其国君凶。至于十年，不克征。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 上六 / 0007冊.djvu/406"
+              "locator": "卷5 / 复 / 上六 / 0007册.djvu/406"
             }
           ]
         },
         "smallImage": {
-          "original": "迷復之凶，反君道也。",
+          "original": "迷复之凶，反君道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 復 / 上六小象 / 0007冊.djvu/406"
+              "locator": "卷5 / 复 / 上六小象 / 0007册.djvu/406"
             }
           ]
         }
@@ -4297,29 +4297,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 25,
     "statement": {
-      "original": "无妄：元亨，利貞。其匪正有眚，不利有攸往。",
+      "original": "无妄：元亨，利贞。其匪正有眚，不利有攸往。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 无妄 / 卦辞 / 0007冊.djvu/406"
+          "locator": "卷5 / 无妄 / 卦辞 / 0007册.djvu/406"
         }
       ]
     },
     "tuan": {
-      "original": "无妄，剛自外來而為主于内，動而健，剛中而應，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣。天命不祐，行矣哉。",
+      "original": "无妄，刚自外来而为主于内，动而健，刚中而应，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣。天命不祐，行矣哉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 无妄 / 彖曰 / 0007冊.djvu/406"
+          "locator": "卷5 / 无妄 / 彖曰 / 0007册.djvu/406"
         }
       ]
     },
     "greatImage": {
-      "original": "天下雷行，物與无妄；先王以茂對時育萬物。",
+      "original": "天下雷行，物与无妄；先王以茂对时育万物。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 无妄 / 整卦大象 / 0007冊.djvu/407"
+          "locator": "卷5 / 无妄 / 整卦大象 / 0007册.djvu/407"
         }
       ]
     },
@@ -4332,7 +4332,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 无妄 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/406–407"
+        "locator": "卷5 / 无妄 / 彖曰、整卦大象与上下卦 / 0007册.djvu/406–407"
       }
     ],
     "yao": [
@@ -4344,7 +4344,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 初九 / 0007冊.djvu/407"
+              "locator": "卷5 / 无妄 / 初九 / 0007册.djvu/407"
             }
           ]
         },
@@ -4353,7 +4353,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 初九小象 / 0007冊.djvu/407"
+              "locator": "卷5 / 无妄 / 初九小象 / 0007册.djvu/407"
             }
           ]
         }
@@ -4362,20 +4362,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "不耕穫，不菑畬，則利有攸往。",
+          "original": "不耕获，不菑畬，则利有攸往。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 六二 / 0007冊.djvu/407"
+              "locator": "卷5 / 无妄 / 六二 / 0007册.djvu/407"
             }
           ]
         },
         "smallImage": {
-          "original": "不耕穫，未富也。",
+          "original": "不耕获，未富也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 六二小象 / 0007冊.djvu/407"
+              "locator": "卷5 / 无妄 / 六二小象 / 0007册.djvu/407"
             }
           ]
         }
@@ -4384,20 +4384,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "无妄之災，或繋之牛，行人之得，邑人之災。",
+          "original": "无妄之灾，或繋之牛，行人之得，邑人之灾。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 六三 / 0007冊.djvu/407"
+              "locator": "卷5 / 无妄 / 六三 / 0007册.djvu/407"
             }
           ]
         },
         "smallImage": {
-          "original": "行人得牛，邑人災也。",
+          "original": "行人得牛，邑人灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 六三小象 / 0007冊.djvu/407"
+              "locator": "卷5 / 无妄 / 六三小象 / 0007册.djvu/407"
             }
           ]
         }
@@ -4406,20 +4406,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "可貞，无咎。",
+          "original": "可贞，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 九四 / 0007冊.djvu/408"
+              "locator": "卷5 / 无妄 / 九四 / 0007册.djvu/408"
             }
           ]
         },
         "smallImage": {
-          "original": "可貞无咎，固有之也。",
+          "original": "可贞无咎，固有之也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 九四小象 / 0007冊.djvu/408"
+              "locator": "卷5 / 无妄 / 九四小象 / 0007册.djvu/408"
             }
           ]
         }
@@ -4428,20 +4428,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "无妄之疾，勿藥有喜。",
+          "original": "无妄之疾，勿药有喜。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 九五 / 0007冊.djvu/408"
+              "locator": "卷5 / 无妄 / 九五 / 0007册.djvu/408"
             }
           ]
         },
         "smallImage": {
-          "original": "无妄之藥，不可試也。",
+          "original": "无妄之药，不可试也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 九五小象 / 0007冊.djvu/408"
+              "locator": "卷5 / 无妄 / 九五小象 / 0007册.djvu/408"
             }
           ]
         }
@@ -4454,16 +4454,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 上九 / 0007冊.djvu/408"
+              "locator": "卷5 / 无妄 / 上九 / 0007册.djvu/408"
             }
           ]
         },
         "smallImage": {
-          "original": "无妄之行，窮之災也。",
+          "original": "无妄之行，穷之灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 无妄 / 上九小象 / 0007冊.djvu/408"
+              "locator": "卷5 / 无妄 / 上九小象 / 0007册.djvu/408"
             }
           ]
         }
@@ -4474,29 +4474,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 26,
     "statement": {
-      "original": "大畜：利貞，不家食吉，利渉大川。",
+      "original": "大畜：利贞，不家食吉，利渉大川。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5",
-          "locator": "卷5 / 大畜 / 卦辞 / 0007冊.djvu/408"
+          "locator": "卷5 / 大畜 / 卦辞 / 0007册.djvu/408"
         }
       ]
     },
     "tuan": {
-      "original": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。能止健，大正也。不家食吉，養賢也。利渉大川，應乎天也。",
+      "original": "大畜，刚健笃实辉光，日新其德，刚上而尚贤。能止健，大正也。不家食吉，养贤也。利渉大川，应乎天也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5",
-          "locator": "卷5 / 大畜 / 彖曰 / 0007冊.djvu/409"
+          "locator": "卷5 / 大畜 / 彖曰 / 0007册.djvu/409"
         }
       ]
     },
     "greatImage": {
-      "original": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+      "original": "天在山中，大畜；君子以多识前言往行，以畜其德。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5",
-          "locator": "卷5 / 大畜 / 整卦大象 / 0007冊.djvu/409"
+          "locator": "卷5 / 大畜 / 整卦大象 / 0007册.djvu/409"
         }
       ]
     },
@@ -4509,7 +4509,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5",
-        "locator": "卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/408–409"
+        "locator": "卷5 / 大畜 / 彖曰、整卦大象与上下卦 / 0007册.djvu/408–409"
       }
     ],
     "yao": [
@@ -4517,20 +4517,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "有厲，利已。",
+          "original": "有厉，利已。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 初九 / 0007冊.djvu/409"
+              "locator": "卷5 / 大畜 / 初九 / 0007册.djvu/409"
             }
           ]
         },
         "smallImage": {
-          "original": "有厲利巳，不犯災也。",
+          "original": "有厉利巳，不犯灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 初九小象 / 0007冊.djvu/409"
+              "locator": "卷5 / 大畜 / 初九小象 / 0007册.djvu/409"
             }
           ]
         }
@@ -4539,20 +4539,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "輿說輹。",
+          "original": "舆说輹。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 九二 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 九二 / 0007册.djvu/410"
             }
           ]
         },
         "smallImage": {
-          "original": "輿說輹，中无尤也。",
+          "original": "舆说輹，中无尤也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 九二小象 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 九二小象 / 0007册.djvu/410"
             }
           ]
         }
@@ -4561,11 +4561,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "良馬逐，利艱貞。曰閑輿衛，利有攸徃。",
+          "original": "良马逐，利艰贞。曰闲舆卫，利有攸徃。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 九三 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 九三 / 0007册.djvu/410"
             }
           ]
         },
@@ -4574,7 +4574,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 九三小象 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 九三小象 / 0007册.djvu/410"
             }
           ]
         }
@@ -4587,7 +4587,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 六四 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 六四 / 0007册.djvu/410"
             }
           ]
         },
@@ -4596,7 +4596,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 六四小象 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 六四小象 / 0007册.djvu/410"
             }
           ]
         }
@@ -4605,20 +4605,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "豶豕之牙，吉。",
+          "original": "豮豕之牙，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 六五 / 0007冊.djvu/410"
+              "locator": "卷5 / 大畜 / 六五 / 0007册.djvu/410"
             }
           ]
         },
         "smallImage": {
-          "original": "六五之吉，有慶也。",
+          "original": "六五之吉，有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 六五小象 / 0007冊.djvu/410–411"
+              "locator": "卷5 / 大畜 / 六五小象 / 0007册.djvu/410–411"
             }
           ]
         }
@@ -4631,7 +4631,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 上九 / 0007冊.djvu/411"
+              "locator": "卷5 / 大畜 / 上九 / 0007册.djvu/411"
             }
           ]
         },
@@ -4640,7 +4640,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5",
-              "locator": "卷5 / 大畜 / 上九小象 / 0007冊.djvu/411"
+              "locator": "卷5 / 大畜 / 上九小象 / 0007册.djvu/411"
             }
           ]
         }
@@ -4651,29 +4651,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 27,
     "statement": {
-      "original": "頤：貞吉。觀頤，自求口實。",
+      "original": "颐：贞吉。观颐，自求口实。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 頤 / 卦辞 / 0007冊.djvu/411"
+          "locator": "卷5 / 颐 / 卦辞 / 0007册.djvu/411"
         }
       ]
     },
     "tuan": {
-      "original": "頤貞吉，養正則吉也。觀頤，觀其所養也。自求口實，觀其自養也。天地養萬物，聖人養賢以及萬民。頤之時大矣哉。",
+      "original": "颐贞吉，养正则吉也。观颐，观其所养也。自求口实，观其自养也。天地养万物，圣人养贤以及万民。颐之时大矣哉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 頤 / 彖曰 / 0007冊.djvu/411"
+          "locator": "卷5 / 颐 / 彖曰 / 0007册.djvu/411"
         }
       ]
     },
     "greatImage": {
-      "original": "山下有雷，頤；君子以慎言語，節飲食。",
+      "original": "山下有雷，颐；君子以慎言语，节饮食。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 頤 / 整卦大象 / 0007冊.djvu/411"
+          "locator": "卷5 / 颐 / 整卦大象 / 0007册.djvu/411"
         }
       ]
     },
@@ -4686,7 +4686,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 頤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/411"
+        "locator": "卷5 / 颐 / 彖曰、整卦大象与上下卦 / 0007册.djvu/411"
       }
     ],
     "yao": [
@@ -4694,20 +4694,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "舍爾靈龜，觀我朶頤，凶。",
+          "original": "舍尔灵龟，观我朶颐，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 初九 / 0007冊.djvu/411"
+              "locator": "卷5 / 颐 / 初九 / 0007册.djvu/411"
             }
           ]
         },
         "smallImage": {
-          "original": "觀我朶頤，亦不足貴也。",
+          "original": "观我朶颐，亦不足贵也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 初九小象 / 0007冊.djvu/412"
+              "locator": "卷5 / 颐 / 初九小象 / 0007册.djvu/412"
             }
           ]
         }
@@ -4716,20 +4716,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "顚頤，拂經于丘，頤征凶。",
+          "original": "顚颐，拂经于丘，颐征凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六二 / 0007冊.djvu/412"
+              "locator": "卷5 / 颐 / 六二 / 0007册.djvu/412"
             }
           ]
         },
         "smallImage": {
-          "original": "六二征凶，行失類也。",
+          "original": "六二征凶，行失类也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六二小象 / 0007冊.djvu/412"
+              "locator": "卷5 / 颐 / 六二小象 / 0007册.djvu/412"
             }
           ]
         }
@@ -4738,11 +4738,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "拂頤，貞凶，十年勿用，无攸利。",
+          "original": "拂颐，贞凶，十年勿用，无攸利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六三 / 0007冊.djvu/412"
+              "locator": "卷5 / 颐 / 六三 / 0007册.djvu/412"
             }
           ]
         },
@@ -4751,7 +4751,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六三小象 / 0007冊.djvu/412"
+              "locator": "卷5 / 颐 / 六三小象 / 0007册.djvu/412"
             }
           ]
         }
@@ -4760,20 +4760,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "顛頤，吉。虎視眈眈，其欲逐逐，无咎。",
+          "original": "颠颐，吉。虎视眈眈，其欲逐逐，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六四 / 0007冊.djvu/412"
+              "locator": "卷5 / 颐 / 六四 / 0007册.djvu/412"
             }
           ]
         },
         "smallImage": {
-          "original": "顛頤之吉，上施光也。",
+          "original": "颠颐之吉，上施光也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六四小象 / 0007冊.djvu/413"
+              "locator": "卷5 / 颐 / 六四小象 / 0007册.djvu/413"
             }
           ]
         }
@@ -4782,20 +4782,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "拂經，居貞吉，不可渉大川。",
+          "original": "拂经，居贞吉，不可渉大川。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六五 / 0007冊.djvu/413"
+              "locator": "卷5 / 颐 / 六五 / 0007册.djvu/413"
             }
           ]
         },
         "smallImage": {
-          "original": "居貞之吉，順以從上也。",
+          "original": "居贞之吉，顺以从上也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 六五小象 / 0007冊.djvu/413"
+              "locator": "卷5 / 颐 / 六五小象 / 0007册.djvu/413"
             }
           ]
         }
@@ -4804,20 +4804,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "由頤，厲吉，利渉大川。",
+          "original": "由颐，厉吉，利渉大川。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 上九 / 0007冊.djvu/413"
+              "locator": "卷5 / 颐 / 上九 / 0007册.djvu/413"
             }
           ]
         },
         "smallImage": {
-          "original": "由頤厲吉，大有慶也。",
+          "original": "由颐厉吉，大有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 頤 / 上九小象 / 0007冊.djvu/413"
+              "locator": "卷5 / 颐 / 上九小象 / 0007册.djvu/413"
             }
           ]
         }
@@ -4828,29 +4828,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 28,
     "statement": {
-      "original": "大過：棟橈，利有攸往，亨。",
+      "original": "大过：栋桡，利有攸往，亨。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 大過 / 卦辞 / 0007冊.djvu/413"
+          "locator": "卷5 / 大过 / 卦辞 / 0007册.djvu/413"
         }
       ]
     },
     "tuan": {
-      "original": "大過，大者過也。棟橈，本末弱也。剛過而中，巽而說行，利有攸往，乃亨。大過之時大矣哉。",
+      "original": "大过，大者过也。栋桡，本末弱也。刚过而中，巽而说行，利有攸往，乃亨。大过之时大矣哉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 大過 / 彖曰 / 0007冊.djvu/414"
+          "locator": "卷5 / 大过 / 彖曰 / 0007册.djvu/414"
         }
       ]
     },
     "greatImage": {
-      "original": "澤滅木，大過；君子以獨立不懼，遯世无悶。",
+      "original": "泽灭木，大过；君子以独立不惧，遯世无闷。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 大過 / 整卦大象 / 0007冊.djvu/414"
+          "locator": "卷5 / 大过 / 整卦大象 / 0007册.djvu/414"
         }
       ]
     },
@@ -4863,7 +4863,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 大過 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/413–414"
+        "locator": "卷5 / 大过 / 彖曰、整卦大象与上下卦 / 0007册.djvu/413–414"
       }
     ],
     "yao": [
@@ -4875,7 +4875,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 初六 / 0007冊.djvu/414"
+              "locator": "卷5 / 大过 / 初六 / 0007册.djvu/414"
             }
           ]
         },
@@ -4884,7 +4884,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 初六小象 / 0007冊.djvu/414"
+              "locator": "卷5 / 大过 / 初六小象 / 0007册.djvu/414"
             }
           ]
         }
@@ -4893,20 +4893,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "枯楊生稊，老夫得其女妻，无不利。",
+          "original": "枯杨生稊，老夫得其女妻，无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九二 / 0007冊.djvu/414"
+              "locator": "卷5 / 大过 / 九二 / 0007册.djvu/414"
             }
           ]
         },
         "smallImage": {
-          "original": "老夫女妻，過以相與也。",
+          "original": "老夫女妻，过以相与也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九二小象 / 0007冊.djvu/414"
+              "locator": "卷5 / 大过 / 九二小象 / 0007册.djvu/414"
             }
           ]
         }
@@ -4915,20 +4915,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "棟橈，凶。",
+          "original": "栋桡，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九三 / 0007冊.djvu/415"
+              "locator": "卷5 / 大过 / 九三 / 0007册.djvu/415"
             }
           ]
         },
         "smallImage": {
-          "original": "棟橈之凶，不可以有輔也。",
+          "original": "栋桡之凶，不可以有辅也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九三小象 / 0007冊.djvu/415"
+              "locator": "卷5 / 大过 / 九三小象 / 0007册.djvu/415"
             }
           ]
         }
@@ -4937,20 +4937,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "棟隆，吉。有它吝。",
+          "original": "栋隆，吉。有它吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九四 / 0007冊.djvu/415"
+              "locator": "卷5 / 大过 / 九四 / 0007册.djvu/415"
             }
           ]
         },
         "smallImage": {
-          "original": "棟隆之吉，不橈乎下也。",
+          "original": "栋隆之吉，不桡乎下也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九四小象 / 0007冊.djvu/415"
+              "locator": "卷5 / 大过 / 九四小象 / 0007册.djvu/415"
             }
           ]
         }
@@ -4959,20 +4959,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "枯楊生華，老婦得其士夫，无咎无譽。",
+          "original": "枯杨生华，老妇得其士夫，无咎无誉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九五 / 0007冊.djvu/415"
+              "locator": "卷5 / 大过 / 九五 / 0007册.djvu/415"
             }
           ]
         },
         "smallImage": {
-          "original": "枯楊生華，何可久也。老婦士夫，亦可醜也。",
+          "original": "枯杨生华，何可久也。老妇士夫，亦可丑也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 九五小象 / 0007冊.djvu/415"
+              "locator": "卷5 / 大过 / 九五小象 / 0007册.djvu/415"
             }
           ]
         }
@@ -4981,20 +4981,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "過渉滅頂，凶，无咎。",
+          "original": "过渉灭顶，凶，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 上六 / 0007冊.djvu/416"
+              "locator": "卷5 / 大过 / 上六 / 0007册.djvu/416"
             }
           ]
         },
         "smallImage": {
-          "original": "過渉之凶，不可咎也。",
+          "original": "过渉之凶，不可咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 大過 / 上六小象 / 0007冊.djvu/416"
+              "locator": "卷5 / 大过 / 上六小象 / 0007册.djvu/416"
             }
           ]
         }
@@ -5005,29 +5005,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 29,
     "statement": {
-      "original": "習坎：有孚，維心亨。行有尚。",
+      "original": "习坎：有孚，维心亨。行有尚。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 坎 / 卦辞 / 0007冊.djvu/416"
+          "locator": "卷5 / 坎 / 卦辞 / 0007册.djvu/416"
         }
       ]
     },
     "tuan": {
-      "original": "習坎，重險也。水流而不盈，行險而不失其信。維心亨，乃以剛中也。行有尚，往有功也。天險不可升也，地險山川丘陵也。王公設險以守其國。險之時用大矣哉。",
+      "original": "习坎，重险也。水流而不盈，行险而不失其信。维心亨，乃以刚中也。行有尚，往有功也。天险不可升也，地险山川丘陵也。王公设险以守其国。险之时用大矣哉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 坎 / 彖曰 / 0007冊.djvu/416–417"
+          "locator": "卷5 / 坎 / 彖曰 / 0007册.djvu/416–417"
         }
       ]
     },
     "greatImage": {
-      "original": "水洊至，習坎；君子以常德行，習教事。",
+      "original": "水洊至，习坎；君子以常德行，习教事。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-5-batch4",
-          "locator": "卷5 / 坎 / 整卦大象 / 0007冊.djvu/417"
+          "locator": "卷5 / 坎 / 整卦大象 / 0007册.djvu/417"
         }
       ]
     },
@@ -5040,7 +5040,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 坎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/416–417"
+        "locator": "卷5 / 坎 / 彖曰、整卦大象与上下卦 / 0007册.djvu/416–417"
       }
     ],
     "yao": [
@@ -5048,20 +5048,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "習坎，入于坎窞，凶。",
+          "original": "习坎，入于坎窞，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 初六 / 0007冊.djvu/417"
+              "locator": "卷5 / 坎 / 初六 / 0007册.djvu/417"
             }
           ]
         },
         "smallImage": {
-          "original": "習坎入坎，失道凶也。",
+          "original": "习坎入坎，失道凶也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 初六小象 / 0007冊.djvu/417"
+              "locator": "卷5 / 坎 / 初六小象 / 0007册.djvu/417"
             }
           ]
         }
@@ -5070,11 +5070,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "坎有險，求小得。",
+          "original": "坎有险，求小得。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 九二 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 九二 / 0007册.djvu/418"
             }
           ]
         },
@@ -5083,7 +5083,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 九二小象 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 九二小象 / 0007册.djvu/418"
             }
           ]
         }
@@ -5092,20 +5092,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "來之坎坎，險且枕，入于坎窞，勿用。",
+          "original": "来之坎坎，险且枕，入于坎窞，勿用。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 六三 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 六三 / 0007册.djvu/418"
             }
           ]
         },
         "smallImage": {
-          "original": "來之坎坎，終无功也。",
+          "original": "来之坎坎，终无功也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 六三小象 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 六三小象 / 0007册.djvu/418"
             }
           ]
         }
@@ -5114,20 +5114,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "樽酒簋貳，用缶，納約自牖，終无咎。",
+          "original": "樽酒簋贰，用缶，纳约自牖，终无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 六四 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 六四 / 0007册.djvu/418"
             }
           ]
         },
         "smallImage": {
-          "original": "樽酒簋貳，剛柔際也。",
+          "original": "樽酒簋贰，刚柔际也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 六四小象 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 六四小象 / 0007册.djvu/418"
             }
           ]
         }
@@ -5140,7 +5140,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 九五 / 0007冊.djvu/418"
+              "locator": "卷5 / 坎 / 九五 / 0007册.djvu/418"
             }
           ]
         },
@@ -5149,7 +5149,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 九五小象 / 0007冊.djvu/419"
+              "locator": "卷5 / 坎 / 九五小象 / 0007册.djvu/419"
             }
           ]
         }
@@ -5158,20 +5158,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "係用徽纆，寘于叢棘，三嵗不得，凶。",
+          "original": "系用徽𬙊，寘于丛棘，三岁不得，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 上六 / 0007冊.djvu/419"
+              "locator": "卷5 / 坎 / 上六 / 0007册.djvu/419"
             }
           ]
         },
         "smallImage": {
-          "original": "上六失道，凶三嵗也。",
+          "original": "上六失道，凶三岁也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-5-batch4",
-              "locator": "卷5 / 坎 / 上六小象 / 0007冊.djvu/419"
+              "locator": "卷5 / 坎 / 上六小象 / 0007册.djvu/419"
             }
           ]
         }
@@ -5182,29 +5182,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 30,
     "statement": {
-      "original": "離：利貞。亨。畜牝牛，吉。",
+      "original": "离：利贞。亨。畜牝牛，吉。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-30",
-          "locator": "第30卦 離 / 易經 / 卦辞"
+          "locator": "第30卦 离 / 易经 / 卦辞"
         }
       ]
     },
     "tuan": {
-      "original": "離，麗也；日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。柔麗乎中正，故亨；是以畜牝牛吉也。",
+      "original": "离，丽也；日月丽乎天，百谷草木丽乎土，重明以丽乎正，乃化成天下。柔丽乎中正，故亨；是以畜牝牛吉也。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-30",
-          "locator": "第30卦 離 / 彖曰 / 全段"
+          "locator": "第30卦 离 / 彖曰 / 全段"
         }
       ]
     },
     "greatImage": {
-      "original": "明兩作離，大人以繼明照于四方。",
+      "original": "明两作离，大人以继明照于四方。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-30",
-          "locator": "第30卦 離 / 象曰 / 整卦大象"
+          "locator": "第30卦 离 / 象曰 / 整卦大象"
         }
       ]
     },
@@ -5217,7 +5217,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "ws-zhouyi-30",
-        "locator": "第30卦 離 / 彖曰、象曰与上下卦"
+        "locator": "第30卦 离 / 彖曰、象曰与上下卦"
       }
     ],
     "yao": [
@@ -5225,20 +5225,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "履錯然，敬之无咎。",
+          "original": "履错然，敬之无咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 易經 / 初九"
+              "locator": "第30卦 离 / 易经 / 初九"
             }
           ]
         },
         "smallImage": {
-          "original": "履錯之敬，以辟咎也。",
+          "original": "履错之敬，以辟咎也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 象曰 / 初九小象"
+              "locator": "第30卦 离 / 象曰 / 初九小象"
             }
           ]
         }
@@ -5247,20 +5247,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "黃離，元吉。",
+          "original": "黄离，元吉。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 易經 / 六二"
+              "locator": "第30卦 离 / 易经 / 六二"
             }
           ]
         },
         "smallImage": {
-          "original": "黃離元吉，得中道也。",
+          "original": "黄离元吉，得中道也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 象曰 / 六二小象"
+              "locator": "第30卦 离 / 象曰 / 六二小象"
             }
           ]
         }
@@ -5269,20 +5269,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
+          "original": "日昃之离，不鼓缶而歌，则大耋之差，凶。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 易經 / 九三"
+              "locator": "第30卦 离 / 易经 / 九三"
             }
           ]
         },
         "smallImage": {
-          "original": "日昃之離，何可久也。",
+          "original": "日昃之离，何可久也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 象曰 / 九三小象"
+              "locator": "第30卦 离 / 象曰 / 九三小象"
             }
           ]
         }
@@ -5291,20 +5291,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "突如其來如，焚如，死如，棄如。",
+          "original": "突如其来如，焚如，死如，弃如。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 易經 / 九四"
+              "locator": "第30卦 离 / 易经 / 九四"
             }
           ]
         },
         "smallImage": {
-          "original": "突如其來如，无所容也。",
+          "original": "突如其来如，无所容也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 象曰 / 九四小象"
+              "locator": "第30卦 离 / 象曰 / 九四小象"
             }
           ]
         }
@@ -5317,16 +5317,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 易經 / 六五"
+              "locator": "第30卦 离 / 易经 / 六五"
             }
           ]
         },
         "smallImage": {
-          "original": "六五之吉，離王公也。",
+          "original": "六五之吉，离王公也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 象曰 / 六五小象"
+              "locator": "第30卦 离 / 象曰 / 六五小象"
             }
           ]
         }
@@ -5335,11 +5335,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "王用出征，有嘉折首，獲匪其醜，无咎。",
+          "original": "王用出征，有嘉折首，获匪其丑，无咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 易經 / 上九"
+              "locator": "第30卦 离 / 易经 / 上九"
             }
           ]
         },
@@ -5348,7 +5348,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-30",
-              "locator": "第30卦 離 / 象曰 / 上九小象"
+              "locator": "第30卦 离 / 象曰 / 上九小象"
             }
           ]
         }
@@ -5359,29 +5359,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 31,
     "statement": {
-      "original": "咸：亨，利貞，取女吉。",
+      "original": "咸：亨，利贞，取女吉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch4",
-          "locator": "卷6 / 咸 / 卦辞 / 0007冊.djvu/426"
+          "locator": "卷6 / 咸 / 卦辞 / 0007册.djvu/426"
         }
       ]
     },
     "tuan": {
-      "original": "咸，感也。柔上而剛下，二氣感應以相與，止而說，男下女，是以亨利貞，取女吉也。天地感而萬物化生，聖人感人心而天下和平。觀其所感而天地萬物之情可見矣。",
+      "original": "咸，感也。柔上而刚下，二气感应以相与，止而说，男下女，是以亨利贞，取女吉也。天地感而万物化生，圣人感人心而天下和平。观其所感而天地万物之情可见矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch4",
-          "locator": "卷6 / 咸 / 彖曰 / 0007冊.djvu/427"
+          "locator": "卷6 / 咸 / 彖曰 / 0007册.djvu/427"
         }
       ]
     },
     "greatImage": {
-      "original": "山上有澤，咸；君子以虛受人。",
+      "original": "山上有泽，咸；君子以虚受人。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch4",
-          "locator": "卷6 / 咸 / 整卦大象 / 0007冊.djvu/427"
+          "locator": "卷6 / 咸 / 整卦大象 / 0007册.djvu/427"
         }
       ]
     },
@@ -5394,7 +5394,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch4",
-        "locator": "卷6 / 咸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/426–427"
+        "locator": "卷6 / 咸 / 彖曰、整卦大象与上下卦 / 0007册.djvu/426–427"
       }
     ],
     "yao": [
@@ -5406,7 +5406,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 初六 / 0007冊.djvu/427"
+              "locator": "卷6 / 咸 / 初六 / 0007册.djvu/427"
             }
           ]
         },
@@ -5415,7 +5415,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 初六小象 / 0007冊.djvu/427"
+              "locator": "卷6 / 咸 / 初六小象 / 0007册.djvu/427"
             }
           ]
         }
@@ -5428,16 +5428,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 六二 / 0007冊.djvu/427"
+              "locator": "卷6 / 咸 / 六二 / 0007册.djvu/427"
             }
           ]
         },
         "smallImage": {
-          "original": "雖凶居吉，順不害也。",
+          "original": "虽凶居吉，顺不害也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 六二小象 / 0007冊.djvu/427"
+              "locator": "卷6 / 咸 / 六二小象 / 0007册.djvu/427"
             }
           ]
         }
@@ -5446,20 +5446,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "咸其股，執其隨，往吝。",
+          "original": "咸其股，执其随，往吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 九三 / 0007冊.djvu/428"
+              "locator": "卷6 / 咸 / 九三 / 0007册.djvu/428"
             }
           ]
         },
         "smallImage": {
-          "original": "咸其股，亦不處也。志在隨人，所執下也。",
+          "original": "咸其股，亦不处也。志在随人，所执下也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 九三小象 / 0007冊.djvu/428"
+              "locator": "卷6 / 咸 / 九三小象 / 0007册.djvu/428"
             }
           ]
         }
@@ -5468,20 +5468,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "貞吉悔亡，憧憧往來，朋從爾思。",
+          "original": "贞吉悔亡，憧憧往来，朋从尔思。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 九四 / 0007冊.djvu/428"
+              "locator": "卷6 / 咸 / 九四 / 0007册.djvu/428"
             }
           ]
         },
         "smallImage": {
-          "original": "貞吉悔亡，未感害也。憧憧往來，未光大也。",
+          "original": "贞吉悔亡，未感害也。憧憧往来，未光大也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 九四小象 / 0007冊.djvu/428"
+              "locator": "卷6 / 咸 / 九四小象 / 0007册.djvu/428"
             }
           ]
         }
@@ -5494,7 +5494,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 九五 / 0007冊.djvu/428"
+              "locator": "卷6 / 咸 / 九五 / 0007册.djvu/428"
             }
           ]
         },
@@ -5503,7 +5503,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 九五小象 / 0007冊.djvu/428"
+              "locator": "卷6 / 咸 / 九五小象 / 0007册.djvu/428"
             }
           ]
         }
@@ -5512,20 +5512,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "咸其輔頰舌。",
+          "original": "咸其辅颊舌。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 上六 / 0007冊.djvu/429"
+              "locator": "卷6 / 咸 / 上六 / 0007册.djvu/429"
             }
           ]
         },
         "smallImage": {
-          "original": "咸其輔頰舌，滕口說也。",
+          "original": "咸其辅颊舌，滕口说也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 咸 / 上六小象 / 0007冊.djvu/429"
+              "locator": "卷6 / 咸 / 上六小象 / 0007册.djvu/429"
             }
           ]
         }
@@ -5536,29 +5536,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 32,
     "statement": {
-      "original": "恒：亨，无咎，利貞。利有攸往。",
+      "original": "恒：亨，无咎，利贞。利有攸往。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch4",
-          "locator": "卷6 / 恒 / 卦辞 / 0007冊.djvu/429"
+          "locator": "卷6 / 恒 / 卦辞 / 0007册.djvu/429"
         }
       ]
     },
     "tuan": {
-      "original": "恒，久也。剛上而柔下，雷風相與，巽而動，剛柔皆應，恒。恒亨无咎利貞，久於其道也。天地之道恒久而不巳也。利有攸往，終則有始也。日月得天而能久照，四時變化而能久成，聖人久於其道而天下化成。觀其所恒而天地萬物之情可見矣。",
+      "original": "恒，久也。刚上而柔下，雷风相与，巽而动，刚柔皆应，恒。恒亨无咎利贞，久于其道也。天地之道恒久而不巳也。利有攸往，终则有始也。日月得天而能久照，四时变化而能久成，圣人久于其道而天下化成。观其所恒而天地万物之情可见矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch4",
-          "locator": "卷6 / 恒 / 彖曰 / 0007冊.djvu/429"
+          "locator": "卷6 / 恒 / 彖曰 / 0007册.djvu/429"
         }
       ]
     },
     "greatImage": {
-      "original": "雷風，恒；君子以立不易方。",
+      "original": "雷风，恒；君子以立不易方。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch4",
-          "locator": "卷6 / 恒 / 整卦大象 / 0007冊.djvu/430"
+          "locator": "卷6 / 恒 / 整卦大象 / 0007册.djvu/430"
         }
       ]
     },
@@ -5571,7 +5571,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch4",
-        "locator": "卷6 / 恒 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/429–430"
+        "locator": "卷6 / 恒 / 彖曰、整卦大象与上下卦 / 0007册.djvu/429–430"
       }
     ],
     "yao": [
@@ -5579,11 +5579,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "浚恒，貞凶，无攸利。",
+          "original": "浚恒，贞凶，无攸利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 初六 / 0007冊.djvu/430"
+              "locator": "卷6 / 恒 / 初六 / 0007册.djvu/430"
             }
           ]
         },
@@ -5592,7 +5592,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 初六小象 / 0007冊.djvu/430"
+              "locator": "卷6 / 恒 / 初六小象 / 0007册.djvu/430"
             }
           ]
         }
@@ -5605,7 +5605,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 九二 / 0007冊.djvu/430"
+              "locator": "卷6 / 恒 / 九二 / 0007册.djvu/430"
             }
           ]
         },
@@ -5614,7 +5614,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 九二小象 / 0007冊.djvu/430"
+              "locator": "卷6 / 恒 / 九二小象 / 0007册.djvu/430"
             }
           ]
         }
@@ -5623,11 +5623,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "不恒其德，或承之羞，貞吝。",
+          "original": "不恒其德，或承之羞，贞吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 九三 / 0007冊.djvu/430"
+              "locator": "卷6 / 恒 / 九三 / 0007册.djvu/430"
             }
           ]
         },
@@ -5636,7 +5636,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 九三小象 / 0007冊.djvu/430"
+              "locator": "卷6 / 恒 / 九三小象 / 0007册.djvu/430"
             }
           ]
         }
@@ -5649,7 +5649,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 九四 / 0007冊.djvu/431"
+              "locator": "卷6 / 恒 / 九四 / 0007册.djvu/431"
             }
           ]
         },
@@ -5658,7 +5658,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 九四小象 / 0007冊.djvu/431"
+              "locator": "卷6 / 恒 / 九四小象 / 0007册.djvu/431"
             }
           ]
         }
@@ -5667,20 +5667,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "恆其德貞，婦人吉，夫子凶。",
+          "original": "恒其德贞，妇人吉，夫子凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 六五 / 0007冊.djvu/431"
+              "locator": "卷6 / 恒 / 六五 / 0007册.djvu/431"
             }
           ]
         },
         "smallImage": {
-          "original": "婦人貞吉，從一而終也。夫子制義，從婦凶也。",
+          "original": "妇人贞吉，从一而终也。夫子制义，从妇凶也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 六五小象 / 0007冊.djvu/431"
+              "locator": "卷6 / 恒 / 六五小象 / 0007册.djvu/431"
             }
           ]
         }
@@ -5693,7 +5693,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 上六 / 0007冊.djvu/431"
+              "locator": "卷6 / 恒 / 上六 / 0007册.djvu/431"
             }
           ]
         },
@@ -5702,7 +5702,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch4",
-              "locator": "卷6 / 恒 / 上六小象 / 0007冊.djvu/431"
+              "locator": "卷6 / 恒 / 上六小象 / 0007册.djvu/431"
             }
           ]
         }
@@ -5713,29 +5713,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 33,
     "statement": {
-      "original": "遯：亨，小利貞。",
+      "original": "遯：亨，小利贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 遯 / 卦辞 / 0007冊.djvu/431"
+          "locator": "卷6 / 遯 / 卦辞 / 0007册.djvu/431"
         }
       ]
     },
     "tuan": {
-      "original": "遯亨，遯而亨也。剛當位而應，與時行也。小利貞，浸而長也。遯之時義大矣哉！",
+      "original": "遯亨，遯而亨也。刚当位而应，与时行也。小利贞，浸而长也。遯之时义大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 遯 / 彖曰 / 0007冊.djvu/431"
+          "locator": "卷6 / 遯 / 彖曰 / 0007册.djvu/431"
         }
       ]
     },
     "greatImage": {
-      "original": "天下有山，遯；君子以逺小人，不惡而嚴。",
+      "original": "天下有山，遯；君子以逺小人，不恶而严。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 遯 / 整卦大象 / 0007冊.djvu/432"
+          "locator": "卷6 / 遯 / 整卦大象 / 0007册.djvu/432"
         }
       ]
     },
@@ -5748,7 +5748,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 遯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/431–432"
+        "locator": "卷6 / 遯 / 彖曰、整卦大象与上下卦 / 0007册.djvu/431–432"
       }
     ],
     "yao": [
@@ -5756,20 +5756,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "遯尾，厲，勿用有攸往。",
+          "original": "遯尾，厉，勿用有攸往。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 初六 / 0007冊.djvu/432"
+              "locator": "卷6 / 遯 / 初六 / 0007册.djvu/432"
             }
           ]
         },
         "smallImage": {
-          "original": "遯尾之厲，不往何災也。",
+          "original": "遯尾之厉，不往何灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 初六小象 / 0007冊.djvu/432"
+              "locator": "卷6 / 遯 / 初六小象 / 0007册.djvu/432"
             }
           ]
         }
@@ -5778,20 +5778,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "執之用黃牛之革，莫之勝說。",
+          "original": "执之用黄牛之革，莫之胜说。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 六二 / 0007冊.djvu/432"
+              "locator": "卷6 / 遯 / 六二 / 0007册.djvu/432"
             }
           ]
         },
         "smallImage": {
-          "original": "執用黃牛，固志也。",
+          "original": "执用黄牛，固志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 六二小象 / 0007冊.djvu/432"
+              "locator": "卷6 / 遯 / 六二小象 / 0007册.djvu/432"
             }
           ]
         }
@@ -5800,20 +5800,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "係遯，有疾厲，畜臣妾吉。",
+          "original": "系遯，有疾厉，畜臣妾吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 九三 / 0007冊.djvu/432"
+              "locator": "卷6 / 遯 / 九三 / 0007册.djvu/432"
             }
           ]
         },
         "smallImage": {
-          "original": "係遯之厲，有疾憊也。畜臣妾吉，不可大事也。",
+          "original": "系遯之厉，有疾惫也。畜臣妾吉，不可大事也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 九三小象 / 0007冊.djvu/432"
+              "locator": "卷6 / 遯 / 九三小象 / 0007册.djvu/432"
             }
           ]
         }
@@ -5826,7 +5826,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 九四 / 0007冊.djvu/433"
+              "locator": "卷6 / 遯 / 九四 / 0007册.djvu/433"
             }
           ]
         },
@@ -5835,7 +5835,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 九四小象 / 0007冊.djvu/433"
+              "locator": "卷6 / 遯 / 九四小象 / 0007册.djvu/433"
             }
           ]
         }
@@ -5844,20 +5844,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "嘉遯，貞吉。",
+          "original": "嘉遯，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 九五 / 0007冊.djvu/433"
+              "locator": "卷6 / 遯 / 九五 / 0007册.djvu/433"
             }
           ]
         },
         "smallImage": {
-          "original": "嘉遯貞吉，以正志也。",
+          "original": "嘉遯贞吉，以正志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 九五小象 / 0007冊.djvu/433"
+              "locator": "卷6 / 遯 / 九五小象 / 0007册.djvu/433"
             }
           ]
         }
@@ -5870,7 +5870,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 上九 / 0007冊.djvu/433"
+              "locator": "卷6 / 遯 / 上九 / 0007册.djvu/433"
             }
           ]
         },
@@ -5879,7 +5879,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 遯 / 上九小象 / 0007冊.djvu/433"
+              "locator": "卷6 / 遯 / 上九小象 / 0007册.djvu/433"
             }
           ]
         }
@@ -5890,29 +5890,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 34,
     "statement": {
-      "original": "大壯：利貞。",
+      "original": "大壮：利贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 大壯 / 卦辞 / 0007冊.djvu/433"
+          "locator": "卷6 / 大壮 / 卦辞 / 0007册.djvu/433"
         }
       ]
     },
     "tuan": {
-      "original": "大壯，大者壯也。剛以動，故壯。大壯利貞，大者正也。正大而天地之情可見矣。",
+      "original": "大壮，大者壮也。刚以动，故壮。大壮利贞，大者正也。正大而天地之情可见矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 大壯 / 彖曰 / 0007冊.djvu/433"
+          "locator": "卷6 / 大壮 / 彖曰 / 0007册.djvu/433"
         }
       ]
     },
     "greatImage": {
-      "original": "雷在天上，大壯；君子以非禮弗履。",
+      "original": "雷在天上，大壮；君子以非礼弗履。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 大壯 / 整卦大象 / 0007冊.djvu/433"
+          "locator": "卷6 / 大壮 / 整卦大象 / 0007册.djvu/433"
         }
       ]
     },
@@ -5925,7 +5925,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 大壯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/433"
+        "locator": "卷6 / 大壮 / 彖曰、整卦大象与上下卦 / 0007册.djvu/433"
       }
     ],
     "yao": [
@@ -5933,20 +5933,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "壯于趾，征凶，有孚。",
+          "original": "壮于趾，征凶，有孚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 初九 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 初九 / 0007册.djvu/434"
             }
           ]
         },
         "smallImage": {
-          "original": "壯于趾，其孚窮也。",
+          "original": "壮于趾，其孚穷也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 初九小象 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 初九小象 / 0007册.djvu/434"
             }
           ]
         }
@@ -5955,20 +5955,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "貞吉。",
+          "original": "贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 九二 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 九二 / 0007册.djvu/434"
             }
           ]
         },
         "smallImage": {
-          "original": "九二貞吉，以中也。",
+          "original": "九二贞吉，以中也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 九二小象 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 九二小象 / 0007册.djvu/434"
             }
           ]
         }
@@ -5977,20 +5977,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "小人用壯，君子用罔，貞厲。羝羊觸藩，羸其角。",
+          "original": "小人用壮，君子用罔，贞厉。羝羊触藩，羸其角。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 九三 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 九三 / 0007册.djvu/434"
             }
           ]
         },
         "smallImage": {
-          "original": "小人用壯，君子罔也。",
+          "original": "小人用壮，君子罔也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 九三小象 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 九三小象 / 0007册.djvu/434"
             }
           ]
         }
@@ -5999,20 +5999,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "貞吉悔亡，藩決不羸，壯于大輿之輹。",
+          "original": "贞吉悔亡，藩决不羸，壮于大舆之輹。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 九四 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 九四 / 0007册.djvu/434"
             }
           ]
         },
         "smallImage": {
-          "original": "藩決不羸，尚往也。",
+          "original": "藩决不羸，尚往也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 九四小象 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 九四小象 / 0007册.djvu/434"
             }
           ]
         }
@@ -6021,20 +6021,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "喪羊于易，无悔。",
+          "original": "丧羊于易，无悔。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 六五 / 0007冊.djvu/434"
+              "locator": "卷6 / 大壮 / 六五 / 0007册.djvu/434"
             }
           ]
         },
         "smallImage": {
-          "original": "喪羊于易，位不當也。",
+          "original": "丧羊于易，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 六五小象 / 0007冊.djvu/435"
+              "locator": "卷6 / 大壮 / 六五小象 / 0007册.djvu/435"
             }
           ]
         }
@@ -6043,20 +6043,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "羝羊觸藩，不能退，不能遂，无攸利，艱則吉。",
+          "original": "羝羊触藩，不能退，不能遂，无攸利，艰则吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 上六 / 0007冊.djvu/435"
+              "locator": "卷6 / 大壮 / 上六 / 0007册.djvu/435"
             }
           ]
         },
         "smallImage": {
-          "original": "不能退，不能遂，不詳也。艱則吉，咎不長也。",
+          "original": "不能退，不能遂，不详也。艰则吉，咎不长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 大壯 / 上六小象 / 0007冊.djvu/435"
+              "locator": "卷6 / 大壮 / 上六小象 / 0007册.djvu/435"
             }
           ]
         }
@@ -6067,29 +6067,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 35,
     "statement": {
-      "original": "晉：康侯用錫馬蕃庶，晝日三接。",
+      "original": "晋：康侯用锡马蕃庶，昼日三接。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 晉 / 卦辞 / 0007冊.djvu/435"
+          "locator": "卷6 / 晋 / 卦辞 / 0007册.djvu/435"
         }
       ]
     },
     "tuan": {
-      "original": "晉，進也。明出地上，順而麗乎大明，柔進而上行。是以康侯用錫馬蕃庻，晝日三接也。",
+      "original": "晋，进也。明出地上，顺而丽乎大明，柔进而上行。是以康侯用锡马蕃庻，昼日三接也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 晉 / 彖曰 / 0007冊.djvu/435"
+          "locator": "卷6 / 晋 / 彖曰 / 0007册.djvu/435"
         }
       ]
     },
     "greatImage": {
-      "original": "明出地上，晉；君子以自昭明德。",
+      "original": "明出地上，晋；君子以自昭明德。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 晉 / 整卦大象 / 0007冊.djvu/436"
+          "locator": "卷6 / 晋 / 整卦大象 / 0007册.djvu/436"
         }
       ]
     },
@@ -6102,7 +6102,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 晉 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/435–436"
+        "locator": "卷6 / 晋 / 彖曰、整卦大象与上下卦 / 0007册.djvu/435–436"
       }
     ],
     "yao": [
@@ -6110,20 +6110,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "晉如摧如，貞吉。罔孚，裕无咎。",
+          "original": "晋如摧如，贞吉。罔孚，裕无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 初六 / 0007冊.djvu/436"
+              "locator": "卷6 / 晋 / 初六 / 0007册.djvu/436"
             }
           ]
         },
         "smallImage": {
-          "original": "晉如摧如，獨行正也。裕无咎，未受命也。",
+          "original": "晋如摧如，独行正也。裕无咎，未受命也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 初六小象 / 0007冊.djvu/436"
+              "locator": "卷6 / 晋 / 初六小象 / 0007册.djvu/436"
             }
           ]
         }
@@ -6132,11 +6132,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "晉如愁如，貞吉。受兹介福，于其王母。",
+          "original": "晋如愁如，贞吉。受兹介福，于其王母。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 六二 / 0007冊.djvu/436"
+              "locator": "卷6 / 晋 / 六二 / 0007册.djvu/436"
             }
           ]
         },
@@ -6145,7 +6145,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 六二小象 / 0007冊.djvu/436"
+              "locator": "卷6 / 晋 / 六二小象 / 0007册.djvu/436"
             }
           ]
         }
@@ -6154,20 +6154,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "衆允，悔亡。",
+          "original": "众允，悔亡。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 六三 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 六三 / 0007册.djvu/437"
             }
           ]
         },
         "smallImage": {
-          "original": "衆允之志，上行也。",
+          "original": "众允之志，上行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 六三小象 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 六三小象 / 0007册.djvu/437"
             }
           ]
         }
@@ -6176,20 +6176,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "晉如鼫鼠，貞厲。",
+          "original": "晋如鼫鼠，贞厉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 九四 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 九四 / 0007册.djvu/437"
             }
           ]
         },
         "smallImage": {
-          "original": "鼫鼠貞厲，位不當也。",
+          "original": "鼫鼠贞厉，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 九四小象 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 九四小象 / 0007册.djvu/437"
             }
           ]
         }
@@ -6202,16 +6202,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 六五 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 六五 / 0007册.djvu/437"
             }
           ]
         },
         "smallImage": {
-          "original": "失得勿恤，往有慶也。",
+          "original": "失得勿恤，往有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 六五小象 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 六五小象 / 0007册.djvu/437"
             }
           ]
         }
@@ -6220,20 +6220,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "晉其角，維用伐邑，厲吉无咎，貞吝。",
+          "original": "晋其角，维用伐邑，厉吉无咎，贞吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 上九 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 上九 / 0007册.djvu/437"
             }
           ]
         },
         "smallImage": {
-          "original": "維用伐邑，道未光也。",
+          "original": "维用伐邑，道未光也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 晉 / 上九小象 / 0007冊.djvu/437"
+              "locator": "卷6 / 晋 / 上九小象 / 0007册.djvu/437"
             }
           ]
         }
@@ -6244,29 +6244,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 36,
     "statement": {
-      "original": "明夷：利艱貞。",
+      "original": "明夷：利艰贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 明夷 / 卦辞 / 0007冊.djvu/437"
+          "locator": "卷6 / 明夷 / 卦辞 / 0007册.djvu/437"
         }
       ]
     },
     "tuan": {
-      "original": "明入地中，明夷。内文明而外柔順，以蒙大難，文王以之。利艱貞，晦其明也。内難而能正其志，箕子以之。",
+      "original": "明入地中，明夷。内文明而外柔顺，以蒙大难，文王以之。利艰贞，晦其明也。内难而能正其志，箕子以之。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 明夷 / 彖曰 / 0007冊.djvu/438"
+          "locator": "卷6 / 明夷 / 彖曰 / 0007册.djvu/438"
         }
       ]
     },
     "greatImage": {
-      "original": "明入地中，明夷；君子以莅衆，用晦而明。",
+      "original": "明入地中，明夷；君子以莅众，用晦而明。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 明夷 / 整卦大象 / 0007冊.djvu/438"
+          "locator": "卷6 / 明夷 / 整卦大象 / 0007册.djvu/438"
         }
       ]
     },
@@ -6279,7 +6279,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 明夷 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/437–438"
+        "locator": "卷6 / 明夷 / 彖曰、整卦大象与上下卦 / 0007册.djvu/437–438"
       }
     ],
     "yao": [
@@ -6287,20 +6287,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+          "original": "明夷于飞，垂其翼。君子于行，三日不食，有攸往，主人有言。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 初九 / 0007冊.djvu/438"
+              "locator": "卷6 / 明夷 / 初九 / 0007册.djvu/438"
             }
           ]
         },
         "smallImage": {
-          "original": "君子于行，義不食也。",
+          "original": "君子于行，义不食也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 初九小象 / 0007冊.djvu/438"
+              "locator": "卷6 / 明夷 / 初九小象 / 0007册.djvu/438"
             }
           ]
         }
@@ -6309,20 +6309,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "明夷，夷于左股，用拯馬壯，吉。",
+          "original": "明夷，夷于左股，用拯马壮，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 六二 / 0007冊.djvu/438"
+              "locator": "卷6 / 明夷 / 六二 / 0007册.djvu/438"
             }
           ]
         },
         "smallImage": {
-          "original": "六二之吉，順以則也。",
+          "original": "六二之吉，顺以则也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 六二小象 / 0007冊.djvu/438"
+              "locator": "卷6 / 明夷 / 六二小象 / 0007册.djvu/438"
             }
           ]
         }
@@ -6331,11 +6331,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "明夷于南狩，得其大首，不可疾貞。",
+          "original": "明夷于南狩，得其大首，不可疾贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 九三 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 九三 / 0007册.djvu/439"
             }
           ]
         },
@@ -6344,7 +6344,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 九三小象 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 九三小象 / 0007册.djvu/439"
             }
           ]
         }
@@ -6353,20 +6353,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "入于左腹，獲明夷之心，于出門庭。",
+          "original": "入于左腹，获明夷之心，于出门庭。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 六四 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 六四 / 0007册.djvu/439"
             }
           ]
         },
         "smallImage": {
-          "original": "入于左腹，獲心意也。",
+          "original": "入于左腹，获心意也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 六四小象 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 六四小象 / 0007册.djvu/439"
             }
           ]
         }
@@ -6375,20 +6375,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "箕子之明夷，利貞。",
+          "original": "箕子之明夷，利贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 六五 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 六五 / 0007册.djvu/439"
             }
           ]
         },
         "smallImage": {
-          "original": "箕子之貞，明不可息也。",
+          "original": "箕子之贞，明不可息也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 六五小象 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 六五小象 / 0007册.djvu/439"
             }
           ]
         }
@@ -6397,20 +6397,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "不明晦，初登于天，後入于地。",
+          "original": "不明晦，初登于天，后入于地。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 上六 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 上六 / 0007册.djvu/439"
             }
           ]
         },
         "smallImage": {
-          "original": "初登于天，照四國也。後入于地，失則也。",
+          "original": "初登于天，照四国也。后入于地，失则也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 明夷 / 上六小象 / 0007冊.djvu/439"
+              "locator": "卷6 / 明夷 / 上六小象 / 0007册.djvu/439"
             }
           ]
         }
@@ -6421,29 +6421,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 37,
     "statement": {
-      "original": "家人：利女貞。",
+      "original": "家人：利女贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 家人 / 卦辞 / 0007冊.djvu/440"
+          "locator": "卷6 / 家人 / 卦辞 / 0007册.djvu/440"
         }
       ]
     },
     "tuan": {
-      "original": "家人，女正位乎内，男正位乎外，男女正，天地之大義也。家人有嚴君焉，父母之謂也。父父子子，兄兄弟弟，夫夫婦婦，而家道正；正家而天下定矣。",
+      "original": "家人，女正位乎内，男正位乎外，男女正，天地之大义也。家人有严君焉，父母之谓也。父父子子，兄兄弟弟，夫夫妇妇，而家道正；正家而天下定矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 家人 / 彖曰 / 0007冊.djvu/440"
+          "locator": "卷6 / 家人 / 彖曰 / 0007册.djvu/440"
         }
       ]
     },
     "greatImage": {
-      "original": "風自火出，家人；君子以言有物而行有恒。",
+      "original": "风自火出，家人；君子以言有物而行有恒。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-6-batch5",
-          "locator": "卷6 / 家人 / 整卦大象 / 0007冊.djvu/440"
+          "locator": "卷6 / 家人 / 整卦大象 / 0007册.djvu/440"
         }
       ]
     },
@@ -6456,7 +6456,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 家人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/440"
+        "locator": "卷6 / 家人 / 彖曰、整卦大象与上下卦 / 0007册.djvu/440"
       }
     ],
     "yao": [
@@ -6464,20 +6464,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "閑有家，悔亡。",
+          "original": "闲有家，悔亡。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 初九 / 0007冊.djvu/440"
+              "locator": "卷6 / 家人 / 初九 / 0007册.djvu/440"
             }
           ]
         },
         "smallImage": {
-          "original": "閑有家，志未變也。",
+          "original": "闲有家，志未变也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 初九小象 / 0007冊.djvu/440"
+              "locator": "卷6 / 家人 / 初九小象 / 0007册.djvu/440"
             }
           ]
         }
@@ -6486,20 +6486,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "无攸遂，在中饋，貞吉。",
+          "original": "无攸遂，在中馈，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 六二 / 0007冊.djvu/440"
+              "locator": "卷6 / 家人 / 六二 / 0007册.djvu/440"
             }
           ]
         },
         "smallImage": {
-          "original": "六二之吉，順以巽也。",
+          "original": "六二之吉，顺以巽也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 六二小象 / 0007冊.djvu/440"
+              "locator": "卷6 / 家人 / 六二小象 / 0007册.djvu/440"
             }
           ]
         }
@@ -6508,20 +6508,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+          "original": "家人嗃嗃，悔厉吉；妇子嘻嘻，终吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 九三 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 九三 / 0007册.djvu/441"
             }
           ]
         },
         "smallImage": {
-          "original": "家人嗃嗃，未失也；婦子嘻嘻，失家節也。",
+          "original": "家人嗃嗃，未失也；妇子嘻嘻，失家节也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 九三小象 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 九三小象 / 0007册.djvu/441"
             }
           ]
         }
@@ -6534,16 +6534,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 六四 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 六四 / 0007册.djvu/441"
             }
           ]
         },
         "smallImage": {
-          "original": "富家大吉，順在位也。",
+          "original": "富家大吉，顺在位也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 六四小象 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 六四小象 / 0007册.djvu/441"
             }
           ]
         }
@@ -6556,16 +6556,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 九五 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 九五 / 0007册.djvu/441"
             }
           ]
         },
         "smallImage": {
-          "original": "王假有家，交相愛也。",
+          "original": "王假有家，交相爱也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 九五小象 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 九五小象 / 0007册.djvu/441"
             }
           ]
         }
@@ -6574,20 +6574,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "有孚威如，終吉。",
+          "original": "有孚威如，终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 上九 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 上九 / 0007册.djvu/441"
             }
           ]
         },
         "smallImage": {
-          "original": "威如之吉，反身之謂也。",
+          "original": "威如之吉，反身之谓也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-6-batch5",
-              "locator": "卷6 / 家人 / 上九小象 / 0007冊.djvu/441"
+              "locator": "卷6 / 家人 / 上九小象 / 0007册.djvu/441"
             }
           ]
         }
@@ -6602,25 +6602,25 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 睽 / 卦辞 / 0007冊.djvu/444"
+          "locator": "卷7 / 睽 / 卦辞 / 0007册.djvu/444"
         }
       ]
     },
     "tuan": {
-      "original": "睽，火動而上，澤動而下；二女同居，其志不同行。說而麗乎明，柔進而上行，得中而應乎剛，是以小事吉。天地睽而其事同也，男女睽而其志通也，萬物睽而其事類也。睽之時用大矣哉！",
+      "original": "睽，火动而上，泽动而下；二女同居，其志不同行。说而丽乎明，柔进而上行，得中而应乎刚，是以小事吉。天地睽而其事同也，男女睽而其志通也，万物睽而其事类也。睽之时用大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 睽 / 彖曰 / 0007冊.djvu/444"
+          "locator": "卷7 / 睽 / 彖曰 / 0007册.djvu/444"
         }
       ]
     },
     "greatImage": {
-      "original": "上火下澤，睽；君子以同而異。",
+      "original": "上火下泽，睽；君子以同而异。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 睽 / 整卦大象 / 0007冊.djvu/444"
+          "locator": "卷7 / 睽 / 整卦大象 / 0007册.djvu/444"
         }
       ]
     },
@@ -6633,7 +6633,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 睽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/444"
+        "locator": "卷7 / 睽 / 彖曰、整卦大象与上下卦 / 0007册.djvu/444"
       }
     ],
     "yao": [
@@ -6641,20 +6641,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "悔亡，喪馬勿逐，自復；見惡人无咎。",
+          "original": "悔亡，丧马勿逐，自复；见恶人无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 初九 / 0007冊.djvu/444"
+              "locator": "卷7 / 睽 / 初九 / 0007册.djvu/444"
             }
           ]
         },
         "smallImage": {
-          "original": "見惡人，以辟咎也。",
+          "original": "见恶人，以辟咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 初九小象 / 0007冊.djvu/444"
+              "locator": "卷7 / 睽 / 初九小象 / 0007册.djvu/444"
             }
           ]
         }
@@ -6667,7 +6667,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 九二 / 0007冊.djvu/445"
+              "locator": "卷7 / 睽 / 九二 / 0007册.djvu/445"
             }
           ]
         },
@@ -6676,7 +6676,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 九二小象 / 0007冊.djvu/445"
+              "locator": "卷7 / 睽 / 九二小象 / 0007册.djvu/445"
             }
           ]
         }
@@ -6685,20 +6685,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "見輿曵，其牛掣，其人天且劓，无初有終。",
+          "original": "见舆曵，其牛掣，其人天且劓，无初有终。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 六三 / 0007冊.djvu/445"
+              "locator": "卷7 / 睽 / 六三 / 0007册.djvu/445"
             }
           ]
         },
         "smallImage": {
-          "original": "見輿曵，位不當也。无初有終，遇剛也。",
+          "original": "见舆曵，位不当也。无初有终，遇刚也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 六三小象 / 0007冊.djvu/445"
+              "locator": "卷7 / 睽 / 六三小象 / 0007册.djvu/445"
             }
           ]
         }
@@ -6707,11 +6707,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "睽孤，遇元夫，交孚，厲无咎。",
+          "original": "睽孤，遇元夫，交孚，厉无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 九四 / 0007冊.djvu/445"
+              "locator": "卷7 / 睽 / 九四 / 0007册.djvu/445"
             }
           ]
         },
@@ -6720,7 +6720,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 九四小象 / 0007冊.djvu/445"
+              "locator": "卷7 / 睽 / 九四小象 / 0007册.djvu/445"
             }
           ]
         }
@@ -6729,20 +6729,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "悔亡，厥宗噬膚，往何咎。",
+          "original": "悔亡，厥宗噬肤，往何咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 六五 / 0007冊.djvu/446"
+              "locator": "卷7 / 睽 / 六五 / 0007册.djvu/446"
             }
           ]
         },
         "smallImage": {
-          "original": "厥宗噬膚，往有慶也。",
+          "original": "厥宗噬肤，往有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 六五小象 / 0007冊.djvu/446"
+              "locator": "卷7 / 睽 / 六五小象 / 0007册.djvu/446"
             }
           ]
         }
@@ -6751,20 +6751,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "睽孤，見豕負塗，載鬼一車，先張之弧，後說之弧，匪宼㛰媾，往遇雨則吉。",
+          "original": "睽孤，见豕负涂，载鬼一车，先张之弧，后说之弧，匪宼㛰媾，往遇雨则吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 上九 / 0007冊.djvu/446"
+              "locator": "卷7 / 睽 / 上九 / 0007册.djvu/446"
             }
           ]
         },
         "smallImage": {
-          "original": "遇雨之吉，羣疑亡也。",
+          "original": "遇雨之吉，群疑亡也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 睽 / 上九小象 / 0007冊.djvu/446"
+              "locator": "卷7 / 睽 / 上九小象 / 0007册.djvu/446"
             }
           ]
         }
@@ -6775,29 +6775,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 39,
     "statement": {
-      "original": "蹇：利西南，不利東北；利見大人，貞吉。",
+      "original": "蹇：利西南，不利东北；利见大人，贞吉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 蹇 / 卦辞 / 0007冊.djvu/446"
+          "locator": "卷7 / 蹇 / 卦辞 / 0007册.djvu/446"
         }
       ]
     },
     "tuan": {
-      "original": "蹇，難也，險在前也。見險而能止，知矣哉！蹇利西南，往得中也；不利東北，其道窮也。利見大人，往有功也。當位貞吉，以正邦也。蹇之時用大矣哉！",
+      "original": "蹇，难也，险在前也。见险而能止，知矣哉！蹇利西南，往得中也；不利东北，其道穷也。利见大人，往有功也。当位贞吉，以正邦也。蹇之时用大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 蹇 / 彖曰 / 0007冊.djvu/447"
+          "locator": "卷7 / 蹇 / 彖曰 / 0007册.djvu/447"
         }
       ]
     },
     "greatImage": {
-      "original": "山上有水，蹇；君子以反身脩德。",
+      "original": "山上有水，蹇；君子以反身修德。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 蹇 / 整卦大象 / 0007冊.djvu/447"
+          "locator": "卷7 / 蹇 / 整卦大象 / 0007册.djvu/447"
         }
       ]
     },
@@ -6810,7 +6810,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 蹇 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/446–447"
+        "locator": "卷7 / 蹇 / 彖曰、整卦大象与上下卦 / 0007册.djvu/446–447"
       }
     ],
     "yao": [
@@ -6818,20 +6818,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "往蹇，來譽。",
+          "original": "往蹇，来誉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 初六 / 0007冊.djvu/447"
+              "locator": "卷7 / 蹇 / 初六 / 0007册.djvu/447"
             }
           ]
         },
         "smallImage": {
-          "original": "往蹇來譽，宜待也。",
+          "original": "往蹇来誉，宜待也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 初六小象 / 0007冊.djvu/447"
+              "locator": "卷7 / 蹇 / 初六小象 / 0007册.djvu/447"
             }
           ]
         }
@@ -6844,16 +6844,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 六二 / 0007冊.djvu/447"
+              "locator": "卷7 / 蹇 / 六二 / 0007册.djvu/447"
             }
           ]
         },
         "smallImage": {
-          "original": "王臣蹇蹇，終无尤也。",
+          "original": "王臣蹇蹇，终无尤也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 六二小象 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 六二小象 / 0007册.djvu/448"
             }
           ]
         }
@@ -6862,20 +6862,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "往蹇，來反。",
+          "original": "往蹇，来反。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 九三 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 九三 / 0007册.djvu/448"
             }
           ]
         },
         "smallImage": {
-          "original": "往蹇來反，内喜之也。",
+          "original": "往蹇来反，内喜之也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 九三小象 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 九三小象 / 0007册.djvu/448"
             }
           ]
         }
@@ -6884,20 +6884,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "往蹇，來連。",
+          "original": "往蹇，来连。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 六四 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 六四 / 0007册.djvu/448"
             }
           ]
         },
         "smallImage": {
-          "original": "往蹇來連，當位實也。",
+          "original": "往蹇来连，当位实也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 六四小象 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 六四小象 / 0007册.djvu/448"
             }
           ]
         }
@@ -6906,20 +6906,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "大蹇，朋來。",
+          "original": "大蹇，朋来。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 九五 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 九五 / 0007册.djvu/448"
             }
           ]
         },
         "smallImage": {
-          "original": "大蹇朋來，以中節也。",
+          "original": "大蹇朋来，以中节也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 九五小象 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 九五小象 / 0007册.djvu/448"
             }
           ]
         }
@@ -6928,20 +6928,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "往蹇，來碩，吉；利見大人。",
+          "original": "往蹇，来硕，吉；利见大人。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 上六 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 上六 / 0007册.djvu/448"
             }
           ]
         },
         "smallImage": {
-          "original": "往蹇來碩，志在内也。利見大人，以從貴也。",
+          "original": "往蹇来硕，志在内也。利见大人，以从贵也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 蹇 / 上六小象 / 0007冊.djvu/448"
+              "locator": "卷7 / 蹇 / 上六小象 / 0007册.djvu/448"
             }
           ]
         }
@@ -6952,29 +6952,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 40,
     "statement": {
-      "original": "解：利西南，无所往，其來復吉；有攸往，夙吉。",
+      "original": "解：利西南，无所往，其来复吉；有攸往，夙吉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 解 / 卦辞 / 0007冊.djvu/448"
+          "locator": "卷7 / 解 / 卦辞 / 0007册.djvu/448"
         }
       ]
     },
     "tuan": {
-      "original": "解，險以動，動而免乎險，解。解利西南，往得衆也。其來復吉，乃得中也。有攸往夙吉，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之時大矣哉！",
+      "original": "解，险以动，动而免乎险，解。解利西南，往得众也。其来复吉，乃得中也。有攸往夙吉，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之时大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 解 / 彖曰 / 0007冊.djvu/449"
+          "locator": "卷7 / 解 / 彖曰 / 0007册.djvu/449"
         }
       ]
     },
     "greatImage": {
-      "original": "雷雨作，解；君子以赦過宥罪。",
+      "original": "雷雨作，解；君子以赦过宥罪。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 解 / 整卦大象 / 0007冊.djvu/449"
+          "locator": "卷7 / 解 / 整卦大象 / 0007册.djvu/449"
         }
       ]
     },
@@ -6987,7 +6987,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 解 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/448–449"
+        "locator": "卷7 / 解 / 彖曰、整卦大象与上下卦 / 0007册.djvu/448–449"
       }
     ],
     "yao": [
@@ -6999,16 +6999,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 初六 / 0007冊.djvu/449"
+              "locator": "卷7 / 解 / 初六 / 0007册.djvu/449"
             }
           ]
         },
         "smallImage": {
-          "original": "剛柔之際，義无咎也。",
+          "original": "刚柔之际，义无咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 初六小象 / 0007冊.djvu/449"
+              "locator": "卷7 / 解 / 初六小象 / 0007册.djvu/449"
             }
           ]
         }
@@ -7017,20 +7017,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "田獲三狐，得黃矢，貞吉。",
+          "original": "田获三狐，得黄矢，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 九二 / 0007冊.djvu/449"
+              "locator": "卷7 / 解 / 九二 / 0007册.djvu/449"
             }
           ]
         },
         "smallImage": {
-          "original": "九二貞吉，得中道也。",
+          "original": "九二贞吉，得中道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 九二小象 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 九二小象 / 0007册.djvu/450"
             }
           ]
         }
@@ -7039,20 +7039,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "負且乘，致宼至，貞吝。",
+          "original": "负且乘，致宼至，贞吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 六三 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 六三 / 0007册.djvu/450"
             }
           ]
         },
         "smallImage": {
-          "original": "負且乘，亦可醜也；自我致戎，又誰咎也。",
+          "original": "负且乘，亦可丑也；自我致戎，又谁咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 六三小象 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 六三小象 / 0007册.djvu/450"
             }
           ]
         }
@@ -7065,16 +7065,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 九四 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 九四 / 0007册.djvu/450"
             }
           ]
         },
         "smallImage": {
-          "original": "解而拇，未當位也。",
+          "original": "解而拇，未当位也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 九四小象 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 九四小象 / 0007册.djvu/450"
             }
           ]
         }
@@ -7083,11 +7083,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "君子維有解，吉；有孚于小人。",
+          "original": "君子维有解，吉；有孚于小人。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 六五 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 六五 / 0007册.djvu/450"
             }
           ]
         },
@@ -7096,7 +7096,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 六五小象 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 六五小象 / 0007册.djvu/450"
             }
           ]
         }
@@ -7105,11 +7105,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "公用射隼于髙墉之上，獲之，无不利。",
+          "original": "公用射隼于髙墉之上，获之，无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 上六 / 0007冊.djvu/450"
+              "locator": "卷7 / 解 / 上六 / 0007册.djvu/450"
             }
           ]
         },
@@ -7118,7 +7118,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 解 / 上六小象 / 0007冊.djvu/451"
+              "locator": "卷7 / 解 / 上六小象 / 0007册.djvu/451"
             }
           ]
         }
@@ -7129,29 +7129,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 41,
     "statement": {
-      "original": "損：有孚，元吉，无咎，可貞，利有攸往。曷之用？二簋可用享。",
+      "original": "损：有孚，元吉，无咎，可贞，利有攸往。曷之用？二簋可用享。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 損 / 卦辞 / 0007冊.djvu/451"
+          "locator": "卷7 / 损 / 卦辞 / 0007册.djvu/451"
         }
       ]
     },
     "tuan": {
-      "original": "損，損下益上，其道上行。損而有孚，元吉，无咎，可貞，利有攸往。曷之用？二簋可用享。二簋應有時，損剛益柔有時。損益盈虛，與時偕行。",
+      "original": "损，损下益上，其道上行。损而有孚，元吉，无咎，可贞，利有攸往。曷之用？二簋可用享。二簋应有时，损刚益柔有时。损益盈虚，与时偕行。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 損 / 彖曰 / 0007冊.djvu/451–452"
+          "locator": "卷7 / 损 / 彖曰 / 0007册.djvu/451–452"
         }
       ]
     },
     "greatImage": {
-      "original": "山下有澤，損；君子以懲忿窒欲。",
+      "original": "山下有泽，损；君子以惩忿窒欲。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 損 / 整卦大象 / 0007冊.djvu/452"
+          "locator": "卷7 / 损 / 整卦大象 / 0007册.djvu/452"
         }
       ]
     },
@@ -7164,7 +7164,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 損 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/451–452"
+        "locator": "卷7 / 损 / 彖曰、整卦大象与上下卦 / 0007册.djvu/451–452"
       }
     ],
     "yao": [
@@ -7172,11 +7172,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "已事遄往，无咎，酌損之。",
+          "original": "已事遄往，无咎，酌损之。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 初九 / 0007冊.djvu/452"
+              "locator": "卷7 / 损 / 初九 / 0007册.djvu/452"
             }
           ]
         },
@@ -7185,7 +7185,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 初九小象 / 0007冊.djvu/452"
+              "locator": "卷7 / 损 / 初九小象 / 0007册.djvu/452"
             }
           ]
         }
@@ -7194,20 +7194,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "利貞，征凶，弗損益之。",
+          "original": "利贞，征凶，弗损益之。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 九二 / 0007冊.djvu/452"
+              "locator": "卷7 / 损 / 九二 / 0007册.djvu/452"
             }
           ]
         },
         "smallImage": {
-          "original": "九二利貞，中以爲志也。",
+          "original": "九二利贞，中以为志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 九二小象 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 九二小象 / 0007册.djvu/453"
             }
           ]
         }
@@ -7216,20 +7216,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "三人行則損一人，一人行則得其友。",
+          "original": "三人行则损一人，一人行则得其友。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 六三 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 六三 / 0007册.djvu/453"
             }
           ]
         },
         "smallImage": {
-          "original": "一人行，三則疑也。",
+          "original": "一人行，三则疑也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 六三小象 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 六三小象 / 0007册.djvu/453"
             }
           ]
         }
@@ -7238,20 +7238,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "損其疾，使遄有喜，无咎。",
+          "original": "损其疾，使遄有喜，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 六四 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 六四 / 0007册.djvu/453"
             }
           ]
         },
         "smallImage": {
-          "original": "損其疾，亦可喜也。",
+          "original": "损其疾，亦可喜也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 六四小象 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 六四小象 / 0007册.djvu/453"
             }
           ]
         }
@@ -7260,11 +7260,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "或益之，十朋之龜弗克違，元吉。",
+          "original": "或益之，十朋之龟弗克违，元吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 六五 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 六五 / 0007册.djvu/453"
             }
           ]
         },
@@ -7273,7 +7273,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 六五小象 / 0007冊.djvu/453"
+              "locator": "卷7 / 损 / 六五小象 / 0007册.djvu/453"
             }
           ]
         }
@@ -7282,20 +7282,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "弗損益之，无咎，貞吉，利有攸往，得臣无家。",
+          "original": "弗损益之，无咎，贞吉，利有攸往，得臣无家。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 上九 / 0007冊.djvu/454"
+              "locator": "卷7 / 损 / 上九 / 0007册.djvu/454"
             }
           ]
         },
         "smallImage": {
-          "original": "弗損益之，大得志也。",
+          "original": "弗损益之，大得志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 損 / 上九小象 / 0007冊.djvu/454"
+              "locator": "卷7 / 损 / 上九小象 / 0007册.djvu/454"
             }
           ]
         }
@@ -7310,25 +7310,25 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 益 / 卦辞 / 0007冊.djvu/454"
+          "locator": "卷7 / 益 / 卦辞 / 0007册.djvu/454"
         }
       ]
     },
     "tuan": {
-      "original": "益，損上益下，民說无疆。自上下下，其道大光。利有攸往，中正有慶。利渉大川，木道乃行。益動而巽，日進无疆。天施地生，其益无方。凡益之道，與時偕行。",
+      "original": "益，损上益下，民说无疆。自上下下，其道大光。利有攸往，中正有庆。利渉大川，木道乃行。益动而巽，日进无疆。天施地生，其益无方。凡益之道，与时偕行。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 益 / 彖曰 / 0007冊.djvu/454"
+          "locator": "卷7 / 益 / 彖曰 / 0007册.djvu/454"
         }
       ]
     },
     "greatImage": {
-      "original": "風雷，益；君子以見善則遷，有過則改。",
+      "original": "风雷，益；君子以见善则迁，有过则改。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-7-batch5",
-          "locator": "卷7 / 益 / 整卦大象 / 0007冊.djvu/455"
+          "locator": "卷7 / 益 / 整卦大象 / 0007册.djvu/455"
         }
       ]
     },
@@ -7341,7 +7341,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 益 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/454–455"
+        "locator": "卷7 / 益 / 彖曰、整卦大象与上下卦 / 0007册.djvu/454–455"
       }
     ],
     "yao": [
@@ -7349,11 +7349,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "利用爲大作，元吉，无咎。",
+          "original": "利用为大作，元吉，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 初九 / 0007冊.djvu/455"
+              "locator": "卷7 / 益 / 初九 / 0007册.djvu/455"
             }
           ]
         },
@@ -7362,7 +7362,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 初九小象 / 0007冊.djvu/455"
+              "locator": "卷7 / 益 / 初九小象 / 0007册.djvu/455"
             }
           ]
         }
@@ -7371,20 +7371,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
+          "original": "或益之，十朋之龟弗克违，永贞吉。王用享于帝，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 六二 / 0007冊.djvu/455"
+              "locator": "卷7 / 益 / 六二 / 0007册.djvu/455"
             }
           ]
         },
         "smallImage": {
-          "original": "或益之，自外來也。",
+          "original": "或益之，自外来也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 六二小象 / 0007冊.djvu/455"
+              "locator": "卷7 / 益 / 六二小象 / 0007册.djvu/455"
             }
           ]
         }
@@ -7397,7 +7397,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 六三 / 0007冊.djvu/455"
+              "locator": "卷7 / 益 / 六三 / 0007册.djvu/455"
             }
           ]
         },
@@ -7406,7 +7406,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 六三小象 / 0007冊.djvu/456"
+              "locator": "卷7 / 益 / 六三小象 / 0007册.djvu/456"
             }
           ]
         }
@@ -7415,20 +7415,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "中行，告公從，利用爲依遷國。",
+          "original": "中行，告公从，利用为依迁国。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 六四 / 0007冊.djvu/456"
+              "locator": "卷7 / 益 / 六四 / 0007册.djvu/456"
             }
           ]
         },
         "smallImage": {
-          "original": "告公從，以益志也。",
+          "original": "告公从，以益志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 六四小象 / 0007冊.djvu/456"
+              "locator": "卷7 / 益 / 六四小象 / 0007册.djvu/456"
             }
           ]
         }
@@ -7437,20 +7437,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "有孚惠心，勿問元吉。有孚惠我德。",
+          "original": "有孚惠心，勿问元吉。有孚惠我德。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 九五 / 0007冊.djvu/456"
+              "locator": "卷7 / 益 / 九五 / 0007册.djvu/456"
             }
           ]
         },
         "smallImage": {
-          "original": "有孚惠心，勿問之矣。惠我德，大得志也。",
+          "original": "有孚惠心，勿问之矣。惠我德，大得志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 九五小象 / 0007冊.djvu/456"
+              "locator": "卷7 / 益 / 九五小象 / 0007册.djvu/456"
             }
           ]
         }
@@ -7459,20 +7459,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "莫益之，或擊之，立心勿恒，凶。",
+          "original": "莫益之，或击之，立心勿恒，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 上九 / 0007冊.djvu/457"
+              "locator": "卷7 / 益 / 上九 / 0007册.djvu/457"
             }
           ]
         },
         "smallImage": {
-          "original": "莫益之，偏辭也。或擊之，自外來也。",
+          "original": "莫益之，偏辞也。或击之，自外来也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-7-batch5",
-              "locator": "卷7 / 益 / 上九小象 / 0007冊.djvu/457"
+              "locator": "卷7 / 益 / 上九小象 / 0007册.djvu/457"
             }
           ]
         }
@@ -7483,16 +7483,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 43,
     "statement": {
-      "original": "夬：揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+      "original": "夬：扬于王庭，孚号，有厉，告自邑，不利即戎，利有攸往。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-43",
-          "locator": "第43卦 夬 / 易經 / 卦辞"
+          "locator": "第43卦 夬 / 易经 / 卦辞"
         }
       ]
     },
     "tuan": {
-      "original": "夬，決也，剛決柔也。健而說，決而和，揚于王庭，柔乘五剛也。孚號有厲，其危乃光也。告自邑，不利即戎，所尚乃窮也。利有攸往，剛長乃終也。",
+      "original": "夬，决也，刚决柔也。健而说，决而和，扬于王庭，柔乘五刚也。孚号有厉，其危乃光也。告自邑，不利即戎，所尚乃穷也。利有攸往，刚长乃终也。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-43",
@@ -7501,7 +7501,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       ]
     },
     "greatImage": {
-      "original": "澤上于天，夬；君子以施祿及下，居德則忌。",
+      "original": "泽上于天，夬；君子以施禄及下，居德则忌。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-43",
@@ -7526,16 +7526,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "壯于前趾，往不勝為咎。",
+          "original": "壮于前趾，往不胜为咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
-              "locator": "第43卦 夬 / 易經 / 初九"
+              "locator": "第43卦 夬 / 易经 / 初九"
             }
           ]
         },
         "smallImage": {
-          "original": "不勝而往，咎也。",
+          "original": "不胜而往，咎也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
@@ -7548,11 +7548,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "惕號，莫夜有戎，勿恤。",
+          "original": "惕号，莫夜有戎，勿恤。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
-              "locator": "第43卦 夬 / 易經 / 九二"
+              "locator": "第43卦 夬 / 易经 / 九二"
             }
           ]
         },
@@ -7570,16 +7570,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，无咎。",
+          "original": "壮于頄，有凶。君子夬夬，独行遇雨，若濡有愠，无咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
-              "locator": "第43卦 夬 / 易經 / 九三"
+              "locator": "第43卦 夬 / 易经 / 九三"
             }
           ]
         },
         "smallImage": {
-          "original": "君子夬夬，終无咎也。",
+          "original": "君子夬夬，终无咎也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
@@ -7592,16 +7592,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "臀无膚，其行次且。牽羊悔亡，聞言不信。",
+          "original": "臀无肤，其行次且。牵羊悔亡，闻言不信。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
-              "locator": "第43卦 夬 / 易經 / 九四"
+              "locator": "第43卦 夬 / 易经 / 九四"
             }
           ]
         },
         "smallImage": {
-          "original": "其行次且，位不當也。聞言不信，聰不明也。",
+          "original": "其行次且，位不当也。闻言不信，聪不明也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
@@ -7614,11 +7614,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "莧陸夬夬，中行无咎。",
+          "original": "苋陆夬夬，中行无咎。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
-              "locator": "第43卦 夬 / 易經 / 九五"
+              "locator": "第43卦 夬 / 易经 / 九五"
             }
           ]
         },
@@ -7636,16 +7636,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "无號，終有凶。",
+          "original": "无号，终有凶。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
-              "locator": "第43卦 夬 / 易經 / 上六"
+              "locator": "第43卦 夬 / 易经 / 上六"
             }
           ]
         },
         "smallImage": {
-          "original": "无號之凶，終不可長也。",
+          "original": "无号之凶，终不可长也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-43",
@@ -7660,29 +7660,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 44,
     "statement": {
-      "original": "姤：女壯，勿用取女。",
+      "original": "姤：女壮，勿用取女。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8",
-          "locator": "卷8 / 姤 / 卦辞 / 0007冊.djvu/463"
+          "locator": "卷8 / 姤 / 卦辞 / 0007册.djvu/463"
         }
       ]
     },
     "tuan": {
-      "original": "姤，遇也，柔遇剛也。勿用取女，不可與長也。天地相遇，品物咸章也。剛遇中正，天下大行也。姤之時義大矣哉！",
+      "original": "姤，遇也，柔遇刚也。勿用取女，不可与长也。天地相遇，品物咸章也。刚遇中正，天下大行也。姤之时义大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8",
-          "locator": "卷8 / 姤 / 彖曰 / 0007冊.djvu/463"
+          "locator": "卷8 / 姤 / 彖曰 / 0007册.djvu/463"
         }
       ]
     },
     "greatImage": {
-      "original": "天下有風，姤；后以施命誥四方。",
+      "original": "天下有风，姤；后以施命诰四方。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8",
-          "locator": "卷8 / 姤 / 整卦大象 / 0007冊.djvu/464"
+          "locator": "卷8 / 姤 / 整卦大象 / 0007册.djvu/464"
         }
       ]
     },
@@ -7695,7 +7695,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8",
-        "locator": "卷8 / 姤 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/463–464"
+        "locator": "卷8 / 姤 / 彖曰、整卦大象与上下卦 / 0007册.djvu/463–464"
       }
     ],
     "yao": [
@@ -7703,20 +7703,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "繫于金柅，貞吉。有攸往，見凶。羸豕孚蹢躅。",
+          "original": "系于金柅，贞吉。有攸往，见凶。羸豕孚蹢躅。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 初六 / 0007冊.djvu/464"
+              "locator": "卷8 / 姤 / 初六 / 0007册.djvu/464"
             }
           ]
         },
         "smallImage": {
-          "original": "繫于金柅，柔道牽也。",
+          "original": "系于金柅，柔道牵也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 初六小象 / 0007冊.djvu/464"
+              "locator": "卷8 / 姤 / 初六小象 / 0007册.djvu/464"
             }
           ]
         }
@@ -7725,20 +7725,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "包有魚，无咎，不利賓。",
+          "original": "包有鱼，无咎，不利宾。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九二 / 0007冊.djvu/464"
+              "locator": "卷8 / 姤 / 九二 / 0007册.djvu/464"
             }
           ]
         },
         "smallImage": {
-          "original": "包有魚，義不及賓也。",
+          "original": "包有鱼，义不及宾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九二小象 / 0007冊.djvu/464"
+              "locator": "卷8 / 姤 / 九二小象 / 0007册.djvu/464"
             }
           ]
         }
@@ -7747,20 +7747,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "臀无膚，其行次且，厲，无大咎。",
+          "original": "臀无肤，其行次且，厉，无大咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九三 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 九三 / 0007册.djvu/465"
             }
           ]
         },
         "smallImage": {
-          "original": "其行次且，行未牽也。",
+          "original": "其行次且，行未牵也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九三小象 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 九三小象 / 0007册.djvu/465"
             }
           ]
         }
@@ -7769,20 +7769,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "包无魚，起凶。",
+          "original": "包无鱼，起凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九四 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 九四 / 0007册.djvu/465"
             }
           ]
         },
         "smallImage": {
-          "original": "无魚之凶，逺民也。",
+          "original": "无鱼之凶，逺民也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九四小象 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 九四小象 / 0007册.djvu/465"
             }
           ]
         }
@@ -7791,20 +7791,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "以杞包瓜，含章，有隕自天。",
+          "original": "以杞包瓜，含章，有陨自天。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九五 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 九五 / 0007册.djvu/465"
             }
           ]
         },
         "smallImage": {
-          "original": "九五含章，中正也。有隕自天，志不舎命也。",
+          "original": "九五含章，中正也。有陨自天，志不舎命也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 九五小象 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 九五小象 / 0007册.djvu/465"
             }
           ]
         }
@@ -7817,16 +7817,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 上九 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 上九 / 0007册.djvu/465"
             }
           ]
         },
         "smallImage": {
-          "original": "姤其角，上窮吝也。",
+          "original": "姤其角，上穷吝也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8",
-              "locator": "卷8 / 姤 / 上九小象 / 0007冊.djvu/465"
+              "locator": "卷8 / 姤 / 上九小象 / 0007册.djvu/465"
             }
           ]
         }
@@ -7837,29 +7837,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 45,
     "statement": {
-      "original": "萃：亨。王假有廟，利見大人，亨，利貞。用大牲吉，利有攸往。",
+      "original": "萃：亨。王假有庙，利见大人，亨，利贞。用大牲吉，利有攸往。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 萃 / 卦辞 / 0007冊.djvu/466"
+          "locator": "卷8 / 萃 / 卦辞 / 0007册.djvu/466"
         }
       ]
     },
     "tuan": {
-      "original": "萃，聚也。順以說，剛中而應，故聚也。王假有廟，致孝享也。利見大人亨，聚以正也。用大牲吉，利有攸往，順天命也。觀其所聚而天地萬物之情可見矣。",
+      "original": "萃，聚也。顺以说，刚中而应，故聚也。王假有庙，致孝享也。利见大人亨，聚以正也。用大牲吉，利有攸往，顺天命也。观其所聚而天地万物之情可见矣。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 萃 / 彖曰 / 0007冊.djvu/466"
+          "locator": "卷8 / 萃 / 彖曰 / 0007册.djvu/466"
         }
       ]
     },
     "greatImage": {
-      "original": "澤上於地，萃；君子以除戎器，戒不虞。",
+      "original": "泽上于地，萃；君子以除戎器，戒不虞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 萃 / 整卦大象 / 0007冊.djvu/466"
+          "locator": "卷8 / 萃 / 整卦大象 / 0007册.djvu/466"
         }
       ]
     },
@@ -7872,7 +7872,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 萃 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/466"
+        "locator": "卷8 / 萃 / 彖曰、整卦大象与上下卦 / 0007册.djvu/466"
       }
     ],
     "yao": [
@@ -7880,20 +7880,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "有孚不終，乃亂乃萃，若號一握為笑，勿恤，往无咎。",
+          "original": "有孚不终，乃乱乃萃，若号一握为笑，勿恤，往无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 初六 / 0007冊.djvu/467"
+              "locator": "卷8 / 萃 / 初六 / 0007册.djvu/467"
             }
           ]
         },
         "smallImage": {
-          "original": "乃亂乃萃，其志亂也。",
+          "original": "乃乱乃萃，其志乱也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 初六小象 / 0007冊.djvu/467"
+              "locator": "卷8 / 萃 / 初六小象 / 0007册.djvu/467"
             }
           ]
         }
@@ -7906,16 +7906,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 六二 / 0007冊.djvu/467"
+              "locator": "卷8 / 萃 / 六二 / 0007册.djvu/467"
             }
           ]
         },
         "smallImage": {
-          "original": "引吉无咎，中未變也。",
+          "original": "引吉无咎，中未变也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 六二小象 / 0007冊.djvu/467"
+              "locator": "卷8 / 萃 / 六二小象 / 0007册.djvu/467"
             }
           ]
         }
@@ -7928,7 +7928,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 六三 / 0007冊.djvu/467"
+              "locator": "卷8 / 萃 / 六三 / 0007册.djvu/467"
             }
           ]
         },
@@ -7937,7 +7937,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 六三小象 / 0007冊.djvu/467"
+              "locator": "卷8 / 萃 / 六三小象 / 0007册.djvu/467"
             }
           ]
         }
@@ -7950,16 +7950,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 九四 / 0007冊.djvu/468"
+              "locator": "卷8 / 萃 / 九四 / 0007册.djvu/468"
             }
           ]
         },
         "smallImage": {
-          "original": "大吉无咎，位不當也。",
+          "original": "大吉无咎，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 九四小象 / 0007冊.djvu/468"
+              "locator": "卷8 / 萃 / 九四小象 / 0007册.djvu/468"
             }
           ]
         }
@@ -7968,11 +7968,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "萃有位，无咎。匪孚，元永貞，悔亡。",
+          "original": "萃有位，无咎。匪孚，元永贞，悔亡。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 九五 / 0007冊.djvu/468"
+              "locator": "卷8 / 萃 / 九五 / 0007册.djvu/468"
             }
           ]
         },
@@ -7981,7 +7981,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 九五小象 / 0007冊.djvu/468"
+              "locator": "卷8 / 萃 / 九五小象 / 0007册.djvu/468"
             }
           ]
         }
@@ -7990,20 +7990,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "齎咨涕洟，无咎。",
+          "original": "赍咨涕洟，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 上六 / 0007冊.djvu/468"
+              "locator": "卷8 / 萃 / 上六 / 0007册.djvu/468"
             }
           ]
         },
         "smallImage": {
-          "original": "齎咨涕洟，未安上也。",
+          "original": "赍咨涕洟，未安上也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 萃 / 上六小象 / 0007冊.djvu/468"
+              "locator": "卷8 / 萃 / 上六小象 / 0007册.djvu/468"
             }
           ]
         }
@@ -8014,29 +8014,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 46,
     "statement": {
-      "original": "升：元亨，用見大人，勿恤，南征吉。",
+      "original": "升：元亨，用见大人，勿恤，南征吉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 升 / 卦辞 / 0007冊.djvu/468"
+          "locator": "卷8 / 升 / 卦辞 / 0007册.djvu/468"
         }
       ]
     },
     "tuan": {
-      "original": "柔以時升。巽而順，剛中而應，是以大亨。用見大人勿恤，有慶也。南征吉，志行也。",
+      "original": "柔以时升。巽而顺，刚中而应，是以大亨。用见大人勿恤，有庆也。南征吉，志行也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 升 / 彖曰 / 0007冊.djvu/468–469"
+          "locator": "卷8 / 升 / 彖曰 / 0007册.djvu/468–469"
         }
       ]
     },
     "greatImage": {
-      "original": "地中生木，升；君子以順德，積小以高大。",
+      "original": "地中生木，升；君子以顺德，积小以高大。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 升 / 整卦大象 / 0007冊.djvu/469"
+          "locator": "卷8 / 升 / 整卦大象 / 0007册.djvu/469"
         }
       ]
     },
@@ -8049,7 +8049,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 升 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/468–469"
+        "locator": "卷8 / 升 / 彖曰、整卦大象与上下卦 / 0007册.djvu/468–469"
       }
     ],
     "yao": [
@@ -8061,7 +8061,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 初六 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 初六 / 0007册.djvu/469"
             }
           ]
         },
@@ -8070,7 +8070,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 初六小象 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 初六小象 / 0007册.djvu/469"
             }
           ]
         }
@@ -8083,7 +8083,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 九二 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 九二 / 0007册.djvu/469"
             }
           ]
         },
@@ -8092,7 +8092,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 九二小象 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 九二小象 / 0007册.djvu/469"
             }
           ]
         }
@@ -8101,20 +8101,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "升虛邑。",
+          "original": "升虚邑。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 九三 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 九三 / 0007册.djvu/469"
             }
           ]
         },
         "smallImage": {
-          "original": "升虛邑，无所疑也。",
+          "original": "升虚邑，无所疑也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 九三小象 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 九三小象 / 0007册.djvu/469"
             }
           ]
         }
@@ -8127,16 +8127,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 六四 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 六四 / 0007册.djvu/469"
             }
           ]
         },
         "smallImage": {
-          "original": "王用亨于岐山，順事也。",
+          "original": "王用亨于岐山，顺事也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 六四小象 / 0007冊.djvu/469"
+              "locator": "卷8 / 升 / 六四小象 / 0007册.djvu/469"
             }
           ]
         }
@@ -8145,20 +8145,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "貞吉，升階。",
+          "original": "贞吉，升阶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 六五 / 0007冊.djvu/470"
+              "locator": "卷8 / 升 / 六五 / 0007册.djvu/470"
             }
           ]
         },
         "smallImage": {
-          "original": "貞吉升階，大得志也。",
+          "original": "贞吉升阶，大得志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 六五小象 / 0007冊.djvu/470"
+              "locator": "卷8 / 升 / 六五小象 / 0007册.djvu/470"
             }
           ]
         }
@@ -8167,11 +8167,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "冥升，利于不息之貞。",
+          "original": "冥升，利于不息之贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 上六 / 0007冊.djvu/470"
+              "locator": "卷8 / 升 / 上六 / 0007册.djvu/470"
             }
           ]
         },
@@ -8180,7 +8180,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 升 / 上六小象 / 0007冊.djvu/470"
+              "locator": "卷8 / 升 / 上六小象 / 0007册.djvu/470"
             }
           ]
         }
@@ -8191,29 +8191,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 47,
     "statement": {
-      "original": "困：亨，貞，大人吉，无咎。有言不信。",
+      "original": "困：亨，贞，大人吉，无咎。有言不信。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 困 / 卦辞 / 0007冊.djvu/470"
+          "locator": "卷8 / 困 / 卦辞 / 0007册.djvu/470"
         }
       ]
     },
     "tuan": {
-      "original": "困，剛揜也。險以説，困而不失其所亨，其惟君子乎！貞，大人吉，以剛中也。有言不信，尚口乃窮也。",
+      "original": "困，刚揜也。险以说，困而不失其所亨，其惟君子乎！贞，大人吉，以刚中也。有言不信，尚口乃穷也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 困 / 彖曰 / 0007冊.djvu/470"
+          "locator": "卷8 / 困 / 彖曰 / 0007册.djvu/470"
         }
       ]
     },
     "greatImage": {
-      "original": "澤无水，困；君子以致命遂志。",
+      "original": "泽无水，困；君子以致命遂志。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 困 / 整卦大象 / 0007冊.djvu/471"
+          "locator": "卷8 / 困 / 整卦大象 / 0007册.djvu/471"
         }
       ]
     },
@@ -8226,7 +8226,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 困 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/470–471"
+        "locator": "卷8 / 困 / 彖曰、整卦大象与上下卦 / 0007册.djvu/470–471"
       }
     ],
     "yao": [
@@ -8234,11 +8234,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "臀困于株木，入于幽谷，三歳不覿。",
+          "original": "臀困于株木，入于幽谷，三歳不觌。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 初六 / 0007冊.djvu/471"
+              "locator": "卷8 / 困 / 初六 / 0007册.djvu/471"
             }
           ]
         },
@@ -8247,7 +8247,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 初六小象 / 0007冊.djvu/471"
+              "locator": "卷8 / 困 / 初六小象 / 0007册.djvu/471"
             }
           ]
         }
@@ -8256,20 +8256,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "困于酒食，朱紱方來，利用享祀，征凶，无咎。",
+          "original": "困于酒食，朱绂方来，利用享祀，征凶，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 九二 / 0007冊.djvu/471"
+              "locator": "卷8 / 困 / 九二 / 0007册.djvu/471"
             }
           ]
         },
         "smallImage": {
-          "original": "困于酒食，中有慶也。",
+          "original": "困于酒食，中有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 九二小象 / 0007冊.djvu/471"
+              "locator": "卷8 / 困 / 九二小象 / 0007册.djvu/471"
             }
           ]
         }
@@ -8278,20 +8278,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "困于石，據于蒺蔾，入于其宫，不見其妻，凶。",
+          "original": "困于石，据于蒺蔾，入于其宫，不见其妻，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 六三 / 0007冊.djvu/472"
+              "locator": "卷8 / 困 / 六三 / 0007册.djvu/472"
             }
           ]
         },
         "smallImage": {
-          "original": "據于蒺蔾，乘剛也。入于其宫，不見其妻，不祥也。",
+          "original": "据于蒺蔾，乘刚也。入于其宫，不见其妻，不祥也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 六三小象 / 0007冊.djvu/472"
+              "locator": "卷8 / 困 / 六三小象 / 0007册.djvu/472"
             }
           ]
         }
@@ -8300,20 +8300,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "來徐徐，困于金車，吝，有終。",
+          "original": "来徐徐，困于金车，吝，有终。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 九四 / 0007冊.djvu/472"
+              "locator": "卷8 / 困 / 九四 / 0007册.djvu/472"
             }
           ]
         },
         "smallImage": {
-          "original": "來徐徐，志在下也。雖不當位，有與也。",
+          "original": "来徐徐，志在下也。虽不当位，有与也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 九四小象 / 0007冊.djvu/472"
+              "locator": "卷8 / 困 / 九四小象 / 0007册.djvu/472"
             }
           ]
         }
@@ -8322,20 +8322,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "劓刖，困于赤紱，乃徐有説，利用祭祀。",
+          "original": "劓刖，困于赤绂，乃徐有说，利用祭祀。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 九五 / 0007冊.djvu/472"
+              "locator": "卷8 / 困 / 九五 / 0007册.djvu/472"
             }
           ]
         },
         "smallImage": {
-          "original": "劓刖，志未得也。乃徐有説，以中直也。利用祭祀，受福也。",
+          "original": "劓刖，志未得也。乃徐有说，以中直也。利用祭祀，受福也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 九五小象 / 0007冊.djvu/472"
+              "locator": "卷8 / 困 / 九五小象 / 0007册.djvu/472"
             }
           ]
         }
@@ -8344,20 +8344,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "困于葛藟，于臲卼，曰動悔，有悔，征吉。",
+          "original": "困于葛藟，于臲卼，曰动悔，有悔，征吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 上六 / 0007冊.djvu/473"
+              "locator": "卷8 / 困 / 上六 / 0007册.djvu/473"
             }
           ]
         },
         "smallImage": {
-          "original": "困于葛藟，未當也。動悔有悔，吉行也。",
+          "original": "困于葛藟，未当也。动悔有悔，吉行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 困 / 上六小象 / 0007冊.djvu/473"
+              "locator": "卷8 / 困 / 上六小象 / 0007册.djvu/473"
             }
           ]
         }
@@ -8368,29 +8368,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 48,
     "statement": {
-      "original": "井：改邑不改井，无喪无得，往來井井。汔至亦未繘井，羸其甁，凶。",
+      "original": "井：改邑不改井，无丧无得，往来井井。汔至亦未繘井，羸其甁，凶。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 井 / 卦辞 / 0007冊.djvu/473"
+          "locator": "卷8 / 井 / 卦辞 / 0007册.djvu/473"
         }
       ]
     },
     "tuan": {
-      "original": "巽乎水而上水，井；井養而不窮也。改邑不改井，乃以剛中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
+      "original": "巽乎水而上水，井；井养而不穷也。改邑不改井，乃以刚中也。汔至亦未繘井，未有功也。羸其瓶，是以凶也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 井 / 彖曰 / 0007冊.djvu/474"
+          "locator": "卷8 / 井 / 彖曰 / 0007册.djvu/474"
         }
       ]
     },
     "greatImage": {
-      "original": "木上有水，井；君子以勞民勸相。",
+      "original": "木上有水，井；君子以劳民劝相。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 井 / 整卦大象 / 0007冊.djvu/474"
+          "locator": "卷8 / 井 / 整卦大象 / 0007册.djvu/474"
         }
       ]
     },
@@ -8403,7 +8403,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 井 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/473–474"
+        "locator": "卷8 / 井 / 彖曰、整卦大象与上下卦 / 0007册.djvu/473–474"
       }
     ],
     "yao": [
@@ -8411,20 +8411,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "井泥不食，舊井无禽。",
+          "original": "井泥不食，旧井无禽。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 初六 / 0007冊.djvu/474"
+              "locator": "卷8 / 井 / 初六 / 0007册.djvu/474"
             }
           ]
         },
         "smallImage": {
-          "original": "井泥不食，下也。舊井无禽，時舍也。",
+          "original": "井泥不食，下也。旧井无禽，时舍也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 初六小象 / 0007冊.djvu/474"
+              "locator": "卷8 / 井 / 初六小象 / 0007册.djvu/474"
             }
           ]
         }
@@ -8433,20 +8433,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "井谷射鮒，甕敝漏。",
+          "original": "井谷射鲋，瓮敝漏。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 九二 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 九二 / 0007册.djvu/475"
             }
           ]
         },
         "smallImage": {
-          "original": "井谷射鮒，无與也。",
+          "original": "井谷射鲋，无与也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 九二小象 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 九二小象 / 0007册.djvu/475"
             }
           ]
         }
@@ -8455,20 +8455,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "井渫不食，為我心惻，可用汲，王眀，竝受其福。",
+          "original": "井渫不食，为我心恻，可用汲，王眀，竝受其福。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 九三 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 九三 / 0007册.djvu/475"
             }
           ]
         },
         "smallImage": {
-          "original": "井渫不食，行惻也。求王眀，受福也。",
+          "original": "井渫不食，行恻也。求王眀，受福也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 九三小象 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 九三小象 / 0007册.djvu/475"
             }
           ]
         }
@@ -8481,7 +8481,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 六四 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 六四 / 0007册.djvu/475"
             }
           ]
         },
@@ -8490,7 +8490,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 六四小象 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 六四小象 / 0007册.djvu/475"
             }
           ]
         }
@@ -8503,7 +8503,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 九五 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 九五 / 0007册.djvu/475"
             }
           ]
         },
@@ -8512,7 +8512,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 九五小象 / 0007冊.djvu/475"
+              "locator": "卷8 / 井 / 九五小象 / 0007册.djvu/475"
             }
           ]
         }
@@ -8525,7 +8525,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 上六 / 0007冊.djvu/476"
+              "locator": "卷8 / 井 / 上六 / 0007册.djvu/476"
             }
           ]
         },
@@ -8534,7 +8534,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 井 / 上六小象 / 0007冊.djvu/476"
+              "locator": "卷8 / 井 / 上六小象 / 0007册.djvu/476"
             }
           ]
         }
@@ -8545,29 +8545,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 49,
     "statement": {
-      "original": "革：已日乃孚，元亨利貞，悔亡。",
+      "original": "革：已日乃孚，元亨利贞，悔亡。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 革 / 卦辞 / 0007冊.djvu/476"
+          "locator": "卷8 / 革 / 卦辞 / 0007册.djvu/476"
         }
       ]
     },
     "tuan": {
-      "original": "革，水火相息，二女同居，其志不相得，曰革。已日乃孚，革而信之。文眀以説，大亨以正，革而當，其悔乃亡。天地革而四時成，湯武革命，順乎天而應乎人。革之時大矣哉！",
+      "original": "革，水火相息，二女同居，其志不相得，曰革。已日乃孚，革而信之。文眀以说，大亨以正，革而当，其悔乃亡。天地革而四时成，汤武革命，顺乎天而应乎人。革之时大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 革 / 彖曰 / 0007冊.djvu/476"
+          "locator": "卷8 / 革 / 彖曰 / 0007册.djvu/476"
         }
       ]
     },
     "greatImage": {
-      "original": "澤中有火，革；君子以治厯眀時。",
+      "original": "泽中有火，革；君子以治厯眀时。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch5",
-          "locator": "卷8 / 革 / 整卦大象 / 0007冊.djvu/477"
+          "locator": "卷8 / 革 / 整卦大象 / 0007册.djvu/477"
         }
       ]
     },
@@ -8580,7 +8580,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch5",
-        "locator": "卷8 / 革 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/476–477"
+        "locator": "卷8 / 革 / 彖曰、整卦大象与上下卦 / 0007册.djvu/476–477"
       }
     ],
     "yao": [
@@ -8588,20 +8588,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "鞏用黄牛之革。",
+          "original": "巩用黄牛之革。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 初九 / 0007冊.djvu/477"
+              "locator": "卷8 / 革 / 初九 / 0007册.djvu/477"
             }
           ]
         },
         "smallImage": {
-          "original": "鞏用黄牛，不可以有為也。",
+          "original": "巩用黄牛，不可以有为也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 初九小象 / 0007冊.djvu/477"
+              "locator": "卷8 / 革 / 初九小象 / 0007册.djvu/477"
             }
           ]
         }
@@ -8614,7 +8614,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 六二 / 0007冊.djvu/477"
+              "locator": "卷8 / 革 / 六二 / 0007册.djvu/477"
             }
           ]
         },
@@ -8623,7 +8623,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 六二小象 / 0007冊.djvu/477"
+              "locator": "卷8 / 革 / 六二小象 / 0007册.djvu/477"
             }
           ]
         }
@@ -8632,11 +8632,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "征凶，貞厲，革言三就，有孚。",
+          "original": "征凶，贞厉，革言三就，有孚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 九三 / 0007冊.djvu/477"
+              "locator": "卷8 / 革 / 九三 / 0007册.djvu/477"
             }
           ]
         },
@@ -8645,7 +8645,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 九三小象 / 0007冊.djvu/477"
+              "locator": "卷8 / 革 / 九三小象 / 0007册.djvu/477"
             }
           ]
         }
@@ -8658,7 +8658,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 九四 / 0007冊.djvu/478"
+              "locator": "卷8 / 革 / 九四 / 0007册.djvu/478"
             }
           ]
         },
@@ -8667,7 +8667,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 九四小象 / 0007冊.djvu/478"
+              "locator": "卷8 / 革 / 九四小象 / 0007册.djvu/478"
             }
           ]
         }
@@ -8676,20 +8676,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "大人虎變，未占有孚。",
+          "original": "大人虎变，未占有孚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 九五 / 0007冊.djvu/478"
+              "locator": "卷8 / 革 / 九五 / 0007册.djvu/478"
             }
           ]
         },
         "smallImage": {
-          "original": "大人虎變，其文炳也。",
+          "original": "大人虎变，其文炳也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 九五小象 / 0007冊.djvu/478"
+              "locator": "卷8 / 革 / 九五小象 / 0007册.djvu/478"
             }
           ]
         }
@@ -8698,20 +8698,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "君子豹變，小人革面，征凶，居貞吉。",
+          "original": "君子豹变，小人革面，征凶，居贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 上六 / 0007冊.djvu/478"
+              "locator": "卷8 / 革 / 上六 / 0007册.djvu/478"
             }
           ]
         },
         "smallImage": {
-          "original": "君子豹變，其文蔚也。小人革面，順以從君也。",
+          "original": "君子豹变，其文蔚也。小人革面，顺以从君也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch5",
-              "locator": "卷8 / 革 / 上六小象 / 0007冊.djvu/478"
+              "locator": "卷8 / 革 / 上六小象 / 0007册.djvu/478"
             }
           ]
         }
@@ -8726,16 +8726,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch6",
-          "locator": "卷8 / 鼎 / 卦辞 / 0007冊.djvu/478"
+          "locator": "卷8 / 鼎 / 卦辞 / 0007册.djvu/478"
         }
       ]
     },
     "tuan": {
-      "original": "鼎，象也。以木巽火，亨飪也。聖人亨以享上帝，而大亨以養聖賢。巽而耳目聰眀，柔進而上行，得中而應乎剛，是以元亨。",
+      "original": "鼎，象也。以木巽火，亨饪也。圣人亨以享上帝，而大亨以养圣贤。巽而耳目聪眀，柔进而上行，得中而应乎刚，是以元亨。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch6",
-          "locator": "卷8 / 鼎 / 彖曰 / 0007冊.djvu/479"
+          "locator": "卷8 / 鼎 / 彖曰 / 0007册.djvu/479"
         }
       ]
     },
@@ -8744,7 +8744,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-8-batch6",
-          "locator": "卷8 / 鼎 / 整卦大象 / 0007冊.djvu/479"
+          "locator": "卷8 / 鼎 / 整卦大象 / 0007册.djvu/479"
         }
       ]
     },
@@ -8757,7 +8757,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch6",
-        "locator": "卷8 / 鼎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/478–479"
+        "locator": "卷8 / 鼎 / 彖曰、整卦大象与上下卦 / 0007册.djvu/478–479"
       }
     ],
     "yao": [
@@ -8769,16 +8769,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 初六 / 0007冊.djvu/479"
+              "locator": "卷8 / 鼎 / 初六 / 0007册.djvu/479"
             }
           ]
         },
         "smallImage": {
-          "original": "鼎顚趾，未悖也。利出否，以從貴也。",
+          "original": "鼎顚趾，未悖也。利出否，以从贵也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 初六小象 / 0007冊.djvu/479"
+              "locator": "卷8 / 鼎 / 初六小象 / 0007册.djvu/479"
             }
           ]
         }
@@ -8787,20 +8787,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "鼎有實，我仇有疾，不我能即，吉。",
+          "original": "鼎有实，我仇有疾，不我能即，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 九二 / 0007冊.djvu/480"
+              "locator": "卷8 / 鼎 / 九二 / 0007册.djvu/480"
             }
           ]
         },
         "smallImage": {
-          "original": "鼎有實，愼所之也。我仇有疾，終无尤也。",
+          "original": "鼎有实，愼所之也。我仇有疾，终无尤也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 九二小象 / 0007冊.djvu/480"
+              "locator": "卷8 / 鼎 / 九二小象 / 0007册.djvu/480"
             }
           ]
         }
@@ -8809,20 +8809,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
+          "original": "鼎耳革，其行塞，雉膏不食，方雨亏悔，终吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 九三 / 0007冊.djvu/480"
+              "locator": "卷8 / 鼎 / 九三 / 0007册.djvu/480"
             }
           ]
         },
         "smallImage": {
-          "original": "鼎耳革，失其義也。",
+          "original": "鼎耳革，失其义也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 九三小象 / 0007冊.djvu/480"
+              "locator": "卷8 / 鼎 / 九三小象 / 0007册.djvu/480"
             }
           ]
         }
@@ -8831,20 +8831,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "鼎折足，覆公餗，其形渥，凶。",
+          "original": "鼎折足，覆公𫗧，其形渥，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 九四 / 0007冊.djvu/480"
+              "locator": "卷8 / 鼎 / 九四 / 0007册.djvu/480"
             }
           ]
         },
         "smallImage": {
-          "original": "覆公餗，信如何也。",
+          "original": "覆公𫗧，信如何也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 九四小象 / 0007冊.djvu/480"
+              "locator": "卷8 / 鼎 / 九四小象 / 0007册.djvu/480"
             }
           ]
         }
@@ -8853,20 +8853,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "鼎黄耳金鉉，利貞。",
+          "original": "鼎黄耳金铉，利贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 六五 / 0007冊.djvu/481"
+              "locator": "卷8 / 鼎 / 六五 / 0007册.djvu/481"
             }
           ]
         },
         "smallImage": {
-          "original": "鼎黄耳，中以為實也。",
+          "original": "鼎黄耳，中以为实也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 六五小象 / 0007冊.djvu/481"
+              "locator": "卷8 / 鼎 / 六五小象 / 0007册.djvu/481"
             }
           ]
         }
@@ -8875,20 +8875,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "鼎玉鉉，大吉，无不利。",
+          "original": "鼎玉铉，大吉，无不利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 上九 / 0007冊.djvu/481"
+              "locator": "卷8 / 鼎 / 上九 / 0007册.djvu/481"
             }
           ]
         },
         "smallImage": {
-          "original": "玉鉉在上，剛柔節也。",
+          "original": "玉铉在上，刚柔节也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-8-batch6",
-              "locator": "卷8 / 鼎 / 上九小象 / 0007冊.djvu/481"
+              "locator": "卷8 / 鼎 / 上九小象 / 0007册.djvu/481"
             }
           ]
         }
@@ -8899,29 +8899,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 51,
     "statement": {
-      "original": "震：亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+      "original": "震：亨。震来虩虩，笑言哑哑。震惊百里，不丧匕鬯。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 震 / 卦辞 / 0007冊.djvu/485"
+          "locator": "卷9 / 震 / 卦辞 / 0007册.djvu/485"
         }
       ]
     },
     "tuan": {
-      "original": "震，亨。震來虩虩，恐致福也。笑言啞啞，後有則也。震驚百里，驚逺而懼邇也。出可以守宗廟社稷，以爲祭主也。",
+      "original": "震，亨。震来虩虩，恐致福也。笑言哑哑，后有则也。震惊百里，惊逺而惧迩也。出可以守宗庙社稷，以为祭主也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 震 / 彖曰 / 0007冊.djvu/486"
+          "locator": "卷9 / 震 / 彖曰 / 0007册.djvu/486"
         }
       ]
     },
     "greatImage": {
-      "original": "洊雷，震；君子以恐懼脩省。",
+      "original": "洊雷，震；君子以恐惧修省。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 震 / 整卦大象 / 0007冊.djvu/486"
+          "locator": "卷9 / 震 / 整卦大象 / 0007册.djvu/486"
         }
       ]
     },
@@ -8934,7 +8934,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 震 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/485–486"
+        "locator": "卷9 / 震 / 彖曰、整卦大象与上下卦 / 0007册.djvu/485–486"
       }
     ],
     "yao": [
@@ -8942,20 +8942,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "震來虩虩，後笑言啞啞，吉。",
+          "original": "震来虩虩，后笑言哑哑，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 初九 / 0007冊.djvu/486"
+              "locator": "卷9 / 震 / 初九 / 0007册.djvu/486"
             }
           ]
         },
         "smallImage": {
-          "original": "震來虩虩，恐致福也。笑言啞啞，後有則也。",
+          "original": "震来虩虩，恐致福也。笑言哑哑，后有则也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 初九小象 / 0007冊.djvu/486"
+              "locator": "卷9 / 震 / 初九小象 / 0007册.djvu/486"
             }
           ]
         }
@@ -8964,20 +8964,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
+          "original": "震来厉，亿丧贝，跻于九陵，勿逐，七日得。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 六二 / 0007冊.djvu/486"
+              "locator": "卷9 / 震 / 六二 / 0007册.djvu/486"
             }
           ]
         },
         "smallImage": {
-          "original": "震來厲，乗剛也。",
+          "original": "震来厉，乗刚也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 六二小象 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 六二小象 / 0007册.djvu/487"
             }
           ]
         }
@@ -8986,20 +8986,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "震蘇蘇，震行无眚。",
+          "original": "震苏苏，震行无眚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 六三 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 六三 / 0007册.djvu/487"
             }
           ]
         },
         "smallImage": {
-          "original": "震蘇蘇，位不當也。",
+          "original": "震苏苏，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 六三小象 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 六三小象 / 0007册.djvu/487"
             }
           ]
         }
@@ -9012,7 +9012,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 九四 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 九四 / 0007册.djvu/487"
             }
           ]
         },
@@ -9021,7 +9021,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 九四小象 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 九四小象 / 0007册.djvu/487"
             }
           ]
         }
@@ -9030,20 +9030,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "震徃來厲，億无喪，有事。",
+          "original": "震徃来厉，亿无丧，有事。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 六五 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 六五 / 0007册.djvu/487"
             }
           ]
         },
         "smallImage": {
-          "original": "震徃來厲，危行也。其事在中，大无喪也。",
+          "original": "震徃来厉，危行也。其事在中，大无丧也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 六五小象 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 六五小象 / 0007册.djvu/487"
             }
           ]
         }
@@ -9052,20 +9052,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。㛰媾有言。",
+          "original": "震索索，视矍矍，征凶。震不于其躬，于其邻，无咎。㛰媾有言。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 上六 / 0007冊.djvu/487"
+              "locator": "卷9 / 震 / 上六 / 0007册.djvu/487"
             }
           ]
         },
         "smallImage": {
-          "original": "震索索，中未得也。雖凶无咎，畏鄰戒也。",
+          "original": "震索索，中未得也。虽凶无咎，畏邻戒也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 震 / 上六小象 / 0007冊.djvu/488"
+              "locator": "卷9 / 震 / 上六小象 / 0007册.djvu/488"
             }
           ]
         }
@@ -9076,20 +9076,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 52,
     "statement": {
-      "original": "艮其背，不獲其身，行其庭，不見其人，无咎。",
+      "original": "艮其背，不获其身，行其庭，不见其人，无咎。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 艮 / 卦辞 / 0007冊.djvu/488"
+          "locator": "卷9 / 艮 / 卦辞 / 0007册.djvu/488"
         }
       ]
     },
     "tuan": {
-      "original": "艮，止也。時止則止，時行則行，動静不失其時，其道光明。艮其止，止其所也。上下敵應，不相與也。是以不獲其身，行其庭不見其人，无咎也。",
+      "original": "艮，止也。时止则止，时行则行，动静不失其时，其道光明。艮其止，止其所也。上下敌应，不相与也。是以不获其身，行其庭不见其人，无咎也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 艮 / 彖曰 / 0007冊.djvu/488–489"
+          "locator": "卷9 / 艮 / 彖曰 / 0007册.djvu/488–489"
         }
       ]
     },
@@ -9098,7 +9098,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 艮 / 整卦大象 / 0007冊.djvu/489"
+          "locator": "卷9 / 艮 / 整卦大象 / 0007册.djvu/489"
         }
       ]
     },
@@ -9111,7 +9111,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 艮 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/488–489"
+        "locator": "卷9 / 艮 / 彖曰、整卦大象与上下卦 / 0007册.djvu/488–489"
       }
     ],
     "yao": [
@@ -9119,11 +9119,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "艮其趾，无咎，利永貞。",
+          "original": "艮其趾，无咎，利永贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 初六 / 0007冊.djvu/489"
+              "locator": "卷9 / 艮 / 初六 / 0007册.djvu/489"
             }
           ]
         },
@@ -9132,7 +9132,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 初六小象 / 0007冊.djvu/489"
+              "locator": "卷9 / 艮 / 初六小象 / 0007册.djvu/489"
             }
           ]
         }
@@ -9141,20 +9141,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "艮其腓，不拯其隨，其心不快。",
+          "original": "艮其腓，不拯其随，其心不快。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 六二 / 0007冊.djvu/489"
+              "locator": "卷9 / 艮 / 六二 / 0007册.djvu/489"
             }
           ]
         },
         "smallImage": {
-          "original": "不拯其隨，未退聴也。",
+          "original": "不拯其随，未退聴也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 六二小象 / 0007冊.djvu/489"
+              "locator": "卷9 / 艮 / 六二小象 / 0007册.djvu/489"
             }
           ]
         }
@@ -9163,11 +9163,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "艮其限，列其夤，厲薰心。",
+          "original": "艮其限，列其夤，厉薰心。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 九三 / 0007冊.djvu/489"
+              "locator": "卷9 / 艮 / 九三 / 0007册.djvu/489"
             }
           ]
         },
@@ -9176,7 +9176,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 九三小象 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 九三小象 / 0007册.djvu/490"
             }
           ]
         }
@@ -9189,16 +9189,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 六四 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 六四 / 0007册.djvu/490"
             }
           ]
         },
         "smallImage": {
-          "original": "艮其身，止諸躬也。",
+          "original": "艮其身，止诸躬也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 六四小象 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 六四小象 / 0007册.djvu/490"
             }
           ]
         }
@@ -9207,20 +9207,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "艮其輔，言有序，悔亡。",
+          "original": "艮其辅，言有序，悔亡。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 六五 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 六五 / 0007册.djvu/490"
             }
           ]
         },
         "smallImage": {
-          "original": "艮其輔，以中正也。",
+          "original": "艮其辅，以中正也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 六五小象 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 六五小象 / 0007册.djvu/490"
             }
           ]
         }
@@ -9233,16 +9233,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 上九 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 上九 / 0007册.djvu/490"
             }
           ]
         },
         "smallImage": {
-          "original": "敦艮之吉，以厚終也。",
+          "original": "敦艮之吉，以厚终也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 艮 / 上九小象 / 0007冊.djvu/490"
+              "locator": "卷9 / 艮 / 上九小象 / 0007册.djvu/490"
             }
           ]
         }
@@ -9253,29 +9253,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 53,
     "statement": {
-      "original": "漸：女歸吉，利貞。",
+      "original": "渐：女归吉，利贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 漸 / 卦辞 / 0007冊.djvu/490"
+          "locator": "卷9 / 渐 / 卦辞 / 0007册.djvu/490"
         }
       ]
     },
     "tuan": {
-      "original": "漸之進也，女歸吉也。進得位，徃有功也。進以正，可以正邦也。其位剛得中也。止而巽，動不窮也。",
+      "original": "渐之进也，女归吉也。进得位，徃有功也。进以正，可以正邦也。其位刚得中也。止而巽，动不穷也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 漸 / 彖曰 / 0007冊.djvu/490–491"
+          "locator": "卷9 / 渐 / 彖曰 / 0007册.djvu/490–491"
         }
       ]
     },
     "greatImage": {
-      "original": "山上有木，漸；君子以居賢德善俗。",
+      "original": "山上有木，渐；君子以居贤德善俗。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 漸 / 整卦大象 / 0007冊.djvu/491"
+          "locator": "卷9 / 渐 / 整卦大象 / 0007册.djvu/491"
         }
       ]
     },
@@ -9288,7 +9288,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 漸 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/490–491"
+        "locator": "卷9 / 渐 / 彖曰、整卦大象与上下卦 / 0007册.djvu/490–491"
       }
     ],
     "yao": [
@@ -9296,20 +9296,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "鴻漸于干，小子厲，有言，无咎。",
+          "original": "鸿渐于干，小子厉，有言，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 初六 / 0007冊.djvu/491"
+              "locator": "卷9 / 渐 / 初六 / 0007册.djvu/491"
             }
           ]
         },
         "smallImage": {
-          "original": "小子之厲，義无咎也。",
+          "original": "小子之厉，义无咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 初六小象 / 0007冊.djvu/491"
+              "locator": "卷9 / 渐 / 初六小象 / 0007册.djvu/491"
             }
           ]
         }
@@ -9318,20 +9318,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "鴻漸于磐，飲食衎衎，吉。",
+          "original": "鸿渐于磐，饮食衎衎，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 六二 / 0007冊.djvu/491"
+              "locator": "卷9 / 渐 / 六二 / 0007册.djvu/491"
             }
           ]
         },
         "smallImage": {
-          "original": "飲食衎衎，不素飽也。",
+          "original": "饮食衎衎，不素饱也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 六二小象 / 0007冊.djvu/491"
+              "locator": "卷9 / 渐 / 六二小象 / 0007册.djvu/491"
             }
           ]
         }
@@ -9340,20 +9340,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
+          "original": "鸿渐于陆，夫征不复，妇孕不育，凶；利御寇。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 九三 / 0007冊.djvu/491"
+              "locator": "卷9 / 渐 / 九三 / 0007册.djvu/491"
             }
           ]
         },
         "smallImage": {
-          "original": "夫征不復，離羣醜也。婦孕不育，失其道也。利用禦寇，順相保也。",
+          "original": "夫征不复，离群丑也。妇孕不育，失其道也。利用御寇，顺相保也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 九三小象 / 0007冊.djvu/492"
+              "locator": "卷9 / 渐 / 九三小象 / 0007册.djvu/492"
             }
           ]
         }
@@ -9362,20 +9362,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "鴻漸于木，或得其桷，无咎。",
+          "original": "鸿渐于木，或得其桷，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 六四 / 0007冊.djvu/492"
+              "locator": "卷9 / 渐 / 六四 / 0007册.djvu/492"
             }
           ]
         },
         "smallImage": {
-          "original": "或得其桷，順以巽也。",
+          "original": "或得其桷，顺以巽也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 六四小象 / 0007冊.djvu/492"
+              "locator": "卷9 / 渐 / 六四小象 / 0007册.djvu/492"
             }
           ]
         }
@@ -9384,20 +9384,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "鴻漸于陵，婦三嵗不孕，終莫之勝，吉。",
+          "original": "鸿渐于陵，妇三岁不孕，终莫之胜，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 九五 / 0007冊.djvu/492"
+              "locator": "卷9 / 渐 / 九五 / 0007册.djvu/492"
             }
           ]
         },
         "smallImage": {
-          "original": "終莫之勝吉，得所願也。",
+          "original": "终莫之胜吉，得所愿也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 九五小象 / 0007冊.djvu/492"
+              "locator": "卷9 / 渐 / 九五小象 / 0007册.djvu/492"
             }
           ]
         }
@@ -9406,20 +9406,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "鴻漸于陸，其羽可用為儀，吉。",
+          "original": "鸿渐于陆，其羽可用为仪，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 上九 / 0007冊.djvu/492"
+              "locator": "卷9 / 渐 / 上九 / 0007册.djvu/492"
             }
           ]
         },
         "smallImage": {
-          "original": "其羽可用為儀吉，不可亂也。",
+          "original": "其羽可用为仪吉，不可乱也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 漸 / 上九小象 / 0007冊.djvu/493"
+              "locator": "卷9 / 渐 / 上九小象 / 0007册.djvu/493"
             }
           ]
         }
@@ -9430,29 +9430,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 54,
     "statement": {
-      "original": "歸妹：征凶，无攸利。",
+      "original": "归妹：征凶，无攸利。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 歸妹 / 卦辞 / 0007冊.djvu/493"
+          "locator": "卷9 / 归妹 / 卦辞 / 0007册.djvu/493"
         }
       ]
     },
     "tuan": {
-      "original": "歸妹，天地之大義也。天地不交而萬物不興，歸妹，人之終始也。説以動，所歸妹也。征凶，位不當也。无攸利，柔乗剛也。",
+      "original": "归妹，天地之大义也。天地不交而万物不兴，归妹，人之终始也。说以动，所归妹也。征凶，位不当也。无攸利，柔乗刚也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 歸妹 / 彖曰 / 0007冊.djvu/493"
+          "locator": "卷9 / 归妹 / 彖曰 / 0007册.djvu/493"
         }
       ]
     },
     "greatImage": {
-      "original": "澤上有雷，歸妹；君子以永終知敝。",
+      "original": "泽上有雷，归妹；君子以永终知敝。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 歸妹 / 整卦大象 / 0007冊.djvu/494"
+          "locator": "卷9 / 归妹 / 整卦大象 / 0007册.djvu/494"
         }
       ]
     },
@@ -9465,7 +9465,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 歸妹 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/493–494"
+        "locator": "卷9 / 归妹 / 彖曰、整卦大象与上下卦 / 0007册.djvu/493–494"
       }
     ],
     "yao": [
@@ -9473,20 +9473,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "歸妹以娣，跛能履，征吉。",
+          "original": "归妹以娣，跛能履，征吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 初九 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 初九 / 0007册.djvu/494"
             }
           ]
         },
         "smallImage": {
-          "original": "歸妹以娣，以恒也。跛能履吉，相承也。",
+          "original": "归妹以娣，以恒也。跛能履吉，相承也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 初九小象 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 初九小象 / 0007册.djvu/494"
             }
           ]
         }
@@ -9495,20 +9495,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "眇能視，利幽人之貞。",
+          "original": "眇能视，利幽人之贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 九二 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 九二 / 0007册.djvu/494"
             }
           ]
         },
         "smallImage": {
-          "original": "利幽人之貞，未變常也。",
+          "original": "利幽人之贞，未变常也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 九二小象 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 九二小象 / 0007册.djvu/494"
             }
           ]
         }
@@ -9517,20 +9517,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "歸妹以須，反歸以娣。",
+          "original": "归妹以须，反归以娣。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 六三 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 六三 / 0007册.djvu/494"
             }
           ]
         },
         "smallImage": {
-          "original": "歸妹以須，未當也。",
+          "original": "归妹以须，未当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 六三小象 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 六三小象 / 0007册.djvu/494"
             }
           ]
         }
@@ -9539,11 +9539,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "歸妹愆期，遲歸有時。",
+          "original": "归妹愆期，迟归有时。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 九四 / 0007冊.djvu/494"
+              "locator": "卷9 / 归妹 / 九四 / 0007册.djvu/494"
             }
           ]
         },
@@ -9552,7 +9552,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 九四小象 / 0007冊.djvu/495"
+              "locator": "卷9 / 归妹 / 九四小象 / 0007册.djvu/495"
             }
           ]
         }
@@ -9561,20 +9561,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "帝乙歸妹，其君之袂不如其娣之袂良，月幾望，吉。",
+          "original": "帝乙归妹，其君之袂不如其娣之袂良，月几望，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 六五 / 0007冊.djvu/495"
+              "locator": "卷9 / 归妹 / 六五 / 0007册.djvu/495"
             }
           ]
         },
         "smallImage": {
-          "original": "帝乙歸妹，不如其娣之袂良也。其位在中，以貴行也。",
+          "original": "帝乙归妹，不如其娣之袂良也。其位在中，以贵行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 六五小象 / 0007冊.djvu/495"
+              "locator": "卷9 / 归妹 / 六五小象 / 0007册.djvu/495"
             }
           ]
         }
@@ -9583,20 +9583,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "女承筐无實，士刲羊无血，无攸利。",
+          "original": "女承筐无实，士刲羊无血，无攸利。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 上六 / 0007冊.djvu/495"
+              "locator": "卷9 / 归妹 / 上六 / 0007册.djvu/495"
             }
           ]
         },
         "smallImage": {
-          "original": "上六无實，承虚筐也。",
+          "original": "上六无实，承虚筐也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 歸妹 / 上六小象 / 0007冊.djvu/495"
+              "locator": "卷9 / 归妹 / 上六小象 / 0007册.djvu/495"
             }
           ]
         }
@@ -9607,29 +9607,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 55,
     "statement": {
-      "original": "豐：亨，王假之。勿憂，宜日中。",
+      "original": "丰：亨，王假之。勿忧，宜日中。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 豐 / 卦辞 / 0007冊.djvu/495"
+          "locator": "卷9 / 丰 / 卦辞 / 0007册.djvu/495"
         }
       ]
     },
     "tuan": {
-      "original": "豐，大也。明以動，故豐。王假之，尚大也。勿憂宜日中，宜照天下也。日中則昃，月盈則食，天地盈虚，與時消息，而况於人乎？况於鬼神乎？",
+      "original": "丰，大也。明以动，故丰。王假之，尚大也。勿忧宜日中，宜照天下也。日中则昃，月盈则食，天地盈虚，与时消息，而况于人乎？况于鬼神乎？",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 豐 / 彖曰 / 0007冊.djvu/496"
+          "locator": "卷9 / 丰 / 彖曰 / 0007册.djvu/496"
         }
       ]
     },
     "greatImage": {
-      "original": "雷電皆至，豐；君子以折獄致刑。",
+      "original": "雷电皆至，丰；君子以折狱致刑。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 豐 / 整卦大象 / 0007冊.djvu/496"
+          "locator": "卷9 / 丰 / 整卦大象 / 0007册.djvu/496"
         }
       ]
     },
@@ -9642,7 +9642,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 豐 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/495–496"
+        "locator": "卷9 / 丰 / 彖曰、整卦大象与上下卦 / 0007册.djvu/495–496"
       }
     ],
     "yao": [
@@ -9650,20 +9650,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "遇其配主，雖旬无咎，徃有尚。",
+          "original": "遇其配主，虽旬无咎，徃有尚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 初九 / 0007冊.djvu/496"
+              "locator": "卷9 / 丰 / 初九 / 0007册.djvu/496"
             }
           ]
         },
         "smallImage": {
-          "original": "雖旬无咎，過旬災也。",
+          "original": "虽旬无咎，过旬灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 初九小象 / 0007冊.djvu/496–497"
+              "locator": "卷9 / 丰 / 初九小象 / 0007册.djvu/496–497"
             }
           ]
         }
@@ -9672,20 +9672,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "豐其蔀，日中見斗，徃得疑疾，有孚發若，吉。",
+          "original": "丰其蔀，日中见斗，徃得疑疾，有孚发若，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 六二 / 0007冊.djvu/497"
+              "locator": "卷9 / 丰 / 六二 / 0007册.djvu/497"
             }
           ]
         },
         "smallImage": {
-          "original": "有孚發若，信以發志也。",
+          "original": "有孚发若，信以发志也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 六二小象 / 0007冊.djvu/497"
+              "locator": "卷9 / 丰 / 六二小象 / 0007册.djvu/497"
             }
           ]
         }
@@ -9694,20 +9694,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "豐其沛，日中見沬，折其右肱，无咎。",
+          "original": "丰其沛，日中见沬，折其右肱，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 九三 / 0007冊.djvu/497"
+              "locator": "卷9 / 丰 / 九三 / 0007册.djvu/497"
             }
           ]
         },
         "smallImage": {
-          "original": "豐其沛，不可大事也。折其右肱，終不可用也。",
+          "original": "丰其沛，不可大事也。折其右肱，终不可用也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 九三小象 / 0007冊.djvu/497"
+              "locator": "卷9 / 丰 / 九三小象 / 0007册.djvu/497"
             }
           ]
         }
@@ -9716,20 +9716,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "豐其蔀，日中見斗，遇其夷主，吉。",
+          "original": "丰其蔀，日中见斗，遇其夷主，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 九四 / 0007冊.djvu/498"
+              "locator": "卷9 / 丰 / 九四 / 0007册.djvu/498"
             }
           ]
         },
         "smallImage": {
-          "original": "豐其蔀，位不當也。日中見斗，幽不明也。遇其夷主，吉行也。",
+          "original": "丰其蔀，位不当也。日中见斗，幽不明也。遇其夷主，吉行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 九四小象 / 0007冊.djvu/498"
+              "locator": "卷9 / 丰 / 九四小象 / 0007册.djvu/498"
             }
           ]
         }
@@ -9738,20 +9738,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "來章，有慶譽，吉。",
+          "original": "来章，有庆誉，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 六五 / 0007冊.djvu/498"
+              "locator": "卷9 / 丰 / 六五 / 0007册.djvu/498"
             }
           ]
         },
         "smallImage": {
-          "original": "六五之吉，有慶也。",
+          "original": "六五之吉，有庆也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 六五小象 / 0007冊.djvu/498"
+              "locator": "卷9 / 丰 / 六五小象 / 0007册.djvu/498"
             }
           ]
         }
@@ -9760,20 +9760,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "豐其屋，蔀其家，闚其戸，闃其无人，三嵗不覿，凶。",
+          "original": "丰其屋，蔀其家，闚其戸，阒其无人，三岁不觌，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 上六 / 0007冊.djvu/498"
+              "locator": "卷9 / 丰 / 上六 / 0007册.djvu/498"
             }
           ]
         },
         "smallImage": {
-          "original": "豐其屋，天際翔也。闚其戸，闃其无人，自藏也。",
+          "original": "丰其屋，天际翔也。闚其戸，阒其无人，自藏也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 豐 / 上六小象 / 0007冊.djvu/498"
+              "locator": "卷9 / 丰 / 上六小象 / 0007册.djvu/498"
             }
           ]
         }
@@ -9784,29 +9784,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 56,
     "statement": {
-      "original": "旅：小亨，旅貞吉。",
+      "original": "旅：小亨，旅贞吉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 旅 / 卦辞 / 0007冊.djvu/499"
+          "locator": "卷9 / 旅 / 卦辞 / 0007册.djvu/499"
         }
       ]
     },
     "tuan": {
-      "original": "旅，小亨，柔得中乎外而順乎剛，止而麗乎明，是以小亨旅貞吉也。旅之時義大矣哉！",
+      "original": "旅，小亨，柔得中乎外而顺乎刚，止而丽乎明，是以小亨旅贞吉也。旅之时义大矣哉！",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 旅 / 彖曰 / 0007冊.djvu/499"
+          "locator": "卷9 / 旅 / 彖曰 / 0007册.djvu/499"
         }
       ]
     },
     "greatImage": {
-      "original": "山上有火，旅；君子以明愼用刑而不留獄。",
+      "original": "山上有火，旅；君子以明愼用刑而不留狱。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 旅 / 整卦大象 / 0007冊.djvu/499"
+          "locator": "卷9 / 旅 / 整卦大象 / 0007册.djvu/499"
         }
       ]
     },
@@ -9819,7 +9819,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 旅 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/499"
+        "locator": "卷9 / 旅 / 彖曰、整卦大象与上下卦 / 0007册.djvu/499"
       }
     ],
     "yao": [
@@ -9827,20 +9827,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "旅瑣瑣，斯其所取災。",
+          "original": "旅琐琐，斯其所取灾。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 初六 / 0007冊.djvu/499"
+              "locator": "卷9 / 旅 / 初六 / 0007册.djvu/499"
             }
           ]
         },
         "smallImage": {
-          "original": "旅瑣瑣，志窮災也。",
+          "original": "旅琐琐，志穷灾也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 初六小象 / 0007冊.djvu/499"
+              "locator": "卷9 / 旅 / 初六小象 / 0007册.djvu/499"
             }
           ]
         }
@@ -9849,20 +9849,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "旅即次，懐其資，得童僕貞。",
+          "original": "旅即次，懐其资，得童仆贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 六二 / 0007冊.djvu/499"
+              "locator": "卷9 / 旅 / 六二 / 0007册.djvu/499"
             }
           ]
         },
         "smallImage": {
-          "original": "得童僕貞，終无尤也。",
+          "original": "得童仆贞，终无尤也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 六二小象 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 六二小象 / 0007册.djvu/500"
             }
           ]
         }
@@ -9871,20 +9871,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "旅焚其次，喪其童僕，貞厲。",
+          "original": "旅焚其次，丧其童仆，贞厉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 九三 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 九三 / 0007册.djvu/500"
             }
           ]
         },
         "smallImage": {
-          "original": "旅焚其次，亦以傷矣。以旅與下，其義喪也。",
+          "original": "旅焚其次，亦以伤矣。以旅与下，其义丧也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 九三小象 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 九三小象 / 0007册.djvu/500"
             }
           ]
         }
@@ -9893,20 +9893,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "旅于處，得其資斧，我心不快。",
+          "original": "旅于处，得其资斧，我心不快。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 九四 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 九四 / 0007册.djvu/500"
             }
           ]
         },
         "smallImage": {
-          "original": "旅于處，未得位也。得其資斧，心未快也。",
+          "original": "旅于处，未得位也。得其资斧，心未快也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 九四小象 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 九四小象 / 0007册.djvu/500"
             }
           ]
         }
@@ -9915,20 +9915,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "射雉一矢亡，終以譽命。",
+          "original": "射雉一矢亡，终以誉命。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 六五 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 六五 / 0007册.djvu/500"
             }
           ]
         },
         "smallImage": {
-          "original": "終以譽命，上逮也。",
+          "original": "终以誉命，上逮也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 六五小象 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 六五小象 / 0007册.djvu/500"
             }
           ]
         }
@@ -9937,20 +9937,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "鳥焚其巢，旅人先笑後號咷，喪牛于易，凶。",
+          "original": "鸟焚其巢，旅人先笑后号咷，丧牛于易，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 上九 / 0007冊.djvu/500"
+              "locator": "卷9 / 旅 / 上九 / 0007册.djvu/500"
             }
           ]
         },
         "smallImage": {
-          "original": "以旅在上，其義焚也。喪牛于易，終莫之聞也。",
+          "original": "以旅在上，其义焚也。丧牛于易，终莫之闻也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 旅 / 上九小象 / 0007冊.djvu/501"
+              "locator": "卷9 / 旅 / 上九小象 / 0007册.djvu/501"
             }
           ]
         }
@@ -9961,29 +9961,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 57,
     "statement": {
-      "original": "巽：小亨。利有攸徃，利見大人。",
+      "original": "巽：小亨。利有攸徃，利见大人。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 巽 / 卦辞 / 0007冊.djvu/501"
+          "locator": "卷9 / 巽 / 卦辞 / 0007册.djvu/501"
         }
       ]
     },
     "tuan": {
-      "original": "重巽以申命，剛巽乎中正而志行，柔皆順乎剛，是以小亨，利有攸徃，利見大人。",
+      "original": "重巽以申命，刚巽乎中正而志行，柔皆顺乎刚，是以小亨，利有攸徃，利见大人。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 巽 / 彖曰 / 0007冊.djvu/501"
+          "locator": "卷9 / 巽 / 彖曰 / 0007册.djvu/501"
         }
       ]
     },
     "greatImage": {
-      "original": "隨風，巽；君子以申命行事。",
+      "original": "随风，巽；君子以申命行事。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-9-batch6",
-          "locator": "卷9 / 巽 / 整卦大象 / 0007冊.djvu/501"
+          "locator": "卷9 / 巽 / 整卦大象 / 0007册.djvu/501"
         }
       ]
     },
@@ -9996,7 +9996,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-9-batch6",
-        "locator": "卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/501"
+        "locator": "卷9 / 巽 / 彖曰、整卦大象与上下卦 / 0007册.djvu/501"
       }
     ],
     "yao": [
@@ -10004,20 +10004,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "進退，利武人之貞。",
+          "original": "进退，利武人之贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 初六 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 初六 / 0007册.djvu/502"
             }
           ]
         },
         "smallImage": {
-          "original": "進退，志疑也。利武人之貞，志治也。",
+          "original": "进退，志疑也。利武人之贞，志治也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 初六小象 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 初六小象 / 0007册.djvu/502"
             }
           ]
         }
@@ -10026,20 +10026,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "巽在牀下，用史巫紛若，吉，无咎。",
+          "original": "巽在床下，用史巫纷若，吉，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 九二 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 九二 / 0007册.djvu/502"
             }
           ]
         },
         "smallImage": {
-          "original": "紛若之吉，得中也。",
+          "original": "纷若之吉，得中也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 九二小象 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 九二小象 / 0007册.djvu/502"
             }
           ]
         }
@@ -10048,20 +10048,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "頻巽，吝。",
+          "original": "频巽，吝。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 九三 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 九三 / 0007册.djvu/502"
             }
           ]
         },
         "smallImage": {
-          "original": "頻巽之吝，志窮也。",
+          "original": "频巽之吝，志穷也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 九三小象 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 九三小象 / 0007册.djvu/502"
             }
           ]
         }
@@ -10070,20 +10070,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "悔亡，田獲三品。",
+          "original": "悔亡，田获三品。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 六四 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 六四 / 0007册.djvu/502"
             }
           ]
         },
         "smallImage": {
-          "original": "田獲三品，有功也。",
+          "original": "田获三品，有功也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 六四小象 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 六四小象 / 0007册.djvu/502"
             }
           ]
         }
@@ -10092,11 +10092,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
+          "original": "贞吉悔亡，无不利。无初有终，先庚三日，后庚三日，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 九五 / 0007冊.djvu/502"
+              "locator": "卷9 / 巽 / 九五 / 0007册.djvu/502"
             }
           ]
         },
@@ -10105,7 +10105,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 九五小象 / 0007冊.djvu/503"
+              "locator": "卷9 / 巽 / 九五小象 / 0007册.djvu/503"
             }
           ]
         }
@@ -10114,20 +10114,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "巽在牀下，喪其資斧，貞凶。",
+          "original": "巽在床下，丧其资斧，贞凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 上九 / 0007冊.djvu/503"
+              "locator": "卷9 / 巽 / 上九 / 0007册.djvu/503"
             }
           ]
         },
         "smallImage": {
-          "original": "巽在牀下，上窮也。喪其資斧，正乎凶也。",
+          "original": "巽在床下，上穷也。丧其资斧，正乎凶也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-9-batch6",
-              "locator": "卷9 / 巽 / 上九小象 / 0007冊.djvu/503"
+              "locator": "卷9 / 巽 / 上九小象 / 0007册.djvu/503"
             }
           ]
         }
@@ -10138,29 +10138,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 58,
     "statement": {
-      "original": "兌：亨。利貞。",
+      "original": "兑：亨。利贞。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-58",
-          "locator": "第58卦 兌 / 易經 / 卦辞"
+          "locator": "第58卦 兑 / 易经 / 卦辞"
         }
       ]
     },
     "tuan": {
-      "original": "兌，說也。剛中而柔外，說以利貞，是以順乎天，而應乎人。說以先民，民忘其勞；說以犯難，民忘其死；說之大，民勸矣哉！",
+      "original": "兑，说也。刚中而柔外，说以利贞，是以顺乎天，而应乎人。说以先民，民忘其劳；说以犯难，民忘其死；说之大，民劝矣哉！",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-58",
-          "locator": "第58卦 兌 / 彖曰 / 全段"
+          "locator": "第58卦 兑 / 彖曰 / 全段"
         }
       ]
     },
     "greatImage": {
-      "original": "麗澤，兌；君子以朋友講習。",
+      "original": "丽泽，兑；君子以朋友讲习。",
       "originalRefs": [
         {
           "sourceId": "ws-zhouyi-58",
-          "locator": "第58卦 兌 / 象曰 / 整卦大象"
+          "locator": "第58卦 兑 / 象曰 / 整卦大象"
         }
       ]
     },
@@ -10173,7 +10173,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "ws-zhouyi-58",
-        "locator": "第58卦 兌 / 彖曰、象曰与上下卦"
+        "locator": "第58卦 兑 / 彖曰、象曰与上下卦"
       }
     ],
     "yao": [
@@ -10181,20 +10181,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "和兌，吉。",
+          "original": "和兑，吉。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 易經 / 初九"
+              "locator": "第58卦 兑 / 易经 / 初九"
             }
           ]
         },
         "smallImage": {
-          "original": "和兌之吉，行未疑也。",
+          "original": "和兑之吉，行未疑也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 象曰 / 初九小象"
+              "locator": "第58卦 兑 / 象曰 / 初九小象"
             }
           ]
         }
@@ -10203,20 +10203,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "孚兌，吉，悔亡。",
+          "original": "孚兑，吉，悔亡。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 易經 / 九二"
+              "locator": "第58卦 兑 / 易经 / 九二"
             }
           ]
         },
         "smallImage": {
-          "original": "孚兌之吉，信志也。",
+          "original": "孚兑之吉，信志也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 象曰 / 九二小象"
+              "locator": "第58卦 兑 / 象曰 / 九二小象"
             }
           ]
         }
@@ -10225,20 +10225,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "來兌，凶。",
+          "original": "来兑，凶。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 易經 / 六三"
+              "locator": "第58卦 兑 / 易经 / 六三"
             }
           ]
         },
         "smallImage": {
-          "original": "來兌之凶，位不當也。",
+          "original": "来兑之凶，位不当也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 象曰 / 六三小象"
+              "locator": "第58卦 兑 / 象曰 / 六三小象"
             }
           ]
         }
@@ -10247,20 +10247,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "商兌，未寧，介疾有喜。",
+          "original": "商兑，未宁，介疾有喜。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 易經 / 九四"
+              "locator": "第58卦 兑 / 易经 / 九四"
             }
           ]
         },
         "smallImage": {
-          "original": "九四之喜，有慶也。",
+          "original": "九四之喜，有庆也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 象曰 / 九四小象"
+              "locator": "第58卦 兑 / 象曰 / 九四小象"
             }
           ]
         }
@@ -10269,20 +10269,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "孚于剝，有厲。",
+          "original": "孚于剥，有厉。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 易經 / 九五"
+              "locator": "第58卦 兑 / 易经 / 九五"
             }
           ]
         },
         "smallImage": {
-          "original": "孚于剝，位正當也。",
+          "original": "孚于剥，位正当也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 象曰 / 九五小象"
+              "locator": "第58卦 兑 / 象曰 / 九五小象"
             }
           ]
         }
@@ -10291,20 +10291,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "引兌。",
+          "original": "引兑。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 易經 / 上六"
+              "locator": "第58卦 兑 / 易经 / 上六"
             }
           ]
         },
         "smallImage": {
-          "original": "上六引兌，未光也。",
+          "original": "上六引兑，未光也。",
           "originalRefs": [
             {
               "sourceId": "ws-zhouyi-58",
-              "locator": "第58卦 兌 / 象曰 / 上六小象"
+              "locator": "第58卦 兑 / 象曰 / 上六小象"
             }
           ]
         }
@@ -10315,29 +10315,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 59,
     "statement": {
-      "original": "渙：亨。王假有廟，利渉大川，利貞。",
+      "original": "涣：亨。王假有庙，利渉大川，利贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 涣 / 卦辞 / 0007冊.djvu/509"
+          "locator": "卷10 / 涣 / 卦辞 / 0007册.djvu/509"
         }
       ]
     },
     "tuan": {
-      "original": "渙，亨。剛來而不窮，柔得位乎外而上同。王假有廟，王乃在中也。利渉大川，乗木有功也。",
+      "original": "涣，亨。刚来而不穷，柔得位乎外而上同。王假有庙，王乃在中也。利渉大川，乗木有功也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 涣 / 彖曰 / 0007冊.djvu/509"
+          "locator": "卷10 / 涣 / 彖曰 / 0007册.djvu/509"
         }
       ]
     },
     "greatImage": {
-      "original": "風行水上，渙；先王以享于帝立廟。",
+      "original": "风行水上，涣；先王以享于帝立庙。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 涣 / 整卦大象 / 0007冊.djvu/510"
+          "locator": "卷10 / 涣 / 整卦大象 / 0007册.djvu/510"
         }
       ]
     },
@@ -10350,7 +10350,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 涣 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/509–510"
+        "locator": "卷10 / 涣 / 彖曰、整卦大象与上下卦 / 0007册.djvu/509–510"
       }
     ],
     "yao": [
@@ -10358,20 +10358,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "用拯馬壯，吉。",
+          "original": "用拯马壮，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 初六 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 初六 / 0007册.djvu/510"
             }
           ]
         },
         "smallImage": {
-          "original": "初六之吉，順也。",
+          "original": "初六之吉，顺也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 初六小象 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 初六小象 / 0007册.djvu/510"
             }
           ]
         }
@@ -10380,20 +10380,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "渙奔其机，悔亡。",
+          "original": "涣奔其机，悔亡。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 九二 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 九二 / 0007册.djvu/510"
             }
           ]
         },
         "smallImage": {
-          "original": "渙奔其机，得願也。",
+          "original": "涣奔其机，得愿也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 九二小象 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 九二小象 / 0007册.djvu/510"
             }
           ]
         }
@@ -10402,20 +10402,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "渙其躬，无悔。",
+          "original": "涣其躬，无悔。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 六三 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 六三 / 0007册.djvu/510"
             }
           ]
         },
         "smallImage": {
-          "original": "渙其躬，志在外也。",
+          "original": "涣其躬，志在外也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 六三小象 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 六三小象 / 0007册.djvu/510"
             }
           ]
         }
@@ -10424,20 +10424,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "渙其羣，元吉。渙有丘，匪夷所思。",
+          "original": "涣其群，元吉。涣有丘，匪夷所思。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 六四 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 六四 / 0007册.djvu/510"
             }
           ]
         },
         "smallImage": {
-          "original": "渙其羣元吉，光大也。",
+          "original": "涣其群元吉，光大也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 六四小象 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 六四小象 / 0007册.djvu/510"
             }
           ]
         }
@@ -10446,11 +10446,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "渙汗其大號，渙王居，无咎。",
+          "original": "涣汗其大号，涣王居，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 九五 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 九五 / 0007册.djvu/510"
             }
           ]
         },
@@ -10459,7 +10459,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 九五小象 / 0007冊.djvu/510"
+              "locator": "卷10 / 涣 / 九五小象 / 0007册.djvu/510"
             }
           ]
         }
@@ -10468,20 +10468,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "渙其血，去逖出，无咎。",
+          "original": "涣其血，去逖出，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 上九 / 0007冊.djvu/511"
+              "locator": "卷10 / 涣 / 上九 / 0007册.djvu/511"
             }
           ]
         },
         "smallImage": {
-          "original": "渙其血，逺害也。",
+          "original": "涣其血，逺害也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 涣 / 上九小象 / 0007冊.djvu/511"
+              "locator": "卷10 / 涣 / 上九小象 / 0007册.djvu/511"
             }
           ]
         }
@@ -10492,29 +10492,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 60,
     "statement": {
-      "original": "節：亨。苦節不可貞。",
+      "original": "节：亨。苦节不可贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 节 / 卦辞 / 0007冊.djvu/511"
+          "locator": "卷10 / 节 / 卦辞 / 0007册.djvu/511"
         }
       ]
     },
     "tuan": {
-      "original": "節，亨。剛柔分而剛得中。苦節不可貞，其道窮也。說以行險，當位以節，中正以通。天地節而四時成，節以制度，不傷財，不害民。",
+      "original": "节，亨。刚柔分而刚得中。苦节不可贞，其道穷也。说以行险，当位以节，中正以通。天地节而四时成，节以制度，不伤财，不害民。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 节 / 彖曰 / 0007冊.djvu/511"
+          "locator": "卷10 / 节 / 彖曰 / 0007册.djvu/511"
         }
       ]
     },
     "greatImage": {
-      "original": "澤上有水，節；君子以制數度，議德行。",
+      "original": "泽上有水，节；君子以制数度，议德行。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 节 / 整卦大象 / 0007冊.djvu/511"
+          "locator": "卷10 / 节 / 整卦大象 / 0007册.djvu/511"
         }
       ]
     },
@@ -10527,7 +10527,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 节 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/511"
+        "locator": "卷10 / 节 / 彖曰、整卦大象与上下卦 / 0007册.djvu/511"
       }
     ],
     "yao": [
@@ -10539,7 +10539,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 初九 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 初九 / 0007册.djvu/512"
             }
           ]
         },
@@ -10548,7 +10548,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 初九小象 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 初九小象 / 0007册.djvu/512"
             }
           ]
         }
@@ -10557,20 +10557,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "不出門庭，凶。",
+          "original": "不出门庭，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 九二 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 九二 / 0007册.djvu/512"
             }
           ]
         },
         "smallImage": {
-          "original": "不出門庭凶，失時極也。",
+          "original": "不出门庭凶，失时极也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 九二小象 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 九二小象 / 0007册.djvu/512"
             }
           ]
         }
@@ -10579,20 +10579,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "不節若，則嗟若，无咎。",
+          "original": "不节若，则嗟若，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 六三 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 六三 / 0007册.djvu/512"
             }
           ]
         },
         "smallImage": {
-          "original": "不節之嗟，又誰咎也。",
+          "original": "不节之嗟，又谁咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 六三小象 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 六三小象 / 0007册.djvu/512"
             }
           ]
         }
@@ -10601,20 +10601,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "安節，亨。",
+          "original": "安节，亨。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 六四 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 六四 / 0007册.djvu/512"
             }
           ]
         },
         "smallImage": {
-          "original": "安節之亨，承上道也。",
+          "original": "安节之亨，承上道也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 六四小象 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 六四小象 / 0007册.djvu/512"
             }
           ]
         }
@@ -10623,20 +10623,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "甘節，吉。往有尚。",
+          "original": "甘节，吉。往有尚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 九五 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 九五 / 0007册.djvu/512"
             }
           ]
         },
         "smallImage": {
-          "original": "甘節之吉，居位中也。",
+          "original": "甘节之吉，居位中也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 九五小象 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 九五小象 / 0007册.djvu/512"
             }
           ]
         }
@@ -10645,20 +10645,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "苦節，貞凶，悔亡。",
+          "original": "苦节，贞凶，悔亡。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 上六 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 上六 / 0007册.djvu/512"
             }
           ]
         },
         "smallImage": {
-          "original": "苦節貞凶，其道窮也。",
+          "original": "苦节贞凶，其道穷也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 节 / 上六小象 / 0007冊.djvu/512"
+              "locator": "卷10 / 节 / 上六小象 / 0007册.djvu/512"
             }
           ]
         }
@@ -10669,29 +10669,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 61,
     "statement": {
-      "original": "中孚：豚魚吉，利渉大川，利貞。",
+      "original": "中孚：豚鱼吉，利渉大川，利贞。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 中孚 / 卦辞 / 0007冊.djvu/513"
+          "locator": "卷10 / 中孚 / 卦辞 / 0007册.djvu/513"
         }
       ]
     },
     "tuan": {
-      "original": "中孚，柔在内而剛得中，說而巽，孚，乃化邦也。豚魚吉，信及豚魚也。利渉大川，乘木舟虛也。中孚以利貞，乃應乎天也。",
+      "original": "中孚，柔在内而刚得中，说而巽，孚，乃化邦也。豚鱼吉，信及豚鱼也。利渉大川，乘木舟虚也。中孚以利贞，乃应乎天也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 中孚 / 彖曰 / 0007冊.djvu/513"
+          "locator": "卷10 / 中孚 / 彖曰 / 0007册.djvu/513"
         }
       ]
     },
     "greatImage": {
-      "original": "澤上有風，中孚；君子以議獄緩死。",
+      "original": "泽上有风，中孚；君子以议狱缓死。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 中孚 / 整卦大象 / 0007冊.djvu/513"
+          "locator": "卷10 / 中孚 / 整卦大象 / 0007册.djvu/513"
         }
       ]
     },
@@ -10704,7 +10704,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 中孚 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/513"
+        "locator": "卷10 / 中孚 / 彖曰、整卦大象与上下卦 / 0007册.djvu/513"
       }
     ],
     "yao": [
@@ -10716,16 +10716,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 初九 / 0007冊.djvu/513"
+              "locator": "卷10 / 中孚 / 初九 / 0007册.djvu/513"
             }
           ]
         },
         "smallImage": {
-          "original": "初九虞吉，志未變也。",
+          "original": "初九虞吉，志未变也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 初九小象 / 0007冊.djvu/513"
+              "locator": "卷10 / 中孚 / 初九小象 / 0007册.djvu/513"
             }
           ]
         }
@@ -10734,20 +10734,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "鳴鶴在隂，其子和之。我有好爵，吾與爾靡之。",
+          "original": "鸣鹤在隂，其子和之。我有好爵，吾与尔靡之。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 九二 / 0007冊.djvu/513"
+              "locator": "卷10 / 中孚 / 九二 / 0007册.djvu/513"
             }
           ]
         },
         "smallImage": {
-          "original": "其子和之，中心願也。",
+          "original": "其子和之，中心愿也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 九二小象 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 九二小象 / 0007册.djvu/514"
             }
           ]
         }
@@ -10756,20 +10756,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "得敵，或鼔或罷，或泣或歌。",
+          "original": "得敌，或鼔或罢，或泣或歌。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 六三 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 六三 / 0007册.djvu/514"
             }
           ]
         },
         "smallImage": {
-          "original": "或鼔或罷，位不當也。",
+          "original": "或鼔或罢，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 六三小象 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 六三小象 / 0007册.djvu/514"
             }
           ]
         }
@@ -10778,20 +10778,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "月㡬望，馬匹亡，无咎。",
+          "original": "月㡬望，马匹亡，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 六四 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 六四 / 0007册.djvu/514"
             }
           ]
         },
         "smallImage": {
-          "original": "馬匹亡，絶類上也。",
+          "original": "马匹亡，绝类上也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 六四小象 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 六四小象 / 0007册.djvu/514"
             }
           ]
         }
@@ -10800,20 +10800,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "有孚攣如，无咎。",
+          "original": "有孚挛如，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 九五 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 九五 / 0007册.djvu/514"
             }
           ]
         },
         "smallImage": {
-          "original": "有孚攣如，位正當也。",
+          "original": "有孚挛如，位正当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 九五小象 / 0007冊.djvu/514"
+              "locator": "卷10 / 中孚 / 九五小象 / 0007册.djvu/514"
             }
           ]
         }
@@ -10822,20 +10822,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "翰音登于天，貞凶。",
+          "original": "翰音登于天，贞凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 上九 / 0007冊.djvu/515"
+              "locator": "卷10 / 中孚 / 上九 / 0007册.djvu/515"
             }
           ]
         },
         "smallImage": {
-          "original": "翰音登于天，何可長也。",
+          "original": "翰音登于天，何可长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 中孚 / 上九小象 / 0007冊.djvu/515"
+              "locator": "卷10 / 中孚 / 上九小象 / 0007册.djvu/515"
             }
           ]
         }
@@ -10846,29 +10846,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 62,
     "statement": {
-      "original": "小過：亨，利貞。可小事，不可大事。飛鳥遺之音，不宜上，宜下，大吉。",
+      "original": "小过：亨，利贞。可小事，不可大事。飞鸟遗之音，不宜上，宜下，大吉。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 小过 / 卦辞 / 0007冊.djvu/515"
+          "locator": "卷10 / 小过 / 卦辞 / 0007册.djvu/515"
         }
       ]
     },
     "tuan": {
-      "original": "小過，小者過而亨也。過以利貞，與時行也。柔得中，是以小事吉也；剛失位而不中，是以不可大事也。有飛鳥之象焉。飛鳥遺之音，不宜上，宜下，大吉，上逆而下順也。",
+      "original": "小过，小者过而亨也。过以利贞，与时行也。柔得中，是以小事吉也；刚失位而不中，是以不可大事也。有飞鸟之象焉。飞鸟遗之音，不宜上，宜下，大吉，上逆而下顺也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 小过 / 彖曰 / 0007冊.djvu/515"
+          "locator": "卷10 / 小过 / 彖曰 / 0007册.djvu/515"
         }
       ]
     },
     "greatImage": {
-      "original": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
+      "original": "山上有雷，小过；君子以行过乎恭，丧过乎哀，用过乎俭。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 小过 / 整卦大象 / 0007冊.djvu/516"
+          "locator": "卷10 / 小过 / 整卦大象 / 0007册.djvu/516"
         }
       ]
     },
@@ -10881,7 +10881,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 小过 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/515–516"
+        "locator": "卷10 / 小过 / 彖曰、整卦大象与上下卦 / 0007册.djvu/515–516"
       }
     ],
     "yao": [
@@ -10889,20 +10889,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初六",
         "text": {
-          "original": "飛鳥以凶。",
+          "original": "飞鸟以凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 初六 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 初六 / 0007册.djvu/516"
             }
           ]
         },
         "smallImage": {
-          "original": "飛鳥以凶，不可如何也。",
+          "original": "飞鸟以凶，不可如何也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 初六小象 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 初六小象 / 0007册.djvu/516"
             }
           ]
         }
@@ -10911,20 +10911,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "過其祖，遇其妣；不及其君，遇其臣，无咎。",
+          "original": "过其祖，遇其妣；不及其君，遇其臣，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 六二 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 六二 / 0007册.djvu/516"
             }
           ]
         },
         "smallImage": {
-          "original": "不及其君，臣不可過也。",
+          "original": "不及其君，臣不可过也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 六二小象 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 六二小象 / 0007册.djvu/516"
             }
           ]
         }
@@ -10933,20 +10933,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "九三",
         "text": {
-          "original": "弗過防之，從或戕之，凶。",
+          "original": "弗过防之，从或戕之，凶。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 九三 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 九三 / 0007册.djvu/516"
             }
           ]
         },
         "smallImage": {
-          "original": "從或戕之，凶如何也。",
+          "original": "从或戕之，凶如何也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 九三小象 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 九三小象 / 0007册.djvu/516"
             }
           ]
         }
@@ -10955,20 +10955,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "无咎，弗過遇之。往厲必戒，勿用永貞。",
+          "original": "无咎，弗过遇之。往厉必戒，勿用永贞。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 九四 / 0007冊.djvu/516"
+              "locator": "卷10 / 小过 / 九四 / 0007册.djvu/516"
             }
           ]
         },
         "smallImage": {
-          "original": "弗過遇之，位不當也。往厲必戒，終不可長也。",
+          "original": "弗过遇之，位不当也。往厉必戒，终不可长也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 九四小象 / 0007冊.djvu/517"
+              "locator": "卷10 / 小过 / 九四小象 / 0007册.djvu/517"
             }
           ]
         }
@@ -10977,20 +10977,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "密雲不雨，自我西郊，公弋取彼在穴。",
+          "original": "密云不雨，自我西郊，公弋取彼在穴。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 六五 / 0007冊.djvu/517"
+              "locator": "卷10 / 小过 / 六五 / 0007册.djvu/517"
             }
           ]
         },
         "smallImage": {
-          "original": "密雲不雨，已上也。",
+          "original": "密云不雨，已上也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 六五小象 / 0007冊.djvu/517"
+              "locator": "卷10 / 小过 / 六五小象 / 0007册.djvu/517"
             }
           ]
         }
@@ -10999,20 +10999,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "弗遇過之，飛鳥離之，凶，是謂災眚。",
+          "original": "弗遇过之，飞鸟离之，凶，是谓灾眚。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 上六 / 0007冊.djvu/518"
+              "locator": "卷10 / 小过 / 上六 / 0007册.djvu/518"
             }
           ]
         },
         "smallImage": {
-          "original": "弗遇過之，已亢也。",
+          "original": "弗遇过之，已亢也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 小过 / 上六小象 / 0007冊.djvu/518"
+              "locator": "卷10 / 小过 / 上六小象 / 0007册.djvu/518"
             }
           ]
         }
@@ -11023,29 +11023,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 63,
     "statement": {
-      "original": "既濟：亨小，利貞。初吉終亂。",
+      "original": "既济：亨小，利贞。初吉终乱。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 既济 / 卦辞 / 0007冊.djvu/518"
+          "locator": "卷10 / 既济 / 卦辞 / 0007册.djvu/518"
         }
       ]
     },
     "tuan": {
-      "original": "既濟，亨，小者亨也。利貞，剛柔正而位當也。初吉，柔得中也。終止則亂，其道窮也。",
+      "original": "既济，亨，小者亨也。利贞，刚柔正而位当也。初吉，柔得中也。终止则乱，其道穷也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 既济 / 彖曰 / 0007冊.djvu/518"
+          "locator": "卷10 / 既济 / 彖曰 / 0007册.djvu/518"
         }
       ]
     },
     "greatImage": {
-      "original": "水在火上，既濟；君子以思患而豫防之。",
+      "original": "水在火上，既济；君子以思患而豫防之。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 既济 / 整卦大象 / 0007冊.djvu/518"
+          "locator": "卷10 / 既济 / 整卦大象 / 0007册.djvu/518"
         }
       ]
     },
@@ -11058,7 +11058,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 既济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/518"
+        "locator": "卷10 / 既济 / 彖曰、整卦大象与上下卦 / 0007册.djvu/518"
       }
     ],
     "yao": [
@@ -11066,20 +11066,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 1,
         "label": "初九",
         "text": {
-          "original": "曵其輪，濡其尾，无咎。",
+          "original": "曵其轮，濡其尾，无咎。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 初九 / 0007冊.djvu/518"
+              "locator": "卷10 / 既济 / 初九 / 0007册.djvu/518"
             }
           ]
         },
         "smallImage": {
-          "original": "曵其輪，義无咎也。",
+          "original": "曵其轮，义无咎也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 初九小象 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 初九小象 / 0007册.djvu/519"
             }
           ]
         }
@@ -11088,11 +11088,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "六二",
         "text": {
-          "original": "婦喪其茀，勿逐，七日得。",
+          "original": "妇丧其茀，勿逐，七日得。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 六二 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 六二 / 0007册.djvu/519"
             }
           ]
         },
@@ -11101,7 +11101,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 六二小象 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 六二小象 / 0007册.djvu/519"
             }
           ]
         }
@@ -11114,16 +11114,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 九三 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 九三 / 0007册.djvu/519"
             }
           ]
         },
         "smallImage": {
-          "original": "三年克之，憊也。",
+          "original": "三年克之，惫也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 九三小象 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 九三小象 / 0007册.djvu/519"
             }
           ]
         }
@@ -11132,20 +11132,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "六四",
         "text": {
-          "original": "繻有衣袽，終日戒。",
+          "original": "𦈡有衣袽，终日戒。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 六四 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 六四 / 0007册.djvu/519"
             }
           ]
         },
         "smallImage": {
-          "original": "終日戒，有所疑也。",
+          "original": "终日戒，有所疑也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 六四小象 / 0007冊.djvu/519"
+              "locator": "卷10 / 既济 / 六四小象 / 0007册.djvu/519"
             }
           ]
         }
@@ -11154,20 +11154,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "九五",
         "text": {
-          "original": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
+          "original": "东邻杀牛，不如西邻之禴祭，实受其福。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 九五 / 0007冊.djvu/520"
+              "locator": "卷10 / 既济 / 九五 / 0007册.djvu/520"
             }
           ]
         },
         "smallImage": {
-          "original": "東鄰殺牛，不如西鄰之時也。實受其福，吉大來也。",
+          "original": "东邻杀牛，不如西邻之时也。实受其福，吉大来也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 九五小象 / 0007冊.djvu/520"
+              "locator": "卷10 / 既济 / 九五小象 / 0007册.djvu/520"
             }
           ]
         }
@@ -11176,20 +11176,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上六",
         "text": {
-          "original": "濡其首，厲。",
+          "original": "濡其首，厉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 上六 / 0007冊.djvu/520"
+              "locator": "卷10 / 既济 / 上六 / 0007册.djvu/520"
             }
           ]
         },
         "smallImage": {
-          "original": "濡其首厲，何可久也。",
+          "original": "濡其首厉，何可久也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 既济 / 上六小象 / 0007冊.djvu/520"
+              "locator": "卷10 / 既济 / 上六小象 / 0007册.djvu/520"
             }
           ]
         }
@@ -11200,29 +11200,29 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
   {
     "id": 64,
     "statement": {
-      "original": "未濟：亨。小狐汔濟，濡其尾，无攸利。",
+      "original": "未济：亨。小狐汔济，濡其尾，无攸利。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 未济 / 卦辞 / 0007冊.djvu/520"
+          "locator": "卷10 / 未济 / 卦辞 / 0007册.djvu/520"
         }
       ]
     },
     "tuan": {
-      "original": "未濟，亨，柔得中也。小狐汔濟，未出中也。濡其尾，无攸利，不續終也。雖不當位，剛柔應也。",
+      "original": "未济，亨，柔得中也。小狐汔济，未出中也。濡其尾，无攸利，不续终也。虽不当位，刚柔应也。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 未济 / 彖曰 / 0007冊.djvu/520–521"
+          "locator": "卷10 / 未济 / 彖曰 / 0007册.djvu/520–521"
         }
       ]
     },
     "greatImage": {
-      "original": "火在水上，未濟；君子以慎辨物居方。",
+      "original": "火在水上，未济；君子以慎辨物居方。",
       "originalRefs": [
         {
           "sourceId": "skqs-zhouyi-10-batch6",
-          "locator": "卷10 / 未济 / 整卦大象 / 0007冊.djvu/521"
+          "locator": "卷10 / 未济 / 整卦大象 / 0007册.djvu/521"
         }
       ]
     },
@@ -11235,7 +11235,7 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
     "overviewRefs": [
       {
         "sourceId": "skqs-zhouyi-10-batch6",
-        "locator": "卷10 / 未济 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/520–521"
+        "locator": "卷10 / 未济 / 彖曰、整卦大象与上下卦 / 0007册.djvu/520–521"
       }
     ],
     "yao": [
@@ -11247,16 +11247,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 初六 / 0007冊.djvu/521"
+              "locator": "卷10 / 未济 / 初六 / 0007册.djvu/521"
             }
           ]
         },
         "smallImage": {
-          "original": "濡其尾，亦不知極也。",
+          "original": "濡其尾，亦不知极也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 初六小象 / 0007冊.djvu/521"
+              "locator": "卷10 / 未济 / 初六小象 / 0007册.djvu/521"
             }
           ]
         }
@@ -11265,20 +11265,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 2,
         "label": "九二",
         "text": {
-          "original": "曵其輪，貞吉。",
+          "original": "曵其轮，贞吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 九二 / 0007冊.djvu/521"
+              "locator": "卷10 / 未济 / 九二 / 0007册.djvu/521"
             }
           ]
         },
         "smallImage": {
-          "original": "九二貞吉，中以行正也。",
+          "original": "九二贞吉，中以行正也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 九二小象 / 0007冊.djvu/521"
+              "locator": "卷10 / 未济 / 九二小象 / 0007册.djvu/521"
             }
           ]
         }
@@ -11287,20 +11287,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 3,
         "label": "六三",
         "text": {
-          "original": "未濟，征凶，利渉大川。",
+          "original": "未济，征凶，利渉大川。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 六三 / 0007冊.djvu/521"
+              "locator": "卷10 / 未济 / 六三 / 0007册.djvu/521"
             }
           ]
         },
         "smallImage": {
-          "original": "未濟征凶，位不當也。",
+          "original": "未济征凶，位不当也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 六三小象 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 六三小象 / 0007册.djvu/522"
             }
           ]
         }
@@ -11309,20 +11309,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 4,
         "label": "九四",
         "text": {
-          "original": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+          "original": "贞吉，悔亡，震用伐鬼方，三年有赏于大国。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 九四 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 九四 / 0007册.djvu/522"
             }
           ]
         },
         "smallImage": {
-          "original": "貞吉悔亡，志行也。",
+          "original": "贞吉悔亡，志行也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 九四小象 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 九四小象 / 0007册.djvu/522"
             }
           ]
         }
@@ -11331,20 +11331,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 5,
         "label": "六五",
         "text": {
-          "original": "貞吉，无悔，君子之光，有孚，吉。",
+          "original": "贞吉，无悔，君子之光，有孚，吉。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 六五 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 六五 / 0007册.djvu/522"
             }
           ]
         },
         "smallImage": {
-          "original": "君子之光，其暉吉也。",
+          "original": "君子之光，其晖吉也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 六五小象 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 六五小象 / 0007册.djvu/522"
             }
           ]
         }
@@ -11353,20 +11353,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
         "position": 6,
         "label": "上九",
         "text": {
-          "original": "有孚于飲酒，无咎。濡其首，有孚失是。",
+          "original": "有孚于饮酒，无咎。濡其首，有孚失是。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 上九 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 上九 / 0007册.djvu/522"
             }
           ]
         },
         "smallImage": {
-          "original": "飲酒濡首，亦不知節也。",
+          "original": "饮酒濡首，亦不知节也。",
           "originalRefs": [
             {
               "sourceId": "skqs-zhouyi-10-batch6",
-              "locator": "卷10 / 未济 / 上九小象 / 0007冊.djvu/522"
+              "locator": "卷10 / 未济 / 上九小象 / 0007册.djvu/522"
             }
           ]
         }

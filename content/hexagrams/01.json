@@ -2,13 +2,13 @@
   "id": 1,
   "statement": {
     "id": "h1-statement",
-    "original": "乾：元亨。利貞。",
+    "original": "乾：元亨。利贞。",
     "explanation": "开创而亨通，利于守持正道。这里按《易传》的德性解释理解“元亨利贞”。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "ws-zhouyi-1",
-        "locator": "第1卦 乾 / 易經 / 卦辞"
+        "locator": "第1卦 乾 / 易经 / 卦辞"
       }
     ],
     "explanationRefs": [
@@ -21,7 +21,7 @@
   },
   "tuan": {
     "id": "h1-tuan",
-    "original": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形，大明終始，六位時成。時乘六龍以御天，乾道變化，各正性命，保合大和，乃利貞。首出庶物，萬國咸寧。",
+    "original": "大哉乾元，万物资始，乃统天。云行雨施，品物流形，大明终始，六位时成。时乘六龙以御天，乾道变化，各正性命，保合大和，乃利贞。首出庶物，万国咸宁。",
     "explanation": "乾的创始作用使万物开始生长，并统贯天道。云行雨降，万物形成各自的形态；明察终始，六爻随时序呈现。借六龙说明顺时而动，使万物各安其性命、保持和谐，进而守正。作为万物的先导，天下由此安宁。",
     "notes": [],
     "originalRefs": [
@@ -40,7 +40,7 @@
   },
   "greatImage": {
     "id": "h1-great-image",
-    "original": "天行健，君子以自強不息。",
+    "original": "天行健，君子以自强不息。",
     "explanation": "天的运行刚健不息，君子由此学习不断自我勉励。",
     "notes": [],
     "originalRefs": [
@@ -77,13 +77,13 @@
       "label": "初九",
       "text": {
         "id": "h1-yao-1",
-        "original": "潛龍勿用。",
+        "original": "潜龙勿用。",
         "explanation": "龙潜藏着，暂不施用其才能。比喻条件未成熟时先积蓄力量。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 初九"
+            "locator": "第1卦 乾 / 易经 / 初九"
           }
         ],
         "explanationRefs": [
@@ -96,7 +96,7 @@
       },
       "smallImage": {
         "id": "h1-image-1",
-        "original": "潛龍勿用，陽在下也。",
+        "original": "潜龙勿用，阳在下也。",
         "explanation": "阳爻处在最下方，说明潜藏未显的阶段。",
         "notes": [],
         "originalRefs": [
@@ -122,13 +122,13 @@
       "label": "九二",
       "text": {
         "id": "h1-yao-2",
-        "original": "見龍在田，利見大人。",
+        "original": "见龙在田，利见大人。",
         "explanation": "龙出现在田野，利于见到有德有位的人。“见龙”的“见”读作现。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 九二"
+            "locator": "第1卦 乾 / 易经 / 九二"
           }
         ],
         "explanationRefs": [
@@ -141,7 +141,7 @@
       },
       "smallImage": {
         "id": "h1-image-2",
-        "original": "見龍在田，德施普也。",
+        "original": "见龙在田，德施普也。",
         "explanation": "龙出现在田野，说明德行的影响开始普遍施展。",
         "notes": [],
         "originalRefs": [
@@ -167,13 +167,13 @@
       "label": "九三",
       "text": {
         "id": "h1-yao-3",
-        "original": "君子終日乾乾，夕惕若；厲，无咎。",
+        "original": "君子终日乾乾，夕惕若；厉，无咎。",
         "explanation": "君子整天勤勉，到了夜间仍保持警惕；虽有危险，也能避免过失。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 九三"
+            "locator": "第1卦 乾 / 易经 / 九三"
           }
         ],
         "explanationRefs": [
@@ -186,7 +186,7 @@
       },
       "smallImage": {
         "id": "h1-image-3",
-        "original": "終日乾乾，反復道也。",
+        "original": "终日乾乾，反复道也。",
         "explanation": "终日勤勉，是反复践行应行之道。",
         "notes": [],
         "originalRefs": [
@@ -212,13 +212,13 @@
       "label": "九四",
       "text": {
         "id": "h1-yao-4",
-        "original": "或躍在淵，无咎。",
+        "original": "或跃在渊，无咎。",
         "explanation": "或向上跃起，或仍处深渊；审慎试进，可以没有过失。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 九四"
+            "locator": "第1卦 乾 / 易经 / 九四"
           }
         ],
         "explanationRefs": [
@@ -231,7 +231,7 @@
       },
       "smallImage": {
         "id": "h1-image-4",
-        "original": "或躍在淵，進无咎也。",
+        "original": "或跃在渊，进无咎也。",
         "explanation": "在跃进与留处之间审时而行，其进取可以无咎。",
         "notes": [],
         "originalRefs": [
@@ -257,13 +257,13 @@
       "label": "九五",
       "text": {
         "id": "h1-yao-5",
-        "original": "飛龍在天，利見大人。",
+        "original": "飞龙在天，利见大人。",
         "explanation": "龙飞在天空，利于见到有德有位的人；借以说明才能充分发挥的处境。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 九五"
+            "locator": "第1卦 乾 / 易经 / 九五"
           }
         ],
         "explanationRefs": [
@@ -276,7 +276,7 @@
       },
       "smallImage": {
         "id": "h1-image-5",
-        "original": "飛龍在天，大人造也。",
+        "original": "飞龙在天，大人造也。",
         "explanation": "飞龙在天，说明大人有所作为、成就其事。",
         "notes": [],
         "originalRefs": [
@@ -302,13 +302,13 @@
       "label": "上九",
       "text": {
         "id": "h1-yao-6",
-        "original": "亢龍，有悔。",
+        "original": "亢龙，有悔。",
         "explanation": "龙上升到过高之处，会有悔恨；提示进取到了极处须知节制。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 上九"
+            "locator": "第1卦 乾 / 易经 / 上九"
           }
         ],
         "explanationRefs": [
@@ -321,7 +321,7 @@
       },
       "smallImage": {
         "id": "h1-image-6",
-        "original": "亢龍有悔，盈不可久也。",
+        "original": "亢龙有悔，盈不可久也。",
         "explanation": "处于过满的状态不能长久，所以会有悔。",
         "notes": [],
         "originalRefs": [
@@ -347,13 +347,13 @@
       "kind": "yong-jiu",
       "text": {
         "id": "h1-yong-jiu",
-        "original": "見羣龍无首，吉。",
+        "original": "见群龙无首，吉。",
         "explanation": "群龙出现而不以一龙居首，原文称吉；在学习中可理解为刚健而不专断。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-1",
-            "locator": "第1卦 乾 / 易經 / 用九"
+            "locator": "第1卦 乾 / 易经 / 用九"
           }
         ],
         "explanationRefs": [
@@ -366,7 +366,7 @@
       },
       "smallImage": {
         "id": "h1-yong-jiu-image",
-        "original": "用九，天德不可為首也。",
+        "original": "用九，天德不可为首也。",
         "explanation": "说明天德虽刚健，也不以争居首位为原则。",
         "notes": [],
         "originalRefs": [

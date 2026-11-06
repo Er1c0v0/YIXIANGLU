@@ -2,38 +2,38 @@
   "id": 22,
   "statement": {
     "id": "h22-statement",
-    "original": "賁：亨，小利有攸徃。",
+    "original": "贲：亨，小利有攸徃。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch4",
-        "locator": "卷4 / 賁 / 卦辞 / 0007冊.djvu/395"
+        "locator": "卷4 / 贲 / 卦辞 / 0007册.djvu/395"
       }
     ],
     "reviewId": "review-h22-statement"
   },
   "tuan": {
     "id": "h22-tuan",
-    "original": "賁亨，柔來而文剛，故亨。分剛上而文柔，故小利有攸徃。天文也。文明以止，人文也。觀乎天文，以察時變；觀乎人文，以化成天下。",
+    "original": "贲亨，柔来而文刚，故亨。分刚上而文柔，故小利有攸徃。天文也。文明以止，人文也。观乎天文，以察时变；观乎人文，以化成天下。",
     "notes": [
       "四库本电子主文在此仅作“天文也”；“剛柔交錯而成文焉”见其注文，普通电子对校页主文有“剛柔交錯”。本条按采用录文分离主文与注，待影印复核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch4",
-        "locator": "卷4 / 賁 / 彖曰 / 0007冊.djvu/395"
+        "locator": "卷4 / 贲 / 彖曰 / 0007册.djvu/395"
       }
     ],
     "reviewId": "review-h22-tuan"
   },
   "greatImage": {
     "id": "h22-great-image",
-    "original": "山下有火，賁；君子以明庶政，无敢折獄。",
+    "original": "山下有火，贲；君子以明庶政，无敢折狱。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-4-batch4",
-        "locator": "卷4 / 賁 / 整卦大象 / 0007冊.djvu/396"
+        "locator": "卷4 / 贲 / 整卦大象 / 0007册.djvu/396"
       }
     ],
     "reviewId": "review-h22-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-4-batch4",
-      "locator": "卷4 / 賁 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/395–396"
+      "locator": "卷4 / 贲 / 彖曰、整卦大象与上下卦 / 0007册.djvu/395–396"
     }
   ],
   "overviewReviewId": "review-h22-overview",
@@ -58,26 +58,26 @@
       "label": "初九",
       "text": {
         "id": "h22-yao-1",
-        "original": "賁其趾，舎車而徒。",
+        "original": "贲其趾，舎车而徒。",
         "notes": [
           "电子页“舎”为图形字，按其替代文字转写；小象主文作“舍”，保留差别，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 初九 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 初九 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-yao-1"
       },
       "smallImage": {
         "id": "h22-image-1",
-        "original": "舍車而徒，義弗乘也。",
+        "original": "舍车而徒，义弗乘也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 初九小象 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 初九小象 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-image-1"
@@ -89,24 +89,24 @@
       "label": "六二",
       "text": {
         "id": "h22-yao-2",
-        "original": "賁其須。",
+        "original": "贲其须。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 六二 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 六二 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-yao-2"
       },
       "smallImage": {
         "id": "h22-image-2",
-        "original": "賁其須，與上興也。",
+        "original": "贲其须，与上兴也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 六二小象 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 六二小象 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-image-2"
@@ -118,24 +118,24 @@
       "label": "九三",
       "text": {
         "id": "h22-yao-3",
-        "original": "賁如濡如，永貞吉。",
+        "original": "贲如濡如，永贞吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 九三 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 九三 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-yao-3"
       },
       "smallImage": {
         "id": "h22-image-3",
-        "original": "永貞之吉，終莫之陵也。",
+        "original": "永贞之吉，终莫之陵也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 九三小象 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 九三小象 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-image-3"
@@ -147,26 +147,26 @@
       "label": "六四",
       "text": {
         "id": "h22-yao-4",
-        "original": "賁如皤如，白馬翰如，匪宼婚媾。",
+        "original": "贲如皤如，白马翰如，匪宼婚媾。",
         "notes": [
           "采用电子录文爻辞“宼”、小象“寇”的字形差别。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 六四 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 六四 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-yao-4"
       },
       "smallImage": {
         "id": "h22-image-4",
-        "original": "六四當位疑也。匪寇婚媾，終无尤也。",
+        "original": "六四当位疑也。匪寇婚媾，终无尤也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 六四小象 / 0007冊.djvu/396"
+            "locator": "卷4 / 贲 / 六四小象 / 0007册.djvu/396"
           }
         ],
         "reviewId": "review-h22-image-4"
@@ -178,12 +178,12 @@
       "label": "六五",
       "text": {
         "id": "h22-yao-5",
-        "original": "賁于丘園，束帛戔戔，吝，終吉。",
+        "original": "贲于丘园，束帛戋戋，吝，终吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 六五 / 0007冊.djvu/397"
+            "locator": "卷4 / 贲 / 六五 / 0007册.djvu/397"
           }
         ],
         "reviewId": "review-h22-yao-5"
@@ -195,7 +195,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 六五小象 / 0007冊.djvu/397"
+            "locator": "卷4 / 贲 / 六五小象 / 0007册.djvu/397"
           }
         ],
         "reviewId": "review-h22-image-5"
@@ -207,24 +207,24 @@
       "label": "上九",
       "text": {
         "id": "h22-yao-6",
-        "original": "白賁，无咎。",
+        "original": "白贲，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 上九 / 0007冊.djvu/397"
+            "locator": "卷4 / 贲 / 上九 / 0007册.djvu/397"
           }
         ],
         "reviewId": "review-h22-yao-6"
       },
       "smallImage": {
         "id": "h22-image-6",
-        "original": "白賁无咎，上得志也。",
+        "original": "白贲无咎，上得志也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-4-batch4",
-            "locator": "卷4 / 賁 / 上九小象 / 0007冊.djvu/397"
+            "locator": "卷4 / 贲 / 上九小象 / 0007册.djvu/397"
           }
         ],
         "reviewId": "review-h22-image-6"

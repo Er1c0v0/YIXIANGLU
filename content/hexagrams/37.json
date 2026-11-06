@@ -2,40 +2,40 @@
   "id": 37,
   "statement": {
     "id": "h37-statement",
-    "original": "家人：利女貞。",
+    "original": "家人：利女贞。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 家人 / 卦辞 / 0007冊.djvu/440"
+        "locator": "卷6 / 家人 / 卦辞 / 0007册.djvu/440"
       }
     ],
     "reviewId": "review-h37-statement"
   },
   "tuan": {
     "id": "h37-tuan",
-    "original": "家人，女正位乎内，男正位乎外，男女正，天地之大義也。家人有嚴君焉，父母之謂也。父父子子，兄兄弟弟，夫夫婦婦，而家道正；正家而天下定矣。",
+    "original": "家人，女正位乎内，男正位乎外，男女正，天地之大义也。家人有严君焉，父母之谓也。父父子子，兄兄弟弟，夫夫妇妇，而家道正；正家而天下定矣。",
     "notes": [
       "采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 家人 / 彖曰 / 0007冊.djvu/440"
+        "locator": "卷6 / 家人 / 彖曰 / 0007册.djvu/440"
       }
     ],
     "reviewId": "review-h37-tuan"
   },
   "greatImage": {
     "id": "h37-great-image",
-    "original": "風自火出，家人；君子以言有物而行有恒。",
+    "original": "风自火出，家人；君子以言有物而行有恒。",
     "notes": [
       "采用电子录文“恒”，普通电子对校页相应为“恆”；保留所见，影印字形待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 家人 / 整卦大象 / 0007冊.djvu/440"
+        "locator": "卷6 / 家人 / 整卦大象 / 0007册.djvu/440"
       }
     ],
     "reviewId": "review-h37-great-image"
@@ -49,7 +49,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-6-batch5",
-      "locator": "卷6 / 家人 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/440"
+      "locator": "卷6 / 家人 / 彖曰、整卦大象与上下卦 / 0007册.djvu/440"
     }
   ],
   "overviewReviewId": "review-h37-overview",
@@ -60,24 +60,24 @@
       "label": "初九",
       "text": {
         "id": "h37-yao-1",
-        "original": "閑有家，悔亡。",
+        "original": "闲有家，悔亡。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 初九 / 0007冊.djvu/440"
+            "locator": "卷6 / 家人 / 初九 / 0007册.djvu/440"
           }
         ],
         "reviewId": "review-h37-yao-1"
       },
       "smallImage": {
         "id": "h37-image-1",
-        "original": "閑有家，志未變也。",
+        "original": "闲有家，志未变也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 初九小象 / 0007冊.djvu/440"
+            "locator": "卷6 / 家人 / 初九小象 / 0007册.djvu/440"
           }
         ],
         "reviewId": "review-h37-image-1"
@@ -89,24 +89,24 @@
       "label": "六二",
       "text": {
         "id": "h37-yao-2",
-        "original": "无攸遂，在中饋，貞吉。",
+        "original": "无攸遂，在中馈，贞吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 六二 / 0007冊.djvu/440"
+            "locator": "卷6 / 家人 / 六二 / 0007册.djvu/440"
           }
         ],
         "reviewId": "review-h37-yao-2"
       },
       "smallImage": {
         "id": "h37-image-2",
-        "original": "六二之吉，順以巽也。",
+        "original": "六二之吉，顺以巽也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 六二小象 / 0007冊.djvu/440"
+            "locator": "卷6 / 家人 / 六二小象 / 0007册.djvu/440"
           }
         ],
         "reviewId": "review-h37-image-2"
@@ -118,24 +118,24 @@
       "label": "九三",
       "text": {
         "id": "h37-yao-3",
-        "original": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+        "original": "家人嗃嗃，悔厉吉；妇子嘻嘻，终吝。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 九三 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 九三 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-yao-3"
       },
       "smallImage": {
         "id": "h37-image-3",
-        "original": "家人嗃嗃，未失也；婦子嘻嘻，失家節也。",
+        "original": "家人嗃嗃，未失也；妇子嘻嘻，失家节也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 九三小象 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 九三小象 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-image-3"
@@ -152,19 +152,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 六四 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 六四 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-yao-4"
       },
       "smallImage": {
         "id": "h37-image-4",
-        "original": "富家大吉，順在位也。",
+        "original": "富家大吉，顺在位也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 六四小象 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 六四小象 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-image-4"
@@ -181,19 +181,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 九五 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 九五 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-yao-5"
       },
       "smallImage": {
         "id": "h37-image-5",
-        "original": "王假有家，交相愛也。",
+        "original": "王假有家，交相爱也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 九五小象 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 九五小象 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-image-5"
@@ -205,24 +205,24 @@
       "label": "上九",
       "text": {
         "id": "h37-yao-6",
-        "original": "有孚威如，終吉。",
+        "original": "有孚威如，终吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 上九 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 上九 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-yao-6"
       },
       "smallImage": {
         "id": "h37-image-6",
-        "original": "威如之吉，反身之謂也。",
+        "original": "威如之吉，反身之谓也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 家人 / 上九小象 / 0007冊.djvu/441"
+            "locator": "卷6 / 家人 / 上九小象 / 0007册.djvu/441"
           }
         ],
         "reviewId": "review-h37-image-6"

@@ -2,38 +2,38 @@
   "id": 40,
   "statement": {
     "id": "h40-statement",
-    "original": "解：利西南，无所往，其來復吉；有攸往，夙吉。",
+    "original": "解：利西南，无所往，其来复吉；有攸往，夙吉。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 解 / 卦辞 / 0007冊.djvu/448"
+        "locator": "卷7 / 解 / 卦辞 / 0007册.djvu/448"
       }
     ],
     "reviewId": "review-h40-statement"
   },
   "tuan": {
     "id": "h40-tuan",
-    "original": "解，險以動，動而免乎險，解。解利西南，往得衆也。其來復吉，乃得中也。有攸往夙吉，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之時大矣哉！",
+    "original": "解，险以动，动而免乎险，解。解利西南，往得众也。其来复吉，乃得中也。有攸往夙吉，往有功也。天地解而雷雨作，雷雨作而百果草木皆甲坼。解之时大矣哉！",
     "notes": [
       "采用电子录文“往得衆也”“解之時大矣哉”，普通电子对校页作“往得眾也”“解之時義大矣哉”；未向主文补入“義”字，影印待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 解 / 彖曰 / 0007冊.djvu/449"
+        "locator": "卷7 / 解 / 彖曰 / 0007册.djvu/449"
       }
     ],
     "reviewId": "review-h40-tuan"
   },
   "greatImage": {
     "id": "h40-great-image",
-    "original": "雷雨作，解；君子以赦過宥罪。",
+    "original": "雷雨作，解；君子以赦过宥罪。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-7-batch5",
-        "locator": "卷7 / 解 / 整卦大象 / 0007冊.djvu/449"
+        "locator": "卷7 / 解 / 整卦大象 / 0007册.djvu/449"
       }
     ],
     "reviewId": "review-h40-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-7-batch5",
-      "locator": "卷7 / 解 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/448–449"
+      "locator": "卷7 / 解 / 彖曰、整卦大象与上下卦 / 0007册.djvu/448–449"
     }
   ],
   "overviewReviewId": "review-h40-overview",
@@ -63,19 +63,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 初六 / 0007冊.djvu/449"
+            "locator": "卷7 / 解 / 初六 / 0007册.djvu/449"
           }
         ],
         "reviewId": "review-h40-yao-1"
       },
       "smallImage": {
         "id": "h40-image-1",
-        "original": "剛柔之際，義无咎也。",
+        "original": "刚柔之际，义无咎也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 初六小象 / 0007冊.djvu/449"
+            "locator": "卷7 / 解 / 初六小象 / 0007册.djvu/449"
           }
         ],
         "reviewId": "review-h40-image-1"
@@ -87,7 +87,7 @@
       "label": "九二",
       "text": {
         "id": "h40-yao-2",
-        "original": "田獲三狐，得黃矢，貞吉。",
+        "original": "田获三狐，得黄矢，贞吉。",
         "notes": [
           "采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形待核。",
           "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -95,19 +95,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 九二 / 0007冊.djvu/449"
+            "locator": "卷7 / 解 / 九二 / 0007册.djvu/449"
           }
         ],
         "reviewId": "review-h40-yao-2"
       },
       "smallImage": {
         "id": "h40-image-2",
-        "original": "九二貞吉，得中道也。",
+        "original": "九二贞吉，得中道也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 九二小象 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 九二小象 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-image-2"
@@ -119,28 +119,28 @@
       "label": "六三",
       "text": {
         "id": "h40-yao-3",
-        "original": "負且乘，致宼至，貞吝。",
+        "original": "负且乘，致宼至，贞吝。",
         "notes": [
           "采用电子录文“宼”，普通电子对校页相应为“寇”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 六三 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 六三 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-yao-3"
       },
       "smallImage": {
         "id": "h40-image-3",
-        "original": "負且乘，亦可醜也；自我致戎，又誰咎也。",
+        "original": "负且乘，亦可丑也；自我致戎，又谁咎也。",
         "notes": [
           "采用电子录文“醜”，普通电子对校页相应为“丑”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 六三小象 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 六三小象 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-image-3"
@@ -157,19 +157,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 九四 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 九四 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-yao-4"
       },
       "smallImage": {
         "id": "h40-image-4",
-        "original": "解而拇，未當位也。",
+        "original": "解而拇，未当位也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 九四小象 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 九四小象 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-image-4"
@@ -181,14 +181,14 @@
       "label": "六五",
       "text": {
         "id": "h40-yao-5",
-        "original": "君子維有解，吉；有孚于小人。",
+        "original": "君子维有解，吉；有孚于小人。",
         "notes": [
           "采用电子录文“維”，普通电子对校页相应为“惟”；保留所见，影印字形待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 六五 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 六五 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-yao-5"
@@ -200,7 +200,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 六五小象 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 六五小象 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-image-5"
@@ -212,7 +212,7 @@
       "label": "上六",
       "text": {
         "id": "h40-yao-6",
-        "original": "公用射隼于髙墉之上，獲之，无不利。",
+        "original": "公用射隼于髙墉之上，获之，无不利。",
         "notes": [
           "采用电子录文“髙”、“𫉬”，普通电子对校页相应为“高”、“獲”；保留所见，影印字形待核。",
           "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -220,7 +220,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 上六 / 0007冊.djvu/450"
+            "locator": "卷7 / 解 / 上六 / 0007册.djvu/450"
           }
         ],
         "reviewId": "review-h40-yao-6"
@@ -232,7 +232,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-7-batch5",
-            "locator": "卷7 / 解 / 上六小象 / 0007冊.djvu/451"
+            "locator": "卷7 / 解 / 上六小象 / 0007册.djvu/451"
           }
         ],
         "reviewId": "review-h40-image-6"

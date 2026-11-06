@@ -1,119 +1,119 @@
 [
   {
     "id": "review-h1-statement", "subjectId": "h1-statement", "method": "prototype-20261021",
-    "subjectHash": "c95ba72adb6c9f5db799440e68f4e1121e3925706362337c77d022f29636b514",
+    "subjectHash": "8c3258510154b86151f90eb5fd0c3b8b9ce52b9aab38615b3176bdbe2397b6ad",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 卦辞"}],
     "issues": []
   },
   {
     "id": "review-h1-tuan", "subjectId": "h1-tuan", "method": "prototype-20261021",
-    "subjectHash": "e525200717c395e70926158c74b133fb966b16de9f6f38e15d4b1e37b2475b8c",
+    "subjectHash": "94b95b56ed64c67865f681890c653ea346368f190931e613fa46a3c0de51e72d",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 彖曰 / 全段"}],
     "issues": []
   },
   {
     "id": "review-h1-great-image", "subjectId": "h1-great-image", "method": "prototype-20261021",
-    "subjectHash": "66ff00e1e1fd299dde62aca258bd25b91e92c1f1cd0fee9f867841e9b2255ab1",
+    "subjectHash": "0ebdd2a7cd89b1c405b935b8ef3ba211797bc02c618aa457a7b44e01ed4e6b79",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 整卦大象"}],
     "issues": []
   },
   {
     "id": "review-h1-yao-1", "subjectId": "h1-yao-1", "method": "prototype-20261021",
-    "subjectHash": "76bc2c41cf8c9400197bcb5f2f81b08856599cddab489ccceca3c9ddb026f2cd",
+    "subjectHash": "2938526c01058f57c661daf711adf38cad20bd441be949d319882e82f0391a25",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 初九"}],
     "issues": []
   },
   {
     "id": "review-h1-image-1", "subjectId": "h1-image-1", "method": "prototype-20261021",
-    "subjectHash": "0fd2c32269cf7be77d190c5ea971e2cfaf4ac6bb485983e4333c5b808e94059d",
+    "subjectHash": "a088f4dedd8453ee5840bcb01be53dec2b418e9c95020f0da11c5db9a5c3916a",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 初九小象"}],
     "issues": []
   },
   {
     "id": "review-h1-yao-2", "subjectId": "h1-yao-2", "method": "prototype-20261021",
-    "subjectHash": "060b7c1bb6c6fc948bb846d9b37fffef4d5f879bba302714f7c30e2060d6a899",
+    "subjectHash": "bd39e5dddbd2f5de68781bdc1e0ced37844cd5be1dd1485fcf03eebf5b0f7c7f",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 九二"}],
     "issues": []
   },
   {
     "id": "review-h1-image-2", "subjectId": "h1-image-2", "method": "prototype-20261021",
-    "subjectHash": "4b202a6d573c817a17a40da467d5b021883e7601468c1fc89617cb474ba74ff4",
+    "subjectHash": "b55a9e5d09a7860b6fef0bec4dfc3720adafcc2757e4d124450d9acba22b6b6a",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 九二小象"}],
     "issues": []
   },
   {
     "id": "review-h1-yao-3", "subjectId": "h1-yao-3", "method": "prototype-20261021",
-    "subjectHash": "b03ec6a9c2fe2f49253c417311ce9efe3ce5fda5b823a652770af8e11f717e18",
+    "subjectHash": "869bdba156715f3454404dbca3200ee66ed9b107b6da19ce12eccb1f0e8947fb",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 九三"}],
     "issues": []
   },
   {
     "id": "review-h1-image-3", "subjectId": "h1-image-3", "method": "prototype-20261021",
-    "subjectHash": "85e099858b9f30b7050d9fd6d7723a637934a9b2185f17ed27e1a4cffbdb16a1",
+    "subjectHash": "ee912e5d346a4f6983e870e79d02b20ce5a21a343562d9267e881d134eed3fd3",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 九三小象"}],
     "issues": []
   },
   {
     "id": "review-h1-yao-4", "subjectId": "h1-yao-4", "method": "prototype-20261021",
-    "subjectHash": "db5b1467da437113af5f7401d70484b309af20520dfd66b0c2165ab5b842e8c7",
+    "subjectHash": "a1bc106e980ab2ad1fd555bc714eba0b0fe5efe22adab3d99a2a1fcd5aec2754",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 九四"}],
     "issues": []
   },
   {
     "id": "review-h1-image-4", "subjectId": "h1-image-4", "method": "prototype-20261021",
-    "subjectHash": "ba04b7da7246d4c66d3695754b6bf867c54fd7f71a2a1aab876d05397d84cdd5",
+    "subjectHash": "e1e0cfcbcc1badd99a63c5a2eeed55083dba2b9034d06056382d8d9c4c4bd835",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 九四小象"}],
     "issues": []
   },
   {
     "id": "review-h1-yao-5", "subjectId": "h1-yao-5", "method": "prototype-20261021",
-    "subjectHash": "646d81d785d2d78141ac44eff32c8c0faeaab6f364d2d68f40bbe7fdb76f1df0",
+    "subjectHash": "615172de2782a0fa293c0294794c6df7c0b474dadb02e2d388765b0012a27199",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 九五"}],
     "issues": []
   },
   {
     "id": "review-h1-image-5", "subjectId": "h1-image-5", "method": "prototype-20261021",
-    "subjectHash": "82766f589d1f34b7717aa78e3039cbf02b8fa184e9a4abf365ab74065ae48213",
+    "subjectHash": "61f9f3905459d010abf49408f8f9d31abfa37603bf26cb7a747332ac9cfab7e2",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 九五小象"}],
     "issues": []
   },
   {
     "id": "review-h1-yao-6", "subjectId": "h1-yao-6", "method": "prototype-20261021",
-    "subjectHash": "84b376f20f3834580f2a1f96e7229b28e53270d7949d72544e59f027c0b3a419",
+    "subjectHash": "a62daf2410c354331534a41ba784c601c791672e539977781c0d247057b98c0f",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 上九"}],
     "issues": []
   },
   {
     "id": "review-h1-image-6", "subjectId": "h1-image-6", "method": "prototype-20261021",
-    "subjectHash": "6b962b7a1f8dca01edd0325ce82e4272dc143a4d25246d58903fd3cab9b80d3f",
+    "subjectHash": "8d76070b49ad4617a3b8334a86065e057ef6ff0af32ec5e5d93e95170e195dcd",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 上九小象"}],
     "issues": []
   },
   {
     "id": "review-h1-yong-jiu", "subjectId": "h1-yong-jiu", "method": "prototype-20261021",
-    "subjectHash": "83684b72cbb37d0934bcce388e5328fa28ea06893498932f171601065b755bf0",
+    "subjectHash": "18b9eddffdf5d3929d4701b05c9834cba4b8a946f383dbc93dc6c62a7739fc30",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 易經 / 用九"}],
     "issues": []
   },
   {
     "id": "review-h1-yong-jiu-image", "subjectId": "h1-yong-jiu-image", "method": "prototype-20261021",
-    "subjectHash": "54a4dee48dc711816f329f2f011d37749af55ca0deadb93421e289f606bfccfe",
+    "subjectHash": "d073812b21444230a25205e90a456b0c37db97725372105ecbb128546bc06d7f",
     "originalStatus": "passed", "explanationStatus": "passed",
     "checkedRefs": [{"sourceId":"ws-zhouyi-1","locator":"第1卦 乾 / 象曰 / 用九相关象传"}],
     "issues": []

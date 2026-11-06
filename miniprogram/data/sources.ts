@@ -25,7 +25,7 @@ export const SOURCES: readonly SourceDocument[] = [
   },
   {
     "id": "ws-zhouyi-30",
-    "title": "《周易》·離（维基文库贡献者录文）",
+    "title": "《周易》·离（维基文库贡献者录文）",
     "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
     "edition": "维基文库《周易/離》固定电子修订版 oldid=10646424；未核定为某一纸本的逐字转录",
     "provider": "维基文库",
@@ -47,7 +47,7 @@ export const SOURCES: readonly SourceDocument[] = [
   },
   {
     "id": "ws-zhouyi-58",
-    "title": "《周易》·兌（维基文库贡献者录文）",
+    "title": "《周易》·兑（维基文库贡献者录文）",
     "authorOrCompiler": "《周易》古代经传；电子录文由维基文库贡献者整理",
     "edition": "维基文库《周易/兌》固定电子修订版 oldid=2404993；未核定为某一纸本的逐字转录",
     "provider": "维基文库",

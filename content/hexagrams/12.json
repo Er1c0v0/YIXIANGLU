@@ -2,36 +2,36 @@
   "id": 12,
   "statement": {
     "id": "h12-statement",
-    "original": "否之匪人，不利君子貞，大往小來。",
+    "original": "否之匪人，不利君子贞，大往小来。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3",
-        "locator": "卷3 / 否 / 卦辞 / 0007冊.djvu/368"
+        "locator": "卷3 / 否 / 卦辞 / 0007册.djvu/368"
       }
     ],
     "reviewId": "review-h12-statement"
   },
   "tuan": {
     "id": "h12-tuan",
-    "original": "否之匪人，不利君子貞，大往小來。則是天地不交而萬物不通也，上下不交而天下无邦也。内陰而外陽，内柔而外剛，内小人而外君子，小人道長，君子道消也。",
+    "original": "否之匪人，不利君子贞，大往小来。则是天地不交而万物不通也，上下不交而天下无邦也。内阴而外阳，内柔而外刚，内小人而外君子，小人道长，君子道消也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3",
-        "locator": "卷3 / 否 / 彖曰 / 0007冊.djvu/368"
+        "locator": "卷3 / 否 / 彖曰 / 0007册.djvu/368"
       }
     ],
     "reviewId": "review-h12-tuan"
   },
   "greatImage": {
     "id": "h12-great-image",
-    "original": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+    "original": "天地不交，否；君子以俭德辟难，不可荣以禄。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-3",
-        "locator": "卷3 / 否 / 整卦大象 / 0007冊.djvu/368"
+        "locator": "卷3 / 否 / 整卦大象 / 0007册.djvu/368"
       }
     ],
     "reviewId": "review-h12-great-image"
@@ -45,7 +45,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-3",
-      "locator": "卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/368–368"
+      "locator": "卷3 / 否 / 彖曰、整卦大象与上下卦 / 0007册.djvu/368–368"
     }
   ],
   "overviewReviewId": "review-h12-overview",
@@ -56,24 +56,24 @@
       "label": "初六",
       "text": {
         "id": "h12-yao-1",
-        "original": "拔茅茹，以其彚，貞吉亨。",
+        "original": "拔茅茹，以其彚，贞吉亨。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 初六 / 0007冊.djvu/368"
+            "locator": "卷3 / 否 / 初六 / 0007册.djvu/368"
           }
         ],
         "reviewId": "review-h12-yao-1"
       },
       "smallImage": {
         "id": "h12-image-1",
-        "original": "拔茅貞吉，志在君也。",
+        "original": "拔茅贞吉，志在君也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 初六小象 / 0007冊.djvu/368"
+            "locator": "卷3 / 否 / 初六小象 / 0007册.djvu/368"
           }
         ],
         "reviewId": "review-h12-image-1"
@@ -90,19 +90,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 六二 / 0007冊.djvu/368"
+            "locator": "卷3 / 否 / 六二 / 0007册.djvu/368"
           }
         ],
         "reviewId": "review-h12-yao-2"
       },
       "smallImage": {
         "id": "h12-image-2",
-        "original": "大人否亨，不亂羣也。",
+        "original": "大人否亨，不乱群也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 六二小象 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 六二小象 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-image-2"
@@ -119,19 +119,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 六三 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 六三 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-yao-3"
       },
       "smallImage": {
         "id": "h12-image-3",
-        "original": "包羞，位不當也。",
+        "original": "包羞，位不当也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 六三小象 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 六三小象 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-image-3"
@@ -143,12 +143,12 @@
       "label": "九四",
       "text": {
         "id": "h12-yao-4",
-        "original": "有命，无咎，疇離祉。",
+        "original": "有命，无咎，畴离祉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 九四 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 九四 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-yao-4"
@@ -160,7 +160,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 九四小象 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 九四小象 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-image-4"
@@ -179,19 +179,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 九五 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 九五 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-yao-5"
       },
       "smallImage": {
         "id": "h12-image-5",
-        "original": "大人之吉，位正當也。",
+        "original": "大人之吉，位正当也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 九五小象 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 九五小象 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-image-5"
@@ -203,24 +203,24 @@
       "label": "上九",
       "text": {
         "id": "h12-yao-6",
-        "original": "傾否，先否後喜。",
+        "original": "倾否，先否后喜。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 上九 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 上九 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-yao-6"
       },
       "smallImage": {
         "id": "h12-image-6",
-        "original": "否終則傾，何可長也。",
+        "original": "否终则倾，何可长也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-3",
-            "locator": "卷3 / 否 / 上九小象 / 0007冊.djvu/369"
+            "locator": "卷3 / 否 / 上九小象 / 0007册.djvu/369"
           }
         ],
         "reviewId": "review-h12-image-6"

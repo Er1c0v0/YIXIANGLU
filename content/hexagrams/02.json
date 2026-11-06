@@ -2,13 +2,13 @@
   "id": 2,
   "statement": {
     "id": "h2-statement",
-    "original": "坤：元亨。利牝馬之貞。君子有攸往，先迷後得主。利西南得朋，東北喪朋。安貞，吉。",
+    "original": "坤：元亨。利牝马之贞。君子有攸往，先迷后得主。利西南得朋，东北丧朋。安贞，吉。",
     "explanation": "坤具有生长、亨通之意，利于像母马一样柔顺而有恒。君子有所前往，争先容易迷失，随后顺应可得到依循。西南得朋、东北丧朋是原文的方位取象；安于正道则吉，不直接作为个人出行建议。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "ws-zhouyi-2",
-        "locator": "第2卦 坤 / 易經 / 卦辞"
+        "locator": "第2卦 坤 / 易经 / 卦辞"
       }
     ],
     "explanationRefs": [
@@ -21,7 +21,7 @@
   },
   "tuan": {
     "id": "h2-tuan",
-    "original": "至哉坤元，萬物資生，乃順承天。坤厚載物，德合无疆；含弘光大，品物咸亨。牝馬地類，行地无疆，柔順利貞。君子攸行，先迷失道，後順得常。西南得朋，乃與類行，東北喪朋，乃終有慶。安貞之吉，應地无疆。",
+    "original": "至哉坤元，万物资生，乃顺承天。坤厚载物，德合无疆；含弘光大，品物咸亨。牝马地类，行地无疆，柔顺利贞。君子攸行，先迷失道，后顺得常。西南得朋，乃与类行，东北丧朋，乃终有庆。安贞之吉，应地无疆。",
     "explanation": "坤使万物获得生养，顺承天的作用。大地厚实承载、包容广大，使万物亨通。母马能在地上远行，借其柔顺说明守正之利。君子行事，贸然争先容易失道，顺承则能得其常；得朋与丧朋说明同行和关系变化，最终以安定守正与大地相应。",
     "notes": [],
     "originalRefs": [
@@ -40,7 +40,7 @@
   },
   "greatImage": {
     "id": "h2-great-image",
-    "original": "地勢坤，君子以厚德載物。",
+    "original": "地势坤，君子以厚德载物。",
     "explanation": "大地的形势宽厚柔顺，君子由此学习增厚德行、容纳承载万物。",
     "notes": [],
     "originalRefs": [
@@ -77,13 +77,13 @@
       "label": "初六",
       "text": {
         "id": "h2-yao-1",
-        "original": "履霜，堅冰至。",
+        "original": "履霜，坚冰至。",
         "explanation": "踩到薄霜，就应意识到坚冰将至；从细微迹象看事物的渐变。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 初六"
+            "locator": "第2卦 坤 / 易经 / 初六"
           }
         ],
         "explanationRefs": [
@@ -96,7 +96,7 @@
       },
       "smallImage": {
         "id": "h2-image-1",
-        "original": "履霜堅冰，陰始凝也。馴致其道，至堅冰也。",
+        "original": "履霜坚冰，阴始凝也。驯致其道，至坚冰也。",
         "explanation": "阴气开始凝结，沿着渐进的趋势发展，就会成为坚冰。",
         "notes": [],
         "originalRefs": [
@@ -122,13 +122,13 @@
       "label": "六二",
       "text": {
         "id": "h2-yao-2",
-        "original": "直方大，不習无不利。",
+        "original": "直方大，不习无不利。",
         "explanation": "正直、方正、广大，即使不刻意习作，也无所不利；借大地说明自然具备的德性。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 六二"
+            "locator": "第2卦 坤 / 易经 / 六二"
           }
         ],
         "explanationRefs": [
@@ -141,7 +141,7 @@
       },
       "smallImage": {
         "id": "h2-image-2",
-        "original": "六二之動，直以方也。不習无不利，地道光也。",
+        "original": "六二之动，直以方也。不习无不利，地道光也。",
         "explanation": "六二的行动正直而方正；不待刻意习作，是地道广大显明的表现。",
         "notes": [],
         "originalRefs": [
@@ -167,13 +167,13 @@
       "label": "六三",
       "text": {
         "id": "h2-yao-3",
-        "original": "含章，可貞。或從王事，无成有終。",
+        "original": "含章，可贞。或从王事，无成有终。",
         "explanation": "含藏文采，可以守正；若参与王事，不独占功成，却能使事情有始有终。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 六三"
+            "locator": "第2卦 坤 / 易经 / 六三"
           }
         ],
         "explanationRefs": [
@@ -186,7 +186,7 @@
       },
       "smallImage": {
         "id": "h2-image-3",
-        "original": "含章可貞，以時發也。或從王事，知光大也。",
+        "original": "含章可贞，以时发也。或从王事，知光大也。",
         "explanation": "含藏美质而守正，待时机再发挥；参与王事，体现识见的广大。",
         "notes": [],
         "originalRefs": [
@@ -212,13 +212,13 @@
       "label": "六四",
       "text": {
         "id": "h2-yao-4",
-        "original": "括囊，无咎无譽。",
+        "original": "括囊，无咎无誉。",
         "explanation": "扎紧袋口，既无过失，也无称誉；借以说明谨慎收敛的处境。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 六四"
+            "locator": "第2卦 坤 / 易经 / 六四"
           }
         ],
         "explanationRefs": [
@@ -257,13 +257,13 @@
       "label": "六五",
       "text": {
         "id": "h2-yao-5",
-        "original": "黃裳，元吉。",
+        "original": "黄裳，元吉。",
         "explanation": "黄色的下裳，象征居中而谦下的美德，原文称大吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 六五"
+            "locator": "第2卦 坤 / 易经 / 六五"
           }
         ],
         "explanationRefs": [
@@ -276,7 +276,7 @@
       },
       "smallImage": {
         "id": "h2-image-5",
-        "original": "黃裳元吉，文在中也。",
+        "original": "黄裳元吉，文在中也。",
         "explanation": "黄裳所以大吉，在于美质蕴藏于内。",
         "notes": [],
         "originalRefs": [
@@ -302,13 +302,13 @@
       "label": "上六",
       "text": {
         "id": "h2-yao-6",
-        "original": "龍戰于野，其血玄黃。",
+        "original": "龙战于野，其血玄黄。",
         "explanation": "龙在旷野交战，流出的血呈玄黄之色；借冲突说明阴阳相争至极。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 上六"
+            "locator": "第2卦 坤 / 易经 / 上六"
           }
         ],
         "explanationRefs": [
@@ -321,7 +321,7 @@
       },
       "smallImage": {
         "id": "h2-image-6",
-        "original": "龍戰于野，其道窮也。",
+        "original": "龙战于野，其道穷也。",
         "explanation": "争战出现在发展穷极之时，提示不可把柔顺推到对抗的极端。",
         "notes": [],
         "originalRefs": [
@@ -347,13 +347,13 @@
       "kind": "yong-liu",
       "text": {
         "id": "h2-yong-liu",
-        "original": "利永貞。",
+        "original": "利永贞。",
         "explanation": "利于长久守持正道。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "ws-zhouyi-2",
-            "locator": "第2卦 坤 / 易經 / 用六"
+            "locator": "第2卦 坤 / 易经 / 用六"
           }
         ],
         "explanationRefs": [
@@ -366,7 +366,7 @@
       },
       "smallImage": {
         "id": "h2-yong-liu-image",
-        "original": "用六永貞，以大終也。",
+        "original": "用六永贞，以大终也。",
         "explanation": "长久守正，使承载之德能有圆满的终结。",
         "notes": [],
         "originalRefs": [

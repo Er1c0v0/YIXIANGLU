@@ -7,21 +7,21 @@
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch6",
-        "locator": "卷8 / 鼎 / 卦辞 / 0007冊.djvu/478"
+        "locator": "卷8 / 鼎 / 卦辞 / 0007册.djvu/478"
       }
     ],
     "reviewId": "review-h50-statement"
   },
   "tuan": {
     "id": "h50-tuan",
-    "original": "鼎，象也。以木巽火，亨飪也。聖人亨以享上帝，而大亨以養聖賢。巽而耳目聰眀，柔進而上行，得中而應乎剛，是以元亨。",
+    "original": "鼎，象也。以木巽火，亨饪也。圣人亨以享上帝，而大亨以养圣贤。巽而耳目聪眀，柔进而上行，得中而应乎刚，是以元亨。",
     "notes": [
       "采用电子录文“眀”，普通电子对校页相应为“明”；保留所见，影印字形与异文待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch6",
-        "locator": "卷8 / 鼎 / 彖曰 / 0007冊.djvu/479"
+        "locator": "卷8 / 鼎 / 彖曰 / 0007册.djvu/479"
       }
     ],
     "reviewId": "review-h50-tuan"
@@ -33,7 +33,7 @@
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-8-batch6",
-        "locator": "卷8 / 鼎 / 整卦大象 / 0007冊.djvu/479"
+        "locator": "卷8 / 鼎 / 整卦大象 / 0007册.djvu/479"
       }
     ],
     "reviewId": "review-h50-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-8-batch6",
-      "locator": "卷8 / 鼎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/478–479"
+      "locator": "卷8 / 鼎 / 彖曰、整卦大象与上下卦 / 0007册.djvu/478–479"
     }
   ],
   "overviewReviewId": "review-h50-overview",
@@ -65,21 +65,21 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 初六 / 0007冊.djvu/479"
+            "locator": "卷8 / 鼎 / 初六 / 0007册.djvu/479"
           }
         ],
         "reviewId": "review-h50-yao-1"
       },
       "smallImage": {
         "id": "h50-image-1",
-        "original": "鼎顚趾，未悖也。利出否，以從貴也。",
+        "original": "鼎顚趾，未悖也。利出否，以从贵也。",
         "notes": [
           "采用电子录文“顚”，普通电子对校页相应为“顛”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 初六小象 / 0007冊.djvu/479"
+            "locator": "卷8 / 鼎 / 初六小象 / 0007册.djvu/479"
           }
         ],
         "reviewId": "review-h50-image-1"
@@ -91,26 +91,26 @@
       "label": "九二",
       "text": {
         "id": "h50-yao-2",
-        "original": "鼎有實，我仇有疾，不我能即，吉。",
+        "original": "鼎有实，我仇有疾，不我能即，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 九二 / 0007冊.djvu/480"
+            "locator": "卷8 / 鼎 / 九二 / 0007册.djvu/480"
           }
         ],
         "reviewId": "review-h50-yao-2"
       },
       "smallImage": {
         "id": "h50-image-2",
-        "original": "鼎有實，愼所之也。我仇有疾，終无尤也。",
+        "original": "鼎有实，愼所之也。我仇有疾，终无尤也。",
         "notes": [
           "采用电子录文“愼”，普通电子对校页相应为“慎”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 九二小象 / 0007冊.djvu/480"
+            "locator": "卷8 / 鼎 / 九二小象 / 0007册.djvu/480"
           }
         ],
         "reviewId": "review-h50-image-2"
@@ -122,24 +122,24 @@
       "label": "九三",
       "text": {
         "id": "h50-yao-3",
-        "original": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
+        "original": "鼎耳革，其行塞，雉膏不食，方雨亏悔，终吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 九三 / 0007冊.djvu/480"
+            "locator": "卷8 / 鼎 / 九三 / 0007册.djvu/480"
           }
         ],
         "reviewId": "review-h50-yao-3"
       },
       "smallImage": {
         "id": "h50-image-3",
-        "original": "鼎耳革，失其義也。",
+        "original": "鼎耳革，失其义也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 九三小象 / 0007冊.djvu/480"
+            "locator": "卷8 / 鼎 / 九三小象 / 0007册.djvu/480"
           }
         ],
         "reviewId": "review-h50-image-3"
@@ -151,26 +151,26 @@
       "label": "九四",
       "text": {
         "id": "h50-yao-4",
-        "original": "鼎折足，覆公餗，其形渥，凶。",
+        "original": "鼎折足，覆公𫗧，其形渥，凶。",
         "notes": [
           "采用电子录文“其形渥”，普通电子对校页作“其刑渥”；保留“形”字，影印待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 九四 / 0007冊.djvu/480"
+            "locator": "卷8 / 鼎 / 九四 / 0007册.djvu/480"
           }
         ],
         "reviewId": "review-h50-yao-4"
       },
       "smallImage": {
         "id": "h50-image-4",
-        "original": "覆公餗，信如何也。",
+        "original": "覆公𫗧，信如何也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 九四小象 / 0007冊.djvu/480"
+            "locator": "卷8 / 鼎 / 九四小象 / 0007册.djvu/480"
           }
         ],
         "reviewId": "review-h50-image-4"
@@ -182,28 +182,28 @@
       "label": "六五",
       "text": {
         "id": "h50-yao-5",
-        "original": "鼎黄耳金鉉，利貞。",
+        "original": "鼎黄耳金铉，利贞。",
         "notes": [
           "采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 六五 / 0007冊.djvu/481"
+            "locator": "卷8 / 鼎 / 六五 / 0007册.djvu/481"
           }
         ],
         "reviewId": "review-h50-yao-5"
       },
       "smallImage": {
         "id": "h50-image-5",
-        "original": "鼎黄耳，中以為實也。",
+        "original": "鼎黄耳，中以为实也。",
         "notes": [
           "采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形与异文待核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 六五小象 / 0007冊.djvu/481"
+            "locator": "卷8 / 鼎 / 六五小象 / 0007册.djvu/481"
           }
         ],
         "reviewId": "review-h50-image-5"
@@ -215,24 +215,24 @@
       "label": "上九",
       "text": {
         "id": "h50-yao-6",
-        "original": "鼎玉鉉，大吉，无不利。",
+        "original": "鼎玉铉，大吉，无不利。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 上九 / 0007冊.djvu/481"
+            "locator": "卷8 / 鼎 / 上九 / 0007册.djvu/481"
           }
         ],
         "reviewId": "review-h50-yao-6"
       },
       "smallImage": {
         "id": "h50-image-6",
-        "original": "玉鉉在上，剛柔節也。",
+        "original": "玉铉在上，刚柔节也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-8-batch6",
-            "locator": "卷8 / 鼎 / 上九小象 / 0007冊.djvu/481"
+            "locator": "卷8 / 鼎 / 上九小象 / 0007册.djvu/481"
           }
         ],
         "reviewId": "review-h50-image-6"

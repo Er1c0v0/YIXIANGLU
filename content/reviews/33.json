@@ -1,112 +1,112 @@
 [
   {
     "id": "review-h33-statement", "subjectId": "h33-statement", "method": "electronic-20261022",
-    "subjectHash": "d4e7c41aa7532612f75a245e004ea21e8df9d6530aae93b6d45796d7164d7728",
+    "subjectHash": "a5d1714ded4d273726c5405b380ab7a77b2e7d85358f20ea4b440b747581d215",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 卦辞 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·卦辞；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-tuan", "subjectId": "h33-tuan", "method": "electronic-20261022",
-    "subjectHash": "a776732fb4d9b8525bf35302fa950f2623465e75ec88f234618299673f565e43",
+    "subjectHash": "1367cbb71e7bd49ea36e562d060b68a241efaeb9f36286277ebb5351e2a80fd3",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 彖曰 / 0007冊.djvu/431"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 彖曰；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-great-image", "subjectId": "h33-great-image", "method": "electronic-20261022",
-    "subjectHash": "e464c3cd8548ba60c0843632a04e3d2a242c1aa36bb173b86acb27fca6c8e8c5",
+    "subjectHash": "4dd161b0cd0735be8d7a5d0f75362552800de85e42db776e78c83a8a0eba5215",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 整卦大象 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·整卦；异文仅作对校"}],
     "issues": ["采用电子录文“逺”，普通电子对校页相应为“遠”；保留所见，影印字形待核。"]
   },
   {
     "id": "review-h33-overview", "subjectId": "h33-overview", "method": "overview-20261022",
-    "subjectHash": "8d22d13f3c57ec6194c13409439e65aed8361ce6f0d26139bc980d4fa21d1d84",
+    "subjectHash": "60020e9a34d465db601b847ffd8b52c317cdc643fdfe49793f0ef335fe2dcb28",
     "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/431–432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 彖曰、整卦大象与上下卦"}],
     "issues": []
   },
   {
     "id": "review-h33-yao-1", "subjectId": "h33-yao-1", "method": "electronic-20261022",
-    "subjectHash": "1777c111dacf3d06267be12da0187805a15c222b2bc86faa7848712f070cae1a",
+    "subjectHash": "0116dd99b688ba0eb28ed104dbfa0a997c2d59e6c00b83bdb269cdb5eec28d37",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 初六 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·初六；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-image-1", "subjectId": "h33-image-1", "method": "electronic-20261022",
-    "subjectHash": "336f1611bb5c6c96f099f7a1644d1d4b737af513bc0a72a4af77b0dfbacf3550",
+    "subjectHash": "da650a89177e537f89fe3390824cc0b802cbc186c2303f50dbc869ad33aca972",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 初六小象 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·初六；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-yao-2", "subjectId": "h33-yao-2", "method": "electronic-20261022",
-    "subjectHash": "7f11f7891bffb88f23149c27789bd12ff554c8f62c71f10d0243efc198a2bf77",
+    "subjectHash": "05df2034e7abf6940a4ecafc5169c93bb72c05cfa663341179c75b1d770f5132",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 六二 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·六二；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-image-2", "subjectId": "h33-image-2", "method": "electronic-20261022",
-    "subjectHash": "7f0824106dcb6e4c06c0719bd4d6c2768c1896b9d9463957499418298ea049e7",
+    "subjectHash": "0d4e818d56be5ca39cbd4bd7bcc1e2d87281e55bb8f6b89c2a4cee7a5a914857",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 六二小象 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·六二；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-yao-3", "subjectId": "h33-yao-3", "method": "electronic-20261022",
-    "subjectHash": "d758b801acf4f4ffc4b06dbe561228cafffad9d0d52ebbdaaa2261d787894c8c",
+    "subjectHash": "649cc50969c746b042f07c34ab3c8bee647d59d9682d56e00a089b3984fe55c3",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 九三 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·九三；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-image-3", "subjectId": "h33-image-3", "method": "electronic-20261022",
-    "subjectHash": "87c01dd291cafb4f2903d9e75e0d68e4a6f30216e0c40ad29a971cc7c02bd5c4",
+    "subjectHash": "9f62afda0e2ee02f10c6e661e315dc70b6aabf90920f906062aaa8e5730d6678",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 九三小象 / 0007冊.djvu/432"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·九三；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-yao-4", "subjectId": "h33-yao-4", "method": "electronic-20261022",
-    "subjectHash": "ea3e7a8bf57aabf86b00359ed62079cb519b0849871c2e5269bbe4ce2e4b6e97",
+    "subjectHash": "81fb92fdc590dce1362b4e40d5574fe69feb80f613eb1cf9cfa5d1dc335507eb",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 九四 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-image-4", "subjectId": "h33-image-4", "method": "electronic-20261022",
-    "subjectHash": "bd08317267841146112e4d7f0f9a56a8a914dfd118527a75ede1837983d20470",
+    "subjectHash": "33b503f30724b2b41f74dda62d3688f158ab79fdceb85b4ffd124037863917ec",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 九四小象 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-yao-5", "subjectId": "h33-yao-5", "method": "electronic-20261022",
-    "subjectHash": "fc54e16c0d1c7d90bbecd9bf40cb74fc620b7634ee4e9271b9378f242f192658",
+    "subjectHash": "ddb83ae696c75c634ef719862a75712db738c38a0bff46cf5f155e70186b1660",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 九五 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·九五；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-image-5", "subjectId": "h33-image-5", "method": "electronic-20261022",
-    "subjectHash": "dcbbd51596d0502d4635ab18d12818b4fe94d02b44d75f68eb794b4945d63757",
+    "subjectHash": "98497a71d8400b4af4e78ccd9d015a82bf1a40c2d3cab04f410646ff66e4ce86",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 九五小象 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·九五；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-yao-6", "subjectId": "h33-yao-6", "method": "electronic-20261022",
-    "subjectHash": "a41a91e56dcad2bc0425a86c0b6003eba8900353732388ee89058d75f5772714",
+    "subjectHash": "c95d3c5f8197bb67c25fe9502ef90c74b819b36c6057fc4e43a56e61ce411a5d",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 上九 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 易經·上九；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h33-image-6", "subjectId": "h33-image-6", "method": "electronic-20261022",
-    "subjectHash": "f30f3bb2f23c6847084b2cecce68706b12fcd89bebbef5c21ab845f011257d47",
+    "subjectHash": "8b685d38a8ec2abe7015f7b03a1b20f18cd68d04ff587d0a6bdde6d9b1a0b05f",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-6-batch5","locator":"卷6 / 遯 / 上九小象 / 0007冊.djvu/433"},{"sourceId":"ws-zhouyi-33","locator":"第33卦 遯 / 象曰·上九；异文仅作对校"}],
     "issues": []

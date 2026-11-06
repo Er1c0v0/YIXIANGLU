@@ -2,26 +2,26 @@
   "id": 4,
   "statement": {
     "id": "h4-statement",
-    "original": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+    "original": "蒙：亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。",
     "notes": [
       "四库本电子录文首字作“𫎇”。用户反馈该字在阅读中显示异常，故通写为“蒙”（普通《周易》对校页亦作“蒙”）；保留原字于本注，影印字形仍待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-2-batch2",
-        "locator": "卷2 / 蒙 / 卦辞 / 0007冊.djvu/342"
+        "locator": "卷2 / 蒙 / 卦辞 / 0007册.djvu/342"
       }
     ],
     "reviewId": "review-h4-statement"
   },
   "tuan": {
     "id": "h4-tuan",
-    "original": "蒙，山下有險，險而止，蒙。蒙亨，以亨行，時中也。匪我求童蒙，童蒙求我，志應也。初筮告，以剛中也。再三瀆，瀆則不告，瀆蒙也。蒙以養正，聖功也。",
+    "original": "蒙，山下有险，险而止，蒙。蒙亨，以亨行，时中也。匪我求童蒙，童蒙求我，志应也。初筮告，以刚中也。再三渎，渎则不告，渎蒙也。蒙以养正，圣功也。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-2-batch2",
-        "locator": "卷2 / 蒙 / 彖曰 / 0007冊.djvu/342–343"
+        "locator": "卷2 / 蒙 / 彖曰 / 0007册.djvu/342–343"
       }
     ],
     "reviewId": "review-h4-tuan"
@@ -33,7 +33,7 @@
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-2-batch2",
-        "locator": "卷2 / 蒙 / 整卦大象 / 0007冊.djvu/343"
+        "locator": "卷2 / 蒙 / 整卦大象 / 0007册.djvu/343"
       }
     ],
     "reviewId": "review-h4-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-2-batch2",
-      "locator": "卷2 / 蒙 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/342–343"
+      "locator": "卷2 / 蒙 / 彖曰、整卦大象与上下卦 / 0007册.djvu/342–343"
     }
   ],
   "overviewReviewId": "review-h4-overview",
@@ -58,12 +58,12 @@
       "label": "初六",
       "text": {
         "id": "h4-yao-1",
-        "original": "發蒙，利用刑人，用說桎梏，以徃吝。",
+        "original": "发蒙，利用刑人，用说桎梏，以徃吝。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 初六 / 0007冊.djvu/343"
+            "locator": "卷2 / 蒙 / 初六 / 0007册.djvu/343"
           }
         ],
         "reviewId": "review-h4-yao-1"
@@ -75,7 +75,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 初六小象 / 0007冊.djvu/343"
+            "locator": "卷2 / 蒙 / 初六小象 / 0007册.djvu/343"
           }
         ],
         "reviewId": "review-h4-image-1"
@@ -87,24 +87,24 @@
       "label": "九二",
       "text": {
         "id": "h4-yao-2",
-        "original": "包蒙吉，納婦吉，子克家。",
+        "original": "包蒙吉，纳妇吉，子克家。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 九二 / 0007冊.djvu/343"
+            "locator": "卷2 / 蒙 / 九二 / 0007册.djvu/343"
           }
         ],
         "reviewId": "review-h4-yao-2"
       },
       "smallImage": {
         "id": "h4-image-2",
-        "original": "子克家，剛柔接也。",
+        "original": "子克家，刚柔接也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 九二小象 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 九二小象 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-image-2"
@@ -116,24 +116,24 @@
       "label": "六三",
       "text": {
         "id": "h4-yao-3",
-        "original": "勿用取女，見金夫，不有躬，无攸利。",
+        "original": "勿用取女，见金夫，不有躬，无攸利。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 六三 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 六三 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-yao-3"
       },
       "smallImage": {
         "id": "h4-image-3",
-        "original": "勿用取女，行不順也。",
+        "original": "勿用取女，行不顺也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 六三小象 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 六三小象 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-image-3"
@@ -150,19 +150,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 六四 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 六四 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-yao-4"
       },
       "smallImage": {
         "id": "h4-image-4",
-        "original": "困蒙之吝，獨遠實也。",
+        "original": "困蒙之吝，独远实也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 六四小象 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 六四小象 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-image-4"
@@ -179,19 +179,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 六五 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 六五 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-yao-5"
       },
       "smallImage": {
         "id": "h4-image-5",
-        "original": "童蒙之吉，順以巽也。",
+        "original": "童蒙之吉，顺以巽也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 六五小象 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 六五小象 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-image-5"
@@ -203,26 +203,26 @@
       "label": "上九",
       "text": {
         "id": "h4-yao-6",
-        "original": "擊蒙，不利爲宼，利禦宼。",
+        "original": "击蒙，不利为宼，利御宼。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 上九 / 0007冊.djvu/344"
+            "locator": "卷2 / 蒙 / 上九 / 0007册.djvu/344"
           }
         ],
         "reviewId": "review-h4-yao-6"
       },
       "smallImage": {
         "id": "h4-image-6",
-        "original": "利用禦宼，上下順也。",
+        "original": "利用御宼，上下顺也。",
         "notes": [
           "四库本电子录文作“利用禦宼”，普通电子对校页作“利禦寇”；依采用录文暂存，待影印复核。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-2-batch2",
-            "locator": "卷2 / 蒙 / 上九小象 / 0007冊.djvu/345"
+            "locator": "卷2 / 蒙 / 上九小象 / 0007册.djvu/345"
           }
         ],
         "reviewId": "review-h4-image-6"

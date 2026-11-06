@@ -2,40 +2,40 @@
   "id": 36,
   "statement": {
     "id": "h36-statement",
-    "original": "明夷：利艱貞。",
+    "original": "明夷：利艰贞。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 明夷 / 卦辞 / 0007冊.djvu/437"
+        "locator": "卷6 / 明夷 / 卦辞 / 0007册.djvu/437"
       }
     ],
     "reviewId": "review-h36-statement"
   },
   "tuan": {
     "id": "h36-tuan",
-    "original": "明入地中，明夷。内文明而外柔順，以蒙大難，文王以之。利艱貞，晦其明也。内難而能正其志，箕子以之。",
+    "original": "明入地中，明夷。内文明而外柔顺，以蒙大难，文王以之。利艰贞，晦其明也。内难而能正其志，箕子以之。",
     "notes": [
       "采用电子录文“内”，普通电子对校页相应为“內”；保留所见，影印字形待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 明夷 / 彖曰 / 0007冊.djvu/438"
+        "locator": "卷6 / 明夷 / 彖曰 / 0007册.djvu/438"
       }
     ],
     "reviewId": "review-h36-tuan"
   },
   "greatImage": {
     "id": "h36-great-image",
-    "original": "明入地中，明夷；君子以莅衆，用晦而明。",
+    "original": "明入地中，明夷；君子以莅众，用晦而明。",
     "notes": [
       "采用电子录文“莅衆”，普通电子对校页相应为“蒞眾”；保留所见，影印字形待核。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-6-batch5",
-        "locator": "卷6 / 明夷 / 整卦大象 / 0007冊.djvu/438"
+        "locator": "卷6 / 明夷 / 整卦大象 / 0007册.djvu/438"
       }
     ],
     "reviewId": "review-h36-great-image"
@@ -49,7 +49,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-6-batch5",
-      "locator": "卷6 / 明夷 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/437–438"
+      "locator": "卷6 / 明夷 / 彖曰、整卦大象与上下卦 / 0007册.djvu/437–438"
     }
   ],
   "overviewReviewId": "review-h36-overview",
@@ -60,24 +60,24 @@
       "label": "初九",
       "text": {
         "id": "h36-yao-1",
-        "original": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+        "original": "明夷于飞，垂其翼。君子于行，三日不食，有攸往，主人有言。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 初九 / 0007冊.djvu/438"
+            "locator": "卷6 / 明夷 / 初九 / 0007册.djvu/438"
           }
         ],
         "reviewId": "review-h36-yao-1"
       },
       "smallImage": {
         "id": "h36-image-1",
-        "original": "君子于行，義不食也。",
+        "original": "君子于行，义不食也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 初九小象 / 0007冊.djvu/438"
+            "locator": "卷6 / 明夷 / 初九小象 / 0007册.djvu/438"
           }
         ],
         "reviewId": "review-h36-image-1"
@@ -89,24 +89,24 @@
       "label": "六二",
       "text": {
         "id": "h36-yao-2",
-        "original": "明夷，夷于左股，用拯馬壯，吉。",
+        "original": "明夷，夷于左股，用拯马壮，吉。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 六二 / 0007冊.djvu/438"
+            "locator": "卷6 / 明夷 / 六二 / 0007册.djvu/438"
           }
         ],
         "reviewId": "review-h36-yao-2"
       },
       "smallImage": {
         "id": "h36-image-2",
-        "original": "六二之吉，順以則也。",
+        "original": "六二之吉，顺以则也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 六二小象 / 0007冊.djvu/438"
+            "locator": "卷6 / 明夷 / 六二小象 / 0007册.djvu/438"
           }
         ],
         "reviewId": "review-h36-image-2"
@@ -118,12 +118,12 @@
       "label": "九三",
       "text": {
         "id": "h36-yao-3",
-        "original": "明夷于南狩，得其大首，不可疾貞。",
+        "original": "明夷于南狩，得其大首，不可疾贞。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 九三 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 九三 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-yao-3"
@@ -135,7 +135,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 九三小象 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 九三小象 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-image-3"
@@ -147,7 +147,7 @@
       "label": "六四",
       "text": {
         "id": "h36-yao-4",
-        "original": "入于左腹，獲明夷之心，于出門庭。",
+        "original": "入于左腹，获明夷之心，于出门庭。",
         "notes": [
           "采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形待核。",
           "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -155,14 +155,14 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 六四 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 六四 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-yao-4"
       },
       "smallImage": {
         "id": "h36-image-4",
-        "original": "入于左腹，獲心意也。",
+        "original": "入于左腹，获心意也。",
         "notes": [
           "采用电子录文“𫉬”，普通电子对校页相应为“獲”；保留所见，影印字形待核。",
           "2026-10-22显示修正：“𫉬”通写为“獲”。四库电子录文原字在开发者工具中显示为卦形，通写字已与留存的普通《周易》固定电子页相应段落复核；其余文字与标点不变。原字及初次录入说明留档，影印字形仍待核。"
@@ -170,7 +170,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 六四小象 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 六四小象 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-image-4"
@@ -182,24 +182,24 @@
       "label": "六五",
       "text": {
         "id": "h36-yao-5",
-        "original": "箕子之明夷，利貞。",
+        "original": "箕子之明夷，利贞。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 六五 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 六五 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-yao-5"
       },
       "smallImage": {
         "id": "h36-image-5",
-        "original": "箕子之貞，明不可息也。",
+        "original": "箕子之贞，明不可息也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 六五小象 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 六五小象 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-image-5"
@@ -211,24 +211,24 @@
       "label": "上六",
       "text": {
         "id": "h36-yao-6",
-        "original": "不明晦，初登于天，後入于地。",
+        "original": "不明晦，初登于天，后入于地。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 上六 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 上六 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-yao-6"
       },
       "smallImage": {
         "id": "h36-image-6",
-        "original": "初登于天，照四國也。後入于地，失則也。",
+        "original": "初登于天，照四国也。后入于地，失则也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-6-batch5",
-            "locator": "卷6 / 明夷 / 上六小象 / 0007冊.djvu/439"
+            "locator": "卷6 / 明夷 / 上六小象 / 0007册.djvu/439"
           }
         ],
         "reviewId": "review-h36-image-6"

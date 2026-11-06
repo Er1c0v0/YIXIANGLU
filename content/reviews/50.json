@@ -1,112 +1,112 @@
 [
   {
     "id": "review-h50-statement", "subjectId": "h50-statement", "method": "electronic-20261022",
-    "subjectHash": "5696bb7074019341115cf4fba75135003de52712c720fea14631bff393f72c21",
+    "subjectHash": "bdc4718c1b10a704e2e577d34fc7c4fe5df5ec65a5de7d8a78f88218aaf2913e",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 卦辞 / 0007冊.djvu/478"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·卦辞；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-tuan", "subjectId": "h50-tuan", "method": "electronic-20261022",
-    "subjectHash": "e11249e454300a85d5ae041791fb242a99b777a6517e997a3b6fcf97070e67c8",
+    "subjectHash": "d3e30a05bfe5f1028ed38d35bc1e454992e743fcc5b75e519fca10b505518ab0",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 彖曰 / 0007冊.djvu/479"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 彖曰；异文仅作对校"}],
     "issues": ["采用电子录文“眀”，普通电子对校页相应为“明”；保留所见，影印字形与异文待核。"]
   },
   {
     "id": "review-h50-great-image", "subjectId": "h50-great-image", "method": "electronic-20261022",
-    "subjectHash": "1abcfe7bec07a7181a3b22e37f264c2ca7d90211449add82410cdd77b23ebe07",
+    "subjectHash": "e93adadce785585550e0f23fc26223eea4fe9808c30a6f4e67ff454f6ed701ae",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 整卦大象 / 0007冊.djvu/479"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·整卦；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-overview", "subjectId": "h50-overview", "method": "overview-20261022",
-    "subjectHash": "b66c68628c68bdcd0afb83adb5789dea1da3be84101ddc1ee0759fc2833d7866",
+    "subjectHash": "c8c4429920fc669fbbebd82d2e19e8d778a66f4e8272b99e1127924ebfebf14b",
     "originalStatus": "not-applicable", "explanationStatus": "pending", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/478–479"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 彖曰、整卦大象与上下卦"}],
     "issues": []
   },
   {
     "id": "review-h50-yao-1", "subjectId": "h50-yao-1", "method": "electronic-20261022",
-    "subjectHash": "3909158a90bdfae15cd25566b53c0a2f8fb1d28bd91b9aa48401d242c3c9814b",
+    "subjectHash": "28fe29a4badb60b89c1d79727730019f2cb4b6014d1f616e71e0f881d337a325",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 初六 / 0007冊.djvu/479"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·初六；异文仅作对校"}],
     "issues": ["采用电子录文“顚”，普通电子对校页相应为“顛”；保留所见，影印字形与异文待核。"]
   },
   {
     "id": "review-h50-image-1", "subjectId": "h50-image-1", "method": "electronic-20261022",
-    "subjectHash": "6870aa8252b9dbf1295e1aaee74c901bb18d40d7b3452b9edf949b693b72dc9e",
+    "subjectHash": "34f63a275c2f755450f93b64891a3f5232b98374ae5f9236b5c28889c0b71da4",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 初六小象 / 0007冊.djvu/479"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·初六；异文仅作对校"}],
     "issues": ["采用电子录文“顚”，普通电子对校页相应为“顛”；保留所见，影印字形与异文待核。"]
   },
   {
     "id": "review-h50-yao-2", "subjectId": "h50-yao-2", "method": "electronic-20261022",
-    "subjectHash": "3b6c9b9b2366eb745f2f418a2655f88f67e4210a29ba95c4e57cd5f924cc3a69",
+    "subjectHash": "62f8ce1ec7e53570869f371a7464dc987248b5e122882604dfc1b5af9b3c34fa",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 九二 / 0007冊.djvu/480"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·九二；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-image-2", "subjectId": "h50-image-2", "method": "electronic-20261022",
-    "subjectHash": "061ee7c209eb59e4f674b2546c472bab9994740af2a1ed6a50fd90a7038465b9",
+    "subjectHash": "0c9dee45b08a99fbf6d0242371c1c557740f654ae736cadf27d2686fe0381d84",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 九二小象 / 0007冊.djvu/480"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·九二；异文仅作对校"}],
     "issues": ["采用电子录文“愼”，普通电子对校页相应为“慎”；保留所见，影印字形与异文待核。"]
   },
   {
     "id": "review-h50-yao-3", "subjectId": "h50-yao-3", "method": "electronic-20261022",
-    "subjectHash": "b0e2e3f04fb6f82ddcf826234422d2d51cbee7be6ca21bb097e4299e85ab5e4b",
+    "subjectHash": "5c1a8fbbec4d49a8dbfe0c5b4530b6abca315bae9b06f9908bbc9722a66b51e0",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 九三 / 0007冊.djvu/480"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·九三；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-image-3", "subjectId": "h50-image-3", "method": "electronic-20261022",
-    "subjectHash": "e6c447f51da0fe7b71a9b8c8758588b001d175a5285432404ffcbca5f9dffbfd",
+    "subjectHash": "07e5583f65d4a1b4831ff26884f353834d3bbb3202099e722c3e50238ceb1cab",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 九三小象 / 0007冊.djvu/480"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·九三；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-yao-4", "subjectId": "h50-yao-4", "method": "electronic-20261022",
-    "subjectHash": "64189b62ef1f5f99a22469abf53dac8e6aba3f610dd09215f04b930cda3690f8",
+    "subjectHash": "b26589c5387089e4ed1cf2d852e7c509000d885ce4ba267b04136f52b6b9cf3c",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 九四 / 0007冊.djvu/480"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·九四；异文仅作对校"}],
     "issues": ["采用电子录文“其形渥”，普通电子对校页作“其刑渥”；保留“形”字，影印待核。"]
   },
   {
     "id": "review-h50-image-4", "subjectId": "h50-image-4", "method": "electronic-20261022",
-    "subjectHash": "e40164bbe8d8a1e4ebdd270afa18529434bac9da940245c9b13e56f7e658e4ca",
+    "subjectHash": "fd51f9d42a83c41be36e923e5581d6e0157742db93f6bfadbd96ea819767c733",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 九四小象 / 0007冊.djvu/480"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·九四；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-yao-5", "subjectId": "h50-yao-5", "method": "electronic-20261022",
-    "subjectHash": "f5d1b189b0855213b48211916a2ea789cc2d6395578f40579024c6104fb61c60",
+    "subjectHash": "aa166e3bc169e3054ba60c81919058557053150078335f8dda8b6b6bad93ce78",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 六五 / 0007冊.djvu/481"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·六五；异文仅作对校"}],
     "issues": ["采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形与异文待核。"]
   },
   {
     "id": "review-h50-image-5", "subjectId": "h50-image-5", "method": "electronic-20261022",
-    "subjectHash": "00367dd8e5a85317fac82fb171519bb5e41f95c7ec704459bc7bf368bce2f12e",
+    "subjectHash": "e8a62dffb48ef1ac8b3251f40ca7cc5a8bace2f64a41db7dd3e0dd1f957fb1a4",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 六五小象 / 0007冊.djvu/481"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·六五；异文仅作对校"}],
     "issues": ["采用电子录文“黄”，普通电子对校页相应为“黃”；保留所见，影印字形与异文待核。"]
   },
   {
     "id": "review-h50-yao-6", "subjectId": "h50-yao-6", "method": "electronic-20261022",
-    "subjectHash": "63bed853a218ee43e966120da5878eb337766d9be98fb2ba7bb7ea27b575d89a",
+    "subjectHash": "9df5ff096b5dc690b2ea35692ca9bf258675b934cc9eb23e0c3fd188f1dcee4c",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 上九 / 0007冊.djvu/481"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 易經·上九；异文仅作对校"}],
     "issues": []
   },
   {
     "id": "review-h50-image-6", "subjectId": "h50-image-6", "method": "electronic-20261022",
-    "subjectHash": "101de5001a85dc512c0f50198b7ba9faa5d4b6f5e93057b3747296fd1f2bd295",
+    "subjectHash": "32d83196de93cd805e4ca81121ef88b497ed7a8f30f307859d7a422704f47217",
     "originalStatus": "passed", "explanationStatus": "not-applicable", "facsimileStatus": "pending", "independentReviewStatus": "pending",
     "checkedRefs": [{"sourceId":"skqs-zhouyi-8-batch6","locator":"卷8 / 鼎 / 上九小象 / 0007冊.djvu/481"},{"sourceId":"ws-zhouyi-50","locator":"第50卦 鼎 / 象曰·上九；异文仅作对校"}],
     "issues": []

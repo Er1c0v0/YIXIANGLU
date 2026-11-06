@@ -2,38 +2,38 @@
   "id": 25,
   "statement": {
     "id": "h25-statement",
-    "original": "无妄：元亨，利貞。其匪正有眚，不利有攸往。",
+    "original": "无妄：元亨，利贞。其匪正有眚，不利有攸往。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 无妄 / 卦辞 / 0007冊.djvu/406"
+        "locator": "卷5 / 无妄 / 卦辞 / 0007册.djvu/406"
       }
     ],
     "reviewId": "review-h25-statement"
   },
   "tuan": {
     "id": "h25-tuan",
-    "original": "无妄，剛自外來而為主于内，動而健，剛中而應，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣。天命不祐，行矣哉。",
+    "original": "无妄，刚自外来而为主于内，动而健，刚中而应，大亨以正，天之命也。其匪正有眚，不利有攸往。无妄之往，何之矣。天命不祐，行矣哉。",
     "notes": [
       "保留采用电子录文“于内”“祐”，普通电子对校页相应作“於內”“佑”。"
     ],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 无妄 / 彖曰 / 0007冊.djvu/406"
+        "locator": "卷5 / 无妄 / 彖曰 / 0007册.djvu/406"
       }
     ],
     "reviewId": "review-h25-tuan"
   },
   "greatImage": {
     "id": "h25-great-image",
-    "original": "天下雷行，物與无妄；先王以茂對時育萬物。",
+    "original": "天下雷行，物与无妄；先王以茂对时育万物。",
     "notes": [],
     "originalRefs": [
       {
         "sourceId": "skqs-zhouyi-5-batch4",
-        "locator": "卷5 / 无妄 / 整卦大象 / 0007冊.djvu/407"
+        "locator": "卷5 / 无妄 / 整卦大象 / 0007册.djvu/407"
       }
     ],
     "reviewId": "review-h25-great-image"
@@ -47,7 +47,7 @@
   "overviewRefs": [
     {
       "sourceId": "skqs-zhouyi-5-batch4",
-      "locator": "卷5 / 无妄 / 彖曰、整卦大象与上下卦 / 0007冊.djvu/406–407"
+      "locator": "卷5 / 无妄 / 彖曰、整卦大象与上下卦 / 0007册.djvu/406–407"
     }
   ],
   "overviewReviewId": "review-h25-overview",
@@ -63,7 +63,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 初九 / 0007冊.djvu/407"
+            "locator": "卷5 / 无妄 / 初九 / 0007册.djvu/407"
           }
         ],
         "reviewId": "review-h25-yao-1"
@@ -75,7 +75,7 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 初九小象 / 0007冊.djvu/407"
+            "locator": "卷5 / 无妄 / 初九小象 / 0007册.djvu/407"
           }
         ],
         "reviewId": "review-h25-image-1"
@@ -87,24 +87,24 @@
       "label": "六二",
       "text": {
         "id": "h25-yao-2",
-        "original": "不耕穫，不菑畬，則利有攸往。",
+        "original": "不耕获，不菑畬，则利有攸往。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 六二 / 0007冊.djvu/407"
+            "locator": "卷5 / 无妄 / 六二 / 0007册.djvu/407"
           }
         ],
         "reviewId": "review-h25-yao-2"
       },
       "smallImage": {
         "id": "h25-image-2",
-        "original": "不耕穫，未富也。",
+        "original": "不耕获，未富也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 六二小象 / 0007冊.djvu/407"
+            "locator": "卷5 / 无妄 / 六二小象 / 0007册.djvu/407"
           }
         ],
         "reviewId": "review-h25-image-2"
@@ -116,26 +116,26 @@
       "label": "六三",
       "text": {
         "id": "h25-yao-3",
-        "original": "无妄之災，或繋之牛，行人之得，邑人之災。",
+        "original": "无妄之灾，或繋之牛，行人之得，邑人之灾。",
         "notes": [
           "采用四库本电子录文“繋”，普通电子对校页作“繫”。"
         ],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 六三 / 0007冊.djvu/407"
+            "locator": "卷5 / 无妄 / 六三 / 0007册.djvu/407"
           }
         ],
         "reviewId": "review-h25-yao-3"
       },
       "smallImage": {
         "id": "h25-image-3",
-        "original": "行人得牛，邑人災也。",
+        "original": "行人得牛，邑人灾也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 六三小象 / 0007冊.djvu/407"
+            "locator": "卷5 / 无妄 / 六三小象 / 0007册.djvu/407"
           }
         ],
         "reviewId": "review-h25-image-3"
@@ -147,24 +147,24 @@
       "label": "九四",
       "text": {
         "id": "h25-yao-4",
-        "original": "可貞，无咎。",
+        "original": "可贞，无咎。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 九四 / 0007冊.djvu/408"
+            "locator": "卷5 / 无妄 / 九四 / 0007册.djvu/408"
           }
         ],
         "reviewId": "review-h25-yao-4"
       },
       "smallImage": {
         "id": "h25-image-4",
-        "original": "可貞无咎，固有之也。",
+        "original": "可贞无咎，固有之也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 九四小象 / 0007冊.djvu/408"
+            "locator": "卷5 / 无妄 / 九四小象 / 0007册.djvu/408"
           }
         ],
         "reviewId": "review-h25-image-4"
@@ -176,24 +176,24 @@
       "label": "九五",
       "text": {
         "id": "h25-yao-5",
-        "original": "无妄之疾，勿藥有喜。",
+        "original": "无妄之疾，勿药有喜。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 九五 / 0007冊.djvu/408"
+            "locator": "卷5 / 无妄 / 九五 / 0007册.djvu/408"
           }
         ],
         "reviewId": "review-h25-yao-5"
       },
       "smallImage": {
         "id": "h25-image-5",
-        "original": "无妄之藥，不可試也。",
+        "original": "无妄之药，不可试也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 九五小象 / 0007冊.djvu/408"
+            "locator": "卷5 / 无妄 / 九五小象 / 0007册.djvu/408"
           }
         ],
         "reviewId": "review-h25-image-5"
@@ -210,19 +210,19 @@
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 上九 / 0007冊.djvu/408"
+            "locator": "卷5 / 无妄 / 上九 / 0007册.djvu/408"
           }
         ],
         "reviewId": "review-h25-yao-6"
       },
       "smallImage": {
         "id": "h25-image-6",
-        "original": "无妄之行，窮之災也。",
+        "original": "无妄之行，穷之灾也。",
         "notes": [],
         "originalRefs": [
           {
             "sourceId": "skqs-zhouyi-5-batch4",
-            "locator": "卷5 / 无妄 / 上九小象 / 0007冊.djvu/408"
+            "locator": "卷5 / 无妄 / 上九小象 / 0007册.djvu/408"
           }
         ],
         "reviewId": "review-h25-image-6"
