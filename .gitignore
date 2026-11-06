@@ -4,5 +4,7 @@ project.private.config.json
 *.log
 .validation/
 .cache/
+# 本地过程记录不属于可复现源码
+docs/screenshots/
 miniprogram/**/*.js
 miniprogram/**/*.js.map

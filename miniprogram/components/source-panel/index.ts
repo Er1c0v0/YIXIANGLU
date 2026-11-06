@@ -2,7 +2,10 @@ import { SOURCES } from '../../data/sources'
 import { SourceRef } from '../../domain/types'
 
 Component({
-  properties: { refs: { type: Array, value: [] }, relatedRefs: { type: Array, value: [] } },
+  properties: {
+    refs: { type: Array, value: [] }, relatedRefs: { type: Array, value: [] },
+    glossaryIds: { type: Array, value: [] }, relatedGlossaryIds: { type: Array, value: [] },
+  },
   data: { open: false, sources: [] as { key: string; title: string; locator: string; url?: string }[] },
   observers: {
     'refs, relatedRefs': function(refs: SourceRef[], relatedRefs: SourceRef[]) {
@@ -13,6 +16,9 @@ Component({
     },
   },
   methods: {
+    annotate() {
+      this.triggerEvent('annotate', { ids: [...this.data.glossaryIds, ...this.data.relatedGlossaryIds] }, { bubbles: true, composed: true })
+    },
     toggle() { this.setData({ open: !this.data.open }) },
     copy(e: WechatMiniprogram.TouchEvent) { wx.setClipboardData({ data: e.currentTarget.dataset.url }) },
   },

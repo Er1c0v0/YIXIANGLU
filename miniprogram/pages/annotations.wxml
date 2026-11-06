@@ -1,0 +1,17 @@
+<template name="annotations">
+  <page-container wx:if="{{valid}}" show="{{annotationsOpen}}" position="bottom" round bind:beforeleave="annotationsLeaving" bind:afterleave="annotationsLeft" bind:clickoverlay="closeAnnotations">
+    <template is="annotation-content" data="{{annotationNotes}}" />
+  </page-container>
+</template>
+<template name="annotation-content">
+    <view class="annotation-sheet" aria-role="dialog" aria-label="字词注解" aria-modal="{{true}}">
+      <view class="annotation-header"><view class="section-title">字词注解</view><button class="link" bindtap="closeAnnotations" aria-label="关闭字词注解" hover-class="button-pressed" hover-stay-time="80">关闭</button></view>
+      <scroll-view class="annotation-list" scroll-y>
+        <view wx:for="{{annotationNotes}}" wx:key="id" class="annotation-item">
+          <view class="annotation-word">{{item.term}} <text class="annotation-pinyin">{{item.pinyin}}</text></view>
+          <text class="annotation-definition" user-select="{{true}}">{{item.explanation}}</text>
+          <source-panel refs="{{item.refs}}" />
+        </view>
+      </scroll-view>
+    </view>
+</template>

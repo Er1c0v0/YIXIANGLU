@@ -1,0 +1,9 @@
+.annotation-sheet { background: #F7F4ED; padding: 20rpx 32rpx calc(24rpx + env(safe-area-inset-bottom)); }
+.annotation-header { display: flex; align-items: center; justify-content: space-between; gap: 24rpx; }
+.annotation-header .section-title { margin: 0; }
+.annotation-header button { width: auto; flex-shrink: 0; margin: 0; }
+.annotation-list { height: 55vh; }
+.annotation-item { padding: 22rpx 0; border-top: 1rpx solid #DDD6C9; }
+.annotation-word { font-size: 1.0625rem; font-weight: 600; }
+.annotation-pinyin { font-size: 0.8125rem; color: #625D55; font-weight: 400; margin-left: 12rpx; }
+.annotation-definition { display: block; margin-top: 10rpx; font-size: 0.9375rem; line-height: 1.8; }

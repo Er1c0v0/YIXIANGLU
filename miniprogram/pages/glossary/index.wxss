@@ -1,0 +1,11 @@
+@import "../annotations.wxss";
+.search-row { display: flex; align-items: center; gap: 12rpx; }
+.search-input { flex: 1; min-width: 0; background: #FFFDFA; }
+button.clear { width: auto; flex-shrink: 0; padding: 0 12rpx; margin: 0; }
+.filter { display: flex; align-items: center; justify-content: space-between; padding: 16rpx 22rpx; line-height: 1.7; border: 1rpx solid #DDD6C9; background: #FFFDFA; }
+.glossary-group { margin-top: 36rpx; }
+.glossary-entry { padding: 24rpx 0; border-top: 1rpx solid #DDD6C9; }
+.usage-toggle { display: flex; align-items: center; gap: 12rpx; text-align: left; padding: 8rpx 0; margin: 0; line-height: 1.7; }
+.glossary-detail { padding-top: 8rpx; }
+.usage { margin-bottom: 22rpx; }
+.usage > text { display: block; margin-top: 6rpx; }

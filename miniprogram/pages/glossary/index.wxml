@@ -1,0 +1,27 @@
+<page-meta root-font-size="system" />
+<view class="page">
+  <view class="title">字词释义</view>
+  <view class="search-row">
+    <input class="search-input" value="{{inputValue}}" bindinput="input" confirm-type="search" bindconfirm="refresh" placeholder="搜索字词，如贞、无咎" maxlength="40" aria-label="搜索字词释义" />
+    <button wx:if="{{hasText}}" class="link clear" bindtap="clearSearch" hover-class="button-pressed">清除</button>
+  </view>
+  <picker mode="selector" range="{{categories}}" range-key="name" value="{{categoryIndex}}" bindchange="filter" aria-label="选择字词类别"><button class="filter" hover-class="button-pressed">{{categories[categoryIndex].name}} <text>⌄</text></button></picker>
+  <view wx:if="{{!groups.length}}" class="empty">没有找到符合条件的字词</view>
+  <view wx:for="{{groups}}" wx:for-item="group" wx:key="id" class="glossary-group">
+    <view class="section-title">{{group.name}}</view>
+    <view wx:for="{{group.entries}}" wx:key="id" class="glossary-entry">
+      <view class="annotation-word">{{item.term}} <text class="annotation-pinyin">{{item.pinyin}}</text></view>
+      <text class="annotation-definition" user-select="{{true}}">{{item.explanation}}</text>
+      <button class="link usage-toggle" data-id="{{item.id}}" bindtap="toggle" aria-expanded="{{expandedId === item.id}}" hover-class="button-pressed">用法与例句 <text>{{expandedId === item.id ? '−' : '＋'}}</text></button>
+      <view wx:if="{{expandedId === item.id}}" class="glossary-detail">
+        <view wx:for="{{item.usages}}" wx:for-item="usage" wx:key="id" class="usage">
+          <view>{{usage.term}} <text class="annotation-pinyin">{{usage.pinyin}}</text></view>
+          <text user-select="{{true}}">{{usage.explanation}}</text>
+        </view>
+        <view class="label">{{item.example.locator}}</view>
+        <text class="original" user-select="{{true}}">{{item.example.quote}}</text>
+        <source-panel refs="{{item.refs}}" />
+      </view>
+    </view>
+  </view>
+</view>

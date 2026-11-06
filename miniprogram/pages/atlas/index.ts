@@ -47,6 +47,11 @@ Page({
     this.refresh()
   },
   clearSearch() { this.keyword = ''; this.setData({ inputValue: '' }); this.refresh() },
+  glossary() {
+    if (this.data.busy) return
+    this.setData({ busy: true })
+    wx.navigateTo({ url: '/pages/glossary/index', fail: () => this.setData({ busy: false }) })
+  },
   reset() {
     this.keyword = ''
     this.setData({ inputValue: '', upperIndex: 0, lowerIndex: 0 })

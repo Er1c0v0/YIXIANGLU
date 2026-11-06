@@ -9,3 +9,6 @@ button.clear { width: 100rpx; min-width: 44px; flex: 0 0 100rpx; padding: 0; mar
 button.reset { width: auto; padding: 0 12rpx; margin: 0; font-size: 0.84375rem; }
 .sample { text-align: left; background: #FFFDFA; border: 1rpx solid #DDD6C9; line-height: 1.6; padding: 22rpx 28rpx; }
 .structure { font-size: 0.78125rem; color: #625D55; margin-top: 6rpx; }
+.atlas-header { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8rpx 20rpx; margin-bottom: 16rpx; }
+.atlas-header .title { margin: 0; }
+.atlas-header button { width: auto; margin: 0; padding: 8rpx 0; line-height: 1.7; }

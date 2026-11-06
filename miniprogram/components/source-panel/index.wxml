@@ -1,5 +1,8 @@
 <view>
-  <button class="link" bindtap="toggle" aria-expanded="{{open}}" hover-class="button-pressed" hover-stay-time="80">来源 <text>{{open ? '−' : '＋'}}</text></button>
+  <view class="source-actions">
+    <button class="link source-action" bindtap="toggle" aria-expanded="{{open}}" hover-class="button-pressed" hover-stay-time="80">来源 <text>{{open ? '−' : '＋'}}</text></button>
+    <button wx:if="{{glossaryIds.length || relatedGlossaryIds.length}}" class="link source-action" bindtap="annotate" aria-haspopup="dialog" hover-class="button-pressed" hover-stay-time="80">字词注解</button>
+  </view>
   <view wx:if="{{open}}" class="source-body">
     <view wx:for="{{sources}}" wx:key="key" class="entry">
       <view class="source-title">{{item.title}}</view><view>{{item.locator}}</view>

@@ -4,6 +4,7 @@ import assert from 'node:assert/strict'
 import { getHexagram } from '../miniprogram/domain/hexagrams.ts'
 import { lineName } from '../miniprogram/domain/casting.ts'
 import { TRIGRAMS } from '../miniprogram/domain/trigrams.ts'
+import { validateGlossary } from './glossary-lib.mjs'
 
 export function canonical(value) {
   if (Array.isArray(value)) return `[${value.map(canonical).join(',')}]`
@@ -18,12 +19,12 @@ const subjectOf = (value, keys) => Object.fromEntries(keys.map(key => [key,value
 export function readContent() {
   const directory = new URL('../content/', import.meta.url)
   const load = file => JSON.parse(readFileSync(new URL(file, directory), 'utf8'))
-  const knownFiles = ['sources.json','manifest.json','search.json','imagery.json','elements.json']
+  const knownFiles = ['sources.json','manifest.json','search.json','imagery.json','elements.json','glossary.json']
   for (const file of readdirSync(directory).filter(file => file.endsWith('.json'))) assert.ok(knownFiles.includes(file), `未知内容文件类别 ${file}`)
   const contents = readdirSync(new URL('hexagrams/', directory)).filter(file => file.endsWith('.json'))
     .map(file => load(`hexagrams/${file}`)).sort((a,b) => a.id-b.id)
   return { contents, sources: load('sources.json'), reviews: expandReviews(readReviewFiles()),
-    search: load('search.json'), imagery: load('imagery.json'), relations: load('elements.json') }
+    search: load('search.json'), imagery: load('imagery.json'), relations: load('elements.json'), glossary: load('glossary.json') }
 }
 
 export function readReviewFiles() {
@@ -34,6 +35,7 @@ export function readReviewFiles() {
     const records = load(name)
     if (name === 'search.json') assert.ok(records.every(record => /^search-\d+$/.test(record.subjectId)), '检索审核归属不符')
     else if (name === 'trigrams.json') assert.ok(records.every(record => /^(imagery-|element-)/.test(record.subjectId)), '八卦审核归属不符')
+    else if (name === 'glossary.json') assert.ok(records.every(record => record.subjectId.startsWith('glossary-')), '字词审核归属不符')
     else {
       assert.match(name, /^(0[1-9]|[1-5][0-9]|6[0-4])\.json$/, '未知审核文件类别')
       assert.ok(records.every(record => record.subjectId.startsWith(`h${Number(name.slice(0, 2))}-`)), `审核卦归属不符 ${name}`)
@@ -62,7 +64,7 @@ export function expandReviews({ methods, records }) {
   return reviews
 }
 
-export function validateContent({ contents, sources, reviews, search, imagery, relations }, { release = false } = {}) {
+export function validateContent({ contents, sources, reviews, search, imagery, relations, glossary }, { release = false } = {}) {
   const sourceMap = new Map(sources.map(source => [source.id,source]))
   const reviewMap = new Map(reviews.map(record => [record.id,record]))
   assert.equal(sourceMap.size,sources.length,'来源重复')
@@ -80,7 +82,7 @@ export function validateContent({ contents, sources, reviews, search, imagery, r
       return sourceMap.get(ref.sourceId)
     })
   }
-  const usedReviews = new Set(), textIds = new Set(), textReviews = [], displayReviews = [], archiveReviews = []
+  const usedReviews = new Set(), textIds = new Set(), texts = new Map(), textReviews = [], displayReviews = [], archiveReviews = []
   function review(id, subjectId, subject, refs) {
     const resolved = resolve(refs), record = reviewMap.get(id)
     assert.ok(record,`缺少审核 ${id}`)
@@ -96,6 +98,7 @@ export function validateContent({ contents, sources, reviews, search, imagery, r
   function text(block) {
     for (const key of ['id','original','reviewId']) required(block[key],key)
     assert.ok(!textIds.has(block.id),`正文 ID 重复 ${block.id}`); textIds.add(block.id)
+    texts.set(block.id, block)
     assert.ok(Array.isArray(block.notes),'缺少注释列表')
     resolve(block.originalRefs)
     const hasExplanation = block.explanation !== undefined
@@ -196,20 +199,22 @@ export function validateContent({ contents, sources, reviews, search, imagery, r
     assert.equal(new Set(entries.map(e => e.from)).size, 5, '生克起点重复')
     assert.equal(new Set(entries.map(e => e.to)).size, 5, '生克终点重复')
   }
+  const glossaryReviews = validateGlossary(glossary, texts, resolve, review)
   assert.equal(usedReviews.size,reviews.length,'存在无关联审核')
   const count = (records,key) => ({ passed:records.filter(r => r[key]==='passed').length, outstanding:records.filter(r => r[key]!=='passed' && r[key]!=='not-applicable').length, notApplicable:records.filter(r => r[key]==='not-applicable').length })
-  const buildHash = hash({contents,sources,reviews,search,imagery,relations})
+  const buildHash = hash({contents,sources,reviews,search,imagery,relations,glossary})
   const manifest = {
-    schemaVersion:3,
-    dataVersion:`3.${buildHash.slice(0,12)}`,
+    schemaVersion:4,
+    dataVersion:`4.${buildHash.slice(0,12)}`,
     buildHash,
-    counts:{hexagrams:contents.length,originalBlocks:textIds.size,reviewRecords:reviews.length,sources:sources.length,search:search.length,imagery:imagery.length,elementRelations:relations.length},
+    counts:{hexagrams:contents.length,originalBlocks:textIds.size,reviewRecords:reviews.length,sources:sources.length,search:search.length,imagery:imagery.length,elementRelations:relations.length,glossary:glossary.length},
     target:{hexagrams:64,originalBlocks:964,search:64,minimumImagery:96,elementRelations:10},
     missingHexagramIds:Array.from({length:64},(_,i)=>i+1).filter(id=>!contents.some(c=>c.id===id)),
     reviews:{electronicOriginal:count(textReviews,'originalStatus'),facsimileOriginal:count(textReviews,'facsimileStatus'),independentOriginal:count(textReviews,'independentReviewStatus'),displayExplanation:count(displayReviews,'explanationStatus'),independentDisplay:count(displayReviews,'independentReviewStatus'),archivedExplanation:count(archiveReviews,'explanationStatus'),noExplanation:textReviews.length-archiveReviews.length,
       search:count(searchReviews,'originalStatus'),independentSearch:count(searchReviews,'independentReviewStatus'),
       imagery:count(imageryReviews,'originalStatus'),imageryExplanation:count(imageryReviews,'explanationStatus'),independentImagery:count(imageryReviews,'independentReviewStatus'),
-      elementRelations:count(relationReviews,'originalStatus'),independentRelations:count(relationReviews,'independentReviewStatus')},
+      elementRelations:count(relationReviews,'originalStatus'),independentRelations:count(relationReviews,'independentReviewStatus'),
+      glossary:count(glossaryReviews,'originalStatus'),glossaryExplanation:count(glossaryReviews,'explanationStatus'),independentGlossary:count(glossaryReviews,'independentReviewStatus')},
   }
   if (release) {
     assert.equal(manifest.counts.hexagrams,64,'全库发布需要 64 卦')
@@ -218,8 +223,8 @@ export function validateContent({ contents, sources, reviews, search, imagery, r
     for (const record of textReviews) assert.equal(record.originalStatus,'passed',`发布原文电子核对未完成 ${record.id}`)
     assert.equal(search.length,64,'发布检索需要64卦')
     assert.ok(imagery.length>=96 && relations.length===10,'发布八卦资料未齐全')
-    for (const record of [...searchReviews,...imageryReviews,...relationReviews]) assert.equal(record.originalStatus,'passed', `发布查询资料电子核对未完成 ${record.id}`)
-    for (const record of [...textReviews,...displayReviews,...searchReviews,...imageryReviews,...relationReviews]) {
+    for (const record of [...searchReviews,...imageryReviews,...relationReviews,...glossaryReviews]) assert.equal(record.originalStatus,'passed', `发布查询资料电子核对未完成 ${record.id}`)
+    for (const record of [...textReviews,...displayReviews,...searchReviews,...imageryReviews,...relationReviews,...glossaryReviews]) {
       assert.ok(!['originalStatus','explanationStatus','facsimileStatus','independentReviewStatus'].some(key => record[key]==='needs-fix'), `发布资料存在已确认待修问题 ${record.id}`)
     }
   }

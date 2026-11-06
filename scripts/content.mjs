@@ -1,15 +1,26 @@
 import { readFile, writeFile } from 'node:fs/promises'
 import assert from 'node:assert/strict'
 import { readContent, validateContent } from './content-lib.mjs'
+import { glossaryLinks } from './glossary-lib.mjs'
 
 const root = new URL('../',import.meta.url)
 const dataset = readContent()
-const {contents,sources,reviews,search,imagery,relations} = dataset
+const {contents,sources,reviews,search,imagery,relations,glossary} = dataset
 const command = process.argv[2]
 assert.ok(['build','check','release'].includes(command),'用法：tsx scripts/content.mjs build|check|release')
 const manifest = validateContent(dataset,{release:command==='release'})
 // 运行包只保留页面使用的数据；正文、异文、白话与审核档案仍完整留在 content/。
-const runtimeText = ({original, originalRefs}) => ({original, originalRefs})
+const texts = new Map(contents.flatMap(content => [content.statement, content.tuan, content.greatImage,
+  ...content.yao.flatMap(yao => [yao.text, yao.smallImage]),
+  ...content.specialEntries.flatMap(entry => [entry.text, entry.smallImage]),
+]).map(block => [block.id, block]))
+const links = glossaryLinks(glossary, texts)
+const runtimeText = ({id, original, originalRefs}) => ({original, originalRefs, ...(links.has(id) ? { glossaryIds: links.get(id) } : {})})
+const runtimeGlossary = glossary.map(({ id, term, pinyin, category, aliases, explanation, refs, example, usages }) => ({
+  id, term, pinyin, category, aliases, explanation, refs,
+  example: { quote: example.quote, locator: texts.get(example.blockId).originalRefs[0].locator },
+  usages: usages.map(({ occurrences, ...usage }) => usage),
+}))
 const runtimeContents = contents.map(content => ({
   id: content.id, statement: runtimeText(content.statement), tuan: runtimeText(content.tuan),
   greatImage: runtimeText(content.greatImage), summary: content.summary,
@@ -28,6 +39,7 @@ const sourceIds = new Set(runtimeContents.flatMap(content => [
     ...content.specialEntries.flatMap(entry => [entry.text, entry.smallImage]),
   ].flatMap(text => text.originalRefs),
 ]).map(ref => ref.sourceId))
+for (const entry of glossary) for (const ref of [...entry.refs, ...entry.usages.flatMap(usage => usage.refs)]) sourceIds.add(ref.sourceId)
 const runtimeSources = sources.filter(source => sourceIds.has(source.id))
 const runtimeSearch = search.map(({id, name, fullName, upper, lower, traditionalNames, aliases, pinyin, fullNamePinyin, pinyinInitials}) => ({
   id, name, fullName, upper, lower, traditionalNames, aliases: aliases.map(({value}) => ({value})), pinyin, fullNamePinyin, pinyinInitials,
@@ -45,7 +57,8 @@ const output = `${header}import { HexagramContent } from '../domain/types'\n\nex
 const sourceOutput = `${header}import { SourceDocument } from '../domain/types'\nexport const SOURCES: readonly SourceDocument[] = ${JSON.stringify(runtimeSources,null,2)}\n`
 const searchOutput = `${header}import { HexagramSearchEntry } from '../domain/types'\nexport const SEARCH_ENTRIES: readonly HexagramSearchEntry[] = ${JSON.stringify(runtimeSearch)}\n`
 const trigramOutput = `${header}import { ImageryEntry, ElementRelation } from '../domain/types'\nexport const IMAGERY: readonly ImageryEntry[] = ${JSON.stringify(runtimeImagery)}\nexport const ELEMENT_RELATIONS: readonly ElementRelation[] = ${JSON.stringify(runtimeRelations)}\n`
-for (const [file,text] of [['miniprogram/data/content.ts',output],['miniprogram/data/sources.ts',sourceOutput],['miniprogram/data/search.ts',searchOutput],['miniprogram/data/trigrams.ts',trigramOutput],['content/manifest.json',JSON.stringify(manifest,null,2)+'\n']]) {
+const glossaryOutput = `${header}import { GlossaryEntry } from '../domain/types'\nexport const GLOSSARY_ENTRIES: readonly GlossaryEntry[] = ${JSON.stringify(runtimeGlossary,null,2)}\n`
+for (const [file,text] of [['miniprogram/data/content.ts',output],['miniprogram/data/sources.ts',sourceOutput],['miniprogram/data/search.ts',searchOutput],['miniprogram/data/trigrams.ts',trigramOutput],['miniprogram/data/glossary.ts',glossaryOutput],['content/manifest.json',JSON.stringify(manifest,null,2)+'\n']]) {
   const destination = new URL(file,root)
   if (command==='build') await writeFile(destination,text)
   else assert.equal(await readFile(destination,'utf8'),text,`${file} 已过期，请重新构建`)
@@ -54,3 +67,4 @@ console.log(`${contents.length} 卦 / ${manifest.counts.originalBlocks} 原文�
 console.log(`缺 ${manifest.missingHexagramIds.length} 卦 / ${964-manifest.counts.originalBlocks} 原文块；电子待审 ${manifest.reviews.electronicOriginal.outstanding}，影印待审 ${manifest.reviews.facsimileOriginal.outstanding}，展示释义待审 ${manifest.reviews.displayExplanation.outstanding}，留档白话待审 ${manifest.reviews.archivedExplanation.outstanding}。`)
 console.log(`数据 ${manifest.dataVersion} · SHA-256 ${manifest.buildHash}`)
 console.log(`检索 ${search.length} / 意象 ${imagery.length} / 生克 ${relations.length}；独立待审 ${manifest.reviews.independentSearch.outstanding + manifest.reviews.independentImagery.outstanding + manifest.reviews.independentRelations.outstanding}，新说明待审 ${manifest.reviews.imageryExplanation.outstanding}。`)
+console.log(`字词 ${glossary.length}；电子待审 ${manifest.reviews.glossary.outstanding}，释义待审 ${manifest.reviews.glossaryExplanation.outstanding}，独立待审 ${manifest.reviews.independentGlossary.outstanding}。`)

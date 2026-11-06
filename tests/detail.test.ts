@@ -3,13 +3,14 @@ import assert from 'node:assert/strict'
 import { newFlow, readSession, startSession } from '../miniprogram/state/session'
 import { endReading, readReading, startReading } from '../miniprogram/state/reading'
 import type { CastSession } from '../miniprogram/domain/types'
+import { getContent } from '../miniprogram/data/repository'
 
 // 只模拟页面逻辑所需的同步 data 更新，不模拟渲染或原生页面栈。
 const definitions: Record<string, any> = {}
 let loading = ''
 Object.assign(globalThis, { Page: (definition: any) => { definitions[loading] = definition } })
 const loaded = (async () => {
-  for (const name of ['detail', 'atlas', 'hexagram', 'changes']) {
+  for (const name of ['detail', 'atlas', 'hexagram', 'changes', 'analysis']) {
     loading = name
     await import(`../miniprogram/pages/${name}/index.ts`)
   }
@@ -331,5 +332,49 @@ test('目录关闭完成后展开并按实测位置定位，关闭和返回不�
   detail.directoryLeft()
   assert.deepEqual(revealed, ['yao-5'])
   assert.equal(scrolls.length, 1)
+  const annotation = { detail: { ids: getContent(1)!.yao[1].text.glossaryIds } }
+  detail.openAnnotations(annotation)
+  detail.openDirectory()
+  detail.observe()
+  detail.switchHexagram({ currentTarget: { dataset: { direction: 1 } } })
+  assert.deepEqual([detail.data.annotationsOpen, detail.data.directoryOpen, detail.data.id], [true, false, 1])
+  assert.ok(detail.data.annotationNotes.some((note: { pinyin: string }) => note.pinyin === 'xiàn'))
+  detail.closePanel()
+  detail.panelLeaving()
+  detail.panelLeft()
+  assert.deepEqual([detail.data.annotationNotes, detail.data.annotationsClosing], [[], false])
+  assert.equal(scrolls.length, 1)
+  detail.openDirectory()
+  detail.closePanel()
+  detail.panelLeaving()
+  detail.panelLeft()
+  assert.equal(detail.data.directoryClosing, false)
+  assert.deepEqual(revealed, ['yao-5'])
   detail.onUnload()
+})
+
+test('本卦与分析注解不改变观变会话，旧会话失效时清空浮层', async () => {
+  await loaded
+  Object.assign(globalThis, { wx: {
+    navigateTo() { assert.fail('注解打开时不应离开本卦') },
+    navigateBack() { assert.fail('注解打开时不应返回调整') },
+  } })
+  const session: CastSession = { mode: 'manual', hexagramId: 1, selected: [2] }
+  const entry = query(startSession(session))
+  const original = page('hexagram'), analysis = page('analysis')
+  for (const host of [original, analysis]) {
+    host.onLoad(entry)
+    host.onShow()
+    host.openAnnotations({ detail: { ids: getContent(1)!.statement.glossaryIds } })
+    assert.equal(host.data.annotationsOpen, true)
+  }
+  original.next()
+  analysis.back()
+  assert.equal(readSession(entry), session)
+  assert.deepEqual(session.selected, [2])
+  newFlow()
+  for (const host of [original, analysis]) {
+    host.onShow()
+    assert.deepEqual([host.data.valid, host.data.annotationsOpen, host.data.annotationNotes], [false, false, []])
+  }
 })

@@ -24,7 +24,7 @@ test('构建拒绝坏引用与过期数据，发布拒绝缺卦和未电子核�
   ] as const
   for (const [change,message] of cases) { const copy=structuredClone(dataset); change(copy); assert.throws(()=>validateContent(copy),message) }
   const first = dataset.contents[0]
-  const partial = { ...dataset, search: [], imagery: [], relations: [], contents: [first], reviews: dataset.reviews.filter(record => record.subjectId.startsWith(`h${first.id}-`)) }
+  const partial = { ...dataset, search: [], imagery: [], relations: [], glossary: [], contents: [first], reviews: dataset.reviews.filter(record => record.subjectId.startsWith(`h${first.id}-`)) }
   assert.throws(() => validateContent(partial, { release: true }), /64 卦/)
   const unreviewed = structuredClone(dataset)
   unreviewed.reviews.find(record => record.id === first.statement.reviewId).originalStatus = 'pending'

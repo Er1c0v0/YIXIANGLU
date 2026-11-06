@@ -1,6 +1,7 @@
 {
   "navigationBarTitleText": "卦象查阅",
   "usingComponents": {
-    "reading": "/components/reading/index"
+    "reading": "/components/reading/index",
+    "source-panel": "/components/source-panel/index"
   }
 }

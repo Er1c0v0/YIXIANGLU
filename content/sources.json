@@ -1085,5 +1085,115 @@
     "revisionOrSnapshot": "2026-10-22访问",
     "accessedAt": "2026-10-22",
     "rightsNote": "仅采用读音事实，不转载词典释义；字词典页面权利归其权利人。"
+  },
+  {
+    "id": "glossary-benyi",
+    "title": "《周易本义》卷一",
+    "authorOrCompiler": "朱熹；维基文库贡献者",
+    "edition": "四库本电子录文",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/原本周易本義_(四庫全書本)/卷01",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-qian",
+    "title": "《周易正义》乾",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/01乾",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-shi",
+    "title": "《周易正义》师",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/02師",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-xici",
+    "title": "《周易正义》系辞上第三章",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/07.03",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-kun",
+    "title": "《周易正义》困",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/05困",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-ding",
+    "title": "《周易正义》鼎",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/05鼎",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-jie",
+    "title": "《周易正义》节",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/06節",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-zhengyi-kui",
+    "title": "《周易正义》睽",
+    "authorOrCompiler": "王弼、韩康伯注，孔颖达疏；维基文库贡献者",
+    "edition": "普通电子录文；非影印核准",
+    "provider": "维基文库贡献者",
+    "url": "https://zh.wikisource.org/wiki/周易正義/04睽",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "古籍公版；维基文库电子录文由贡献者提供，按 CC BY-SA 4.0 及附加条款使用。释义为项目简要整理，不是原文引句。"
+  },
+  {
+    "id": "glossary-moe-heng",
+    "title": "教育部《异体字字典》：亨",
+    "authorOrCompiler": "教育部",
+    "edition": "2024年版电子词条",
+    "provider": "教育部辞典",
+    "url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=700",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "仅参照义项与读音自行概括；辞典原文依教育部授权条款，不套用维基文库许可。"
+  },
+  {
+    "id": "glossary-moe-zhen",
+    "title": "教育部《重编国语辞典修订本》：贞",
+    "authorOrCompiler": "教育部",
+    "edition": "2021年版电子词条",
+    "provider": "教育部辞典",
+    "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=7836&la=0&powerMode=0",
+    "revisionOrSnapshot": "2026-11-06 访问电子页；采用范围见词条及用法定位",
+    "accessedAt": "2026-11-06",
+    "rightsNote": "仅参照义项与读音自行概括；辞典原文依教育部授权条款，不套用维基文库许可。"
   }
 ]

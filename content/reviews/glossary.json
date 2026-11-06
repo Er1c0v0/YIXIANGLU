@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "review-glossary-yuan",
+    "subjectId": "glossary-yuan",
+    "method": "glossary-20261106",
+    "subjectHash": "892b693334366a658a91c7b8a9278590c18eeb42c808b2c86abb49117c2583cb",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 卦辞"
+      },
+      {
+        "sourceId": "glossary-benyi",
+        "locator": "乾卦卦辞注／元、亨、利、贞"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 六五"
+      },
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 睽 / 九四 / 0007册.djvu/445"
+      },
+      {
+        "sourceId": "glossary-zhengyi-kui",
+        "locator": "九四／元夫"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-heng",
+    "subjectId": "glossary-heng",
+    "method": "glossary-20261106",
+    "subjectHash": "280a4b3b67827578c19152aab8f23b534580349482e1f8f625fa5cd3b30a466f",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch6",
+        "locator": "卷8 / 鼎 / 彖曰 / 0007册.djvu/479"
+      },
+      {
+        "sourceId": "glossary-benyi",
+        "locator": "乾卦卦辞注／元、亨、利、贞"
+      },
+      {
+        "sourceId": "glossary-moe-heng",
+        "locator": "亨／hēng、pēng、xiǎng 义项"
+      },
+      {
+        "sourceId": "glossary-zhengyi-ding",
+        "locator": "彖传注疏／亨饪、亨以享上帝"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch3",
+        "locator": "卷3 / 大有 / 九三 / 0007册.djvu/373"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰 / 全段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-li",
+    "subjectId": "glossary-li",
+    "method": "glossary-20261106",
+    "subjectHash": "c4a5f9152dac730ee537031dd3c6069dad375d2f99ec45bd6dad8a7c640f8091",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 讼 / 卦辞 / 0007册.djvu/347"
+      },
+      {
+        "sourceId": "glossary-benyi",
+        "locator": "乾卦卦辞注／元、亨、利、贞"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 卦辞 / 0007册.djvu/345"
+      },
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 剥 / 卦辞 / 0007册.djvu/401"
+      },
+      {
+        "sourceId": "skqs-zhouyi-4-batch4",
+        "locator": "卷4 / 贲 / 卦辞 / 0007册.djvu/395"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 九二"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 六三 / 0007册.djvu/344"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 六二"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 上九 / 0007册.djvu/344"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 卦辞"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-zhen",
+    "subjectId": "glossary-zhen",
+    "method": "glossary-20261106",
+    "subjectHash": "aca1d6cb90b3c330064a645acc31c2e0ab4c5ff949f7eaffa547eae8de589d1d",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 卦辞"
+      },
+      {
+        "sourceId": "glossary-benyi",
+        "locator": "乾卦卦辞注／元、亨、利、贞"
+      },
+      {
+        "sourceId": "glossary-moe-zhen",
+        "locator": "贞／卜问、守正、坚定义项"
+      },
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 剥 / 初六 / 0007册.djvu/402"
+      },
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 上六 / 0007册.djvu/512"
+      },
+      {
+        "sourceId": "glossary-zhengyi-jie",
+        "locator": "上六／苦节、贞凶"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2",
+        "locator": "卷2 / 屯 / 九五 / 0007册.djvu/341"
+      },
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 九四 / 0007册.djvu/516"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 用六"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 讼 / 六三 / 0007册.djvu/349"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 九三 / 0007册.djvu/366"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 卦辞"
+      },
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 豫 / 六五 / 0007册.djvu/383"
+      },
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 蛊 / 九二 / 0007册.djvu/387"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-ji",
+    "subjectId": "glossary-ji",
+    "method": "glossary-20261106",
+    "subjectHash": "8d0b8818a7123427c41c2f15b6bc7d7ae1eb0f6eceffe50c5d3816a639fd950b",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 用九"
+      },
+      {
+        "sourceId": "glossary-zhengyi-xici",
+        "locator": "系辞上第三章／吉凶、悔吝、无咎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-xiong",
+    "subjectId": "glossary-xiong",
+    "method": "glossary-20261106",
+    "subjectHash": "8370a4867d965d08ca25845f9519e458c2114a0bdb8467dd6c9e0de825ef8f1b",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 讼 / 卦辞 / 0007册.djvu/347"
+      },
+      {
+        "sourceId": "glossary-zhengyi-xici",
+        "locator": "系辞上第三章／吉凶、悔吝、无咎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-hui",
+    "subjectId": "glossary-hui",
+    "method": "glossary-20261106",
+    "subjectHash": "bc08f5889c9caa5422fea162e81ac4d5df7d352c2e249ef9f9497dc5a896c0c5",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 咸 / 九四 / 0007册.djvu/428"
+      },
+      {
+        "sourceId": "glossary-zhengyi-xici",
+        "locator": "系辞上第三章／吉凶、悔吝、无咎"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 同人 / 上九 / 0007册.djvu/372"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 上九"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-lin",
+    "subjectId": "glossary-lin",
+    "method": "glossary-20261106",
+    "subjectHash": "0eabbab9c78509af560f2ec8aa55c5d9af8aef870dd732a0e9aa5f281686b068",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2",
+        "locator": "卷2 / 屯 / 六三 / 0007册.djvu/341"
+      },
+      {
+        "sourceId": "glossary-zhengyi-xici",
+        "locator": "系辞上第三章／吉凶、悔吝、无咎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-li-danger",
+    "subjectId": "glossary-li-danger",
+    "method": "glossary-20261106",
+    "subjectHash": "45d5cb5196fa559bb8e88a2f6cdc45a656cffd18766df90c663084003bbddee6",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 九三"
+      },
+      {
+        "sourceId": "glossary-zhengyi-xici",
+        "locator": "系辞上第三章／吉凶、悔吝、无咎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-jiu",
+    "subjectId": "glossary-jiu",
+    "method": "glossary-20261106",
+    "subjectHash": "f0ba04593208b4eeb89fb51125b511fb9f4114827a2a885ef02049c5e7181e76",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 九三"
+      },
+      {
+        "sourceId": "glossary-zhengyi-xici",
+        "locator": "系辞上第三章／吉凶、悔吝、无咎"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch3",
+        "locator": "卷3 / 大有 / 初九 / 0007册.djvu/373"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 师 / 彖曰 / 0007册.djvu/354"
+      },
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 节 / 六三 / 0007册.djvu/512"
+      },
+      {
+        "sourceId": "glossary-zhengyi-jie",
+        "locator": "六三及小象／无咎、又谁咎"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-fu",
+    "subjectId": "glossary-fu",
+    "method": "glossary-20261106",
+    "subjectHash": "4d815678c7e539d8dea988961f4a3e037d0e4f96c11c8b34b190439020e1f9ab",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 萃 / 九五 / 0007册.djvu/468"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 卦辞 / 0007册.djvu/345"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 九三 / 0007册.djvu/366"
+      },
+      {
+        "sourceId": "skqs-zhouyi-8",
+        "locator": "卷8 / 姤 / 初六 / 0007册.djvu/464"
+      },
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 晋 / 初六 / 0007册.djvu/436"
+      },
+      {
+        "sourceId": "skqs-zhouyi-6-batch5",
+        "locator": "卷6 / 大壮 / 初九 / 0007册.djvu/434"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-you",
+    "subjectId": "glossary-you",
+    "method": "glossary-20261106",
+    "subjectHash": "82c574a504528cc5a7f7f959bae0bbaab81db88cec824f056002168deca64043",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 卦辞"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-zheng",
+    "subjectId": "glossary-zheng",
+    "method": "glossary-20261106",
+    "subjectHash": "10d1fce7e777bd0d4b2f0c6069e962e441a09df815d837e1eb83e46815d80923",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 小畜 / 上九 / 0007册.djvu/362"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-wang",
+    "subjectId": "glossary-wang",
+    "method": "glossary-20261106",
+    "subjectHash": "dd1eb631022abe4380007aadc2994ff4dc5a9749dada0c36529288e2addbdff7",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 卦辞"
+      },
+      {
+        "sourceId": "skqs-zhouyi-5",
+        "locator": "卷5 / 大畜 / 整卦大象 / 0007册.djvu/409"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-lai",
+    "subjectId": "glossary-lai",
+    "method": "glossary-20261106",
+    "subjectHash": "4fd4bc7662cc3f3b336491a7013eddfe43d35e97f7a9749f4dff266e62e7ea2a",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 上六 / 0007册.djvu/347"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-wuyong",
+    "subjectId": "glossary-wuyong",
+    "method": "glossary-20261106",
+    "subjectHash": "7689d529a6be7271ad6f8f9f5714100a9225661200d873892207e06596cfb233",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 初九"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-junzi",
+    "subjectId": "glossary-junzi",
+    "method": "glossary-20261106",
+    "subjectHash": "b8703a3bcf62bf0a956155eefa4120d61b5f4ad089de86fa01c9db312eb626a8",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 整卦大象"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾卦六爻及文言相应注疏"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-xiaoren",
+    "subjectId": "glossary-xiaoren",
+    "method": "glossary-20261106",
+    "subjectHash": "c19c355fa0ad61c12c02a51284a12c4cf793b47e00026aa8b0afe89c18d33e0d",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 师 / 上六 / 0007册.djvu/356"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-daren",
+    "subjectId": "glossary-daren",
+    "method": "glossary-20261106",
+    "subjectHash": "5b180e58dffa8efdd1e8b3070835da0f3031c6162138c9386b7653731ba11ac2",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 象曰 / 九五小象"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾卦六爻及文言相应注疏"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-zhangren",
+    "subjectId": "glossary-zhangren",
+    "method": "glossary-20261106",
+    "subjectHash": "5e04fe1e9776f6a4f99419035be817992ee2e1fda8d300c198b80a2b4bd8b55f",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 师 / 卦辞 / 0007册.djvu/354"
+      },
+      {
+        "sourceId": "glossary-zhengyi-shi",
+        "locator": "师卦卦辞注疏／丈人"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-peng",
+    "subjectId": "glossary-peng",
+    "method": "glossary-20261106",
+    "subjectHash": "4c0add159e276d680e55fc6e2bcbc89e7ac6d23063e3ebdc8aa2f62d9e9303f9",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 损 / 六五 / 0007册.djvu/453"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 卦辞"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-pin",
+    "subjectId": "glossary-pin",
+    "method": "glossary-20261106",
+    "subjectHash": "1510a2348066e8c026b92d1f2dcfb03ec6f3cddbdb031cb5552284331933fb96",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 易经 / 卦辞"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-fei",
+    "subjectId": "glossary-fei",
+    "method": "glossary-20261106",
+    "subjectHash": "98cd095aeafe766584860fae4956079a05a2ed740db850ef11e5f86797ad5e43",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 涣 / 六四 / 0007册.djvu/510"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2",
+        "locator": "卷2 / 屯 / 六二 / 0007册.djvu/340"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-jian",
+    "subjectId": "glossary-jian",
+    "method": "glossary-20261106",
+    "subjectHash": "16610f6ff351f73c8e4a864761b17774a94d699d3d15d342d983a6aeda1509f8",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 九二"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾卦六爻及文言相应注疏"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 用九"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-shuo",
+    "subjectId": "glossary-shuo",
+    "method": "glossary-20261106",
+    "subjectHash": "3670a10046290b094e6241ecfccce3f28520ca40e29b06ab0e5f6d849d6d7e0f",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 初六 / 0007册.djvu/343"
+      },
+      {
+        "sourceId": "skqs-zhouyi-6-batch4",
+        "locator": "卷6 / 咸 / 上六小象 / 0007册.djvu/429"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 履 / 彖曰 / 0007册.djvu/363"
+      },
+      {
+        "sourceId": "skqs-zhouyi-8-batch5",
+        "locator": "卷8 / 困 / 九五 / 0007册.djvu/472"
+      },
+      {
+        "sourceId": "glossary-zhengyi-kun",
+        "locator": "九五及小象／乃徐有说"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-gui",
+    "subjectId": "glossary-gui",
+    "method": "glossary-20261106",
+    "subjectHash": "2c097dc2795a741177062f1ecfd56e9c10d3bb31bb3348ca38c456826b3e4ff2",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 讼 / 九二 / 0007册.djvu/349"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3",
+        "locator": "卷3 / 泰 / 六五 / 0007册.djvu/367"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-qianqian",
+    "subjectId": "glossary-qianqian",
+    "method": "glossary-20261106",
+    "subjectHash": "57f1fec30ac2ae32b786dcc78b230d556ff1e1bb95513490cf7652300f20f832",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 九三"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾卦六爻及文言相应注疏"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-ti",
+    "subjectId": "glossary-ti",
+    "method": "glossary-20261106",
+    "subjectHash": "f5299502a7bb9f915d65334544cd9c5b9a59627da3a3181f2a61985b22050f83",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 九三"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾卦六爻及文言相应注疏"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 小畜 / 六四 / 0007册.djvu/361"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-kang",
+    "subjectId": "glossary-kang",
+    "method": "glossary-20261106",
+    "subjectHash": "9f2c0c04bd7fb628dc8319563bea4f095e2e1755f58b35777783ccfddc0a2ca1",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 易经 / 上九"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾卦六爻及文言相应注疏"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-gang",
+    "subjectId": "glossary-gang",
+    "method": "glossary-20261106",
+    "subjectHash": "343cc28ba0ed9b7b48ac7317f6d2131a773516a375306901c490002b9ba20bcd",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2",
+        "locator": "卷2 / 屯 / 彖曰 / 0007册.djvu/339"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-rou",
+    "subjectId": "glossary-rou",
+    "method": "glossary-20261106",
+    "subjectHash": "ea9d9c17efdc6ec2e98e27ab6a8010df6092157c0627c264be9d7c550162f9b1",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-zhong",
+    "subjectId": "glossary-zhong",
+    "method": "glossary-20261106",
+    "subjectHash": "c0a7f218cc844cce6fef01c690c19e3aaaa2809d78b94654cb84c64b5d2040ae",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 丰 / 卦辞 / 0007册.djvu/495"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 履 / 九二小象 / 0007册.djvu/364"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 讼 / 卦辞 / 0007册.djvu/347"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 象曰 / 六五小象"
+      },
+      {
+        "sourceId": "skqs-zhouyi-10-batch6",
+        "locator": "卷10 / 小过 / 彖曰 / 0007册.djvu/515"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch3",
+        "locator": "卷3 / 大有 / 九二小象 / 0007册.djvu/373"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-zheng-correct",
+    "subjectId": "glossary-zheng-correct",
+    "method": "glossary-20261106",
+    "subjectHash": "efeacd742efee023cfb6c5b294d2cf03bfe327994f5223cd501f2c2b0eade0f2",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      },
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 巽 / 上九小象 / 0007册.djvu/503"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-zhongzheng",
+    "subjectId": "glossary-zhongzheng",
+    "method": "glossary-20261106",
+    "subjectHash": "2372af19c2be9c971cb872e4bf95c1cd2068acd5bbb80474e3308967015c15a7",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 彖曰 / 0007册.djvu/345"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-dezhong",
+    "subjectId": "glossary-dezhong",
+    "method": "glossary-20261106",
+    "subjectHash": "03339fdb377d445739be3f97efe5bc9ddd78f8258088416b194e0b078030b43f",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 讼 / 彖曰 / 0007册.djvu/347–348"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-dewei",
+    "subjectId": "glossary-dewei",
+    "method": "glossary-20261106",
+    "subjectHash": "b80b1105b8c5e9b80fffe28086a382f79d3aa5c4f757ab682c79fc456c7aaaea",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 需 / 上六小象 / 0007册.djvu/347"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 小畜 / 彖曰 / 0007册.djvu/360"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-ying",
+    "subjectId": "glossary-ying",
+    "method": "glossary-20261106",
+    "subjectHash": "4f097a358194d008a14cb2163d424988ddf1951ebf1e827d35e2758a319edf1a",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-7-batch5",
+        "locator": "卷7 / 损 / 彖曰 / 0007册.djvu/451–452"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      },
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 艮 / 彖曰 / 0007册.djvu/488–489"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰 / 全段"
+      },
+      {
+        "sourceId": "skqs-zhouyi-2-batch2",
+        "locator": "卷2 / 蒙 / 彖曰 / 0007册.djvu/342–343"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-cheng",
+    "subjectId": "glossary-cheng",
+    "method": "glossary-20261106",
+    "subjectHash": "0e86cc7447c548d85b8d6361951f9f0dd43cdcdafcb9c34546c579024dd06421",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-9-batch6",
+        "locator": "卷9 / 归妹 / 上六 / 0007册.djvu/495"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      },
+      {
+        "sourceId": "skqs-zhouyi-3-batch2",
+        "locator": "卷3 / 师 / 九二小象 / 0007册.djvu/355"
+      },
+      {
+        "sourceId": "ws-zhouyi-2",
+        "locator": "第2卦 坤 / 彖曰 / 全段"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-chenggang",
+    "subjectId": "glossary-chenggang",
+    "method": "glossary-20261106",
+    "subjectHash": "a418133ac52ce4b69aa26753888f4b476c04736fe1560bfc48c76b756c607438",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-2",
+        "locator": "卷2 / 屯 / 六二小象 / 0007册.djvu/340"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      }
+    ],
+    "issues": []
+  },
+  {
+    "id": "review-glossary-shi",
+    "subjectId": "glossary-shi",
+    "method": "glossary-20261106",
+    "subjectHash": "21fb6559f2b10b51fc798445339efc338592b58e3b9f1e74ae94ffcec7b31a0d",
+    "originalStatus": "passed",
+    "explanationStatus": "pending",
+    "independentReviewStatus": "pending",
+    "checkedRefs": [
+      {
+        "sourceId": "skqs-zhouyi-4-batch3",
+        "locator": "卷4 / 豫 / 彖曰 / 0007册.djvu/381"
+      },
+      {
+        "sourceId": "glossary-zhengyi-qian",
+        "locator": "乾文言疏／刚柔、中正、得位及相应"
+      },
+      {
+        "sourceId": "ws-zhouyi-1",
+        "locator": "第1卦 乾 / 彖曰 / 全段"
+      }
+    ],
+    "issues": []
+  }
+]

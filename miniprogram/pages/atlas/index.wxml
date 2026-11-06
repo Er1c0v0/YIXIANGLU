@@ -1,6 +1,6 @@
 <page-meta root-font-size="system" />
 <view class="page">
-  <view class="title">六十四卦</view>
+  <view class="atlas-header"><view class="title">六十四卦</view><button class="link" bindtap="glossary" hover-class="button-pressed">字词释义</button></view>
   <view class="search-row">
     <input class="search-input" value="{{inputValue}}" bindinput="input" confirm-type="search" bindconfirm="refresh" placeholder="卦名、拼音或卦序" maxlength="80" aria-label="搜索六十四卦" />
     <button wx:if="{{hasText}}" class="link clear" bindtap="clearSearch" hover-class="button-pressed">清除</button>

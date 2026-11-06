@@ -1,15 +1,16 @@
 {
-  "schemaVersion": 3,
-  "dataVersion": "3.d1de37bdf728",
-  "buildHash": "d1de37bdf728ceee9862e51e111786eebd833df361ac244282dcd24e23b61549",
+  "schemaVersion": 4,
+  "dataVersion": "4.625c27d1bda9",
+  "buildHash": "625c27d1bda9161370c14b865ba755ae6a7e7f7573f8ef743107a67f3cabbe79",
   "counts": {
     "hexagrams": 64,
     "originalBlocks": 964,
-    "reviewRecords": 1243,
-    "sources": 99,
+    "reviewRecords": 1283,
+    "sources": 109,
     "search": 64,
     "imagery": 109,
-    "elementRelations": 10
+    "elementRelations": 10,
+    "glossary": 40
   },
   "target": {
     "hexagrams": 64,
@@ -84,6 +85,21 @@
     "independentRelations": {
       "passed": 0,
       "outstanding": 10,
+      "notApplicable": 0
+    },
+    "glossary": {
+      "passed": 40,
+      "outstanding": 0,
+      "notApplicable": 0
+    },
+    "glossaryExplanation": {
+      "passed": 0,
+      "outstanding": 40,
+      "notApplicable": 0
+    },
+    "independentGlossary": {
+      "passed": 0,
+      "outstanding": 40,
       "notApplicable": 0
     }
   }

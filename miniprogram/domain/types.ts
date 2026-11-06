@@ -49,6 +49,15 @@ export interface SourceDocument {
 }
 export interface ReviewedText {
   original: string; originalRefs: SourceRef[]
+  glossaryIds?: string[]
+}
+export interface GlossaryUsage {
+  id: string; term: string; pinyin: string; explanation: string; refs: SourceRef[]
+}
+export interface GlossaryEntry {
+  id: string; term: string; pinyin: string; category: string; aliases: string[]
+  explanation: string; refs: SourceRef[]; example: { quote: string; locator: string }
+  usages: GlossaryUsage[]
 }
 export interface YaoEntry {
   position: LinePosition; label: string

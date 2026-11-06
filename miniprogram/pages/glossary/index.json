@@ -1,0 +1,4 @@
+{
+  "navigationBarTitleText": "字词释义",
+  "usingComponents": { "source-panel": "/components/source-panel/index" }
+}

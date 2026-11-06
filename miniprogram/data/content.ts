@@ -11,6 +11,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-1",
           "locator": "第1卦 乾 / 易经 / 卦辞"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -20,6 +24,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-1",
           "locator": "第1卦 乾 / 彖曰 / 全段"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-start",
+        "glossary-shi-base",
+        "glossary-zheng-correct-base",
+        "glossary-zhen-lijhen"
       ]
     },
     "greatImage": {
@@ -29,6 +39,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-1",
           "locator": "第1卦 乾 / 象曰 / 整卦大象"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "刚健与创始，学习在不同阶段把握行动的分寸。",
@@ -54,6 +67,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 初九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wuyong-base"
           ]
         },
         "smallImage": {
@@ -63,6 +79,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 象曰 / 初九小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wuyong-base"
           ]
         }
       },
@@ -76,6 +95,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 九二"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-appear",
+            "glossary-li-person"
           ]
         },
         "smallImage": {
@@ -85,6 +108,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 象曰 / 九二小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-appear"
           ]
         }
       },
@@ -98,6 +124,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 九三"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-qianqian-base",
+            "glossary-ti-base",
+            "glossary-li-danger-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -107,6 +140,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 象曰 / 九三小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-qianqian-base"
           ]
         }
       },
@@ -120,6 +156,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 九四"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -129,6 +168,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 象曰 / 九四小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -142,6 +184,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 九五"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-person"
           ]
         },
         "smallImage": {
@@ -151,6 +196,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 象曰 / 九五小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-daren-base"
           ]
         }
       },
@@ -164,6 +212,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 上九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-kang-base",
+            "glossary-hui-base"
           ]
         },
         "smallImage": {
@@ -173,6 +225,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 象曰 / 上九小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-kang-base",
+            "glossary-hui-base"
           ]
         }
       }
@@ -187,6 +243,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-1",
               "locator": "第1卦 乾 / 易经 / 用九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -210,6 +270,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-2",
           "locator": "第2卦 坤 / 易经 / 卦辞"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-li-base",
+        "glossary-pin-base",
+        "glossary-zhen-base",
+        "glossary-junzi-base",
+        "glossary-you-base",
+        "glossary-wang-base",
+        "glossary-peng-base",
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -219,6 +290,20 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-2",
           "locator": "第2卦 坤 / 彖曰 / 全段"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-start",
+        "glossary-cheng-base",
+        "glossary-heng-base",
+        "glossary-pin-base",
+        "glossary-rou-base",
+        "glossary-zhen-lijhen",
+        "glossary-zhen-base",
+        "glossary-junzi-base",
+        "glossary-you-base",
+        "glossary-peng-base",
+        "glossary-ji-base",
+        "glossary-ying-general"
       ]
     },
     "greatImage": {
@@ -228,6 +313,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-2",
           "locator": "第2卦 坤 / 象曰 / 整卦大象"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "柔顺与承载，重在有原则地接纳和完成。",
@@ -275,6 +363,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 易经 / 六二"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -284,6 +375,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 象曰 / 六二小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         }
       },
@@ -297,6 +391,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 易经 / 六三"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -306,6 +403,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 象曰 / 六三小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base",
+            "glossary-shi-base"
           ]
         }
       },
@@ -319,6 +420,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 易经 / 六四"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -328,6 +432,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 象曰 / 六四小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -341,6 +448,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 易经 / 六五"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -350,6 +461,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 象曰 / 六五小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -386,6 +502,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 易经 / 用六"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-lasting"
           ]
         },
         "smallImage": {
@@ -395,6 +515,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-2",
               "locator": "第2卦 坤 / 象曰 / 用六相关象传"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lasting"
           ]
         }
       }
@@ -409,6 +532,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2",
           "locator": "卷2 / 屯 / 卦辞 / 0007册.djvu/339"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-li-base",
+        "glossary-zhen-lijhen",
+        "glossary-wuyong-base",
+        "glossary-you-base",
+        "glossary-wang-base"
       ]
     },
     "tuan": {
@@ -418,6 +549,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2",
           "locator": "卷2 / 屯 / 彖曰 / 0007册.djvu/339"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-heng-base",
+        "glossary-zhen-base"
       ]
     },
     "greatImage": {
@@ -427,6 +564,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2",
           "locator": "卷2 / 屯 / 整卦大象 / 0007册.djvu/339"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "云雷相交，初生多难。",
@@ -452,6 +592,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 初九 / 0007册.djvu/340"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -461,6 +605,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 初九小象 / 0007册.djvu/340"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -474,6 +621,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 六二 / 0007册.djvu/340"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -483,6 +634,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 六二小象 / 0007册.djvu/340"
             }
+          ],
+          "glossaryIds": [
+            "glossary-chenggang-base"
           ]
         }
       },
@@ -496,6 +650,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 六三 / 0007册.djvu/341"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-wang-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -505,6 +664,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 六三小象 / 0007册.djvu/341"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-wang-base",
+            "glossary-lin-base"
           ]
         }
       },
@@ -518,6 +682,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 六四 / 0007册.djvu/341"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-ji-base",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -527,6 +696,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 六四小象 / 0007册.djvu/341"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -540,6 +712,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2",
               "locator": "卷2 / 屯 / 九五 / 0007册.djvu/341"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhen-xiong"
           ]
         },
         "smallImage": {
@@ -586,6 +762,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 蒙 / 卦辞 / 0007册.djvu/342"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-fei-base",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -595,6 +776,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 蒙 / 彖曰 / 0007册.djvu/342–343"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-shi-base",
+        "glossary-zhong-base",
+        "glossary-fei-base",
+        "glossary-ying-base",
+        "glossary-gang-base",
+        "glossary-zheng-correct-base"
       ]
     },
     "greatImage": {
@@ -604,6 +794,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 蒙 / 整卦大象 / 0007册.djvu/343"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山下出泉，启蒙养正。",
@@ -629,6 +822,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 初六 / 0007册.djvu/343"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-shuo-release",
+            "glossary-wang-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -638,6 +837,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 初六小象 / 0007册.djvu/343"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -651,6 +854,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 九二 / 0007册.djvu/343"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -660,6 +866,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 九二小象 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gang-base",
+            "glossary-rou-base"
           ]
         }
       },
@@ -673,6 +883,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 六三 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wuyong-base",
+            "glossary-jian-base",
+            "glossary-li-nothing"
           ]
         },
         "smallImage": {
@@ -682,6 +897,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 六三小象 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wuyong-base"
           ]
         }
       },
@@ -695,6 +913,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 六四 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -704,6 +925,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 六四小象 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         }
       },
@@ -717,6 +941,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 六五 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -726,6 +953,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 六五小象 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -739,6 +969,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 上九 / 0007册.djvu/344"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-not",
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -748,6 +982,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 蒙 / 上九小象 / 0007册.djvu/345"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base"
           ]
         }
       }
@@ -763,6 +1000,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 需 / 卦辞 / 0007册.djvu/345"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-yes",
+        "glossary-heng-base",
+        "glossary-zhen-ji",
+        "glossary-li-river"
       ]
     },
     "tuan": {
@@ -772,6 +1015,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 需 / 彖曰 / 0007册.djvu/345"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-fu-yes",
+        "glossary-heng-base",
+        "glossary-zhen-ji",
+        "glossary-zhongzheng-base",
+        "glossary-li-river",
+        "glossary-wang-base"
       ]
     },
     "greatImage": {
@@ -781,6 +1033,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 需 / 整卦大象 / 0007册.djvu/345"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "云上于天，守信待时。",
@@ -806,6 +1061,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 初九 / 0007册.djvu/346"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -815,6 +1074,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 初九小象 / 0007册.djvu/346"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -828,6 +1091,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 九二 / 0007册.djvu/346"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -837,6 +1103,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 九二小象 / 0007册.djvu/346"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -894,6 +1164,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 九五 / 0007册.djvu/347"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -903,6 +1176,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 九五小象 / 0007册.djvu/347"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -916,6 +1193,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 上六 / 0007册.djvu/347"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -925,6 +1206,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 需 / 上六小象 / 0007册.djvu/347"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-ji-base",
+            "glossary-dewei-not-need"
           ]
         }
       }
@@ -940,6 +1226,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 讼 / 卦辞 / 0007册.djvu/347"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-yes",
+        "glossary-ti-base",
+        "glossary-zhong-midway",
+        "glossary-xiong-base",
+        "glossary-li-person",
+        "glossary-li-no-river"
       ]
     },
     "tuan": {
@@ -949,6 +1243,18 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 讼 / 彖曰 / 0007册.djvu/347–348"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-fu-yes",
+        "glossary-ti-base",
+        "glossary-zhong-midway",
+        "glossary-lai-base",
+        "glossary-dezhong-base",
+        "glossary-xiong-base",
+        "glossary-li-person",
+        "glossary-zhongzheng-base",
+        "glossary-li-no-river"
       ]
     },
     "greatImage": {
@@ -958,6 +1264,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-2-batch2",
           "locator": "卷2 / 讼 / 整卦大象 / 0007册.djvu/348"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "天水违行，作事谋始。",
@@ -983,6 +1292,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 初六 / 0007册.djvu/348"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1005,6 +1317,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 九二 / 0007册.djvu/349"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-return"
           ]
         },
         "smallImage": {
@@ -1014,6 +1329,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 九二小象 / 0007册.djvu/349"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-return"
           ]
         }
       },
@@ -1027,6 +1345,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 六三 / 0007册.djvu/349"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1036,6 +1358,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 六三小象 / 0007册.djvu/349"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -1049,6 +1374,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 九四 / 0007册.djvu/349"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -1058,6 +1386,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 九四小象 / 0007册.djvu/350"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         }
       },
@@ -1071,6 +1402,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 九五 / 0007册.djvu/350"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1080,6 +1415,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-2-batch2",
               "locator": "卷2 / 讼 / 九五小象 / 0007册.djvu/350"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -1117,6 +1457,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 师 / 卦辞 / 0007册.djvu/354"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-base",
+        "glossary-zhangren-base",
+        "glossary-ji-base",
+        "glossary-jiu-none"
       ]
     },
     "tuan": {
@@ -1126,6 +1472,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 师 / 彖曰 / 0007册.djvu/354"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-base",
+        "glossary-zheng-correct-base",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-ying-base",
+        "glossary-ji-base",
+        "glossary-jiu-base"
       ]
     },
     "greatImage": {
@@ -1135,6 +1490,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 师 / 整卦大象 / 0007册.djvu/355"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "地中有水，容民畜众。",
@@ -1160,6 +1518,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 初六 / 0007册.djvu/355"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -1169,6 +1530,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 初六小象 / 0007册.djvu/355"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -1182,6 +1546,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 九二 / 0007册.djvu/355"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -1191,6 +1560,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 九二小象 / 0007册.djvu/355"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-ji-base",
+            "glossary-cheng-receive"
           ]
         }
       },
@@ -1204,6 +1578,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 六三 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -1226,6 +1603,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 六四 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -1235,6 +1615,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 六四小象 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -1248,6 +1631,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 六五 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-jiu-none",
+            "glossary-zhen-xiong"
           ]
         },
         "smallImage": {
@@ -1257,6 +1645,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 六五小象 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -1270,6 +1661,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 上六 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-receive",
+            "glossary-xiaoren-base",
+            "glossary-wuyong-base"
           ]
         },
         "smallImage": {
@@ -1279,6 +1675,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 师 / 上六小象 / 0007册.djvu/356"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-base",
+            "glossary-xiaoren-base",
+            "glossary-wuyong-base"
           ]
         }
       }
@@ -1294,6 +1695,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 比 / 卦辞 / 0007册.djvu/356"
         }
+      ],
+      "glossaryIds": [
+        "glossary-ji-base",
+        "glossary-yuan-base",
+        "glossary-zhen-lasting",
+        "glossary-jiu-none",
+        "glossary-lai-base",
+        "glossary-xiong-base"
       ]
     },
     "tuan": {
@@ -1303,6 +1712,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 比 / 彖曰 / 0007册.djvu/357"
         }
+      ],
+      "glossaryIds": [
+        "glossary-ji-base",
+        "glossary-yuan-base",
+        "glossary-zhen-lasting",
+        "glossary-jiu-none",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-lai-base",
+        "glossary-ying-base",
+        "glossary-xiong-base"
       ]
     },
     "greatImage": {
@@ -1337,6 +1757,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 初六 / 0007册.djvu/357"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-jiu-none",
+            "glossary-lai-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1346,6 +1772,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 初六小象 / 0007册.djvu/358"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -1359,6 +1788,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 六二 / 0007册.djvu/358"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -1381,6 +1813,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 六三 / 0007册.djvu/358"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base"
           ]
         },
         "smallImage": {
@@ -1390,6 +1825,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 六三小象 / 0007册.djvu/358"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base"
           ]
         }
       },
@@ -1403,6 +1841,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 六四 / 0007册.djvu/358"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -1425,6 +1866,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 九五 / 0007册.djvu/358"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1434,6 +1878,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 九五小象 / 0007册.djvu/359"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-zhongzheng-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -1447,6 +1896,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 比 / 上六 / 0007册.djvu/359"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -1471,6 +1923,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 小畜 / 卦辞 / 0007册.djvu/359"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base"
       ]
     },
     "tuan": {
@@ -1480,6 +1935,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 小畜 / 彖曰 / 0007册.djvu/360"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-dewei-base",
+        "glossary-ying-base",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-heng-base",
+        "glossary-wang-base"
       ]
     },
     "greatImage": {
@@ -1489,6 +1953,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 小畜 / 整卦大象 / 0007册.djvu/361"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "风行天上，积蓄文德。",
@@ -1514,6 +1981,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 初九 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1523,6 +1994,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 初九小象 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -1536,6 +2010,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 九二 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1545,6 +2022,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 九二小象 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -1558,6 +2038,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 九三 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-release"
           ]
         },
         "smallImage": {
@@ -1567,6 +2050,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 九三小象 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -1580,6 +2066,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 六四 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-ti-gone",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -1589,6 +2080,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 六四小象 / 0007册.djvu/361"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-ti-gone"
           ]
         }
       },
@@ -1602,6 +2097,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 九五 / 0007册.djvu/362"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes"
           ]
         },
         "smallImage": {
@@ -1611,6 +2109,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 九五小象 / 0007册.djvu/362"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes"
           ]
         }
       },
@@ -1624,6 +2125,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 上九 / 0007册.djvu/362"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger",
+            "glossary-junzi-base",
+            "glossary-zheng-base",
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -1633,6 +2140,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 小畜 / 上九小象 / 0007册.djvu/362"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-zheng-base",
+            "glossary-xiong-base"
           ]
         }
       }
@@ -1648,6 +2160,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 履 / 卦辞 / 0007册.djvu/363"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base"
       ]
     },
     "tuan": {
@@ -1657,6 +2172,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 履 / 彖曰 / 0007册.djvu/363"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-gang-base",
+        "glossary-shuo-joy",
+        "glossary-ying-base",
+        "glossary-heng-base",
+        "glossary-zhongzheng-base"
       ]
     },
     "greatImage": {
@@ -1666,6 +2189,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 履 / 整卦大象 / 0007册.djvu/363"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "上天下泽，谨慎践履。",
@@ -1691,6 +2217,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 初九 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -1700,6 +2230,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 初九小象 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -1713,6 +2246,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 九二 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -1722,6 +2258,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 九二小象 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhong-heart"
           ]
         }
       },
@@ -1735,6 +2275,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 六三 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -1744,6 +2287,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 六三小象 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-dewei-not",
+            "glossary-gang-base"
           ]
         }
       },
@@ -1757,6 +2305,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 九四 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1766,6 +2317,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 九四小象 / 0007册.djvu/364"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -1779,6 +2333,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 九五 / 0007册.djvu/365"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger"
           ]
         },
         "smallImage": {
@@ -1788,6 +2345,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 九五小象 / 0007册.djvu/365"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -1801,6 +2362,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 上九 / 0007册.djvu/365"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1810,6 +2375,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 履 / 上九小象 / 0007册.djvu/365"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         }
       }
@@ -1825,6 +2394,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3",
           "locator": "卷3 / 泰 / 卦辞 / 0007册.djvu/365"
         }
+      ],
+      "glossaryIds": [
+        "glossary-wang-base",
+        "glossary-lai-base",
+        "glossary-ji-base",
+        "glossary-heng-base"
       ]
     },
     "tuan": {
@@ -1834,6 +2409,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3",
           "locator": "卷3 / 泰 / 彖曰 / 0007册.djvu/365"
         }
+      ],
+      "glossaryIds": [
+        "glossary-wang-base",
+        "glossary-lai-base",
+        "glossary-ji-base",
+        "glossary-heng-base",
+        "glossary-junzi-base",
+        "glossary-xiaoren-base"
       ]
     },
     "greatImage": {
@@ -1868,6 +2451,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 初九 / 0007册.djvu/366"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1877,6 +2464,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 初九小象 / 0007册.djvu/366"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -1890,6 +2481,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 九二 / 0007册.djvu/366"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-base",
+            "glossary-zhong-base"
           ]
         },
         "smallImage": {
@@ -1899,6 +2494,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 九二小象 / 0007册.djvu/366"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -1912,6 +2510,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 九三 / 0007册.djvu/366"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-zhen-difficulty",
+            "glossary-jiu-none",
+            "glossary-fu-base"
           ]
         },
         "smallImage": {
@@ -1921,6 +2525,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 九三小象 / 0007册.djvu/366–367"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -1934,6 +2541,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 六四 / 0007册.djvu/367"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base"
           ]
         },
         "smallImage": {
@@ -1943,6 +2553,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 六四小象 / 0007册.djvu/367"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-zhong-heart"
           ]
         }
       },
@@ -1956,6 +2570,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 六五 / 0007册.djvu/367"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage",
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -1965,6 +2584,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 六五小象 / 0007册.djvu/367"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -1978,6 +2602,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 泰 / 上六 / 0007册.djvu/367"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wuyong-base",
+            "glossary-zhen-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -2002,6 +2631,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3",
           "locator": "卷3 / 否 / 卦辞 / 0007册.djvu/368"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fei-base",
+        "glossary-li-not",
+        "glossary-junzi-base",
+        "glossary-zhen-base",
+        "glossary-wang-base",
+        "glossary-lai-base"
       ]
     },
     "tuan": {
@@ -2011,6 +2648,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3",
           "locator": "卷3 / 否 / 彖曰 / 0007册.djvu/368"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fei-base",
+        "glossary-li-not",
+        "glossary-junzi-base",
+        "glossary-zhen-base",
+        "glossary-wang-base",
+        "glossary-lai-base",
+        "glossary-rou-base",
+        "glossary-gang-base",
+        "glossary-xiaoren-base"
       ]
     },
     "greatImage": {
@@ -2020,6 +2668,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3",
           "locator": "卷3 / 否 / 整卦大象 / 0007册.djvu/368"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "天地不交，闭塞之象。",
@@ -2045,6 +2696,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 初六 / 0007册.djvu/368"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-heng-base"
           ]
         },
         "smallImage": {
@@ -2054,6 +2709,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 初六小象 / 0007册.djvu/368"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         }
       },
@@ -2067,6 +2725,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 六二 / 0007册.djvu/368"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-base",
+            "glossary-xiaoren-base",
+            "glossary-ji-base",
+            "glossary-daren-base",
+            "glossary-heng-base"
           ]
         },
         "smallImage": {
@@ -2076,6 +2741,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 六二小象 / 0007册.djvu/369"
             }
+          ],
+          "glossaryIds": [
+            "glossary-daren-base",
+            "glossary-heng-base"
           ]
         }
       },
@@ -2098,6 +2767,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 六三小象 / 0007册.djvu/369"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -2111,6 +2783,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 九四 / 0007册.djvu/369"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -2120,6 +2795,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 九四小象 / 0007册.djvu/369"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -2133,6 +2811,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 九五 / 0007册.djvu/369"
             }
+          ],
+          "glossaryIds": [
+            "glossary-daren-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -2142,6 +2824,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3",
               "locator": "卷3 / 否 / 九五小象 / 0007册.djvu/369"
             }
+          ],
+          "glossaryIds": [
+            "glossary-daren-base",
+            "glossary-ji-base",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -2179,6 +2866,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 同人 / 卦辞 / 0007册.djvu/370"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-river",
+        "glossary-li-base",
+        "glossary-junzi-base",
+        "glossary-zhen-base"
       ]
     },
     "tuan": {
@@ -2188,6 +2882,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 同人 / 彖曰 / 0007册.djvu/370"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-dewei-base",
+        "glossary-dezhong-base",
+        "glossary-ying-base",
+        "glossary-heng-base",
+        "glossary-li-river",
+        "glossary-zhongzheng-base",
+        "glossary-zheng-correct-base",
+        "glossary-junzi-base"
       ]
     },
     "greatImage": {
@@ -2197,6 +2902,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch2",
           "locator": "卷3 / 同人 / 整卦大象 / 0007册.djvu/370"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "天火相同，通达众志。",
@@ -2222,6 +2930,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 初九 / 0007册.djvu/370"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -2231,6 +2942,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 初九小象 / 0007册.djvu/370"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-base"
           ]
         }
       },
@@ -2244,6 +2958,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 六二 / 0007册.djvu/371"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -2253,6 +2970,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 六二小象 / 0007册.djvu/371"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         }
       },
@@ -2275,6 +2995,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 九三小象 / 0007册.djvu/371"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gang-base"
           ]
         }
       },
@@ -2288,6 +3011,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 九四 / 0007册.djvu/371"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -2297,6 +3023,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 九四小象 / 0007册.djvu/371"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -2319,6 +3048,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 九五小象 / 0007册.djvu/372"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -2332,6 +3064,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch2",
               "locator": "卷3 / 同人 / 上九 / 0007册.djvu/372"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-none"
           ]
         },
         "smallImage": {
@@ -2356,6 +3091,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch3",
           "locator": "卷3 / 大有 / 卦辞 / 0007册.djvu/372"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great"
       ]
     },
     "tuan": {
@@ -2365,6 +3103,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch3",
           "locator": "卷3 / 大有 / 彖曰 / 0007册.djvu/372"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-zhong-base",
+        "glossary-ying-base",
+        "glossary-gang-base",
+        "glossary-ying-general",
+        "glossary-shi-base",
+        "glossary-yuan-great"
       ]
     },
     "greatImage": {
@@ -2374,6 +3121,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-3-batch3",
           "locator": "卷3 / 大有 / 整卦大象 / 0007册.djvu/373"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "火在天上，富有而明。",
@@ -2399,6 +3149,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 初九 / 0007册.djvu/373"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-not",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -2421,6 +3175,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 九二 / 0007册.djvu/373"
             }
+          ],
+          "glossaryIds": [
+            "glossary-you-base",
+            "glossary-wang-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -2430,6 +3189,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 九二小象 / 0007册.djvu/373"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-inside"
           ]
         }
       },
@@ -2443,6 +3205,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 九三 / 0007册.djvu/373"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-offer",
+            "glossary-xiaoren-base"
           ]
         },
         "smallImage": {
@@ -2452,6 +3218,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 九三小象 / 0007册.djvu/373"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-offer",
+            "glossary-xiaoren-base"
           ]
         }
       },
@@ -2465,6 +3235,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 九四 / 0007册.djvu/374"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -2474,6 +3248,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 九四小象 / 0007册.djvu/374"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -2487,6 +3265,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 六五 / 0007册.djvu/374"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -2496,6 +3278,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 六五小象 / 0007册.djvu/374"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -2509,6 +3295,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 上九 / 0007册.djvu/374"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -2518,6 +3308,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-3-batch3",
               "locator": "卷3 / 大有 / 上九小象 / 0007册.djvu/374"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       }
@@ -2533,6 +3326,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 谦 / 卦辞 / 0007册.djvu/378"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-junzi-base"
       ]
     },
     "tuan": {
@@ -2542,6 +3339,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 谦 / 彖曰 / 0007册.djvu/379"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-junzi-base"
       ]
     },
     "greatImage": {
@@ -2551,6 +3352,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 谦 / 整卦大象 / 0007册.djvu/379"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "地中有山，谦下有终。",
@@ -2576,6 +3380,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 初六 / 0007册.djvu/379"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -2585,6 +3393,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 初六小象 / 0007册.djvu/379"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base"
           ]
         }
       },
@@ -2598,6 +3409,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 六二 / 0007册.djvu/379"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -2607,6 +3421,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 六二小象 / 0007册.djvu/379"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhong-heart"
           ]
         }
       },
@@ -2620,6 +3438,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 九三 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -2629,6 +3451,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 九三小象 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base"
           ]
         }
       },
@@ -2642,6 +3467,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 六四 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -2651,6 +3479,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 六四小象 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         }
       },
@@ -2664,6 +3495,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 六五 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -2673,6 +3508,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 六五小象 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zheng-base"
           ]
         }
       },
@@ -2686,6 +3525,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 上六 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zheng-base"
           ]
         },
         "smallImage": {
@@ -2695,6 +3538,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 谦 / 上六小象 / 0007册.djvu/380"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base"
           ]
         }
       }
@@ -2710,6 +3556,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 豫 / 卦辞 / 0007册.djvu/381"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-base"
       ]
     },
     "tuan": {
@@ -2719,6 +3568,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 豫 / 彖曰 / 0007册.djvu/381"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-ying-base",
+        "glossary-shi-seasons",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -2753,6 +3608,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 初六 / 0007册.djvu/382"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -2762,6 +3620,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 初六小象 / 0007册.djvu/382"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -2775,6 +3636,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 六二 / 0007册.djvu/382"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -2784,6 +3648,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 六二小象 / 0007册.djvu/382"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -2797,6 +3665,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 六三 / 0007册.djvu/382"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base"
           ]
         },
         "smallImage": {
@@ -2806,6 +3677,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 六三小象 / 0007册.djvu/382"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-dewei-not"
           ]
         }
       },
@@ -2819,6 +3694,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 九四 / 0007册.djvu/383"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-base"
           ]
         },
         "smallImage": {
@@ -2841,6 +3719,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 六五 / 0007册.djvu/383"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-illness"
           ]
         },
         "smallImage": {
@@ -2850,6 +3731,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 六五小象 / 0007册.djvu/383"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-illness",
+            "glossary-chenggang-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -2863,6 +3749,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 豫 / 上六 / 0007册.djvu/383"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -2887,6 +3776,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 随 / 卦辞 / 0007册.djvu/383"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-zhen-lijhen",
+        "glossary-jiu-none"
       ]
     },
     "tuan": {
@@ -2896,6 +3790,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 随 / 彖曰 / 0007册.djvu/384"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-lai-base",
+        "glossary-rou-base",
+        "glossary-shuo-joy",
+        "glossary-heng-base",
+        "glossary-zhen-base",
+        "glossary-jiu-none",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -2905,6 +3809,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 随 / 整卦大象 / 0007册.djvu/384"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽中有雷，随时守正。",
@@ -2930,6 +3837,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 初九 / 0007册.djvu/384"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -2939,6 +3849,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 初九小象 / 0007册.djvu/384"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -2974,6 +3888,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 六三 / 0007册.djvu/385"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -2996,6 +3914,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 九四 / 0007册.djvu/385"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-xiong",
+            "glossary-fu-yes",
+            "glossary-jiu-base"
           ]
         },
         "smallImage": {
@@ -3005,6 +3928,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 九四小象 / 0007册.djvu/385"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-fu-yes"
           ]
         }
       },
@@ -3018,6 +3945,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 九五 / 0007册.djvu/385"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -3027,6 +3958,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 九五小象 / 0007册.djvu/385"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-ji-base",
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -3040,6 +3976,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 随 / 上六 / 0007册.djvu/386"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-offer"
           ]
         },
         "smallImage": {
@@ -3064,6 +4003,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 蛊 / 卦辞 / 0007册.djvu/386"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-li-river"
       ]
     },
     "tuan": {
@@ -3073,6 +4016,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 蛊 / 彖曰 / 0007册.djvu/386"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-yuan-great",
+        "glossary-li-river",
+        "glossary-wang-base"
       ]
     },
     "greatImage": {
@@ -3082,6 +4032,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 蛊 / 整卦大象 / 0007册.djvu/387"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山下有风，整治积弊。",
@@ -3107,6 +4060,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 初六 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-li-danger-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -3116,6 +4074,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 初六小象 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-base"
           ]
         }
       },
@@ -3129,6 +4090,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 九二 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-not-rigid"
           ]
         },
         "smallImage": {
@@ -3138,6 +4102,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 九二小象 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dezhong-base"
           ]
         }
       },
@@ -3151,6 +4118,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 九三 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-jiu-base"
           ]
         },
         "smallImage": {
@@ -3160,6 +4131,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 九三小象 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -3173,6 +4147,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 六四 / 0007册.djvu/387"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-jian-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -3182,6 +4161,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 六四小象 / 0007册.djvu/388"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -3204,6 +4186,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 蛊 / 六五小象 / 0007册.djvu/388"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-base"
           ]
         }
       },
@@ -3241,6 +4226,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 临 / 卦辞 / 0007册.djvu/388"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-zhen-lijhen",
+        "glossary-xiong-base"
       ]
     },
     "tuan": {
@@ -3250,6 +4240,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 临 / 彖曰 / 0007册.djvu/388"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-shuo-joy",
+        "glossary-zhong-base",
+        "glossary-ying-base",
+        "glossary-heng-base",
+        "glossary-zheng-correct-base",
+        "glossary-xiong-base"
       ]
     },
     "greatImage": {
@@ -3259,6 +4258,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 临 / 整卦大象 / 0007册.djvu/388"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽上有地，临下育民。",
@@ -3284,6 +4286,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 初九 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -3293,6 +4298,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 初九小象 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -3306,6 +4315,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 九二 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -3315,6 +4328,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 九二小象 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-li-all"
           ]
         }
       },
@@ -3328,6 +4345,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 六三 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-nothing",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3337,6 +4358,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 六三小象 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not",
+            "glossary-jiu-base"
           ]
         }
       },
@@ -3350,6 +4375,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 六四 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3359,6 +4387,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 六四小象 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-dewei-base"
           ]
         }
       },
@@ -3372,6 +4404,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 六五 / 0007册.djvu/389"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -3381,6 +4416,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 六五小象 / 0007册.djvu/390"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -3394,6 +4432,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 上六 / 0007册.djvu/390"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3403,6 +4445,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 临 / 上六小象 / 0007册.djvu/390"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       }
@@ -3418,6 +4463,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 观 / 卦辞 / 0007册.djvu/390"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-yes"
       ]
     },
     "tuan": {
@@ -3427,6 +4475,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 观 / 彖曰 / 0007册.djvu/390"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhongzheng-base",
+        "glossary-fu-yes",
+        "glossary-shi-seasons"
       ]
     },
     "greatImage": {
@@ -3461,6 +4514,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 初六 / 0007册.djvu/391"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiaoren-base",
+            "glossary-jiu-none",
+            "glossary-junzi-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -3470,6 +4529,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 初六小象 / 0007册.djvu/391"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiaoren-base"
           ]
         }
       },
@@ -3483,6 +4545,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 六二 / 0007册.djvu/391"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -3492,6 +4558,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 六二小象 / 0007册.djvu/391"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         }
       },
@@ -3527,6 +4596,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 六四 / 0007册.djvu/391"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -3549,6 +4621,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 九五 / 0007册.djvu/392"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3571,6 +4647,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 观 / 上九 / 0007册.djvu/392"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3595,6 +4675,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 噬嗑 / 卦辞 / 0007册.djvu/392"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-base"
       ]
     },
     "tuan": {
@@ -3604,6 +4688,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch3",
           "locator": "卷4 / 噬嗑 / 彖曰 / 0007册.djvu/392"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-dewei-not",
+        "glossary-li-base"
       ]
     },
     "greatImage": {
@@ -3638,6 +4730,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 初九 / 0007册.djvu/393"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3660,6 +4755,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 六二 / 0007册.djvu/393"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3669,6 +4767,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 六二小象 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-chenggang-base"
           ]
         }
       },
@@ -3682,6 +4783,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 六三 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3691,6 +4796,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 六三小象 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -3704,6 +4812,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 九四 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-difficulty",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -3713,6 +4826,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 九四小象 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-difficulty",
+            "glossary-ji-base"
           ]
         }
       },
@@ -3726,6 +4844,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 六五 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3735,6 +4857,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 六五小象 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -3748,6 +4874,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch3",
               "locator": "卷4 / 噬嗑 / 上九 / 0007册.djvu/394"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -3772,6 +4901,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch4",
           "locator": "卷4 / 贲 / 卦辞 / 0007册.djvu/395"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-going"
       ]
     },
     "tuan": {
@@ -3781,6 +4914,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch4",
           "locator": "卷4 / 贲 / 彖曰 / 0007册.djvu/395"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-rou-base",
+        "glossary-lai-base",
+        "glossary-gang-base",
+        "glossary-li-going",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -3790,6 +4931,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-4-batch4",
           "locator": "卷4 / 贲 / 整卦大象 / 0007册.djvu/396"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山下有火，文饰有度。",
@@ -3859,6 +5003,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 九三 / 0007册.djvu/396"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lasting",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -3868,6 +5016,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 九三小象 / 0007册.djvu/396"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lasting",
+            "glossary-ji-base"
           ]
         }
       },
@@ -3881,6 +5033,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 六四 / 0007册.djvu/396"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base"
           ]
         },
         "smallImage": {
@@ -3890,6 +5045,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 六四小象 / 0007册.djvu/396"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-base",
+            "glossary-fei-base"
           ]
         }
       },
@@ -3903,6 +5062,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 六五 / 0007册.djvu/397"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -3912,6 +5075,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 六五小象 / 0007册.djvu/397"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -3925,6 +5091,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 上九 / 0007册.djvu/397"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -3934,6 +5103,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-4-batch4",
               "locator": "卷4 / 贲 / 上九小象 / 0007册.djvu/397"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       }
@@ -3949,6 +5121,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5",
           "locator": "卷5 / 剥 / 卦辞 / 0007册.djvu/401"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-no-going"
       ]
     },
     "tuan": {
@@ -3958,6 +5133,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5",
           "locator": "卷5 / 剥 / 彖曰 / 0007册.djvu/401"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-gang-base",
+        "glossary-li-no-going",
+        "glossary-xiaoren-base",
+        "glossary-junzi-base"
       ]
     },
     "greatImage": {
@@ -3992,6 +5174,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 初六 / 0007册.djvu/402"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-destruction"
           ]
         },
         "smallImage": {
@@ -4014,6 +5199,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 六二 / 0007册.djvu/402"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-destruction"
           ]
         },
         "smallImage": {
@@ -4036,6 +5224,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 六三 / 0007册.djvu/402"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4045,6 +5236,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 六三小象 / 0007册.djvu/402"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -4058,6 +5252,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 六四 / 0007册.djvu/402"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -4080,6 +5277,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 六五 / 0007册.djvu/403"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -4102,6 +5302,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 上九 / 0007册.djvu/403"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-xiaoren-base"
           ]
         },
         "smallImage": {
@@ -4111,6 +5315,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 剥 / 上九小象 / 0007册.djvu/403"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-xiaoren-base"
           ]
         }
       }
@@ -4126,6 +5334,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 复 / 卦辞 / 0007册.djvu/403"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-peng-base",
+        "glossary-lai-base",
+        "glossary-jiu-none",
+        "glossary-li-going"
       ]
     },
     "tuan": {
@@ -4135,6 +5350,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 复 / 彖曰 / 0007册.djvu/403"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-gang-base",
+        "glossary-peng-base",
+        "glossary-lai-base",
+        "glossary-jiu-none",
+        "glossary-li-going",
+        "glossary-jian-base"
       ]
     },
     "greatImage": {
@@ -4169,6 +5393,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 初九 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -4191,6 +5420,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六二 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -4200,6 +5432,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六二小象 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -4213,6 +5448,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六三 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4222,6 +5461,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六三小象 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -4235,6 +5478,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六四 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         },
         "smallImage": {
@@ -4244,6 +5490,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六四小象 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -4257,6 +5506,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六五 / 0007册.djvu/405"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-none"
           ]
         },
         "smallImage": {
@@ -4266,6 +5518,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 六五小象 / 0007册.djvu/406"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-none",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -4279,6 +5535,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 上六 / 0007册.djvu/406"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-zheng-base"
           ]
         },
         "smallImage": {
@@ -4288,6 +5548,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 复 / 上六小象 / 0007册.djvu/406"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       }
@@ -4303,6 +5566,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 无妄 / 卦辞 / 0007册.djvu/406"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-zhen-lijhen",
+        "glossary-fei-base",
+        "glossary-zheng-correct-base",
+        "glossary-li-no-going"
       ]
     },
     "tuan": {
@@ -4312,6 +5582,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 无妄 / 彖曰 / 0007册.djvu/406"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-lai-base",
+        "glossary-zhong-base",
+        "glossary-ying-base",
+        "glossary-heng-base",
+        "glossary-zheng-correct-base",
+        "glossary-fei-base",
+        "glossary-li-no-going",
+        "glossary-wang-base"
       ]
     },
     "greatImage": {
@@ -4321,6 +5602,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 无妄 / 整卦大象 / 0007册.djvu/407"
         }
+      ],
+      "glossaryIds": [
+        "glossary-shi-base"
       ]
     },
     "summary": "天下雷行，守正无妄。",
@@ -4346,6 +5630,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 无妄 / 初九 / 0007册.djvu/407"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -4355,6 +5643,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 无妄 / 初九小象 / 0007册.djvu/407"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -4368,6 +5659,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 无妄 / 六二 / 0007册.djvu/407"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-going"
           ]
         },
         "smallImage": {
@@ -4412,6 +5706,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 无妄 / 九四 / 0007册.djvu/408"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4421,6 +5719,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 无妄 / 九四小象 / 0007册.djvu/408"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -4456,6 +5758,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 无妄 / 上九 / 0007册.djvu/408"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-nothing"
           ]
         },
         "smallImage": {
@@ -4480,6 +5785,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5",
           "locator": "卷5 / 大畜 / 卦辞 / 0007册.djvu/408"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-lijhen",
+        "glossary-ji-base",
+        "glossary-li-river"
       ]
     },
     "tuan": {
@@ -4489,6 +5799,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5",
           "locator": "卷5 / 大畜 / 彖曰 / 0007册.djvu/409"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-zheng-correct-base",
+        "glossary-ji-base",
+        "glossary-li-river",
+        "glossary-ying-general"
       ]
     },
     "greatImage": {
@@ -4498,6 +5815,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5",
           "locator": "卷5 / 大畜 / 整卦大象 / 0007册.djvu/409"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base",
+        "glossary-wang-past"
       ]
     },
     "summary": "天在山中，积蓄德业。",
@@ -4523,6 +5844,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 初九 / 0007册.djvu/409"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -4532,6 +5857,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 初九小象 / 0007册.djvu/409"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-li-base"
           ]
         }
       },
@@ -4545,6 +5874,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 九二 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-release"
           ]
         },
         "smallImage": {
@@ -4554,6 +5886,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 九二小象 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-release",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -4567,6 +5903,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 九三 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-difficulty",
+            "glossary-li-going"
           ]
         },
         "smallImage": {
@@ -4576,6 +5917,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 九三小象 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-going"
           ]
         }
       },
@@ -4589,6 +5933,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 六四 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -4598,6 +5946,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 六四小象 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -4611,6 +5963,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 六五 / 0007册.djvu/410"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -4620,6 +5975,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 六五小象 / 0007册.djvu/410–411"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -4633,6 +5991,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5",
               "locator": "卷5 / 大畜 / 上九 / 0007册.djvu/411"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-base"
           ]
         },
         "smallImage": {
@@ -4657,6 +6018,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 颐 / 卦辞 / 0007册.djvu/411"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-ji"
       ]
     },
     "tuan": {
@@ -4666,6 +6030,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 颐 / 彖曰 / 0007册.djvu/411"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-ji",
+        "glossary-ji-base",
+        "glossary-zheng-correct-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -4675,6 +6045,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 颐 / 整卦大象 / 0007册.djvu/411"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山下有雷，养正有节。",
@@ -4700,6 +6073,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 初九 / 0007册.djvu/411"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -4722,6 +6098,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六二 / 0007册.djvu/412"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -4731,6 +6111,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六二小象 / 0007册.djvu/412"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base"
           ]
         }
       },
@@ -4744,6 +6128,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六三 / 0007册.djvu/412"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-xiong",
+            "glossary-wuyong-base",
+            "glossary-li-nothing"
           ]
         },
         "smallImage": {
@@ -4753,6 +6142,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六三小象 / 0007册.djvu/412"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wuyong-base"
           ]
         }
       },
@@ -4766,6 +6158,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六四 / 0007册.djvu/412"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4775,6 +6171,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六四小象 / 0007册.djvu/413"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -4788,6 +6187,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六五 / 0007册.djvu/413"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -4797,6 +6199,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 六五小象 / 0007册.djvu/413"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -4810,6 +6216,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 上九 / 0007册.djvu/413"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-ji-base",
+            "glossary-li-river"
           ]
         },
         "smallImage": {
@@ -4819,6 +6230,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 颐 / 上九小象 / 0007册.djvu/413"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-ji-base"
           ]
         }
       }
@@ -4834,6 +6249,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 大过 / 卦辞 / 0007册.djvu/413"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-going",
+        "glossary-heng-base"
       ]
     },
     "tuan": {
@@ -4843,6 +6262,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 大过 / 彖曰 / 0007册.djvu/414"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-shuo-joy",
+        "glossary-li-going",
+        "glossary-heng-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -4852,6 +6279,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 大过 / 整卦大象 / 0007册.djvu/414"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽水没木，担重济难。",
@@ -4877,6 +6307,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 初六 / 0007册.djvu/414"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4886,6 +6319,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 初六小象 / 0007册.djvu/414"
             }
+          ],
+          "glossaryIds": [
+            "glossary-rou-base"
           ]
         }
       },
@@ -4899,6 +6335,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 九二 / 0007册.djvu/414"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -4921,6 +6360,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 九三 / 0007册.djvu/415"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -4930,6 +6372,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 九三小象 / 0007册.djvu/415"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -4943,6 +6388,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 九四 / 0007册.djvu/415"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -4952,6 +6401,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 九四小象 / 0007册.djvu/415"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -4965,6 +6417,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 九五 / 0007册.djvu/415"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4987,6 +6442,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 上六 / 0007册.djvu/416"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -4996,6 +6455,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 大过 / 上六小象 / 0007册.djvu/416"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-jiu-base"
           ]
         }
       }
@@ -5011,6 +6474,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 坎 / 卦辞 / 0007册.djvu/416"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-yes",
+        "glossary-heng-base"
       ]
     },
     "tuan": {
@@ -5020,6 +6487,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 坎 / 彖曰 / 0007册.djvu/416–417"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-wang-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -5029,6 +6503,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-5-batch4",
           "locator": "卷5 / 坎 / 整卦大象 / 0007册.djvu/417"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "水洊而至，守信习险。",
@@ -5054,6 +6531,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 初六 / 0007册.djvu/417"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -5063,6 +6543,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 初六小象 / 0007册.djvu/417"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -5085,6 +6568,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 九二小象 / 0007册.djvu/418"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-inside"
           ]
         }
       },
@@ -5098,6 +6584,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 六三 / 0007册.djvu/418"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-wuyong-base"
           ]
         },
         "smallImage": {
@@ -5107,6 +6597,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 六三小象 / 0007册.djvu/418"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base"
           ]
         }
       },
@@ -5120,6 +6613,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 六四 / 0007册.djvu/418"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -5129,6 +6625,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 六四小象 / 0007册.djvu/418"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gang-base",
+            "glossary-rou-base"
           ]
         }
       },
@@ -5142,6 +6642,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 九五 / 0007册.djvu/418"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -5151,6 +6654,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 九五小象 / 0007册.djvu/419"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -5164,6 +6670,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 上六 / 0007册.djvu/419"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -5173,6 +6682,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-5-batch4",
               "locator": "卷5 / 坎 / 上六小象 / 0007册.djvu/419"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       }
@@ -5188,6 +6700,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-30",
           "locator": "第30卦 离 / 易经 / 卦辞"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-lijhen",
+        "glossary-heng-base",
+        "glossary-pin-base",
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -5197,6 +6715,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-30",
           "locator": "第30卦 离 / 彖曰 / 全段"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zheng-correct-base",
+        "glossary-rou-base",
+        "glossary-zhongzheng-base",
+        "glossary-heng-base",
+        "glossary-pin-base",
+        "glossary-ji-base"
       ]
     },
     "greatImage": {
@@ -5206,6 +6732,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-30",
           "locator": "第30卦 离 / 象曰 / 整卦大象"
         }
+      ],
+      "glossaryIds": [
+        "glossary-daren-base"
       ]
     },
     "summary": "光明与依附，明察须有所依且合于正道。",
@@ -5231,6 +6760,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 易经 / 初九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -5240,6 +6772,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 象曰 / 初九小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-base"
           ]
         }
       },
@@ -5253,6 +6788,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 易经 / 六二"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -5262,6 +6801,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 象曰 / 六二小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-dezhong-base"
           ]
         }
       },
@@ -5275,6 +6819,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 易经 / 九三"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -5297,6 +6844,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 易经 / 九四"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base"
           ]
         },
         "smallImage": {
@@ -5306,6 +6856,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 象曰 / 九四小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base"
           ]
         }
       },
@@ -5319,6 +6872,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 易经 / 六五"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -5328,6 +6884,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 象曰 / 六五小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -5341,6 +6900,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 易经 / 上九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-fei-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -5350,6 +6914,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-30",
               "locator": "第30卦 离 / 象曰 / 上九小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-zheng-correct-base"
           ]
         }
       }
@@ -5365,6 +6933,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch4",
           "locator": "卷6 / 咸 / 卦辞 / 0007册.djvu/426"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen",
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -5374,6 +6947,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch4",
           "locator": "卷6 / 咸 / 彖曰 / 0007册.djvu/427"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-gang-base",
+        "glossary-ying-general",
+        "glossary-shuo-joy",
+        "glossary-heng-base",
+        "glossary-zhen-lijhen",
+        "glossary-ji-base",
+        "glossary-jian-base"
       ]
     },
     "greatImage": {
@@ -5383,6 +6966,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch4",
           "locator": "卷6 / 咸 / 整卦大象 / 0007册.djvu/427"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山上有泽，虚心相感。",
@@ -5430,6 +7016,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 六二 / 0007册.djvu/427"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -5439,6 +7029,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 六二小象 / 0007册.djvu/427"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -5452,6 +7046,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 九三 / 0007册.djvu/428"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -5474,6 +7072,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 九四 / 0007册.djvu/428"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-hui-gone",
+            "glossary-wang-base",
+            "glossary-lai-base",
+            "glossary-peng-base"
           ]
         },
         "smallImage": {
@@ -5483,6 +7088,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 九四小象 / 0007册.djvu/428"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-hui-gone",
+            "glossary-wang-base",
+            "glossary-lai-base"
           ]
         }
       },
@@ -5496,6 +7107,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 九五 / 0007册.djvu/428"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-none"
           ]
         },
         "smallImage": {
@@ -5527,6 +7141,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 咸 / 上六小象 / 0007册.djvu/429"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-speech"
           ]
         }
       }
@@ -5542,6 +7159,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch4",
           "locator": "卷6 / 恒 / 卦辞 / 0007册.djvu/429"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-jiu-none",
+        "glossary-zhen-lijhen",
+        "glossary-li-going"
       ]
     },
     "tuan": {
@@ -5551,6 +7174,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch4",
           "locator": "卷6 / 恒 / 彖曰 / 0007册.djvu/429"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-ying-base",
+        "glossary-heng-base",
+        "glossary-jiu-none",
+        "glossary-zhen-lijhen",
+        "glossary-li-going",
+        "glossary-shi-seasons",
+        "glossary-jian-base"
       ]
     },
     "greatImage": {
@@ -5560,6 +7194,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch4",
           "locator": "卷6 / 恒 / 整卦大象 / 0007册.djvu/430"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "雷风相与，守道能久。",
@@ -5585,6 +7222,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 初六 / 0007册.djvu/430"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-xiong",
+            "glossary-li-nothing"
           ]
         },
         "smallImage": {
@@ -5594,6 +7235,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 初六小象 / 0007册.djvu/430"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -5607,6 +7251,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 九二 / 0007册.djvu/430"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -5616,6 +7263,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 九二小象 / 0007册.djvu/430"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -5629,6 +7280,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 九三 / 0007册.djvu/430"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-receive",
+            "glossary-zhen-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -5673,6 +7329,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 六五 / 0007册.djvu/431"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base",
+            "glossary-ji-base",
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -5682,6 +7343,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 六五小象 / 0007册.djvu/431"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-xiong-base"
           ]
         }
       },
@@ -5695,6 +7360,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch4",
               "locator": "卷6 / 恒 / 上六 / 0007册.djvu/431"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -5719,6 +7387,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 遯 / 卦辞 / 0007册.djvu/431"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -5728,6 +7400,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 遯 / 彖曰 / 0007册.djvu/431"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-gang-base",
+        "glossary-dewei-base",
+        "glossary-ying-base",
+        "glossary-shi-base",
+        "glossary-zhen-lijhen"
       ]
     },
     "greatImage": {
@@ -5737,6 +7417,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 遯 / 整卦大象 / 0007册.djvu/432"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base",
+        "glossary-xiaoren-base"
       ]
     },
     "summary": "天下有山，知时而退。",
@@ -5762,6 +7446,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 初六 / 0007册.djvu/432"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-wuyong-base",
+            "glossary-you-base",
+            "glossary-wang-base"
           ]
         },
         "smallImage": {
@@ -5771,6 +7461,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 初六小象 / 0007册.djvu/432"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-wang-base"
           ]
         }
       },
@@ -5784,6 +7478,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 六二 / 0007册.djvu/432"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-release"
           ]
         },
         "smallImage": {
@@ -5806,6 +7503,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 九三 / 0007册.djvu/432"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -5815,6 +7516,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 九三小象 / 0007册.djvu/432"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -5828,6 +7533,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 九四 / 0007册.djvu/433"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-ji-base",
+            "glossary-xiaoren-base"
           ]
         },
         "smallImage": {
@@ -5837,6 +7547,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 九四小象 / 0007册.djvu/433"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-xiaoren-base"
           ]
         }
       },
@@ -5850,6 +7564,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 九五 / 0007册.djvu/433"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -5859,6 +7576,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 九五小象 / 0007册.djvu/433"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -5872,6 +7593,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 上九 / 0007册.djvu/433"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -5881,6 +7605,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 遯 / 上九小象 / 0007册.djvu/433"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         }
       }
@@ -5896,6 +7623,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 大壮 / 卦辞 / 0007册.djvu/433"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -5905,6 +7635,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 大壮 / 彖曰 / 0007册.djvu/433"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-zhen-lijhen",
+        "glossary-zheng-correct-base",
+        "glossary-jian-base"
       ]
     },
     "greatImage": {
@@ -5914,6 +7650,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 大壮 / 整卦大象 / 0007册.djvu/433"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "雷在天上，壮而守礼。",
@@ -5939,6 +7678,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 初九 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-fu-certain-outcome"
           ]
         },
         "smallImage": {
@@ -5948,6 +7692,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 初九小象 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base"
           ]
         }
       },
@@ -5961,6 +7708,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 九二 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -5970,6 +7720,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 九二小象 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -5983,6 +7737,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 九三 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiaoren-base",
+            "glossary-junzi-base",
+            "glossary-zhen-danger"
           ]
         },
         "smallImage": {
@@ -5992,6 +7751,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 九三小象 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiaoren-base",
+            "glossary-junzi-base"
           ]
         }
       },
@@ -6005,6 +7768,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 九四 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -6014,6 +7781,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 九四小象 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -6027,6 +7797,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 六五 / 0007册.djvu/434"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-none"
           ]
         },
         "smallImage": {
@@ -6036,6 +7809,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 六五小象 / 0007册.djvu/435"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -6049,6 +7825,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 上六 / 0007册.djvu/435"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-nothing",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -6058,6 +7838,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 大壮 / 上六小象 / 0007册.djvu/435"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-base"
           ]
         }
       }
@@ -6082,6 +7866,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 晋 / 彖曰 / 0007册.djvu/435"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base"
       ]
     },
     "greatImage": {
@@ -6091,6 +7878,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 晋 / 整卦大象 / 0007册.djvu/436"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "明出地上，进而明德。",
@@ -6116,6 +7906,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 初六 / 0007册.djvu/436"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-fu-untrusted",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -6125,6 +7920,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 初六小象 / 0007册.djvu/436"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -6138,6 +7937,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 六二 / 0007册.djvu/436"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -6147,6 +7949,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 六二小象 / 0007册.djvu/436"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -6160,6 +7965,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 六三 / 0007册.djvu/437"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -6182,6 +7990,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 九四 / 0007册.djvu/437"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger"
           ]
         },
         "smallImage": {
@@ -6191,6 +8002,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 九四小象 / 0007册.djvu/437"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger",
+            "glossary-dewei-not"
           ]
         }
       },
@@ -6204,6 +8019,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 六五 / 0007册.djvu/437"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone",
+            "glossary-wang-base",
+            "glossary-ji-base",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -6213,6 +8034,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 六五小象 / 0007册.djvu/437"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -6226,6 +8050,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 晋 / 上九 / 0007册.djvu/437"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-ji-base",
+            "glossary-jiu-none",
+            "glossary-zhen-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -6250,6 +8081,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 明夷 / 卦辞 / 0007册.djvu/437"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-base",
+        "glossary-zhen-difficulty"
       ]
     },
     "tuan": {
@@ -6259,6 +8094,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 明夷 / 彖曰 / 0007册.djvu/438"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-li-base",
+        "glossary-zhen-difficulty",
+        "glossary-zheng-correct-base"
       ]
     },
     "greatImage": {
@@ -6268,6 +8109,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 明夷 / 整卦大象 / 0007册.djvu/438"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "明入地中，艰中守正。",
@@ -6293,6 +8137,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 初九 / 0007册.djvu/438"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-you-base",
+            "glossary-wang-base"
           ]
         },
         "smallImage": {
@@ -6302,6 +8151,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 初九小象 / 0007册.djvu/438"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base"
           ]
         }
       },
@@ -6315,6 +8167,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 六二 / 0007册.djvu/438"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -6324,6 +8179,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 六二小象 / 0007册.djvu/438"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -6337,6 +8195,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 九三 / 0007册.djvu/439"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -6381,6 +8242,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 六五 / 0007册.djvu/439"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lijhen"
           ]
         },
         "smallImage": {
@@ -6390,6 +8254,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 明夷 / 六五小象 / 0007册.djvu/439"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         }
       },
@@ -6427,6 +8294,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 家人 / 卦辞 / 0007册.djvu/440"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-base",
+        "glossary-zhen-base"
       ]
     },
     "tuan": {
@@ -6436,6 +8307,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 家人 / 彖曰 / 0007册.djvu/440"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zheng-correct-base"
       ]
     },
     "greatImage": {
@@ -6445,6 +8319,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-6-batch5",
           "locator": "卷6 / 家人 / 整卦大象 / 0007册.djvu/440"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "风自火出，言行有常。",
@@ -6470,6 +8347,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 初九 / 0007册.djvu/440"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -6492,6 +8372,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 六二 / 0007册.djvu/440"
             }
+          ],
+          "glossaryIds": [
+            "glossary-you-base",
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -6501,6 +8385,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 六二小象 / 0007册.djvu/440"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -6514,6 +8401,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 九三 / 0007册.djvu/441"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-li-danger-base",
+            "glossary-ji-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -6536,6 +8429,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 六四 / 0007册.djvu/441"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -6545,6 +8441,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 六四小象 / 0007册.djvu/441"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -6558,6 +8457,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 九五 / 0007册.djvu/441"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -6580,6 +8482,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 上九 / 0007册.djvu/441"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -6589,6 +8495,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-6-batch5",
               "locator": "卷6 / 家人 / 上九小象 / 0007册.djvu/441"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       }
@@ -6604,6 +8513,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 睽 / 卦辞 / 0007册.djvu/444"
         }
+      ],
+      "glossaryIds": [
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -6613,6 +8525,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 睽 / 彖曰 / 0007册.djvu/444"
         }
+      ],
+      "glossaryIds": [
+        "glossary-shuo-joy",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-ying-base",
+        "glossary-gang-base",
+        "glossary-ji-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -6622,6 +8543,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 睽 / 整卦大象 / 0007册.djvu/444"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "上火下泽，同中存异。",
@@ -6647,6 +8571,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 初九 / 0007册.djvu/444"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone",
+            "glossary-jian-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -6656,6 +8585,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 初九小象 / 0007册.djvu/444"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-base",
+            "glossary-jiu-base"
           ]
         }
       },
@@ -6669,6 +8602,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 九二 / 0007册.djvu/445"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -6691,6 +8627,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 六三 / 0007册.djvu/445"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-base"
           ]
         },
         "smallImage": {
@@ -6700,6 +8639,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 六三小象 / 0007册.djvu/445"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-base",
+            "glossary-dewei-not",
+            "glossary-gang-base"
           ]
         }
       },
@@ -6713,6 +8657,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 九四 / 0007册.djvu/445"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-good",
+            "glossary-fu-base",
+            "glossary-li-danger-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -6722,6 +8672,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 九四小象 / 0007册.djvu/445"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -6735,6 +8689,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 六五 / 0007册.djvu/446"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone",
+            "glossary-wang-base",
+            "glossary-jiu-base"
           ]
         },
         "smallImage": {
@@ -6744,6 +8703,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 六五小象 / 0007册.djvu/446"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -6757,6 +8719,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 上九 / 0007册.djvu/446"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-base",
+            "glossary-shuo-release",
+            "glossary-fei-base",
+            "glossary-wang-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -6766,6 +8735,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 睽 / 上九小象 / 0007册.djvu/446"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       }
@@ -6781,6 +8753,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 蹇 / 卦辞 / 0007册.djvu/446"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-base",
+        "glossary-li-not",
+        "glossary-li-person",
+        "glossary-zhen-ji"
       ]
     },
     "tuan": {
@@ -6790,6 +8768,18 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 蹇 / 彖曰 / 0007册.djvu/447"
         }
+      ],
+      "glossaryIds": [
+        "glossary-jian-base",
+        "glossary-li-base",
+        "glossary-wang-base",
+        "glossary-dezhong-base",
+        "glossary-li-not",
+        "glossary-li-person",
+        "glossary-dewei-base",
+        "glossary-zhen-ji",
+        "glossary-zheng-correct-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -6799,6 +8789,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 蹇 / 整卦大象 / 0007册.djvu/447"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山上有水，遇险知止。",
@@ -6824,6 +8817,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 初六 / 0007册.djvu/447"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base"
           ]
         },
         "smallImage": {
@@ -6833,6 +8830,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 初六小象 / 0007册.djvu/447"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base"
           ]
         }
       },
@@ -6846,6 +8847,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 六二 / 0007册.djvu/447"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fei-base"
           ]
         },
         "smallImage": {
@@ -6868,6 +8872,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 九三 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base"
           ]
         },
         "smallImage": {
@@ -6877,6 +8885,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 九三小象 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base"
           ]
         }
       },
@@ -6890,6 +8902,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 六四 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base"
           ]
         },
         "smallImage": {
@@ -6899,6 +8915,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 六四小象 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base",
+            "glossary-dewei-base"
           ]
         }
       },
@@ -6912,6 +8933,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 九五 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-base",
+            "glossary-lai-base"
           ]
         },
         "smallImage": {
@@ -6921,6 +8946,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 九五小象 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-base",
+            "glossary-lai-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -6934,6 +8964,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 上六 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base",
+            "glossary-ji-base",
+            "glossary-li-person"
           ]
         },
         "smallImage": {
@@ -6943,6 +8979,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 蹇 / 上六小象 / 0007册.djvu/448"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base",
+            "glossary-li-person"
           ]
         }
       }
@@ -6958,6 +8999,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 解 / 卦辞 / 0007册.djvu/448"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-base",
+        "glossary-wang-base",
+        "glossary-lai-base",
+        "glossary-ji-base",
+        "glossary-you-base"
       ]
     },
     "tuan": {
@@ -6967,6 +9015,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 解 / 彖曰 / 0007册.djvu/449"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-base",
+        "glossary-wang-base",
+        "glossary-lai-base",
+        "glossary-ji-base",
+        "glossary-dezhong-base",
+        "glossary-you-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -6976,6 +9033,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 解 / 整卦大象 / 0007册.djvu/449"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "雷雨并作，解难释结。",
@@ -7001,6 +9061,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 初六 / 0007册.djvu/449"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7010,6 +9073,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 初六小象 / 0007册.djvu/449"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gang-base",
+            "glossary-rou-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -7023,6 +9091,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 九二 / 0007册.djvu/449"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -7032,6 +9103,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 九二小象 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-dezhong-base"
           ]
         }
       },
@@ -7045,6 +9120,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 六三 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -7054,6 +9133,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 六三小象 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-base"
           ]
         }
       },
@@ -7067,6 +9149,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 九四 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-base",
+            "glossary-fu-base"
           ]
         },
         "smallImage": {
@@ -7076,6 +9162,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 九四小象 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -7089,6 +9178,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 六五 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-ji-base",
+            "glossary-fu-yes",
+            "glossary-xiaoren-base"
           ]
         },
         "smallImage": {
@@ -7098,6 +9193,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 六五小象 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-xiaoren-base"
           ]
         }
       },
@@ -7111,6 +9210,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 解 / 上六 / 0007册.djvu/450"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -7135,6 +9237,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 损 / 卦辞 / 0007册.djvu/451"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-yes",
+        "glossary-yuan-base",
+        "glossary-ji-base",
+        "glossary-jiu-none",
+        "glossary-zhen-base",
+        "glossary-li-going"
       ]
     },
     "tuan": {
@@ -7144,6 +9254,18 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 损 / 彖曰 / 0007册.djvu/451–452"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-yes",
+        "glossary-yuan-base",
+        "glossary-ji-base",
+        "glossary-jiu-none",
+        "glossary-zhen-base",
+        "glossary-li-going",
+        "glossary-ying-timing",
+        "glossary-shi-base",
+        "glossary-gang-base",
+        "glossary-rou-base"
       ]
     },
     "greatImage": {
@@ -7153,6 +9275,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 损 / 整卦大象 / 0007册.djvu/452"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山下有泽，损约适时。",
@@ -7178,6 +9303,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 初九 / 0007册.djvu/452"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7187,6 +9316,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 初九小象 / 0007册.djvu/452"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base"
           ]
         }
       },
@@ -7200,6 +9332,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 九二 / 0007册.djvu/452"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lijhen",
+            "glossary-zheng-base",
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -7209,6 +9346,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 九二小象 / 0007册.djvu/453"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lijhen",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -7244,6 +9385,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 六四 / 0007册.djvu/453"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7266,6 +9410,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 六五 / 0007册.djvu/453"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-money",
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -7275,6 +9424,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 六五小象 / 0007册.djvu/453"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -7288,6 +9441,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 损 / 上九 / 0007册.djvu/454"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-zhen-ji",
+            "glossary-li-going"
           ]
         },
         "smallImage": {
@@ -7312,6 +9470,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 益 / 卦辞 / 0007册.djvu/454"
         }
+      ],
+      "glossaryIds": [
+        "glossary-li-going",
+        "glossary-li-river"
       ]
     },
     "tuan": {
@@ -7321,6 +9483,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 益 / 彖曰 / 0007册.djvu/454"
         }
+      ],
+      "glossaryIds": [
+        "glossary-shuo-joy",
+        "glossary-li-going",
+        "glossary-zhongzheng-base",
+        "glossary-li-river",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -7330,6 +9499,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-7-batch5",
           "locator": "卷7 / 益 / 整卦大象 / 0007册.djvu/455"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base",
+        "glossary-jian-base"
       ]
     },
     "summary": "风雷相助，迁善改过。",
@@ -7355,6 +9528,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 初九 / 0007册.djvu/455"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7364,6 +9543,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 初九小象 / 0007册.djvu/455"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -7377,6 +9561,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 六二 / 0007册.djvu/455"
             }
+          ],
+          "glossaryIds": [
+            "glossary-peng-money",
+            "glossary-zhen-lasting",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -7386,6 +9575,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 六二小象 / 0007册.djvu/455"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base"
           ]
         }
       },
@@ -7399,6 +9591,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 六三 / 0007册.djvu/455"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-jiu-none",
+            "glossary-fu-yes",
+            "glossary-zhong-base"
           ]
         },
         "smallImage": {
@@ -7408,6 +9606,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 六三小象 / 0007册.djvu/456"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -7421,6 +9622,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 六四 / 0007册.djvu/456"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -7443,6 +9648,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 九五 / 0007册.djvu/456"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -7452,6 +9662,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 九五小象 / 0007册.djvu/456"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes"
           ]
         }
       },
@@ -7465,6 +9678,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 上九 / 0007册.djvu/457"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -7474,6 +9690,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-7-batch5",
               "locator": "卷7 / 益 / 上九小象 / 0007册.djvu/457"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base"
           ]
         }
       }
@@ -7489,6 +9708,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-43",
           "locator": "第43卦 夬 / 易经 / 卦辞"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-base",
+        "glossary-li-danger-base",
+        "glossary-li-not",
+        "glossary-li-going"
       ]
     },
     "tuan": {
@@ -7498,6 +9723,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-43",
           "locator": "第43卦 夬 / 彖曰 / 全段"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-shuo-joy",
+        "glossary-fu-base",
+        "glossary-li-danger-base",
+        "glossary-li-not",
+        "glossary-li-going"
       ]
     },
     "greatImage": {
@@ -7507,6 +9741,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-43",
           "locator": "第43卦 夬 / 象曰 / 整卦大象"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "决断与公开，行动中仍须警惕强硬过度。",
@@ -7532,6 +9769,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 易经 / 初九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-jiu-base"
           ]
         },
         "smallImage": {
@@ -7541,6 +9782,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 象曰 / 初九小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-jiu-base"
           ]
         }
       },
@@ -7554,6 +9799,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 易经 / 九二"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ti-base"
           ]
         },
         "smallImage": {
@@ -7563,6 +9811,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 象曰 / 九二小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dezhong-base"
           ]
         }
       },
@@ -7576,6 +9827,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 易经 / 九三"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-junzi-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7585,6 +9841,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 象曰 / 九三小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -7598,6 +9858,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 易经 / 九四"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -7607,6 +9870,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 象曰 / 九四小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -7620,6 +9886,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 易经 / 九五"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7629,6 +9899,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 象曰 / 九五小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -7642,6 +9916,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 易经 / 上六"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -7651,6 +9928,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-43",
               "locator": "第43卦 夬 / 象曰 / 上六小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       }
@@ -7666,6 +9946,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8",
           "locator": "卷8 / 姤 / 卦辞 / 0007册.djvu/463"
         }
+      ],
+      "glossaryIds": [
+        "glossary-wuyong-base"
       ]
     },
     "tuan": {
@@ -7675,6 +9958,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8",
           "locator": "卷8 / 姤 / 彖曰 / 0007册.djvu/463"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-gang-base",
+        "glossary-wuyong-base",
+        "glossary-zhongzheng-base",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -7709,6 +9999,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 初六 / 0007册.djvu/464"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-you-base",
+            "glossary-wang-base",
+            "glossary-jian-base",
+            "glossary-xiong-base",
+            "glossary-fu-certain"
           ]
         },
         "smallImage": {
@@ -7718,6 +10016,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 初六小象 / 0007册.djvu/464"
             }
+          ],
+          "glossaryIds": [
+            "glossary-rou-base"
           ]
         }
       },
@@ -7731,6 +10032,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 九二 / 0007册.djvu/464"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-li-not"
           ]
         },
         "smallImage": {
@@ -7753,6 +10058,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 九三 / 0007册.djvu/465"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-jiu-base"
           ]
         },
         "smallImage": {
@@ -7775,6 +10084,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 九四 / 0007册.djvu/465"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -7784,6 +10096,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 九四小象 / 0007册.djvu/465"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -7806,6 +10121,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 九五小象 / 0007册.djvu/465"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -7819,6 +10137,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 上九 / 0007册.djvu/465"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7828,6 +10150,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8",
               "locator": "卷8 / 姤 / 上九小象 / 0007册.djvu/465"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         }
       }
@@ -7843,6 +10168,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 萃 / 卦辞 / 0007册.djvu/466"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-person",
+        "glossary-zhen-lijhen",
+        "glossary-ji-base",
+        "glossary-li-going"
       ]
     },
     "tuan": {
@@ -7852,6 +10184,18 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 萃 / 彖曰 / 0007册.djvu/466"
         }
+      ],
+      "glossaryIds": [
+        "glossary-shuo-joy",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-ying-base",
+        "glossary-li-person",
+        "glossary-jian-base",
+        "glossary-heng-base",
+        "glossary-zheng-correct-base",
+        "glossary-ji-base",
+        "glossary-li-going"
       ]
     },
     "greatImage": {
@@ -7861,6 +10205,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 萃 / 整卦大象 / 0007册.djvu/466"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽上于地，聚而有备。",
@@ -7886,6 +10233,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 初六 / 0007册.djvu/467"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-wang-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7908,6 +10260,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 六二 / 0007册.djvu/467"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none",
+            "glossary-fu-base",
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -7917,6 +10275,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 六二小象 / 0007册.djvu/467"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -7930,6 +10293,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 六三 / 0007册.djvu/467"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-nothing",
+            "glossary-wang-base",
+            "glossary-jiu-none",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -7939,6 +10308,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 六三小象 / 0007册.djvu/467"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -7952,6 +10325,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 九四 / 0007册.djvu/468"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -7961,6 +10338,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 九四小象 / 0007册.djvu/468"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none",
+            "glossary-dewei-not"
           ]
         }
       },
@@ -7974,6 +10356,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 九五 / 0007册.djvu/468"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-fu-no",
+            "glossary-yuan-base",
+            "glossary-zhen-lasting",
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -7996,6 +10385,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 萃 / 上六 / 0007册.djvu/468"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8020,6 +10412,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 升 / 卦辞 / 0007册.djvu/468"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-great",
+        "glossary-jian-base",
+        "glossary-daren-base",
+        "glossary-zheng-base",
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -8029,6 +10428,18 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 升 / 彖曰 / 0007册.djvu/468–469"
         }
+      ],
+      "glossaryIds": [
+        "glossary-rou-base",
+        "glossary-shi-base",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-ying-base",
+        "glossary-heng-base",
+        "glossary-jian-base",
+        "glossary-daren-base",
+        "glossary-zheng-base",
+        "glossary-ji-base"
       ]
     },
     "greatImage": {
@@ -8038,6 +10449,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 升 / 整卦大象 / 0007册.djvu/469"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "地中生木，积小成大。",
@@ -8063,6 +10477,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 初六 / 0007册.djvu/469"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8072,6 +10489,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 初六小象 / 0007册.djvu/469"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -8085,6 +10505,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 九二 / 0007册.djvu/469"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-li-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8094,6 +10519,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 九二小象 / 0007册.djvu/469"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base"
           ]
         }
       },
@@ -8129,6 +10557,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 六四 / 0007册.djvu/469"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-offer",
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8138,6 +10571,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 六四小象 / 0007册.djvu/469"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-offer"
           ]
         }
       },
@@ -8151,6 +10587,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 六五 / 0007册.djvu/470"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -8160,6 +10599,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 六五小象 / 0007册.djvu/470"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         }
       },
@@ -8173,6 +10615,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 升 / 上六 / 0007册.djvu/470"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -8197,6 +10643,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 困 / 卦辞 / 0007册.djvu/470"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-base",
+        "glossary-daren-base",
+        "glossary-ji-base",
+        "glossary-jiu-none"
       ]
     },
     "tuan": {
@@ -8206,6 +10659,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 困 / 彖曰 / 0007册.djvu/470"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-shuo-joy",
+        "glossary-heng-base",
+        "glossary-junzi-base",
+        "glossary-zhen-base",
+        "glossary-daren-base",
+        "glossary-ji-base",
+        "glossary-zhong-base"
       ]
     },
     "greatImage": {
@@ -8215,6 +10678,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 困 / 整卦大象 / 0007册.djvu/471"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽中无水，困而守志。",
@@ -8262,6 +10728,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 九二 / 0007册.djvu/471"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-li-base",
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8271,6 +10744,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 九二小象 / 0007册.djvu/471"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -8284,6 +10760,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 六三 / 0007册.djvu/472"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jian-base",
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -8293,6 +10773,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 六三小象 / 0007册.djvu/472"
             }
+          ],
+          "glossaryIds": [
+            "glossary-chenggang-base",
+            "glossary-jian-base"
           ]
         }
       },
@@ -8306,6 +10790,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 九四 / 0007册.djvu/472"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -8315,6 +10803,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 九四小象 / 0007册.djvu/472"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-dewei-not"
           ]
         }
       },
@@ -8328,6 +10820,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 九五 / 0007册.djvu/472"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-kun",
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -8337,6 +10833,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 九五小象 / 0007册.djvu/472"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shuo-kun",
+            "glossary-zhong-base",
+            "glossary-li-base"
           ]
         }
       },
@@ -8350,6 +10851,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 上六 / 0007册.djvu/473"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-zheng-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8359,6 +10865,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 困 / 上六小象 / 0007册.djvu/473"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-ji-base"
           ]
         }
       }
@@ -8374,6 +10884,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 井 / 卦辞 / 0007册.djvu/473"
         }
+      ],
+      "glossaryIds": [
+        "glossary-wang-base",
+        "glossary-lai-base",
+        "glossary-xiong-base"
       ]
     },
     "tuan": {
@@ -8383,6 +10898,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 井 / 彖曰 / 0007册.djvu/474"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-xiong-base"
       ]
     },
     "greatImage": {
@@ -8392,6 +10912,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 井 / 整卦大象 / 0007册.djvu/474"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "木上有水，养用不穷。",
@@ -8426,6 +10949,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 井 / 初六小象 / 0007册.djvu/474"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shi-base"
           ]
         }
       },
@@ -8483,6 +11009,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 井 / 六四 / 0007册.djvu/475"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8492,6 +11021,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 井 / 六四小象 / 0007册.djvu/475"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -8514,6 +11046,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 井 / 九五小象 / 0007册.djvu/475"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -8527,6 +11062,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 井 / 上六 / 0007册.djvu/476"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8536,6 +11076,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 井 / 上六小象 / 0007册.djvu/476"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         }
       }
@@ -8551,6 +11095,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 革 / 卦辞 / 0007册.djvu/476"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-base",
+        "glossary-yuan-great",
+        "glossary-zhen-lijhen",
+        "glossary-hui-gone"
       ]
     },
     "tuan": {
@@ -8560,6 +11110,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 革 / 彖曰 / 0007册.djvu/476"
         }
+      ],
+      "glossaryIds": [
+        "glossary-fu-base",
+        "glossary-shuo-joy",
+        "glossary-heng-base",
+        "glossary-zheng-correct-base",
+        "glossary-hui-base",
+        "glossary-shi-seasons",
+        "glossary-shi-base",
+        "glossary-ying-general"
       ]
     },
     "greatImage": {
@@ -8569,6 +11129,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch5",
           "locator": "卷8 / 革 / 整卦大象 / 0007册.djvu/477"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base",
+        "glossary-shi-seasons"
       ]
     },
     "summary": "泽中有火，应时而变。",
@@ -8616,6 +11180,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 六二 / 0007册.djvu/477"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8638,6 +11207,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 九三 / 0007册.djvu/477"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-zhen-danger",
+            "glossary-fu-yes"
           ]
         },
         "smallImage": {
@@ -8660,6 +11235,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 九四 / 0007册.djvu/478"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone",
+            "glossary-fu-yes",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8669,6 +11249,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 九四小象 / 0007册.djvu/478"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -8682,6 +11265,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 九五 / 0007册.djvu/478"
             }
+          ],
+          "glossaryIds": [
+            "glossary-daren-base",
+            "glossary-fu-yes"
           ]
         },
         "smallImage": {
@@ -8691,6 +11278,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 九五小象 / 0007册.djvu/478"
             }
+          ],
+          "glossaryIds": [
+            "glossary-daren-base"
           ]
         }
       },
@@ -8704,6 +11294,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 上六 / 0007册.djvu/478"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-xiaoren-base",
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -8713,6 +11310,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch5",
               "locator": "卷8 / 革 / 上六小象 / 0007册.djvu/478"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-xiaoren-base"
           ]
         }
       }
@@ -8728,6 +11329,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch6",
           "locator": "卷8 / 鼎 / 卦辞 / 0007册.djvu/478"
         }
+      ],
+      "glossaryIds": [
+        "glossary-yuan-base",
+        "glossary-ji-base",
+        "glossary-heng-base"
       ]
     },
     "tuan": {
@@ -8737,6 +11343,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch6",
           "locator": "卷8 / 鼎 / 彖曰 / 0007册.djvu/479"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-cook",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-ying-base",
+        "glossary-gang-base",
+        "glossary-yuan-great"
       ]
     },
     "greatImage": {
@@ -8746,6 +11360,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-8-batch6",
           "locator": "卷8 / 鼎 / 整卦大象 / 0007册.djvu/479"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base",
+        "glossary-zheng-correct-base"
       ]
     },
     "summary": "木上有火，取新成器。",
@@ -8771,6 +11389,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 初六 / 0007册.djvu/479"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -8780,6 +11402,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 初六小象 / 0007册.djvu/479"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base"
           ]
         }
       },
@@ -8793,6 +11418,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 九二 / 0007册.djvu/480"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8815,6 +11443,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 九三 / 0007册.djvu/480"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8837,6 +11469,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 九四 / 0007册.djvu/480"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -8859,6 +11494,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 六五 / 0007册.djvu/481"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-lijhen"
           ]
         },
         "smallImage": {
@@ -8868,6 +11506,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 六五小象 / 0007册.djvu/481"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -8881,6 +11522,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 上九 / 0007册.djvu/481"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -8890,6 +11535,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-8-batch6",
               "locator": "卷8 / 鼎 / 上九小象 / 0007册.djvu/481"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gang-base",
+            "glossary-rou-base"
           ]
         }
       }
@@ -8905,6 +11554,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 震 / 卦辞 / 0007册.djvu/485"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-lai-base"
       ]
     },
     "tuan": {
@@ -8914,6 +11567,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 震 / 彖曰 / 0007册.djvu/486"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-lai-base"
       ]
     },
     "greatImage": {
@@ -8923,6 +11580,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 震 / 整卦大象 / 0007册.djvu/486"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "洊雷相继，恐惧修省。",
@@ -8948,6 +11608,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 初九 / 0007册.djvu/486"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -8957,6 +11621,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 初九小象 / 0007册.djvu/486"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base"
           ]
         }
       },
@@ -8970,6 +11637,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 六二 / 0007册.djvu/486"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-li-danger-base"
           ]
         },
         "smallImage": {
@@ -8979,6 +11650,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 六二小象 / 0007册.djvu/487"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-li-danger-base",
+            "glossary-chenggang-base"
           ]
         }
       },
@@ -9001,6 +11677,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 六三小象 / 0007册.djvu/487"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -9036,6 +11715,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 六五 / 0007册.djvu/487"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base",
+            "glossary-li-danger-base"
           ]
         },
         "smallImage": {
@@ -9045,6 +11729,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 六五小象 / 0007册.djvu/487"
             }
+          ],
+          "glossaryIds": [
+            "glossary-wang-base",
+            "glossary-lai-base",
+            "glossary-li-danger-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -9058,6 +11748,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 上六 / 0007册.djvu/487"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -9067,6 +11762,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 震 / 上六小象 / 0007册.djvu/488"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base",
+            "glossary-xiong-base",
+            "glossary-jiu-none"
           ]
         }
       }
@@ -9082,6 +11782,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 艮 / 卦辞 / 0007册.djvu/488"
         }
+      ],
+      "glossaryIds": [
+        "glossary-jian-base",
+        "glossary-jiu-none"
       ]
     },
     "tuan": {
@@ -9091,6 +11795,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 艮 / 彖曰 / 0007册.djvu/488–489"
         }
+      ],
+      "glossaryIds": [
+        "glossary-shi-base",
+        "glossary-ying-same",
+        "glossary-jian-base",
+        "glossary-jiu-none"
       ]
     },
     "greatImage": {
@@ -9100,6 +11810,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 艮 / 整卦大象 / 0007册.djvu/489"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "兼山而止，动静得时。",
@@ -9125,6 +11838,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 初六 / 0007册.djvu/489"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-li-base",
+            "glossary-zhen-lasting"
           ]
         },
         "smallImage": {
@@ -9134,6 +11852,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 初六小象 / 0007册.djvu/489"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -9169,6 +11890,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 九三 / 0007册.djvu/489"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base"
           ]
         },
         "smallImage": {
@@ -9191,6 +11915,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 六四 / 0007册.djvu/490"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -9213,6 +11940,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 六五 / 0007册.djvu/490"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -9222,6 +11952,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 六五小象 / 0007册.djvu/490"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -9235,6 +11968,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 上九 / 0007册.djvu/490"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9244,6 +11980,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 艮 / 上九小象 / 0007册.djvu/490"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       }
@@ -9259,6 +11998,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 渐 / 卦辞 / 0007册.djvu/490"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gui-marriage",
+        "glossary-ji-base",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -9268,6 +12012,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 渐 / 彖曰 / 0007册.djvu/490–491"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gui-marriage",
+        "glossary-ji-base",
+        "glossary-dewei-base",
+        "glossary-wang-base",
+        "glossary-zheng-correct-base",
+        "glossary-gang-base",
+        "glossary-dezhong-base"
       ]
     },
     "greatImage": {
@@ -9277,6 +12030,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 渐 / 整卦大象 / 0007册.djvu/491"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山上有木，循序而进。",
@@ -9302,6 +12058,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 初六 / 0007册.djvu/491"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -9311,6 +12071,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 初六小象 / 0007册.djvu/491"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base",
+            "glossary-jiu-none"
           ]
         }
       },
@@ -9324,6 +12088,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 六二 / 0007册.djvu/491"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9346,6 +12113,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 九三 / 0007册.djvu/491"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-li-base"
           ]
         },
         "smallImage": {
@@ -9355,6 +12127,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 九三小象 / 0007册.djvu/492"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-li-base"
           ]
         }
       },
@@ -9368,6 +12144,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 六四 / 0007册.djvu/492"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -9390,6 +12169,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 九五 / 0007册.djvu/492"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9399,6 +12181,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 九五小象 / 0007册.djvu/492"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -9412,6 +12197,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 上九 / 0007册.djvu/492"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9421,6 +12209,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 渐 / 上九小象 / 0007册.djvu/493"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       }
@@ -9436,6 +12227,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 归妹 / 卦辞 / 0007册.djvu/493"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gui-marriage",
+        "glossary-zheng-base",
+        "glossary-xiong-base",
+        "glossary-li-nothing"
       ]
     },
     "tuan": {
@@ -9445,6 +12242,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 归妹 / 彖曰 / 0007册.djvu/493"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gui-marriage",
+        "glossary-shuo-joy",
+        "glossary-zheng-base",
+        "glossary-xiong-base",
+        "glossary-dewei-not",
+        "glossary-li-nothing",
+        "glossary-rou-base",
+        "glossary-chenggang-base"
       ]
     },
     "greatImage": {
@@ -9454,6 +12261,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 归妹 / 整卦大象 / 0007册.djvu/494"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gui-marriage",
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽上有雷，知敝慎终。",
@@ -9479,6 +12290,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 初九 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage",
+            "glossary-zheng-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9488,6 +12304,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 初九小象 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage",
+            "glossary-ji-base",
+            "glossary-cheng-base"
           ]
         }
       },
@@ -9501,6 +12322,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 九二 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -9510,6 +12335,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 九二小象 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         }
       },
@@ -9523,6 +12352,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 六三 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage"
           ]
         },
         "smallImage": {
@@ -9532,6 +12364,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 六三小象 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage"
           ]
         }
       },
@@ -9545,6 +12380,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 九四 / 0007册.djvu/494"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage",
+            "glossary-shi-base"
           ]
         },
         "smallImage": {
@@ -9567,6 +12406,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 六五 / 0007册.djvu/495"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9576,6 +12419,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 六五小象 / 0007册.djvu/495"
             }
+          ],
+          "glossaryIds": [
+            "glossary-gui-marriage",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -9589,6 +12436,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 上六 / 0007册.djvu/495"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-hold",
+            "glossary-li-nothing"
           ]
         },
         "smallImage": {
@@ -9598,6 +12449,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 归妹 / 上六小象 / 0007册.djvu/495"
             }
+          ],
+          "glossaryIds": [
+            "glossary-cheng-hold"
           ]
         }
       }
@@ -9613,6 +12467,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 丰 / 卦辞 / 0007册.djvu/495"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhong-noon"
       ]
     },
     "tuan": {
@@ -9622,6 +12480,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 丰 / 彖曰 / 0007册.djvu/496"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhong-noon",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -9631,6 +12493,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 丰 / 整卦大象 / 0007册.djvu/496"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "雷电皆至，盛时知变。",
@@ -9656,6 +12521,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 初九 / 0007册.djvu/496"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-wang-base"
           ]
         },
         "smallImage": {
@@ -9665,6 +12534,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 初九小象 / 0007册.djvu/496–497"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -9678,6 +12550,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 六二 / 0007册.djvu/497"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-noon",
+            "glossary-jian-base",
+            "glossary-wang-base",
+            "glossary-fu-yes",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9687,6 +12566,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 六二小象 / 0007册.djvu/497"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes"
           ]
         }
       },
@@ -9700,6 +12582,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 九三 / 0007册.djvu/497"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-noon",
+            "glossary-jian-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -9722,6 +12609,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 九四 / 0007册.djvu/498"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-noon",
+            "glossary-jian-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9731,6 +12623,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 九四小象 / 0007册.djvu/498"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not",
+            "glossary-zhong-noon",
+            "glossary-jian-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -9744,6 +12642,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 六五 / 0007册.djvu/498"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -9753,6 +12655,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 六五小象 / 0007册.djvu/498"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -9766,6 +12671,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 丰 / 上六 / 0007册.djvu/498"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -9790,6 +12698,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 旅 / 卦辞 / 0007册.djvu/499"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-ji"
       ]
     },
     "tuan": {
@@ -9799,6 +12711,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 旅 / 彖曰 / 0007册.djvu/499"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-gang-base",
+        "glossary-zhen-ji",
+        "glossary-shi-base"
       ]
     },
     "greatImage": {
@@ -9808,6 +12728,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 旅 / 整卦大象 / 0007册.djvu/499"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山上有火，处旅明慎。",
@@ -9855,6 +12778,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 旅 / 六二 / 0007册.djvu/499"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -9864,6 +12790,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 旅 / 六二小象 / 0007册.djvu/500"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-base"
           ]
         }
       },
@@ -9877,6 +12806,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 旅 / 九三 / 0007册.djvu/500"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-danger"
           ]
         },
         "smallImage": {
@@ -9908,6 +12840,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 旅 / 九四小象 / 0007册.djvu/500"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -9943,6 +12878,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 旅 / 上九 / 0007册.djvu/500"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -9967,6 +12905,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 巽 / 卦辞 / 0007册.djvu/501"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-going",
+        "glossary-li-person"
       ]
     },
     "tuan": {
@@ -9976,6 +12919,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 巽 / 彖曰 / 0007册.djvu/501"
         }
+      ],
+      "glossaryIds": [
+        "glossary-gang-base",
+        "glossary-zhongzheng-base",
+        "glossary-rou-base",
+        "glossary-heng-base",
+        "glossary-li-going",
+        "glossary-li-person"
       ]
     },
     "greatImage": {
@@ -9985,6 +12936,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-9-batch6",
           "locator": "卷9 / 巽 / 整卦大象 / 0007册.djvu/501"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "随风而入，申命行事。",
@@ -10010,6 +12964,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 初六 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         },
         "smallImage": {
@@ -10019,6 +12977,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 初六小象 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-base",
+            "glossary-zhen-base"
           ]
         }
       },
@@ -10032,6 +12994,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 九二 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10041,6 +13007,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 九二小象 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-dezhong-base"
           ]
         }
       },
@@ -10054,6 +13024,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 九三 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -10063,6 +13036,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 九三小象 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         }
       },
@@ -10076,6 +13052,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 六四 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -10098,6 +13077,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 九五 / 0007册.djvu/502"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-ji-base",
+            "glossary-hui-gone",
+            "glossary-li-all"
           ]
         },
         "smallImage": {
@@ -10107,6 +13092,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 九五小象 / 0007册.djvu/503"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-zhongzheng-base"
           ]
         }
       },
@@ -10120,6 +13109,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 上九 / 0007册.djvu/503"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-xiong"
           ]
         },
         "smallImage": {
@@ -10129,6 +13121,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-9-batch6",
               "locator": "卷9 / 巽 / 上九小象 / 0007册.djvu/503"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-correct-certain"
           ]
         }
       }
@@ -10144,6 +13139,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-58",
           "locator": "第58卦 兑 / 易经 / 卦辞"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -10153,6 +13152,14 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-58",
           "locator": "第58卦 兑 / 彖曰 / 全段"
         }
+      ],
+      "glossaryIds": [
+        "glossary-shuo-joy",
+        "glossary-gang-base",
+        "glossary-zhong-base",
+        "glossary-rou-base",
+        "glossary-zhen-lijhen",
+        "glossary-ying-general"
       ]
     },
     "greatImage": {
@@ -10162,6 +13169,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "ws-zhouyi-58",
           "locator": "第58卦 兑 / 象曰 / 整卦大象"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base",
+        "glossary-peng-base"
       ]
     },
     "summary": "和悦与交流，内心守正而相互讲习。",
@@ -10187,6 +13198,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 易经 / 初九"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -10196,6 +13210,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 象曰 / 初九小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -10209,6 +13226,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 易经 / 九二"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-ji-base",
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -10218,6 +13240,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 象曰 / 九二小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -10231,6 +13257,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 易经 / 六三"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -10240,6 +13270,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 象曰 / 六三小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lai-base",
+            "glossary-xiong-base",
+            "glossary-dewei-not"
           ]
         }
       },
@@ -10275,6 +13310,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 易经 / 九五"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-li-danger-base"
           ]
         },
         "smallImage": {
@@ -10284,6 +13323,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "ws-zhouyi-58",
               "locator": "第58卦 兑 / 象曰 / 九五小象"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-base",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -10321,6 +13364,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 涣 / 卦辞 / 0007册.djvu/509"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-river",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -10330,6 +13378,15 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 涣 / 彖曰 / 0007册.djvu/509"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-gang-base",
+        "glossary-lai-base",
+        "glossary-rou-base",
+        "glossary-dewei-base",
+        "glossary-zhong-base",
+        "glossary-li-river"
       ]
     },
     "greatImage": {
@@ -10364,6 +13421,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 初六 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -10373,6 +13433,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 初六小象 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -10386,6 +13449,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 九二 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -10408,6 +13474,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 六三 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-hui-none"
           ]
         },
         "smallImage": {
@@ -10430,6 +13499,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 六四 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base",
+            "glossary-fei-basket"
           ]
         },
         "smallImage": {
@@ -10439,6 +13513,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 六四小象 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-yuan-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -10452,6 +13530,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 九五 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10461,6 +13542,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 九五小象 / 0007册.djvu/510"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -10474,6 +13559,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 涣 / 上九 / 0007册.djvu/511"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10498,6 +13586,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 节 / 卦辞 / 0007册.djvu/511"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-not-rigid"
       ]
     },
     "tuan": {
@@ -10507,6 +13599,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 节 / 彖曰 / 0007册.djvu/511"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-zhen-not-rigid",
+        "glossary-shuo-joy",
+        "glossary-dewei-base",
+        "glossary-zhongzheng-base",
+        "glossary-shi-seasons"
       ]
     },
     "greatImage": {
@@ -10516,6 +13619,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 节 / 整卦大象 / 0007册.djvu/511"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽上有水，制数有度。",
@@ -10541,6 +13647,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 初九 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10563,6 +13672,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 九二 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -10572,6 +13684,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 九二小象 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base",
+            "glossary-shi-base"
           ]
         }
       },
@@ -10585,6 +13701,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 六三 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-self"
           ]
         },
         "smallImage": {
@@ -10594,6 +13713,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 六三小象 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-base"
           ]
         }
       },
@@ -10607,6 +13729,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 六四 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-base"
           ]
         },
         "smallImage": {
@@ -10616,6 +13741,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 六四小象 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-heng-base",
+            "glossary-cheng-base"
           ]
         }
       },
@@ -10629,6 +13758,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 九五 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-wang-base"
           ]
         },
         "smallImage": {
@@ -10638,6 +13771,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 九五小象 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base",
+            "glossary-zhong-base"
           ]
         }
       },
@@ -10651,6 +13788,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 上六 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-bitter",
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -10660,6 +13801,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 节 / 上六小象 / 0007册.djvu/512"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-bitter"
           ]
         }
       }
@@ -10675,6 +13819,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 中孚 / 卦辞 / 0007册.djvu/513"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhong-heart",
+        "glossary-ji-base",
+        "glossary-li-river",
+        "glossary-zhen-lijhen"
       ]
     },
     "tuan": {
@@ -10684,6 +13834,18 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 中孚 / 彖曰 / 0007册.djvu/513"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhong-heart",
+        "glossary-fu-base",
+        "glossary-rou-base",
+        "glossary-gang-base",
+        "glossary-dezhong-base",
+        "glossary-shuo-joy",
+        "glossary-ji-base",
+        "glossary-li-river",
+        "glossary-zhen-lijhen",
+        "glossary-ying-general"
       ]
     },
     "greatImage": {
@@ -10693,6 +13855,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 中孚 / 整卦大象 / 0007册.djvu/513"
         }
+      ],
+      "glossaryIds": [
+        "glossary-zhong-heart",
+        "glossary-junzi-base"
       ]
     },
     "summary": "泽上有风，诚信在中。",
@@ -10718,6 +13884,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 初九 / 0007册.djvu/513"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         },
         "smallImage": {
@@ -10727,6 +13896,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 初九小象 / 0007册.djvu/513"
             }
+          ],
+          "glossaryIds": [
+            "glossary-ji-base"
           ]
         }
       },
@@ -10749,6 +13921,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 九二小象 / 0007册.djvu/514"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-heart"
           ]
         }
       },
@@ -10771,6 +13946,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 六三小象 / 0007册.djvu/514"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not"
           ]
         }
       },
@@ -10784,6 +13962,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 六四 / 0007册.djvu/514"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10806,6 +13987,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 九五 / 0007册.djvu/514"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10815,6 +14000,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 九五小象 / 0007册.djvu/514"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -10828,6 +14017,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 中孚 / 上九 / 0007册.djvu/515"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-xiong"
           ]
         },
         "smallImage": {
@@ -10852,6 +14044,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 小过 / 卦辞 / 0007册.djvu/515"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen",
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -10861,6 +14058,17 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 小过 / 彖曰 / 0007册.djvu/515"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen",
+        "glossary-shi-base",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-ji-base",
+        "glossary-gang-base",
+        "glossary-dewei-not",
+        "glossary-zhong-notmiddle"
       ]
     },
     "greatImage": {
@@ -10870,6 +14078,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 小过 / 整卦大象 / 0007册.djvu/516"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "山上有雷，小事谨慎。",
@@ -10895,6 +14106,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 初六 / 0007册.djvu/516"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -10904,6 +14118,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 初六小象 / 0007册.djvu/516"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -10917,6 +14134,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 六二 / 0007册.djvu/516"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -10939,6 +14159,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 九三 / 0007册.djvu/516"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -10948,6 +14171,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 九三小象 / 0007册.djvu/516"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         }
       },
@@ -10961,6 +14187,12 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 九四 / 0007册.djvu/516"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none",
+            "glossary-wang-base",
+            "glossary-li-danger-base",
+            "glossary-zhen-notlasting"
           ]
         },
         "smallImage": {
@@ -10970,6 +14202,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 九四小象 / 0007册.djvu/517"
             }
+          ],
+          "glossaryIds": [
+            "glossary-dewei-not",
+            "glossary-wang-base",
+            "glossary-li-danger-base"
           ]
         }
       },
@@ -11005,6 +14242,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 上六 / 0007册.djvu/518"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiong-base"
           ]
         },
         "smallImage": {
@@ -11014,6 +14254,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 小过 / 上六小象 / 0007册.djvu/518"
             }
+          ],
+          "glossaryIds": [
+            "glossary-kang-base"
           ]
         }
       }
@@ -11029,6 +14272,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 既济 / 卦辞 / 0007册.djvu/518"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen",
+        "glossary-ji-base"
       ]
     },
     "tuan": {
@@ -11038,6 +14286,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 既济 / 彖曰 / 0007册.djvu/518"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-zhen-lijhen",
+        "glossary-gang-base",
+        "glossary-rou-base",
+        "glossary-zheng-correct-base",
+        "glossary-dewei-base",
+        "glossary-ji-base",
+        "glossary-dezhong-base"
       ]
     },
     "greatImage": {
@@ -11047,6 +14305,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 既济 / 整卦大象 / 0007册.djvu/518"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "水在火上，成事思患。",
@@ -11072,6 +14333,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 初九 / 0007册.djvu/518"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {
@@ -11081,6 +14345,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 初九小象 / 0007册.djvu/519"
             }
+          ],
+          "glossaryIds": [
+            "glossary-jiu-none"
           ]
         }
       },
@@ -11103,6 +14370,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 六二小象 / 0007册.djvu/519"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhong-base"
           ]
         }
       },
@@ -11116,6 +14386,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 九三 / 0007册.djvu/519"
             }
+          ],
+          "glossaryIds": [
+            "glossary-xiaoren-base",
+            "glossary-wuyong-base"
           ]
         },
         "smallImage": {
@@ -11169,6 +14443,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 九五小象 / 0007册.djvu/520"
             }
+          ],
+          "glossaryIds": [
+            "glossary-shi-base",
+            "glossary-ji-base",
+            "glossary-lai-base"
           ]
         }
       },
@@ -11182,6 +14461,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 上六 / 0007册.djvu/520"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base"
           ]
         },
         "smallImage": {
@@ -11191,6 +14473,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 既济 / 上六小象 / 0007册.djvu/520"
             }
+          ],
+          "glossaryIds": [
+            "glossary-li-danger-base"
           ]
         }
       }
@@ -11206,6 +14491,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 未济 / 卦辞 / 0007册.djvu/520"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-li-nothing"
       ]
     },
     "tuan": {
@@ -11215,6 +14504,16 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 未济 / 彖曰 / 0007册.djvu/520–521"
         }
+      ],
+      "glossaryIds": [
+        "glossary-heng-base",
+        "glossary-rou-base",
+        "glossary-dezhong-base",
+        "glossary-zhong-inside",
+        "glossary-li-nothing",
+        "glossary-dewei-not",
+        "glossary-gang-base",
+        "glossary-ying-base"
       ]
     },
     "greatImage": {
@@ -11224,6 +14523,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
           "sourceId": "skqs-zhouyi-10-batch6",
           "locator": "卷10 / 未济 / 整卦大象 / 0007册.djvu/521"
         }
+      ],
+      "glossaryIds": [
+        "glossary-junzi-base"
       ]
     },
     "summary": "火在水上，审慎求成。",
@@ -11249,6 +14551,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 初六 / 0007册.djvu/521"
             }
+          ],
+          "glossaryIds": [
+            "glossary-lin-base"
           ]
         },
         "smallImage": {
@@ -11271,6 +14576,9 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 九二 / 0007册.djvu/521"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji"
           ]
         },
         "smallImage": {
@@ -11280,6 +14588,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 九二小象 / 0007册.djvu/521"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-zhong-base",
+            "glossary-zheng-correct-base"
           ]
         }
       },
@@ -11293,6 +14606,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 六三 / 0007册.djvu/521"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-li-river"
           ]
         },
         "smallImage": {
@@ -11302,6 +14620,11 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 六三小象 / 0007册.djvu/522"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zheng-base",
+            "glossary-xiong-base",
+            "glossary-dewei-not"
           ]
         }
       },
@@ -11315,6 +14638,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 九四 / 0007册.djvu/522"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-hui-gone"
           ]
         },
         "smallImage": {
@@ -11324,6 +14651,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 九四小象 / 0007册.djvu/522"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-hui-gone"
           ]
         }
       },
@@ -11337,6 +14668,13 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 六五 / 0007册.djvu/522"
             }
+          ],
+          "glossaryIds": [
+            "glossary-zhen-ji",
+            "glossary-ji-base",
+            "glossary-hui-none",
+            "glossary-junzi-base",
+            "glossary-fu-yes"
           ]
         },
         "smallImage": {
@@ -11346,6 +14684,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 六五小象 / 0007册.djvu/522"
             }
+          ],
+          "glossaryIds": [
+            "glossary-junzi-base",
+            "glossary-ji-base"
           ]
         }
       },
@@ -11359,6 +14701,10 @@ export const HEXAGRAM_CONTENT: readonly HexagramContent[] = [
               "sourceId": "skqs-zhouyi-10-batch6",
               "locator": "卷10 / 未济 / 上九 / 0007册.djvu/522"
             }
+          ],
+          "glossaryIds": [
+            "glossary-fu-yes",
+            "glossary-jiu-none"
           ]
         },
         "smallImage": {

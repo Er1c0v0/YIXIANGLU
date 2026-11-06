@@ -1,3 +1,4 @@
+import { annotations } from '../annotations'
 import { HEXAGRAMS, getHexagram } from '../../domain/hexagrams'
 import { getContent } from '../../data/repository'
 import { CastSession, HexagramMeta } from '../../domain/types'
@@ -5,7 +6,8 @@ import { endSession, isActiveSession, sessionRoute, startSession } from '../../s
 import { endReading, readReading, ReadingContext } from '../../state/reading'
 
 Page({
-  data: {
+  ...annotations,
+  data: { ...annotations.data,
     valid: false, id: 0, showAtlasLink: true, busy: false, error: '未找到该卦',
     filtered: false, previous: null as HexagramMeta | null, next: null as HexagramMeta | null,
     directoryOpen: false, directoryClosing: false,
@@ -36,7 +38,7 @@ Page({
   expire() {
     this.pendingSection = ''
     endSession(this.observation)
-    this.setData({ valid: false, directoryOpen: false, error: '本次查阅已失效，请返回图鉴' })
+    this.setData({ valid: false, ...annotations.data, directoryOpen: false, error: '本次查阅已失效，请返回图鉴' })
   },
   showHexagram(id: number, done?: () => void) {
     const meta = getHexagram(id)
@@ -45,12 +47,12 @@ Page({
       id, previous: index > 0 ? getHexagram(this.ids[index - 1]) : null,
       next: index < this.ids.length - 1 ? getHexagram(this.ids[index + 1]) : null,
       yaoItems: getContent(id)!.yao.map(item => ({ id: `yao-${item.position}`, label: item.label })),
-      specialLabel: id === 1 ? '用九' : id === 2 ? '用六' : '', directoryOpen: false,
+      ...annotations.data, specialLabel: id === 1 ? '用九' : id === 2 ? '用六' : '', directoryOpen: false,
     }, done)
     wx.setNavigationBarTitle({ title: meta.fullName })
   },
   switchHexagram(e: WechatMiniprogram.TouchEvent) {
-    if (!this.data.valid || this.data.busy || this.data.directoryOpen || this.data.directoryClosing) return
+    if (!this.data.valid || this.data.busy || this.data.directoryOpen || this.data.directoryClosing || this.data.annotationsOpen || this.data.annotationsClosing) return
     const direction = Number(e.currentTarget.dataset.direction)
     if (direction !== -1 && direction !== 1) return
     const target = direction === -1 ? this.data.previous : this.data.next
@@ -64,10 +66,13 @@ Page({
     })
   },
   openDirectory() {
-    if (!this.data.valid || this.data.busy || this.data.directoryClosing) return
+    if (!this.data.valid || this.data.busy || this.data.directoryClosing || this.data.annotationsOpen || this.data.annotationsClosing) return
     this.pendingSection = ''
     this.setData({ directoryOpen: true })
   },
+  closePanel() { if (this.data.annotationNotes.length) this.closeAnnotations(); else this.closeDirectory() },
+  panelLeaving() { if (this.data.annotationNotes.length) this.annotationsLeaving(); else this.directoryLeaving() },
+  panelLeft() { if (this.data.annotationNotes.length) this.annotationsLeft(); else this.directoryLeft() },
   closeDirectory() {
     this.pendingSection = ''
     this.setData({ directoryOpen: false, directoryClosing: true })
@@ -94,7 +99,7 @@ Page({
     })
   },
   observe() {
-    if (!this.data.valid || this.data.busy || this.data.directoryOpen || this.data.directoryClosing) return
+    if (!this.data.valid || this.data.busy || this.data.directoryOpen || this.data.directoryClosing || this.data.annotationsOpen || this.data.annotationsClosing) return
     this.setData({ busy: true })
     if (!isActiveSession(this.observation)) {
       this.observation = { mode: 'atlas', hexagramId: this.data.id, selected: [] }

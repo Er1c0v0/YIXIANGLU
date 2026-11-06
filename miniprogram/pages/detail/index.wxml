@@ -1,5 +1,6 @@
-<page-meta root-font-size="system" page-style="{{directoryOpen || directoryClosing ? 'overflow: hidden;' : ''}}" />
-<view class="page">
+<page-meta root-font-size="system" page-style="{{directoryOpen || directoryClosing || annotationsOpen || annotationsClosing ? 'overflow: hidden;' : ''}}" />
+<import src="../annotations.wxml" />
+<view class="page" bind:annotate="openAnnotations">
   <block wx:if="{{valid}}">
     <reading id="reading" hexagram-id="{{id}}" show-yao="{{true}}">
       <view slot="directory" id="directory-bar" class="directory-bar">
@@ -18,8 +19,9 @@
     <button class="primary" bindtap="atlas" hover-class="button-pressed" hover-stay-time="80">返回图鉴</button>
   </view>
 </view>
-<page-container show="{{directoryOpen}}" position="bottom" round bind:beforeleave="directoryLeaving" bind:afterleave="directoryLeft" bind:clickoverlay="closeDirectory">
-  <view class="directory-sheet" aria-role="dialog" aria-label="阅读目录" aria-modal="{{true}}">
+<page-container show="{{directoryOpen || annotationsOpen}}" position="bottom" round bind:beforeleave="panelLeaving" bind:afterleave="panelLeft" bind:clickoverlay="closePanel">
+  <template wx:if="{{annotationNotes.length}}" is="annotation-content" data="{{annotationNotes}}" />
+  <view wx:else class="directory-sheet" aria-role="dialog" aria-label="阅读目录" aria-modal="{{true}}">
     <view class="directory-header"><view class="section-title">阅读目录</view><button class="link" bindtap="closeDirectory" aria-label="关闭阅读目录" hover-class="button-pressed" hover-stay-time="80">关闭</button></view>
     <scroll-view class="directory-items" scroll-y>
       <button wx:for="{{sections}}" wx:key="id" class="directory-item" data-section="{{item.id}}" bindtap="chooseSection" hover-class="button-pressed" hover-stay-time="80">{{item.label}}</button>
